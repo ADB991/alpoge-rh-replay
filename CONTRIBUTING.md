@@ -19,6 +19,15 @@ modules that are the sole project import of more available tasks, then those
 with more available direct consumers. These counts describe the source graph.
 Use the displayed module ID to claim a single module.
 
+On a worker that has already built project modules, run
+`python3 tracker/tasks.py next --warm /path/to/replay-volume/lean`.
+It suggests unbuilt modules with at least one project import and local
+`.olean` files for the entire project import chain. It filters out occupied
+tasks and ranks candidates by how many available direct consumers would
+then have all their imports, breaking ties by cached direct imports and ID.
+Claim the suggested module on the usual queue and use the same volume for
+the build. Lake checks whether the objects are current when it builds.
+
 Choose a packet from the live suggestions or a single open module. See [Choosing a task](#choosing-a-task) below for how depth affects build cost and how to work a partially completed packet. Replace the sample identifier below with your selection.
 
 ```bash
@@ -114,6 +123,10 @@ The run prints its Lean version near the start of the cache step. If it still fa
 Begin a comment on your claim with `Replay submission` on its own first line. Include the task or packet ID, exit status, elapsed time, and links to the receipt and log. For a large bundle, attach it to a release on your fork and include its SHA-256 digest. Check logs for personal paths before publishing. The README credits you while your evidence is pending. Keep the claim open for review. Maintainers check the grant, pinned toolchain and inputs, exact target list, successful transcript, and artifact digests before marking a volunteer build complete. Reviewed receipts go in `evidence/volunteers/` and appear in the README and module ledger. Maintainers close accepted claims as completed. Any later reuse or kernel replay is recorded separately. If a build fails, include the first Lean error, file and line, resource limits, and reproduction command.
 
 The final acceptance record separately checks the standard RH proposition, its axiom dependencies and the fresh kernel replay of Main. Module receipts are evidence of partial progress.
+
+For work on new proofs, the [proof reuse example](examples/proof-reuse/README.md)
+includes a duplicate-proof scanner, two reusable Lean lemmas and a pinned
+compiler check against 33 archive declarations.
 
 ## Coordinator and cloud helpers
 
