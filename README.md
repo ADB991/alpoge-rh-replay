@@ -8,7 +8,7 @@ Levent Alpöge announced a Lean proof of the Riemann Hypothesis on November 20, 
 
 Current cloud progress is recorded in the [worker status report](STATUS.md).
 
-The [progress dashboard](dashboard/) shows module and packet completion. Its planned public address is `https://rohanarun.github.io/alpoge-rh-replay/` once a maintainer enables GitHub Pages and runs the [deployment workflow](.github/workflows/pages.yml). To view the bundled snapshot locally, run `python3 -m http.server 8000 --bind 127.0.0.1 --directory dashboard` from the repository root and open <http://127.0.0.1:8000/>.
+View module and packet completion on the [progress dashboard](https://rohanarun.github.io/alpoge-rh-replay/).
 
 ## Contributors
 
