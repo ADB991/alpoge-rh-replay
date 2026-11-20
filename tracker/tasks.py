@@ -131,7 +131,8 @@ def claims():
     return refs
 
 def run(targets,checkout,out,bundle,fast_bundle=False):
- project=checkout.resolve();output=out.resolve();output.mkdir(parents=True,exist_ok=False)
+ project=checkout.resolve();output=out.resolve()
+ if output.exists():raise SystemExit('Output directory already exists: '+str(output))
  dirs=project.parent
  env={**os.environ,'ELAN_HOME':str(dirs/'elan'),'XDG_CACHE_HOME':str(dirs/'cache')}
  toolchain = (project / 'lean-toolchain').read_text().strip()
@@ -143,6 +144,7 @@ def run(targets,checkout,out,bundle,fast_bundle=False):
  for r in targets:
   if digest(project/'src'/(r['module'].replace('.','/')+'.lean'))!=r['source_sha256']:raise SystemExit('Source hash mismatch: '+r['module'])
  cmd=['lake','build',*['+'+r['module']+':olean' for r in targets]]
+ output.mkdir(parents=True,exist_ok=False)
  log=output/'build.log'
  build=project/'.lake/build'
  started=datetime.datetime.now(datetime.timezone.utc);clock=time.monotonic()
