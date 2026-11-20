@@ -27,12 +27,7 @@ python3 tracker/tasks.py claim P0123
 
 The claim command opens a public issue. You can also open an issue manually with a title of the form `Claim P0123` or `Claim M000001`. Check for overlapping claims after submitting. Wait for the claim-granted label and matching bot comment before starting. A serialized workflow preserves existing valid grants and processes simultaneous new requests in issue-number order. Close a claim if you stop working on it. The snapshot states in the index describe coordinator progress at the recorded time. Open claim issues supply the live volunteer assignments. The coordinator's full run also continues in the background.
 
-### Renewable reservations
-
-If the grant bot posts a UTC deadline, a volunteer reservation lasts four hours. Reply on your claim with a progress update, blocker, or “still building” to renew for four hours from your reply. To renew several of your claims together, name each task ID or `#issue` in one reply. Post a new comment for each renewal. Post your `Replay submission` on its own claim to keep it open for review. If a reservation expires, you can file a fresh claim for work that is still available.
-
-The **Review volunteer claim deadlines** workflow runs every two hours and can also be dispatched on main. The repository variable `REPLAY_CLAIM_EXPIRY` controls rollout. The default `preview` lists candidate issues and their last activity plus four hours in the workflow log. Set `notice` to publish deadlines, including a fresh four-hour window for existing grants. Inspect the preview before setting `enforce`, which closes overdue claims as unplanned, labels them `claim-expired`, and runs claim reconciliation. Submitted claims and the repository owner’s coordinator reservations are exempt. The separate courtesy check-in remains once per person.
-
+The **Observe volunteer reservation times** workflow publishes a downloadable `claim-timing.tsv` every two hours. For each volunteer grant it measures wall time to the claimant’s first `Replay submission`, closure, or the current observation for an open claim. Open intervals are lower bounds. The longest silence column measures gaps between claimant comments on that issue, including time from grant and up to the observation endpoint. Work on a runner and updates posted on another issue can occur during those gaps. The workflow only reads claims.
 
 ## Choosing a task
 

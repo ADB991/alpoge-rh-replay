@@ -1,0 +1,26 @@
+name: Observe volunteer reservation times
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Measure grant and submission times
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tracker/claim_timing.py > claim-timing.tsv
+      - uses: actions/upload-artifact@v4
+        with:
+          name: claim-timing
+          path: claim-timing.tsv
+          if-no-files-found: error

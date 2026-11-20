@@ -42,10 +42,9 @@ class ClaimsGraphQL:
             claim: label(name:"claim") { id }
             granted: label(name:"claim-granted") { id }
             conflict: label(name:"claim-conflict") { id }
-            expired: label(name:"claim-expired") { id }
             issues(states:OPEN, first:30, after:$after) {
               pageInfo { endCursor hasNextPage }
-              nodes { id number title author { login __typename } labels(first:30) { nodes { name } }
+              nodes { id number title labels(first:30) { nodes { name } }
                       comments(last:30) { pageInfo { startCursor hasPreviousPage }
                                           nodes { %s } } }
             }
@@ -55,8 +54,6 @@ class ClaimsGraphQL:
         while True:
             data = self.query(query, owner=self.owner, repo=self.repo, after=after)['repository']
             self.labels = {name: data[key]['id'] for name, key in zip(LABELS, ('claim', 'granted', 'conflict'))}
-            if data.get('expired'):
-                self.labels['claim-expired'] = data['expired']['id']
             issue_page = data['issues']
             for issue in issue_page['nodes']:
                 labels = issue['labels']['nodes']
@@ -66,9 +63,7 @@ class ClaimsGraphQL:
                 number = issue['number']
                 url = f'https://api.github.com/repos/{self.owner}/{self.repo}/issues/{number}'
                 history = list(self.history(issue))
-                user = issue.get('author') or {}
-                self.issues[number] = {**issue, 'labels': labels, 'url': url, 'comments': len(history),
-                                       'user': user if user.get('__typename') == 'User' else {}}
+                self.issues[number] = {**issue, 'labels': labels, 'url': url, 'comments': len(history)}
                 self.comments.extend({
                     'id': comment['databaseId'], 'issue_url': url, 'body': comment['body'],
                     'user': {'login': 'github-actions[bot]'}
