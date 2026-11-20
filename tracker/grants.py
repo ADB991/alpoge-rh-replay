@@ -1,6 +1,7 @@
 """Reconcile mutually exclusive volunteer reservations from trusted main-branch code."""
 import json,os,re,sys,time,urllib.request,urllib.error
 from claim_comments import COMMENT_FEED, comments_by_issue
+from claim_expiry import EXPIRED, notice, utcnow, volunteer
 from tasks import load
 from collections import defaultdict
 def api(route,method='GET',body=None):
@@ -58,14 +59,21 @@ def reconcile(get_pages=None, mutate=None):
   win=bool(mods) and not mods.intersection(taken) and (existing_grant or not mods.intersection(reserved))
   if win:taken.update(mods)
   desired='claim-granted' if win else 'claim-conflict'
-  planned.append((i['number'],labels,target,desired))
- for number,labels,target,desired in planned:
+  planned.append((i,labels,target,desired))
+ for i,labels,target,desired in planned:
+  number = i['number']
+  if EXPIRED in labels:mutate(f'/issues/{number}/labels/{EXPIRED}','DELETE')
   other='claim-conflict' if desired=='claim-granted' else 'claim-granted'
   if other in labels:mutate(f'/issues/{number}/labels/{other}','DELETE')
- for number,labels,target,desired in planned:
+ for i,labels,target,desired in planned:
+  number = i['number']
   if desired not in labels or 'claim' not in labels:mutate(f'/issues/{number}/labels','POST',{'labels':['claim',desired]})
   if desired=='claim-granted' and (desired not in labels or prior.get(number)!=target):
-   mutate(f'/issues/{number}/comments','POST',{'body':f'Granted `{target}`. Begin this reservation. Attach your receipt and log to this issue, or close it to release the work.'})
+   message = f'Granted `{target}`. Begin this reservation. Attach your receipt and log to this issue, or close it to release the work.'
+   login = (i.get('user') or {}).get('login')
+   if os.environ.get('REPLAY_CLAIM_EXPIRY') in ('notice', 'enforce') and volunteer(login, os.environ['GITHUB_REPOSITORY']):
+    message += '\n\n' + notice(target, utcnow())
+   mutate(f'/issues/{number}/comments','POST',{'body':message})
   elif desired=='claim-conflict' and (desired not in labels or number not in conflicts):
    mutate(f'/issues/{number}/comments','POST',{'body':'No grant. This selection is unavailable or overlaps existing work. Close this issue and choose a new open module or packet with `python3 tracker/tasks.py next`.'})
 def rate_limit_delay(error, attempt):
