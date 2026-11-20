@@ -1,12 +1,13 @@
 """Report volunteer reservation timing from GitHub issue and comment timestamps."""
 
 import csv
+import json
 from datetime import datetime, timezone
 import os
 import re
 import sys
 
-from submissions import claim_snapshot
+from submissions import ROOT, claim_snapshot
 
 
 def seconds(start, end):
@@ -15,7 +16,7 @@ def seconds(start, end):
     return int((parse(end) - parse(start)).total_seconds())
 
 
-def observations(issues, histories, owner, observed_at):
+def observations(issues, histories, owner, observed_at, reviewed_comments=()):
     for issue in issues:
         author = issue.get('user') or {}
         login = author.get('login', '')
@@ -39,8 +40,10 @@ def observations(issues, histories, owner, observed_at):
             elif granted and not submitted and user.get('login', '').casefold() == login.casefold():
                 longest_gap = max(longest_gap, seconds(latest, when))
                 latest = when
-                if body.lstrip('\ufeff \t\r\n').partition('\n')[0].strip().casefold() == 'replay submission':
+                first_line = body.lstrip('\ufeff \t\r\n').partition('\n')[0].strip().casefold()
+                if first_line == 'replay submission' or comment.get('html_url') in reviewed_comments:
                     submitted = when
+                    break  # Later bot decisions cannot erase a completed reservation.
         if not granted:
             continue
         if submitted:
@@ -66,7 +69,8 @@ def report(repo, output):
     writer = csv.writer(output, delimiter='\t', lineterminator='\n')
     writer.writerow(('issue', 'target', 'claimant', 'state', 'granted_at', 'observed_until',
                      'elapsed_seconds', 'longest_claim_thread_silence_seconds'))
-    writer.writerows(observations(issues, histories, repo.split('/')[0], now))
+    reviewed = {json.loads(path.read_text())['claim'] for path in (ROOT / 'evidence/volunteers').glob('*.json')}
+    writer.writerows(observations(issues, histories, repo.split('/')[0], now, reviewed))
 
 
 if __name__ == '__main__':

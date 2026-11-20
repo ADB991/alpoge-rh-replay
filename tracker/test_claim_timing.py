@@ -22,6 +22,16 @@ class ClaimTimingTests(unittest.TestCase):
         rows = list(claim_timing.observations([packet], {434: events}, 'coordinator', '2026-11-20T22:00:00Z'))
         self.assertEqual(rows[0][3:], ('submitted', events[0]['created_at'], events[2]['created_at'], 9133, 9133))
 
+    def test_reviewed_legacy_submission_survives_later_bot_conflict(self):
+        claim = issue(1, 'P0012', 'claim-conflict')
+        receipt = dict(event(claim, 2, '16:20:04', 'Built all targets', 'owner'), html_url='receipt-url')
+        comments = [event(claim, 1, '16:13:40', 'Granted `P0012`.'), receipt,
+                    event(claim, 3, '16:25:25', 'No grant.')]
+        rows = list(claim_timing.observations([claim], {1: comments}, 'coordinator',
+                                              '2026-11-20T21:00:00Z', {'receipt-url'}))
+        self.assertEqual(rows[0][3], 'submitted')
+        self.assertEqual(rows[0][6], 384)
+
     def test_closed_and_open_intervals_and_regrant(self):
         claim = issue(1, 'P0001', 'claim-granted')
         events = [event(claim, 1, '08:00:00', 'Granted `P0001`.'),
