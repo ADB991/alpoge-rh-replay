@@ -19,15 +19,6 @@ modules that are the sole project import of more available tasks, then those
 with more available direct consumers. These counts describe the source graph.
 Use the displayed module ID to claim a single module.
 
-On a worker that has already built project modules, run
-`python3 tracker/tasks.py next --warm /path/to/replay-volume/lean`.
-It suggests unbuilt modules with at least one project import and local
-`.olean` files for the entire project import chain. It filters out occupied
-tasks and ranks candidates by how many available direct consumers would
-then have all their imports, breaking ties by cached direct imports and ID.
-Claim the suggested module on the usual queue and use the same volume for
-the build. Lake checks whether the objects are current when it builds.
-
 Choose a packet from the live suggestions or a single open module. See [Choosing a task](#choosing-a-task) below for how depth affects build cost and how to work a partially completed packet. Replace the sample identifier below with your selection.
 
 ```bash

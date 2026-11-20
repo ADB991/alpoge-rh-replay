@@ -63,9 +63,3 @@ elan run leanprover/lean4:v4.33.1 lake env python3 "$example/check.py" "$PWD"
 ```
 
 The checker verifies the compiler commit, the Mathlib revision and the source hashes of all 33 modules. It compiles the shared library in a fresh temporary directory and replays its declarations with `leanchecker ReplayTopology` against the imported Mathlib environment. For each recorded site it elaborates the original block and a second declaration with the same binder list and proposition whose proof calls the shared lemma. It checks the resulting axiom dependencies against `propext`, `Classical.choice` and `Quot.sound`. The JSON result reports the costs from Mathlib's `#count_heartbeats in`, with one compiler thread and asynchronous elaboration disabled. This check covers the extracted declarations in a common Mathlib environment. Whole-module replay receipts use the contributor build.
-
-## Repeated prerequisite builds in the official replay
-
-At tracker revision `c23dc3b`, 306 successful reviewed receipts recorded `rebuilt_project_modules` and had distinct log hashes. After counting each module once per log, those lists contained 5,202 builds of 4,044 distinct prerequisites. Of these, 882 prerequisites appeared in multiple logs, accounting for 1,158 builds beyond the first. For example, the build of `HeightProofs.PowEntryCommutator` appears in M065865, P1484, P1560 and P1574. The counts cover receipts with this field and reflect work on multiple machines. [Reviewed receipts at the measured revision](https://github.com/rohanarun/alpoge-rh-replay/tree/c23dc3bdb4adc9e702362b740facb0d2e0c970ca/evidence/volunteers)
-
-Agents with a prepared volume can use `python3 tracker/tasks.py next --warm "$volume/lean"` to find available modules whose whole project import chain already has local objects. Lake validates build traces when the granted task is built. [Contributor workflow](../../CONTRIBUTING.md#choose-and-claim-work)

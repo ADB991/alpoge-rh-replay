@@ -103,28 +103,6 @@ def packet_suggestions(rows, busy, include_partial=False):
     partial.sort(key=lambda e: (e[0]['depth'], -e[1], e[0]['packet']))
     return full, partial
 
-
-def warm_modules(rows, busy, checkout):
-    """Suggest unbuilt targets whose entire project import chain has local objects."""
-    lib = checkout / '.lake/build/lib/lean'
-    objects = {'.'.join(p.relative_to(lib).with_suffix('').parts)
-               for p in lib.rglob('*.olean') if p.is_file()}
-    ready = set()
-    candidates = []
-    unlocks = Counter()
-    for row in sorted(rows, key=lambda r: r['depth']):
-        missing = set(row['imports']).difference(ready)
-        if row['module'] in objects:
-            if not missing:
-                ready.add(row['id'])
-        elif row['state'] == 'open' and row['id'] not in busy and row['packet'] not in busy:
-            if not missing and row['imports']:
-                candidates.append(row)
-            elif len(missing) == 1:
-                unlocks[next(iter(missing))] += 1
-    candidates.sort(key=lambda r: (-unlocks[r['id']], -len(set(r['imports'])), r['id']))
-    return [(r, unlocks[r['id']]) for r in candidates]
-
 def open_issues():
     route = f'repos/{repo}/issues?state=open&per_page=100'
     cli = which('gh')
@@ -205,9 +183,7 @@ def run(targets,checkout,out,bundle,fast_bundle=False,*,project_modules=None):
 def main():
  p=argparse.ArgumentParser(description=__doc__);s=p.add_subparsers(dest='action',required=True)
  nx=s.add_parser('next');nx.add_argument('--limit',type=int,default=8)
- cache=nx.add_mutually_exclusive_group()
- cache.add_argument('--cold',action='store_true',help='show available individual modules with no project imports')
- cache.add_argument('--warm',type=Path,metavar='CHECKOUT',help='show individual modules whose project imports have local objects')
+ nx.add_argument('--cold',action='store_true',help='show available individual modules with no project imports')
  nx.add_argument('--include-partial',action='store_true',help='also list partially completed packets (up to --limit more) whose open modules can be claimed individually')
  for n in ['show','claim','build']:
   sub=s.add_parser(n);sub.add_argument('target')
@@ -215,8 +191,6 @@ def main():
    sub.add_argument('checkout',type=Path);sub.add_argument('output',type=Path);sub.add_argument('--bundle',action='store_true')
    sub.add_argument('--fast-bundle',action='store_true',help='write the same tar members with gzip level 1 for faster packaging')
  a=p.parse_args()
- if a.action=='next' and a.warm is not None and not (a.warm/'lean-toolchain').is_file():
-  nx.error('--warm expects the lean/ directory of a prepared checkout')
  if a.action=='build':
   project_modules=set()
   targets=select(module_rows(),a.target,project_modules=project_modules)
@@ -224,12 +198,6 @@ def main():
  rows=load()
  if a.action=='next':
   busy=claims()
-  if a.warm is not None:
-   ranked=warm_modules(rows,busy,a.warm)
-   if not ranked and a.limit>0:print('No available modules have a complete local project import chain. Try next --cold.')
-   for row,unlocks in ranked[:max(0,a.limit)]:
-    print(row['id'],row['packet'],row['module'],'cached direct imports',len(set(row['imports'])),'newly ready consumers',unlocks)
-   return 0
   if a.cold:
    for row,sole,direct in cold_modules(rows,busy)[:max(0,a.limit)]:
     print(row['id'],row['packet'],row['module'],'sole-project-import consumers',sole,'direct consumers',direct)
