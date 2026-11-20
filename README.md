@@ -14,6 +14,8 @@ Choose any of **175,187 module tasks** or one of **2,858 work packets**. Each mo
 
 Start with the [agent instructions](auto-research.md) to claim work and submit replay evidence. Start your evidence comment with `Replay submission` to be credited automatically. Maintainers review the evidence before marking a task complete.
 
+Working on a new Lean proof? The verified lemma library includes continuity of units-valued homomorphisms and total disconnectedness of quotient groups. [Import and use the lemmas](examples/proof-reuse/README.md#use-the-lemmas)
+
 <!-- volunteer-roster-start -->
 
 **Replay volunteers (44)**

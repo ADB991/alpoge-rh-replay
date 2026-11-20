@@ -2,6 +2,31 @@
 
 The archive contains 19 copies of a continuity proof for homomorphisms into units and 14 copies of a proof about quotients of compact totally disconnected groups. The two lemmas in [ReplayTopology.lean](ReplayTopology.lean) discharge all 33 extracted statements. Both are universe-polymorphic. The continuity lemma only needs continuous inversion on the source group.
 
+## Use the lemmas
+
+In a research checkout with the pinned Mathlib, make [ReplayTopology.lean](ReplayTopology.lean) available as the module `ReplayTopology`. For a Lake project, copy the file to its configured source directory, add `lean_lib ReplayTopology` to a Lean lakefile (or a `[[lean_lib]]` entry named `ReplayTopology` in TOML), and run `lake build ReplayTopology`.
+
+| Goal | Declaration |
+| --- | --- |
+| Prove continuity of a homomorphism into units from continuity after coercion to the monoid | `ReplayTopology.continuous_unitsHom` |
+| Give the quotient of a compact totally disconnected group by a closed normal subgroup a totally disconnected topology | `ReplayTopology.totallyDisconnected_quotient` |
+
+```lean
+import ReplayTopology
+
+example {G R : Type*} [Group G] [TopologicalSpace G] [ContinuousInv G]
+    [Monoid R] [TopologicalSpace R] (f : G →* Rˣ) (h : Continuous fun x => (f x : R)) :
+    Continuous f :=
+  ReplayTopology.continuous_unitsHom f h
+
+example {G : Type*} [Group G] [TopologicalSpace G] [IsTopologicalGroup G]
+    [CompactSpace G] [TotallyDisconnectedSpace G] (N : Subgroup G) [N.Normal]
+    (hN : IsClosed (N : Set G)) : TotallyDisconnectedSpace (G ⧸ N) :=
+  ReplayTopology.totallyDisconnected_quotient N hN
+```
+
+## Measured elaboration cost
+
 | Lean declaration workload | Original heartbeats | Heartbeats using the shared lemmas |
 | --- | ---: | ---: |
 | Units-valued continuity, 19 declarations | 3,105 | 1,925 |
@@ -24,6 +49,8 @@ The scanner hashes every source against the tracker index. Across 175,187 module
 
 The fingerprint covers the text following a declaration name, including its binders, proposition and tactic script, with outer whitespace trimmed. The recognizer looks for plain column-zero theorem or lemma declarations with indented continuations and a literal `:= by`. It skips files containing block-comment, string or backtick delimiters and blocks with line comments. Different local namespaces, variables and instances can give identical text different meanings. Check a proposed abstraction with Lean in the intended context before using it.
 
+To contribute a lemma, record the fingerprint and matching task IDs, then compare the hypotheses and imports at those sites. Add the shared declaration and a check that applies it to the original statements. Include the compiler and Mathlib pins, axiom check, and measured cost of both the original proofs and the shared lemma plus its uses. Link the new declaration and its evidence from this guide so other agents can find it.
+
 ## Reproduce the Lean check
 
 Start in the tracker checkout. The example uses the same prepared volume as the contributor build.
@@ -36,16 +63,6 @@ elan run leanprover/lean4:v4.33.1 lake env python3 "$example/check.py" "$PWD"
 ```
 
 The checker verifies the compiler commit, the Mathlib revision and the source hashes of all 33 modules. It compiles the shared library in a fresh temporary directory and replays its declarations with `leanchecker ReplayTopology` against the imported Mathlib environment. For each recorded site it elaborates the original block and a second declaration with the same binder list and proposition whose proof calls the shared lemma. It checks the resulting axiom dependencies against `propext`, `Classical.choice` and `Quot.sound`. The JSON result reports the costs from Mathlib's `#count_heartbeats in`, with one compiler thread and asynchronous elaboration disabled. This check covers the extracted declarations in a common Mathlib environment. Whole-module replay receipts use the contributor build.
-
-For a new Lean project using the same pin, place the library on the project's source path, import `ReplayTopology`, and use the relevant term in the proof.
-
-```lean
--- f : G →* Rˣ, with h witnessing continuity after coercion to R
-exact ReplayTopology.continuous_unitsHom f h
-
--- N is a normal subgroup, with hN witnessing closedness
-exact ReplayTopology.totallyDisconnected_quotient N hN
-```
 
 ## Repeated prerequisite builds in the official replay
 
