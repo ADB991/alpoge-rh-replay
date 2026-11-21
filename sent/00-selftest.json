@@ -1,0 +1,9 @@
+{
+ "request_file": "00-selftest.json",
+ "processed_at": "2026-11-21T22:11:51Z",
+ "request": {
+  "type": "selftest"
+ },
+ "ok": false,
+ "error": "unknown request type 'selftest'"
+}
