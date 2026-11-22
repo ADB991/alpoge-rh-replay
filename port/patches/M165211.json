@@ -1,0 +1,7 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PScalarQuotient",
+  "source_sha256": "172e6beee8ae8323a166fc4e46d5e1b3933e4483845240ab33e36fe97ade1b95",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff_add is protected; qualify it in the proof of classNum_add. Proof-only change; no statements, definitions or instances changed."
+}
