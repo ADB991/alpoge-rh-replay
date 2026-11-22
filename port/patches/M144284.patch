@@ -1,0 +1,25 @@
+--- a/src/Formalism/DoubleCosetMeasures/Statement.lean
++++ b/src/Formalism/DoubleCosetMeasures/Statement.lean
+@@ -279,7 +279,21 @@
+ def BB (R : Subring K) (s : List ℕ) (t : ℕ → Kˣ) (ψ : AddChar K ℂ) (C : Type) [AddCommGroup C]
+     [Module R C] (e : C) (lam : C →ₗ[R] KR R) (μ₁ : Measure (lowW K s t))
+     (μ₂ : Measure (upUniG K s.sum)) : ℂ :=
+-  ∫ p, phi R s t ψ C e lam p ∂(μ₁.prod μ₂)
++  let κ : lowW K s t → Measure (lowW K s t × upUniG K s.sum) :=
++    fun x => μ₂.map (Prod.mk x)
++  ∫ p, phi R s t ψ C e lam p ∂(
++    @ite (Measure (lowW K s t × upUniG K s.sum)) (AEMeasurable κ μ₁)
++      (Classical.propDecidable (AEMeasurable κ μ₁)) (μ₁.bind κ) 0)
++
++/-- On s-finite second factors, the pinned product agrees with the target product. -/
++theorem BB_eq_prod_of_sfinite (R : Subring K) (s : List ℕ) (t : ℕ → Kˣ) (ψ : AddChar K ℂ)
++    (C : Type) [AddCommGroup C] [Module R C] (e : C) (lam : C →ₗ[R] KR R)
++    (μ₁ : Measure (lowW K s t)) (μ₂ : Measure (upUniG K s.sum)) [SFinite μ₂] :
++    BB R s t ψ C e lam μ₁ μ₂ = ∫ p, phi R s t ψ C e lam p ∂(μ₁.prod μ₂) := by
++  classical
++  have hκ : AEMeasurable (fun x : lowW K s t => μ₂.map (Prod.mk x)) μ₁ :=
++    Measurable.map_prodMk_left.aemeasurable
++  simp only [BB, ite_eq_left hκ, Measure.prod_eq_of_sfinite]
+ 
+ end Integral
+ 

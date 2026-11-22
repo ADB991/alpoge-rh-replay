@@ -1,0 +1,11 @@
+--- a/src/Formalism/DoubleCosetMeasures/LowerUnipotentOrbits/IsOpenIsIntSet.lean
++++ b/src/Formalism/DoubleCosetMeasures/LowerUnipotentOrbits/IsOpenIsIntSet.lean
+@@ -97,7 +97,7 @@
+     (intSub R (upUniG K s.sum)) (isOpen_intSub R hR _) (isOpen_intSub R hR _) ℂ
+     (phi R s t ψ C e lam) (phi_inv hII hIso hSA R s t ψ hψ C e lam) hcs
+   refine ⟨h.1, ?_⟩
+-  rw [BB, h.2]
++  rw [BB_eq_prod_of_sfinite, h.2]
+   congr 1
+ 
+ theorem bbNorm_of : BBFinite → BBNorm := by
