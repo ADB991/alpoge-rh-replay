@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099318 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtFormalTorsion` | build-observed |
+| M099319 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtOrigin` | build-observed |
+| M099322 | P0796 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuesNatural` | wave-reused |
 | M099323 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPull` | build-observed |
 | M099324 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPw` | build-observed |
 | M099325 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPwOfAffineLoci` | build-observed |
@@ -399,6 +402,3 @@
 | M099954 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointArithmeticGroupInvariantSig` | volunteer-build-reviewed |
 | M099956 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointTriangularFrameWeightRule` | volunteer-build-reviewed |
 | M099958 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedPointsSatisfySingleFrame` | build-observed |
-| M099962 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NsmulIntegralMemNhdsZero` | build-observed |
-| M099965 | P1044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjIsAbelianSchemeDimRigidifiedSym` | build-observed |
-| M099966 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjMapIdCompCancel` | wave-reused |

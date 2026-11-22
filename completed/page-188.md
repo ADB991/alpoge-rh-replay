@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124555 | P1074 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernClassOnThickenings` | build-observed |
+| M124556 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernThickeningMuBOfIsFirstChernDeRham` | wave-reused |
+| M124557 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFractionRingInteger` | volunteer-build-reviewed |
+| M124558 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFundamentalDomainRangeProdMap` | volunteer-build-reviewed |
+| M124559 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGenericOfInjective` | volunteer-build-reviewed |
+| M124560 | P1262 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGradedMapGlueD` | build-observed |
+| M124562 | P1579 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsHermRingRat` | volunteer-build-reviewed |
 | M124564 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntZero` | volunteer-build-reviewed |
 | M124565 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalization` | volunteer-build-reviewed |
 | M124566 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalizationStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M125369 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOneStatement` | volunteer-build-reviewed |
 | M125370 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSum` | volunteer-build-reviewed |
 | M125371 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSumStatement` | volunteer-build-reviewed |
-| M125372 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormula` | volunteer-build-reviewed |
-| M125373 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormulaStatement` | volunteer-build-reviewed |
-| M125374 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedVolume` | volunteer-build-reviewed |
-| M125375 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedVolumeStatement` | volunteer-build-reviewed |
-| M125376 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadical` | volunteer-build-reviewed |
-| M125377 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadicalStatement` | volunteer-build-reviewed |
-| M125380 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierCosetIndValBall` | volunteer-build-reviewed |

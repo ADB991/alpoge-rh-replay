@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096925 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepth` | volunteer-build-reviewed |
+| M096926 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepthStatement` | volunteer-build-reviewed |
+| M096927 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDivEqZeroOfMatRepUnipotentFixed` | build-observed |
 | M096928 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowGrpEq` | volunteer-build-reviewed |
 | M096929 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowLevelMatchAtOfLevelConjugation` | volunteer-build-reviewed |
 | M096931 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateLast` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M097458 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumDiagOrderEqOfIntegralTranslateIndicatorRelati` | volunteer-build-reviewed |
 | M097460 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumEqZeroOfMultilin` | volunteer-build-reviewed |
 | M097461 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumFourSwap` | volunteer-build-reviewed |
-| M097467 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdPartialEqZero` | volunteer-build-reviewed |
-| M097468 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroup` | volunteer-build-reviewed |
-| M097469 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroupStatement` | volunteer-build-reviewed |

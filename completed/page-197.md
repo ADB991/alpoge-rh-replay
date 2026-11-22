@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130919 | P0597 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFlagDegreeStatement` | build-observed |
+| M130922 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGlobalNefBound` | volunteer-build-reviewed |
+| M130923 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGlobalNefBoundStatement` | volunteer-build-reviewed |
+| M130924 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGoodReductionDegree` | volunteer-build-reviewed |
+| M130925 | P2552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGoodReductionDegreeStatement` | volunteer-build-reviewed |
+| M130928 | P0771 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorGeneric` | build-observed |
+| M130929 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorGenericStatement` | volunteer-build-reviewed |
 | M130930 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorIff` | build-observed |
 | M130931 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorIffStatement` | volunteer-build-reviewed |
 | M130932 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptIsoCompare` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M131581 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelFibresPowerFree` | wave-reused |
 | M131583 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamily` | volunteer-build-reviewed |
 | M131584 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamilyStatement` | volunteer-build-reviewed |
-| M131586 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverDvrExtensionStatement` | volunteer-build-reviewed |
-| M131587 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverRamifiedExtension` | volunteer-build-reviewed |
-| M131588 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverRamifiedExtensionStatement` | volunteer-build-reviewed |
-| M131589 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelSmallSectionsMul` | volunteer-build-reviewed |
-| M131590 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelSmallSectionsMulStatement` | volunteer-build-reviewed |
-| M131596 | P0456 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MonoLinesLineSmooth` | wave-reused |
-| M131597 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MulMemSqOfSmulEqZero` | volunteer-build-reviewed |

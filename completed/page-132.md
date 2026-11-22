@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093944 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponentsStatement` | volunteer-build-reviewed |
+| M093949 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLe` | volunteer-build-reviewed |
 | M093950 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLeStatement` | volunteer-build-reviewed |
 | M093952 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteClassesRationalIsometriesBoundedDenominatoStatement` | volunteer-build-reviewed |
 | M093953 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottom` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M094454 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegralStatement` | volunteer-build-reviewed |
 | M094459 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodProjectorLevelMultiplicitySpaceMemGoodRows` | volunteer-build-reviewed |
 | M094460 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtension` | volunteer-build-reviewed |
-| M094461 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtensionStatement` | volunteer-build-reviewed |
-| M094462 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluation` | volunteer-build-reviewed |

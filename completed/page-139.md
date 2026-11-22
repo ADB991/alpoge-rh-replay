@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097467 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdPartialEqZero` | volunteer-build-reviewed |
+| M097468 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroup` | volunteer-build-reviewed |
+| M097469 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroupStatement` | volunteer-build-reviewed |
 | M097472 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumPureMemAlgD` | volunteer-build-reviewed |
 | M097474 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumQuotientIntegerMatricesInvariantIntegralGLMulStatement` | volunteer-build-reviewed |
 | M097475 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumReImAddSmul` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M098099 | P1410 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupAdelicClassesViaFiniteAdelicPart` | volunteer-build-reviewed |
 | M098101 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupCommutantScalars` | volunteer-build-reviewed |
 | M098105 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinates` | build-observed |
-| M098106 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinatesStatement` | build-observed |
-| M098108 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIdeleCharEqProdLocOfTameAtStatement` | volunteer-build-reviewed |
-| M098109 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlace` | volunteer-build-reviewed |

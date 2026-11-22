@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M105527 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.IndAutCs` | volunteer-build-reviewed |
+| M105528 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.PolMix` | volunteer-build-reviewed |
+| M105529 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDec` | volunteer-build-reviewed |
+| M105530 | P2679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDecAlt` | volunteer-build-reviewed |
 | M105531 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.UnrOfIne` | volunteer-build-reviewed |
 | M105533 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.AdmCusp` | volunteer-build-reviewed |
 | M105534 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.AdmissibleCuspFormsFinite` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M106006 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.GeometricTraces.LcLev` | volunteer-build-reviewed |
 | M106007 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.GeometricTraces.LevInd` | volunteer-build-reviewed |
 | M106008 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.GeometricTraces.OffSec` | volunteer-build-reviewed |
-| M106009 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.GeometricTraces.RCountAt` | volunteer-build-reviewed |
-| M106011 | P2775 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.GeometricTraces.RelIndexGlobNe` | volunteer-build-reviewed |
-| M106012 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.AbsCoreA` | volunteer-build-reviewed |
-| M106013 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.AbsGlobA` | volunteer-build-reviewed |

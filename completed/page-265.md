@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171412 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInhab` | wave-reused |
+| M171413 | P0579 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInt` | wave-reused |
+| M171414 | P0512 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeIntA` | wave-reused |
+| M171415 | P0546 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeIntB` | wave-reused |
+| M171416 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeSheets` | wave-reused |
+| M171417 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.FubiniStudyPotentialProductIsPotential` | volunteer-build-reviewed |
+| M171418 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCEqZeroOfEventuallyEqZero` | wave-reused |
+| M171419 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCIsHermitian` | wave-reused |
+| M171420 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HomogeneousLiftHolomorphicOnSnd` | volunteer-build-reviewed |
 | M171421 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport` | wave-reused |
 | M171422 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegralIoiFsDensRadial` | wave-reused |
 | M171423 | P0645 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsCompatChartChart` | wave-reused |
@@ -393,12 +402,3 @@
 | M171879 | P0233 | `ReciprocityTheory.DualLattices.ValuationFourierLeOne` | wave-reused |
 | M171880 | P0342 | `ReciprocityTheory.DualLattices.ValuationPairwiseDifferenceProductPowLeColengthS` | wave-reused |
 | M171881 | P0233 | `ReciprocityTheory.DualLattices.VdetLeOfSpanLe` | wave-reused |
-| M171883 | P0513 | `ReciprocityTheory.DualLattices.WdetDegreeOfSmithRestrict` | wave-reused |
-| M171884 | P0168 | `ReciprocityTheory.DualLattices.WedgeNeZeroOfLinearIndependent` | wave-reused |
-| M171885 | P0290 | `ReciprocityTheory.DualLattices.WtGtRowSubstXSub` | volunteer-build-reviewed |
-| M171886 | P0233 | `ReciprocityTheory.DualLattices.ZmodTrichotomy` | wave-reused |
-| M171887 | P0168 | `ReciprocityTheory.EigenFrames.EigenPf` | volunteer-build-reviewed |
-| M171888 | P0090 | `ReciprocityTheory.EigenFrames.EigenSt` | volunteer-build-reviewed |
-| M171889 | P0290 | `ReciprocityTheory.GaloisValuations.ArithOfA` | build-observed |
-| M171890 | P0168 | `ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient` | wave-reused |
-| M171891 | P0233 | `ReciprocityTheory.GaloisValuations.Global` | wave-reused |

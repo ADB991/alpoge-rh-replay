@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148779 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.CharacterFiniteLevelZeroOfForms` | build-observed |
+| M148780 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplementSmulLocalExtensionMatrix` | build-observed |
+| M148781 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplexSpanBlockActionStable` | build-observed |
+| M148782 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.DiamondCommDistinctPlaces` | build-observed |
+| M148783 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.EqOneOfCoprimeTorsionTwoPrimes` | build-observed |
+| M148784 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.GroupActionMulSingleEqDilation` | build-observed |
+| M148785 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.LocalDiamondOfSplitIdempotent` | build-observed |
+| M148787 | P1318 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.MetricDisjointSupportOrthogonal` | build-observed |
+| M148789 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PSplitT` | build-observed |
 | M148790 | P1345 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PolynomialFunctionFrameTranslate` | build-observed |
 | M148791 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PowSmulLatticeLeWeightLatticeTop` | build-observed |
 | M148792 | P1368 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeFormulaOfCharacterFinite` | build-observed |
@@ -393,12 +402,3 @@
 | M149284 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.EigSumLeComapSemi` | build-observed |
 | M149285 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.EigenDecomposition` | build-observed |
 | M149286 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfMemRangeAdjoint` | build-observed |
-| M149287 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfRangeAdjoint` | build-observed |
-| M149288 | P1441 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfVec` | volunteer-build-reviewed |
-| M149289 | P1164 | `Formalism.LocalToGlobal.IndefiniteReal.EquivFunOM` | build-observed |
-| M149290 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.EvTieP` | build-observed |
-| M149292 | P1468 | `Formalism.LocalToGlobal.IndefiniteReal.EvalTieTOne` | build-observed |
-| M149293 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsChosenExtremalVector` | build-observed |
-| M149295 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsStrictHenselianAbsolutelyClosedLocalRing` | build-observed |
-| M149296 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsSumOfMemISup` | build-observed |
-| M149298 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FWExist` | build-observed |

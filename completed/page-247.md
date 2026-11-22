@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161264 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DisplayedInequalitySharpHalf` | build-observed |
+| M161265 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ErrorExponentBelowOnesFalse` | build-observed |
+| M161266 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem` | build-observed |
+| M161267 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsOrthonormalFrameComplement` | build-observed |
+| M161268 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation` | build-observed |
+| M161269 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.IntersectionFailsForSubmodule` | build-observed |
+| M161270 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.JointDModelAppliesUnitLattice` | build-observed |
+| M161271 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence` | build-observed |
+| M161272 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LipschitzWeightAndMinimum` | build-observed |
 | M161273 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LocalizationStructureHolds` | build-observed |
 | M161274 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.OneLeThresholdMulPowers` | build-observed |
 | M161275 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PBrDiv` | build-observed |
@@ -393,12 +402,3 @@
 | M161663 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ExpansionsAtPlaces` | build-observed |
 | M161664 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FinsuppStepInduction` | build-observed |
 | M161665 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FrobeniusPartialCoboundaryBound` | build-observed |
-| M161666 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.GaussElementarySymmetric` | build-observed |
-| M161667 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.IntegralPderivLgF` | wave-reused |
-| M161668 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.KOneConsequenceOf` | build-observed |
-| M161669 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LemmaTwoOf` | wave-reused |
-| M161670 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LocalComponentGL` | wave-reused |
-| M161671 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LogarithmEquivalence` | wave-reused |
-| M161672 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MPlaces` | build-observed |
-| M161673 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MinorProdBlockDegree` | build-observed |
-| M161674 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLeOfDvd` | build-observed |

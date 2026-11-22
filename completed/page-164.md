@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111924 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCo` | volunteer-build-reviewed |
+| M111925 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCoLift` | volunteer-build-reviewed |
+| M111926 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCommon` | volunteer-build-reviewed |
+| M111927 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCore` | volunteer-build-reviewed |
+| M111928 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetMem` | volunteer-build-reviewed |
+| M111929 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetOne` | volunteer-build-reviewed |
+| M111930 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetRingS` | volunteer-build-reviewed |
 | M111931 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetSpan` | volunteer-build-reviewed |
 | M111932 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetSplit` | volunteer-build-reviewed |
 | M111933 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetUnit` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M112394 | P2745 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.InertCharpoly.GaloisLocalGlobalOfLocalGlobalCompatibility` | volunteer-build-reviewed |
 | M112396 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.CharOfZeta` | volunteer-build-reviewed |
 | M112398 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.HtCocharOf` | volunteer-build-reviewed |
-| M112399 | P2062 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.InsideRefl` | volunteer-build-reviewed |
-| M112400 | P2686 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.MainFin` | volunteer-build-reviewed |
-| M112401 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PAlgOfFix` | volunteer-build-reviewed |
-| M112402 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCharOfZeta` | volunteer-build-reviewed |
-| M112403 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCoverIn` | volunteer-build-reviewed |
-| M112404 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCplMem` | volunteer-build-reviewed |
-| M112405 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDGenMul` | volunteer-build-reviewed |

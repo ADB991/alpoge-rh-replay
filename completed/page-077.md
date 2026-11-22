@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052673 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceTypePrimeDescriptionStatement` | volunteer-build-reviewed |
 | M052674 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBaseP` | volunteer-build-reviewed |
 | M052675 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBasePStatement` | volunteer-build-reviewed |
 | M052676 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRank` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M053340 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataCm` | volunteer-build-reviewed |
 | M053341 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataConjugate` | volunteer-build-reviewed |
 | M053342 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataConjugateStatement` | volunteer-build-reviewed |
-| M053345 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactors` | build-observed |

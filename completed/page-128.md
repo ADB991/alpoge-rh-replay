@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091349 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOfSameRatios` | build-observed |
+| M091350 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOneOfTranslationKeepsRatios` | wave-reused |
 | M091357 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharacters` | build-observed |
 | M091358 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharactersStatement` | build-observed |
 | M091359 | P0623 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusProjPeriodZeroEqReal` | build-observed |
@@ -400,5 +402,3 @@
 | M092072 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslateStatement` | volunteer-build-reviewed |
 | M092075 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedDownIsTameThetaFunctional` | volunteer-build-reviewed |
 | M092077 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuous` | volunteer-build-reviewed |
-| M092078 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuousStatement` | volunteer-build-reviewed |
-| M092079 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthData` | volunteer-build-reviewed |

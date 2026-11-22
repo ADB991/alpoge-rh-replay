@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157342 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PsiInclR` | build-observed |
+| M157343 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.Reduce` | build-observed |
+| M157344 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.SigRTmulOne` | build-observed |
+| M157345 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.TcoordBound` | build-observed |
+| M157346 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfDeep` | build-observed |
+| M157347 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfHerm` | build-observed |
+| M157348 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfOpen` | build-observed |
+| M157349 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UnitaryClassMass` | build-observed |
+| M157351 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.ExistsUnitReal` | volunteer-build-reviewed |
 | M157352 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.SubmatrixMemUnitaryGroup` | volunteer-build-reviewed |
 | M157353 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.Transfer` | volunteer-build-reviewed |
 | M157354 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.TransferStep` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M157823 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightProdLeadingMinors` | wave-reused |
 | M157824 | P0697 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightShiftEqDetMul` | wave-reused |
 | M157825 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightSuccessive` | wave-reused |
-| M157826 | P0912 | `Formalism.PieriBlockIdeals.PieriColumnMinors.IrreducibleGeneration` | wave-reused |
-| M157827 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointCorollaryFiveBound` | wave-reused |
-| M157828 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointExactExponentStopHigh` | wave-reused |
-| M157829 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LabelSumNeedsLeFalse` | wave-reused |
-| M157830 | P1051 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LargeParameterEstimates` | wave-reused |
-| M157831 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LastGradedImpliesOneBlock` | wave-reused |
-| M157832 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LemmaDSkeletonFour` | wave-reused |
-| M157833 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LocalComponentGL` | wave-reused |
-| M157834 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LogarithmEquivalence` | wave-reused |

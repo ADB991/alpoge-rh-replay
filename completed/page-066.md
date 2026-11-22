@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044892 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeIntersectionNumberSubvarietyThroughPositive` | volunteer-build-reviewed |
 | M044894 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdeal` | volunteer-build-reviewed |
 | M044899 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapAtFittedPoints` | volunteer-build-reviewed |
 | M044902 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapOfOfExtends` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M045540 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrame` | wave-reused |
 | M045541 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrameStatement` | wave-reused |
 | M045542 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlas` | wave-reused |
-| M045543 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlasStatement` | wave-reused |

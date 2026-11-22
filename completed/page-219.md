@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146719 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorRepresentations` | wave-reused |
+| M146720 | P0858 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorsCommuteTranslations` | build-observed |
+| M146721 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OppositeWeylSubgroupClosed` | wave-reused |
+| M146722 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbConvDDOfDecDD` | build-observed |
+| M146723 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbJConvCpt` | build-observed |
+| M146725 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitTailEstimates` | wave-reused |
+| M146726 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralAeConvergenceContinuity` | wave-reused |
+| M146727 | P0212 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralConvergesAbs` | wave-reused |
+| M146728 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralIdentities` | build-observed |
 | M146729 | P0461 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralReduction` | build-observed |
 | M146730 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalMeasurabilityWeakThreshold` | build-observed |
 | M146731 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrderChainWeights` | build-observed |
@@ -393,12 +402,3 @@
 | M147321 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.ProdRangeEqFactorialMulProdIco` | wave-reused |
 | M147322 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Series` | build-observed |
 | M147323 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPExp` | wave-reused |
-| M147324 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPJet` | wave-reused |
-| M147325 | P0069 | `Formalism.IncomingBounds.FrobOrbitPeriod` | build-observed |
-| M147326 | P0069 | `Formalism.IncomingBounds.IncomingBound` | wave-reused |
-| M147327 | P0148 | `Formalism.IncomingBounds.IndexLastStep` | build-observed |
-| M147328 | P0213 | `Formalism.IncomingBounds.LemmaMNumerics` | wave-reused |
-| M147329 | P0148 | `Formalism.IncomingBounds.LevelTail` | wave-reused |
-| M147330 | P0148 | `Formalism.IncomingBounds.StatementThmP` | wave-reused |
-| M147331 | P0213 | `Formalism.IncomingBounds.ValuationWindowImpliesOriginal` | wave-reused |
-| M147332 | P0327 | `Formalism.IncomingBounds.WeightIdentities` | build-observed |

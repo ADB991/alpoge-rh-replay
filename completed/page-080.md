@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054803 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisation` | volunteer-build-reviewed |
 | M054804 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisationStatement` | volunteer-build-reviewed |
 | M054807 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricAction` | volunteer-build-reviewed |
 | M054808 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricActionStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M055505 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionHermitianFunction` | volunteer-build-reviewed |
 | M055506 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionHermitianFunctionStatement` | volunteer-build-reviewed |
 | M055507 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPoint` | volunteer-build-reviewed |
-| M055508 | P2761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPointStatement` | volunteer-build-reviewed |

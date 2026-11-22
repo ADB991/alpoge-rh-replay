@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154191 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPow` | build-observed |
+| M154192 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowD` | build-observed |
+| M154193 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowDefs` | build-observed |
+| M154194 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertQRG` | build-observed |
+| M154195 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.LiftMatMapSame` | build-observed |
+| M154196 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.LocSplitChiOf` | build-observed |
+| M154197 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQEqOneOfMemNormalizer` | build-observed |
+| M154198 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQOneOfClosure` | build-observed |
+| M154199 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Partial` | build-observed |
 | M154200 | P0722 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Reduce` | build-observed |
 | M154201 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitGL` | build-observed |
 | M154202 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitIso` | build-observed |
@@ -393,12 +402,3 @@
 | M154682 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LocalModelsSplitCofinite` | build-observed |
 | M154683 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MassConstUniqueOne` | volunteer-build-reviewed |
 | M154684 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MemSmulLatCoord` | build-observed |
-| M154685 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NMPseudoOf` | build-observed |
-| M154686 | P1833 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NormMMOfJD` | build-observed |
-| M154687 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFDefs` | build-observed |
-| M154688 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepAll` | build-observed |
-| M154689 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepFin` | build-observed |
-| M154690 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepFinal` | build-observed |
-| M154691 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepGood` | build-observed |
-| M154692 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepRank` | build-observed |
-| M154693 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepTop` | build-observed |

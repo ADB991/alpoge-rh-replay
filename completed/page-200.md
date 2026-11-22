@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133047 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLattice` | volunteer-build-reviewed |
+| M133048 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLatticeStatement` | volunteer-build-reviewed |
+| M133049 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameHermitianProduct` | volunteer-build-reviewed |
+| M133050 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameHermitianProductStatement` | build-observed |
+| M133051 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameInverseProperties` | volunteer-build-reviewed |
+| M133052 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameInversePropertiesStatement` | volunteer-build-reviewed |
+| M133053 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalent` | volunteer-build-reviewed |
+| M133054 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalentStatement` | volunteer-build-reviewed |
 | M133056 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdjacentSwapHeightPolynomialRelation` | volunteer-build-reviewed |
 | M133059 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AemeasurableCxPosDensityStatement` | volunteer-build-reviewed |
 | M133060 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AevalNeZeroOfNotMem` | wave-reused |
@@ -394,11 +402,3 @@
 | M133648 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGiven` | volunteer-build-reviewed |
 | M133649 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGivenStatement` | volunteer-build-reviewed |
 | M133652 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentity` | volunteer-build-reviewed |
-| M133653 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentityStatement` | volunteer-build-reviewed |
-| M133654 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelHeightLowerEstimate` | volunteer-build-reviewed |
-| M133658 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointInMultiprojectivePoints` | build-observed |
-| M133659 | P1161 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointInMultiprojectivePointsStatement` | build-observed |
-| M133660 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointTriangularChangeOrbit` | build-observed |
-| M133661 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointTriangularChangeOrbitStatement` | build-observed |
-| M133662 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointsIntegralProductFormula` | volunteer-build-reviewed |
-| M133664 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecomposition` | volunteer-build-reviewed |

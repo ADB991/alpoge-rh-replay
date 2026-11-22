@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042064 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingAction` | volunteer-build-reviewed |
 | M042065 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingActionStatement` | volunteer-build-reviewed |
 | M042066 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExist` | volunteer-build-reviewed |
 | M042067 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExistStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M042757 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesFirstStatement` | volunteer-build-reviewed |
 | M042759 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThird` | volunteer-build-reviewed |
 | M042760 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThirdStatement` | volunteer-build-reviewed |
-| M042761 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerDescentAdaptedPlane` | volunteer-build-reviewed |

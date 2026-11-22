@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152194 | P1369 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.CellConvergence` | build-observed |
+| M152195 | P1268 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.ClosedExistsOfCompact` | build-observed |
+| M152196 | P1295 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.EtEquiv` | build-observed |
+| M152197 | P1240 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.FlagStabClosed` | build-observed |
+| M152198 | P1346 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.GrowthSide` | build-observed |
+| M152199 | P0071 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.KeyBound` | build-observed |
+| M152200 | P1165 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.MsetOfClosed` | build-observed |
+| M152201 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.OrbitIdentity` | build-observed |
+| M152202 | P1320 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.PairMajInv` | build-observed |
 | M152203 | P1189 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.PairMeasBad` | build-observed |
 | M152205 | P1641 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ConcreteSettingExists` | build-observed |
 | M152207 | P1268 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ConstPinOfStd` | build-observed |
@@ -393,12 +402,3 @@
 | M152756 | P0503 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.SimeqPadicIntegers` | wave-reused |
 | M152757 | P1320 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.Th0TwoAnalyticOf` | build-observed |
 | M152758 | P1391 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.ThetaZeroTwoComplexMult` | build-observed |
-| M152759 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoAdicScalarConditions` | build-observed |
-| M152760 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoTorsionCurveToSeries` | build-observed |
-| M152762 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassReducedEquations` | wave-reused |
-| M152763 | P0571 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassSeriesIntegral` | wave-reused |
-| M152764 | P0571 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.Wp3ApplyEqSqMulSubSqMul` | build-observed |
-| M152766 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementA` | wave-reused |
-| M152767 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementB` | wave-reused |
-| M152768 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementC` | wave-reused |
-| M152771 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementI` | build-observed |

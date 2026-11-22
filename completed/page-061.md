@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041387 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeBlockConjugate` | volunteer-build-reviewed |
 | M041388 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslate` | volunteer-build-reviewed |
 | M041389 | P1793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslateStatement` | volunteer-build-reviewed |
 | M041390 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomial` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M042053 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalThetaIntegralAtInertPlaceStatement` | volunteer-build-reviewed |
 | M042058 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTrivialityOfNoetherianDescent` | volunteer-build-reviewed |
 | M042061 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTwistContinuousInvolutionIntegralPropertiesStatement` | volunteer-build-reviewed |
-| M042064 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingAction` | volunteer-build-reviewed |

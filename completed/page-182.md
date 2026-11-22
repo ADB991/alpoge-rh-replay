@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120843 | P1657 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishing` | build-observed |
+| M120844 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishingStatement` | volunteer-build-reviewed |
+| M120845 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedQuotientVanishAboveDim` | volunteer-build-reviewed |
+| M120846 | P1703 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedQuotientVanishAboveDimStatement` | volunteer-build-reviewed |
+| M120847 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterion` | volunteer-build-reviewed |
+| M120848 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterionStatement` | volunteer-build-reviewed |
+| M120849 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineOpenFiniteType` | volunteer-build-reviewed |
 | M120851 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturality` | wave-reused |
 | M120852 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturalityStatement` | wave-reused |
 | M120853 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineSmoothFormsBijective` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M121422 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassLevelFormula` | volunteer-build-reviewed |
 | M121425 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassZeroCocycleTensorCoboundaryStatement` | volunteer-build-reviewed |
 | M121426 | P1017 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClauseAToL` | build-observed |
-| M121427 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVector` | volunteer-build-reviewed |
-| M121428 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVectorStatement` | volunteer-build-reviewed |
-| M121430 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordVectorSpinWeightStatement` | volunteer-build-reviewed |
-| M121431 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellInducingCharacter` | volunteer-build-reviewed |
-| M121433 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStable` | volunteer-build-reviewed |
-| M121434 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStableStatement` | volunteer-build-reviewed |
-| M121437 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedDoubleCosetCriterion` | volunteer-build-reviewed |

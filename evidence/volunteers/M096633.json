@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    "M096633"
+  ],
+  "started_utc": "2026-11-22T10:57:50.424361+00:00",
+  "ended_utc": "2026-11-22T11:02:16.610752+00:00",
+  "elapsed_seconds": 266.1,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6506720
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetAddOneSubEqSumQminor:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "3cbd59e25e6bc98d750582152522d08b8b6028e09e8b88691c0451a165058c8a",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CasimirCommutation",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CasComm",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CasKHW",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CharId",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorCommutatorQuantumDet",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.GeneratorPowUpperVanishHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.HWDiag",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.HalfSumRootsStandard",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuadraticInequalityBoundHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.SumOfSquaresIdentityHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.TrPowSumFilterZero",
+    "Formalism.RealPlaceAnalysis.StatementC",
+    "Formalism.RealPlaceAnalysis.StatementD",
+    "Formalism.RealPlaceAnalysis.ThirdArithmeticHolds"
+  ],
+  "objects": {
+    "M096633": "00a1e67b5a7bc920548dc82400b73818ca35bd2ffd17e8e276ebd7c32da16bc2"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "0bbd97c0bcd7c203958348e11d3d274c8ca179828d78523c9c34c79f8168a237",
+  "packet": "M096633",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31620#issuecomment-7078203577",
+  "reviewed_utc": "2026-11-22T11:49:06.767227+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

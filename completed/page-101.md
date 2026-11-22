@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069086 | P0982 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisEqEmbeddingsOCModPrimeStatement` | wave-reused |
+| M069091 | P0927 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisKerLeRange` | build-observed |
 | M069092 | P1038 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRoot` | wave-reused |
 | M069093 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRootStatement` | wave-reused |
 | M069094 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnity` | build-observed |
@@ -400,5 +402,3 @@
 | M069702 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepOfFrobeniusFixedFrameChange` | build-observed |
 | M069703 | P1152 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepOfFrobeniusFixedFrameChangeStatement` | build-observed |
 | M069705 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentationComponentStatement` | volunteer-build-reviewed |
-| M069707 | P0122 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentativesTwoElementOrbitsInvolutionStatement` | volunteer-build-reviewed |
-| M069708 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepsLatticeQuotientConjugateHalfOrthogonal` | volunteer-build-reviewed |

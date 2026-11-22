@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169565 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IsChowFormCMul` | wave-reused |
+| M169566 | P0612 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfChartPointSecPointSpecChart` | wave-reused |
+| M169567 | P0645 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfFreeParAlgIndep` | wave-reused |
+| M169568 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartDomain` | wave-reused |
+| M169569 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartPointTrdeg` | wave-reused |
+| M169570 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartTorsion` | wave-reused |
+| M169571 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowFormHomog` | wave-reused |
+| M169572 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormForm` | wave-reused |
+| M169573 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormFormGeneric` | wave-reused |
 | M169574 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDegree` | wave-reused |
 | M169575 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDvd` | wave-reused |
 | M169576 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PCodimOnePrimeAvoid` | wave-reused |
@@ -393,12 +402,3 @@
 | M169998 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonSlope` | build-observed |
 | M169999 | P0645 | `GroundTheory.PAdicHodge.BCrisNewtonValue` | build-observed |
 | M170000 | P0612 | `GroundTheory.PAdicHodge.BCrisPlusInvariants` | build-observed |
-| M170001 | P0645 | `GroundTheory.PAdicHodge.BCrisRegular` | build-observed |
-| M170002 | P1112 | `GroundTheory.PAdicHodge.BCrisRegularFinal` | build-observed |
-| M170003 | P1082 | `GroundTheory.PAdicHodge.BCrisRegularSenTate` | build-observed |
-| M170006 | P0579 | `GroundTheory.PAdicHodge.BStPeriod` | wave-reused |
-| M170007 | P0288 | `GroundTheory.PAdicHodge.BdRAlg` | wave-reused |
-| M170008 | P0471 | `GroundTheory.PAdicHodge.BdRAlgCl` | wave-reused |
-| M170009 | P0471 | `GroundTheory.PAdicHodge.BdRField` | wave-reused |
-| M170010 | P0431 | `GroundTheory.PAdicHodge.BdRGalois` | wave-reused |
-| M170011 | P0579 | `GroundTheory.PAdicHodge.BdRInvariants` | build-observed |

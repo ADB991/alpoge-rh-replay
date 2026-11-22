@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108907 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FlagFacts` | volunteer-build-reviewed |
+| M108908 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FrobIn` | volunteer-build-reviewed |
+| M108909 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GlobalTheory` | volunteer-build-reviewed |
+| M108910 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GysinAl` | volunteer-build-reviewed |
+| M108911 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GysinPs` | volunteer-build-reviewed |
+| M108912 | P2550 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.H4` | volunteer-build-reviewed |
 | M108913 | P2619 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.H5` | volunteer-build-reviewed |
 | M108914 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.HomOfDer` | volunteer-build-reviewed |
 | M108915 | P2590 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Imports` | volunteer-build-reviewed |
@@ -303,6 +309,7 @@
 | M109259 | P0262 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.Inertia` | volunteer-build-reviewed |
 | M109260 | P2734 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.InputsOfHida` | volunteer-build-reviewed |
 | M109261 | P0317 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.LamFactor` | volunteer-build-reviewed |
+| M109262 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.LamFree` | volunteer-build-reviewed |
 | M109264 | P0317 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.LamZl` | volunteer-build-reviewed |
 | M109265 | P1633 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.LocCFTAll` | volunteer-build-reviewed |
 | M109266 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeilGroupCharacters.RepAlg` | wave-reused |
@@ -395,10 +402,3 @@
 | M109412 | P1288 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AbsInvOf` | volunteer-build-reviewed |
 | M109413 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AddIff` | volunteer-build-reviewed |
 | M109414 | P2667 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AdmissibleOfPiDecomposition` | volunteer-build-reviewed |
-| M109415 | P2667 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AdmissiblePi` | volunteer-build-reviewed |
-| M109416 | P1491 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AffineProperBaseChange` | build-observed |
-| M109417 | P1133 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AveragingTransferKills` | build-observed |
-| M109418 | P2811 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CIn` | volunteer-build-reviewed |
-| M109419 | P2550 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CardResOK` | volunteer-build-reviewed |
-| M109420 | P0593 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CompLeft` | volunteer-build-reviewed |
-| M109421 | P2102 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrysCopy` | volunteer-build-reviewed |

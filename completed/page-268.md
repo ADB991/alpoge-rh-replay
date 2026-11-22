@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172813 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.SectionScalarValuation` | wave-reused |
+| M172814 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWFinal` | volunteer-build-reviewed |
+| M172815 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWMain` | wave-reused |
+| M172816 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWMove` | wave-reused |
+| M172817 | P1055 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaArc` | wave-reused |
+| M172818 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGen` | wave-reused |
+| M172819 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenDiv` | wave-reused |
+| M172820 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenFam` | wave-reused |
+| M172821 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenFibre` | wave-reused |
 | M172822 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenFlat` | wave-reused |
 | M172823 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenGeneric` | wave-reused |
 | M172824 | P1000 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenIff` | wave-reused |
@@ -393,12 +402,3 @@
 | M173372 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeC` | build-observed |
 | M173376 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartAsm` | build-observed |
 | M173377 | P0863 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartX` | build-observed |
-| M173378 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameA` | build-observed |
-| M173380 | P1322 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameC` | build-observed |
-| M173382 | P0836 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnHolFamOfHolTo` | build-observed |
-| M173383 | P0890 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnLawX` | build-observed |
-| M173384 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.BiextChangeSecondFactor` | volunteer-build-reviewed |
-| M173385 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.BiextCoeffSecondLinear` | build-observed |
-| M173388 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.CmHostUnitAddConjEqOne` | build-observed |
-| M173389 | P0863 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ComposeLinearAction` | build-observed |
-| M173392 | P0677 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.EigRamCore` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099962 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NsmulIntegralMemNhdsZero` | build-observed |
+| M099965 | P1044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjIsAbelianSchemeDimRigidifiedSym` | build-observed |
+| M099966 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjMapIdCompCancel` | wave-reused |
 | M099967 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.OneMemSecAndSecInfEqBot` | volunteer-build-reviewed |
 | M099972 | P2088 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRank` | volunteer-build-reviewed |
 | M099973 | P2102 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRankStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M100588 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.VVAlgebraMapNonnegDvr` | volunteer-build-reviewed |
 | M100589 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelf` | build-observed |
 | M100590 | P1045 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelfStatement` | build-observed |
-| M100592 | P0559 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationCoeEqNorm` | wave-reused |
-| M100593 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationIntegersPadicComplete` | volunteer-build-reviewed |
-| M100594 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeaf` | wave-reused |

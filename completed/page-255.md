@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165130 | P0383 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagIndependenceAlgebra` | wave-reused |
+| M165131 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineDegree` | wave-reused |
+| M165132 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSection` | wave-reused |
+| M165133 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSectionForms` | wave-reused |
+| M165134 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSectionSplit` | wave-reused |
+| M165136 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericCycleCorresp` | wave-reused |
+| M165137 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimBound` | wave-reused |
+| M165138 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimGe` | wave-reused |
+| M165139 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericFibProps` | wave-reused |
 | M165140 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericPieceRank` | wave-reused |
 | M165141 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDim` | build-observed |
 | M165142 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDivisor` | wave-reused |
@@ -393,12 +402,3 @@
 | M165663 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumBaseChange` | pilot-reused |
 | M165664 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumSymm` | pilot-reused |
 | M165665 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumUnique` | pilot-reused |
-| M165666 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumZeroSlot` | pilot-reused |
-| M165667 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PLocalIntegralClosureFinite` | wave-reused |
-| M165668 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PLocalizedQuotientLength` | wave-reused |
-| M165669 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartDehomog` | wave-reused |
-| M165670 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartHomog` | wave-reused |
-| M165671 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartLocDim` | wave-reused |
-| M165672 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartTrdeg` | wave-reused |
-| M165673 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMixedDiffConst` | pilot-reused |
-| M165674 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMultEqualsCoeff` | pilot-reused |

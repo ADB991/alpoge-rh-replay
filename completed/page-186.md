@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123259 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLatticeStatement` | volunteer-build-reviewed |
+| M123263 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsInSiegelSetBoundStatement` | volunteer-build-reviewed |
+| M123264 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsSiegel` | volunteer-build-reviewed |
+| M123266 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthCoinvariantsExact` | volunteer-build-reviewed |
+| M123267 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthCoinvariantsExactStatement` | volunteer-build-reviewed |
+| M123272 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirst` | volunteer-build-reviewed |
+| M123273 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirstStatement` | volunteer-build-reviewed |
 | M123274 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProducts` | volunteer-build-reviewed |
 | M123275 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProductsStatement` | volunteer-build-reviewed |
 | M123279 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLevelFactsStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M123865 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimensionStatement` | build-observed |
 | M123866 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraWhittaker` | build-observed |
 | M123872 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportEtaOf` | volunteer-build-reviewed |
-| M123874 | P2500 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportTj` | volunteer-build-reviewed |
-| M123875 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtEvalCurveOfDerivation` | volunteer-build-reviewed |
-| M123878 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtOfContinuousHom` | volunteer-build-reviewed |
-| M123879 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTorusTranslate` | volunteer-build-reviewed |
-| M123880 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTorusTranslateStatement` | volunteer-build-reviewed |
-| M123881 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTwistHomotopyKernel` | volunteer-build-reviewed |
-| M123882 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivative` | volunteer-build-reviewed |

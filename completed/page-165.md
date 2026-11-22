@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112399 | P2062 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.InsideRefl` | volunteer-build-reviewed |
+| M112400 | P2686 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.MainFin` | volunteer-build-reviewed |
+| M112401 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PAlgOfFix` | volunteer-build-reviewed |
+| M112402 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCharOfZeta` | volunteer-build-reviewed |
+| M112403 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCoverIn` | volunteer-build-reviewed |
+| M112404 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PCplMem` | volunteer-build-reviewed |
+| M112405 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDGenMul` | volunteer-build-reviewed |
 | M112406 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDenseUs` | volunteer-build-reviewed |
 | M112407 | P2619 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDetEx` | volunteer-build-reviewed |
 | M112408 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDivDet` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M113025 | P1314 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.SplitsBasic` | volunteer-build-reviewed |
 | M113027 | P2812 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TraceSplitHolds` | volunteer-build-reviewed |
 | M113028 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TransCancel` | volunteer-build-reviewed |
-| M113030 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.CRealAv` | volunteer-build-reviewed |
-| M113031 | P2762 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.EndoscopyRank2Ordinary` | volunteer-build-reviewed |
-| M113033 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.LinkTwo` | volunteer-build-reviewed |
-| M113034 | P2687 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.OffSelf` | volunteer-build-reviewed |
-| M113035 | P2739 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.PlainTorOfMono0` | volunteer-build-reviewed |
-| M113036 | P2687 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.TypePlain` | volunteer-build-reviewed |
-| M113037 | P1725 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CentralEig2` | volunteer-build-reviewed |

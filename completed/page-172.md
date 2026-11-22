@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115820 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WithBotEqOfLeOfAddOneLe` | wave-reused |
+| M115821 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WtGeProd` | wave-reused |
+| M115822 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZASmul` | build-observed |
+| M115823 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZariskiNoetherianInduction` | wave-reused |
+| M115824 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZeroContDiffOnSupported` | volunteer-build-reviewed |
+| M115825 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Action` | wave-reused |
+| M115826 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Coefficients` | wave-reused |
 | M115827 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Comparison` | wave-reused |
 | M115828 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.CrisTheta` | wave-reused |
 | M115829 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRham` | wave-reused |
@@ -395,10 +402,3 @@
 | M116407 | P2643 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsConstantTwistOfThinDivisor` | volunteer-build-reviewed |
 | M116408 | P2756 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspRegularLevelDeterminant` | volunteer-build-reviewed |
 | M116409 | P2734 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspValueLePhiOfHilbertSamuel` | volunteer-build-reviewed |
-| M116410 | P2762 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspValueNeZeroLowLevel` | volunteer-build-reviewed |
-| M116411 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspWithThetaJetValueLe` | volunteer-build-reviewed |
-| M116413 | P2791 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsDegreeParametersBound` | volunteer-build-reviewed |
-| M116414 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsFlatUnitBoundedAnyLevel` | volunteer-build-reviewed |
-| M116415 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsFlatUnitSection` | volunteer-build-reviewed |
-| M116417 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsGoodCoverAtMinimalLevel` | volunteer-build-reviewed |
-| M116419 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsKodairaSpencerComparisonLogPole` | volunteer-build-reviewed |

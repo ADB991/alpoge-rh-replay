@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122627 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandardStatement` | volunteer-build-reviewed |
+| M122628 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBound` | build-observed |
+| M122629 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBoundStatement` | build-observed |
+| M122630 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductLintegralLimit` | volunteer-build-reviewed |
+| M122631 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductLintegralLimitStatement` | volunteer-build-reviewed |
+| M122635 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductMeasureEventuallyStandardStatement` | volunteer-build-reviewed |
+| M122636 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvFinSSOneNot` | volunteer-build-reviewed |
 | M122637 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvProdBlockUnit` | volunteer-build-reviewed |
 | M122639 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalMod` | volunteer-build-reviewed |
 | M122640 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalRestrictSection` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M123255 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariant` | volunteer-build-reviewed |
 | M123256 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariantStatement` | volunteer-build-reviewed |
 | M123258 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLattice` | volunteer-build-reviewed |
-| M123259 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLatticeStatement` | volunteer-build-reviewed |
-| M123263 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsInSiegelSetBoundStatement` | volunteer-build-reviewed |
-| M123264 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsSiegel` | volunteer-build-reviewed |
-| M123266 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthCoinvariantsExact` | volunteer-build-reviewed |
-| M123267 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthCoinvariantsExactStatement` | volunteer-build-reviewed |
-| M123272 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirst` | volunteer-build-reviewed |
-| M123273 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirstStatement` | volunteer-build-reviewed |

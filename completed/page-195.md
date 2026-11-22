@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129442 | P0564 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontal` | wave-reused |
+| M129443 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontalStatement` | volunteer-build-reviewed |
+| M129444 | P0530 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalPairPowerSumVanish` | wave-reused |
+| M129445 | P0564 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalPairPowerSumVanishStatement` | wave-reused |
+| M129446 | P2751 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputs` | volunteer-build-reviewed |
+| M129447 | P2758 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputsStatement` | volunteer-build-reviewed |
+| M129456 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbBound` | volunteer-build-reviewed |
 | M129457 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBound` | volunteer-build-reviewed |
 | M129458 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBoundStatement` | volunteer-build-reviewed |
 | M129461 | P2752 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianCmCompLawsBound` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M130225 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEqMulMultOfUnits` | wave-reused |
 | M130226 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartCoordinates` | volunteer-build-reviewed |
 | M130227 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartCoordinatesStatement` | volunteer-build-reviewed |
-| M130228 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartStandardSmooth` | build-observed |
-| M130229 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartStandardSmoothStatement` | build-observed |
-| M130230 | P0414 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExtendLin` | volunteer-build-reviewed |
-| M130231 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFamilyExponentialLocally` | build-observed |
-| M130233 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFamilyUniformisation` | volunteer-build-reviewed |
-| M130236 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteExtensionPrimes` | volunteer-build-reviewed |
-| M130237 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteExtensionPrimesStatement` | volunteer-build-reviewed |

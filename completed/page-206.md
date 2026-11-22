@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136745 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactEtaleUniqueness` | wave-reused |
+| M136746 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactHypersurface` | wave-reused |
+| M136747 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactIdeal` | wave-reused |
+| M136748 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactStrictTransform` | wave-reused |
+| M136749 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.StalkIdealSpreadOut` | wave-reused |
+| M136750 | P0144 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdeal` | wave-reused |
+| M136751 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealPowers` | volunteer-build-reviewed |
+| M136752 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealSheaf` | wave-reused |
 | M136753 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheaf` | wave-reused |
 | M136754 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBasic` | wave-reused |
 | M136755 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBlowupSequence` | wave-reused |
@@ -394,11 +402,3 @@
 | M137493 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.NhdsInv` | volunteer-build-reviewed |
 | M137494 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.SmallSub` | volunteer-build-reviewed |
 | M137499 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussSec` | volunteer-build-reviewed |
-| M137500 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussianMomentRealCoords` | volunteer-build-reviewed |
-| M137503 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.IntgPowQuad` | volunteer-build-reviewed |
-| M137506 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.LongWeylFunctional` | volunteer-build-reviewed |
-| M137507 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.LowerLeftBlockLeviUnipotent` | volunteer-build-reviewed |
-| M137509 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.POfAddQOf` | volunteer-build-reviewed |
-| M137510 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.UnitDetOfUnitary` | volunteer-build-reviewed |
-| M137513 | P2091 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.EpsNegUnit` | volunteer-build-reviewed |
-| M137519 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.InclusionFromRowsIdentityZero` | volunteer-build-reviewed |

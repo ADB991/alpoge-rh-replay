@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087812 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslateStatement` | volunteer-build-reviewed |
+| M087813 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresented` | volunteer-build-reviewed |
 | M087814 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresentedStatement` | volunteer-build-reviewed |
 | M087815 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizer` | volunteer-build-reviewed |
 | M087816 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizerStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M088867 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyCoefficientFieldEmbeddingPadicComplex` | volunteer-build-reviewed |
 | M088869 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyEquivEllAdicCohomology` | volunteer-build-reviewed |
 | M088871 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreement` | volunteer-build-reviewed |
-| M088872 | P2215 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreementStatement` | volunteer-build-reviewed |
-| M088873 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyPlacesOfRecord` | build-observed |

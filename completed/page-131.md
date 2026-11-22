@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093404 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairingStatement` | volunteer-build-reviewed |
+| M093405 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempote` | volunteer-build-reviewed |
 | M093406 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempoteStatement` | volunteer-build-reviewed |
 | M093407 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralUnitDeterminantAtIdempotentResidue` | volunteer-build-reviewed |
 | M093409 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInterpolation` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M093936 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBound` | volunteer-build-reviewed |
 | M093937 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBoundStatement` | volunteer-build-reviewed |
 | M093943 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponents` | volunteer-build-reviewed |
-| M093944 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponentsStatement` | volunteer-build-reviewed |
-| M093949 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLe` | volunteer-build-reviewed |

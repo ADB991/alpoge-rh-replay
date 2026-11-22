@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163411 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.OfListTailLog` | wave-reused |
+| M163412 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdCocycle` | wave-reused |
+| M163413 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdComparison` | wave-reused |
+| M163414 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdDivides` | wave-reused |
+| M163415 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdEqHolo` | wave-reused |
+| M163416 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdMetric` | wave-reused |
+| M163417 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdNormCont` | wave-reused |
+| M163418 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdPartition` | wave-reused |
+| M163419 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdSectionProps` | wave-reused |
 | M163420 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdTransition` | wave-reused |
 | M163421 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdWeight` | wave-reused |
 | M163422 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBddOnInner` | wave-reused |
@@ -393,12 +402,3 @@
 | M163946 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CoeffEqZeroOfForallEvalEqZero` | volunteer-build-reviewed |
 | M163948 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CutOffNear` | volunteer-build-reviewed |
 | M163949 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.DetEqZeroOfMulVecEqZero` | volunteer-build-reviewed |
-| M163950 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.EqZeroOfMemZeroLocusLineOriginIdeal` | wave-reused |
-| M163952 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FrameProjEq` | wave-reused |
-| M163953 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FsLogRegBasic` | wave-reused |
-| M163954 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GenericCountCover` | volunteer-build-reviewed |
-| M163957 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GoodPointChartLemmas` | volunteer-build-reviewed |
-| M163958 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GradientAtPoint` | volunteer-build-reviewed |
-| M163959 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GraphChartEventuallyEqSheet` | wave-reused |
-| M163961 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HeightCoheightQuotient` | volunteer-build-reviewed |
-| M163962 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HolomorphicZerosNotIsolated` | volunteer-build-reviewed |

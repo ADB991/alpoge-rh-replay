@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121427 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVector` | volunteer-build-reviewed |
+| M121428 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVectorStatement` | volunteer-build-reviewed |
+| M121430 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordVectorSpinWeightStatement` | volunteer-build-reviewed |
+| M121431 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellInducingCharacter` | volunteer-build-reviewed |
+| M121433 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStable` | volunteer-build-reviewed |
+| M121434 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStableStatement` | volunteer-build-reviewed |
+| M121437 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedDoubleCosetCriterion` | volunteer-build-reviewed |
 | M121439 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationEquivariant` | volunteer-build-reviewed |
 | M121441 | P1703 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationInduced` | volunteer-build-reviewed |
 | M121442 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationInducedStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M121995 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinement` | volunteer-build-reviewed |
 | M121996 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinementStatement` | volunteer-build-reviewed |
 | M121999 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLattice` | volunteer-build-reviewed |
-| M122000 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLatticeStatement` | volunteer-build-reviewed |
-| M122001 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernel` | volunteer-build-reviewed |
-| M122002 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernelStatement` | volunteer-build-reviewed |
-| M122003 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionTranslateJacquetKernel` | volunteer-build-reviewed |
-| M122004 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionTranslateJacquetKernelStatement` | volunteer-build-reviewed |
-| M122005 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetInd` | volunteer-build-reviewed |
-| M122007 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIndicatorSchwartzBruhatStatement` | volunteer-build-reviewed |

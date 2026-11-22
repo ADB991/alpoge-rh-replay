@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127213 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExists` | volunteer-build-reviewed |
+| M127214 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExistsStatement` | volunteer-build-reviewed |
+| M127215 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScaledIntegralHermitianInOpenSubgroup` | volunteer-build-reviewed |
+| M127217 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalingMeasureProductArchimedean` | volunteer-build-reviewed |
+| M127222 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurInverseEqReversedNegStatement` | volunteer-build-reviewed |
+| M127223 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurOpOfSchurL` | volunteer-build-reviewed |
+| M127224 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2Sum` | volunteer-build-reviewed |
 | M127225 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2SumStatement` | volunteer-build-reviewed |
 | M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
 | M127228 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
 | M127947 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveIntertwinerQuotientEquiv` | volunteer-build-reviewed |
 | M127949 | P2472 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveInvTranspose` | volunteer-build-reviewed |
-| M127951 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparability` | wave-reused |
-| M127952 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparabilityStatement` | wave-reused |
-| M127953 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompact` | volunteer-build-reviewed |
-| M127956 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapProductSegments` | volunteer-build-reviewed |
-| M127957 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProd` | volunteer-build-reviewed |
-| M127959 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLe` | volunteer-build-reviewed |
-| M127961 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistedCentralizerDiagonal` | volunteer-build-reviewed |

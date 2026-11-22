@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101245 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionLocalScalar` | build-observed |
+| M101246 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralizerCommutativeOfSeparableCharpoly` | build-observed |
+| M101249 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CharpolySeparableUnitSmul` | build-observed |
 | M101251 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductOfQuotientPushforwardSupport` | build-observed |
 | M101252 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductSupportFinite` | build-observed |
 | M101256 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsHaarMeasureAdelicGL` | build-observed |
@@ -83,6 +86,7 @@
 | M101357 | P0312 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCotOfQuot` | volunteer-build-reviewed |
 | M101358 | P0131 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCotOfSpan` | volunteer-build-reviewed |
 | M101359 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCotQuot` | volunteer-build-reviewed |
+| M101361 | P0363 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplDvr` | volunteer-build-reviewed |
 | M101362 | P0259 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplEx` | volunteer-build-reviewed |
 | M101365 | P0197 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplFree` | volunteer-build-reviewed |
 | M101366 | P0197 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplLift` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M101866 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDualC` | volunteer-build-reviewed |
 | M101869 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp` | volunteer-build-reviewed |
 | M101870 | P1603 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealTransport.RealTransport` | volunteer-build-reviewed |
-| M101963 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong` | volunteer-build-reviewed |
-| M101967 | P2568 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AlgOfCyc` | volunteer-build-reviewed |
-| M101969 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AutNewform` | volunteer-build-reviewed |
-| M101973 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatAtLQ` | volunteer-build-reviewed |

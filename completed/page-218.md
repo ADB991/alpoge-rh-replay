@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145682 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameB` | wave-reused |
+| M145684 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefCut` | wave-reused |
+| M145685 | P1293 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefTraceCut` | wave-reused |
+| M145686 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCTheta` | wave-reused |
+| M145689 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGauge` | wave-reused |
+| M145690 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeA` | wave-reused |
+| M145691 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeB` | wave-reused |
+| M145695 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTKLineCut` | build-observed |
+| M145710 | P1318 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRTrans` | wave-reused |
 | M145714 | P1211 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSConst` | wave-reused |
 | M145715 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSCut` | wave-reused |
 | M145723 | P1186 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSTr` | wave-reused |
@@ -393,12 +402,3 @@
 | M146711 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OoConvOf` | build-observed |
 | M146717 | P1556 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OpNormPiLe` | volunteer-build-reviewed |
 | M146718 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms` | wave-reused |
-| M146719 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorRepresentations` | wave-reused |
-| M146720 | P0858 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorsCommuteTranslations` | build-observed |
-| M146721 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OppositeWeylSubgroupClosed` | wave-reused |
-| M146722 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbConvDDOfDecDD` | build-observed |
-| M146723 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbJConvCpt` | build-observed |
-| M146725 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitTailEstimates` | wave-reused |
-| M146726 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralAeConvergenceContinuity` | wave-reused |
-| M146727 | P0212 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralConvergesAbs` | wave-reused |
-| M146728 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralIdentities` | build-observed |

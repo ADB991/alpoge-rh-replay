@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M116864 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RationalVacuumEqSmulAlgebraicCombination` | volunteer-build-reviewed |
+| M116865 | P2718 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealDataWeightVectorFamily` | volunteer-build-reviewed |
+| M116866 | P2729 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealDataWeightVectorFamilyCore` | volunteer-build-reviewed |
+| M116867 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealEmbeddingsOfCharactersOfSameExponent` | volunteer-build-reviewed |
+| M116869 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealGroupInputsCombined` | volunteer-build-reviewed |
+| M116870 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealLieDerivativeMemCoinvariants` | volunteer-build-reviewed |
+| M116871 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealLiftCharacterTraceHasDerivAt` | volunteer-build-reviewed |
 | M116872 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealQuotientBottomInvariantsEquiv` | volunteer-build-reviewed |
 | M116873 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealTranslatePreservesRationalAction` | volunteer-build-reviewed |
 | M116874 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealWeilRepresentationSchurScalar` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M117299 | P2242 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ChrQuotChartFreeStatement` | volunteer-build-reviewed |
 | M117300 | P2218 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClassOfRecordOfChoice` | volunteer-build-reviewed |
 | M117301 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClassSumPinOfReadAt` | volunteer-build-reviewed |
-| M117302 | P2551 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClassSumPinOfReadAtStatement` | volunteer-build-reviewed |
-| M117303 | P2151 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClassSumPinT` | volunteer-build-reviewed |
-| M117304 | P2263 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClosedFamilyAdmissibleTwistLink` | volunteer-build-reviewed |
-| M117305 | P2075 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClosedRankTiesFC2S` | volunteer-build-reviewed |
-| M117306 | P2206 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClosingFamilyX` | volunteer-build-reviewed |
-| M117307 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClsPinDOfFamCol` | volunteer-build-reviewed |
-| M117308 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClsPinDOfFamColStatement` | volunteer-build-reviewed |

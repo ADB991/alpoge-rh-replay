@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123874 | P2500 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportTj` | volunteer-build-reviewed |
+| M123875 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtEvalCurveOfDerivation` | volunteer-build-reviewed |
+| M123878 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtOfContinuousHom` | volunteer-build-reviewed |
+| M123879 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTorusTranslate` | volunteer-build-reviewed |
+| M123880 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTorusTranslateStatement` | volunteer-build-reviewed |
+| M123881 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTwistHomotopyKernel` | volunteer-build-reviewed |
+| M123882 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivative` | volunteer-build-reviewed |
 | M123884 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasInfCharGLRankZero` | volunteer-build-reviewed |
 | M123885 | P2336 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreading` | volunteer-build-reviewed |
 | M123886 | P2357 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreadingStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M124550 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCovolOne` | volunteer-build-reviewed |
 | M124552 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsDomMonoid` | build-observed |
 | M124554 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFieldIdemOne` | volunteer-build-reviewed |
-| M124555 | P1074 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernClassOnThickenings` | build-observed |
-| M124556 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernThickeningMuBOfIsFirstChernDeRham` | wave-reused |
-| M124557 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFractionRingInteger` | volunteer-build-reviewed |
-| M124558 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFundamentalDomainRangeProdMap` | volunteer-build-reviewed |
-| M124559 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGenericOfInjective` | volunteer-build-reviewed |
-| M124560 | P1262 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGradedMapGlueD` | build-observed |
-| M124562 | P1579 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsHermRingRat` | volunteer-build-reviewed |

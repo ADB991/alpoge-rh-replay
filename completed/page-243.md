@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159185 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.PeBnOfLt` | build-observed |
+| M159186 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RenameMulRenameMemSpanProductBasis` | build-observed |
+| M159187 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestPathFrom` | build-observed |
+| M159188 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestSplit` | build-observed |
+| M159189 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SaturatedLowerSetSpanOfLowerSetTypesSpan` | build-observed |
+| M159190 | P1585 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SplittingThirdPartHolds` | build-observed |
+| M159191 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.StandardPathBasisAnyRing` | build-observed |
+| M159192 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SubProjectorProductMemStrict` | build-observed |
+| M159193 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ToralGalois` | build-observed |
 | M159194 | P1296 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.TorusComponentMemDominatedWeightPolynomials` | build-observed |
 | M159195 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio` | build-observed |
 | M159196 | P1242 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.AiAddMulLeA0` | build-observed |
@@ -393,12 +402,3 @@
 | M159616 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIsoDef` | build-observed |
 | M159617 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CoeffSumMonomialLinear` | build-observed |
 | M159618 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ContractionOfPairingLemmas` | build-observed |
-| M159619 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DPsiMonomialIwh` | build-observed |
-| M159620 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DerivativeRepresentation` | build-observed |
-| M159621 | P1687 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsP` | build-observed |
-| M159622 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsPAlt` | build-observed |
-| M159623 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetYNeZero` | build-observed |
-| M159624 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ExplicitMapOntoTwoLetterSpace` | build-observed |
-| M159625 | P0078 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.GrowthOfBasic` | build-observed |
-| M159626 | P1664 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ImportsAlt` | build-observed |
-| M159627 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.InitialMinorLiftFirstEntry` | build-observed |

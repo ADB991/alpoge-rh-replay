@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137500 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussianMomentRealCoords` | volunteer-build-reviewed |
+| M137503 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.IntgPowQuad` | volunteer-build-reviewed |
+| M137506 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.LongWeylFunctional` | volunteer-build-reviewed |
+| M137507 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.LowerLeftBlockLeviUnipotent` | volunteer-build-reviewed |
+| M137509 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.POfAddQOf` | volunteer-build-reviewed |
+| M137510 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.UnitDetOfUnitary` | volunteer-build-reviewed |
+| M137513 | P2091 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.EpsNegUnit` | volunteer-build-reviewed |
+| M137519 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.InclusionFromRowsIdentityZero` | volunteer-build-reviewed |
 | M137522 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.Assemble` | volunteer-build-reviewed |
 | M137526 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.GoodAwayEx` | volunteer-build-reviewed |
 | M137531 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocNbar` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M138543 | P0693 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SnapperHyperplane` | build-observed |
 | M138546 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TensorSpanLe` | build-observed |
 | M138549 | P1237 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TrivFlagModOfHodgeTateFreeOfRootLines` | worker-kernel-checked |
-| M138551 | P2302 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twexists` | volunteer-build-reviewed |
-| M138553 | P1553 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfDiv` | build-observed |
-| M138554 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfFin` | build-observed |
-| M138555 | P0209 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfInd` | volunteer-build-reviewed |
-| M138556 | P1611 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfMain` | build-observed |
-| M138558 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twomega` | build-observed |
-| M138562 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twpdiv` | build-observed |
-| M138563 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivHopf` | build-observed |

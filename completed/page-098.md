@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067099 | P1281 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHatValueMemFilZero` | build-observed |
+| M067100 | P1307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHatValueMemFilZeroStatement` | build-observed |
 | M067101 | P1094 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomEisensteinSpanAndNonZeroDivisor` | wave-reused |
 | M067102 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomEisensteinSpanAndNonZeroDivisorStatement` | wave-reused |
 | M067103 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomImageXDeltaZeroLiftsUniformizer` | wave-reused |
@@ -400,5 +402,3 @@
 | M067712 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeil` | volunteer-build-reviewed |
 | M067713 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeilStatement` | volunteer-build-reviewed |
 | M067714 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevels` | volunteer-build-reviewed |
-| M067715 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevelsStatement` | volunteer-build-reviewed |
-| M067716 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugate` | volunteer-build-reviewed |

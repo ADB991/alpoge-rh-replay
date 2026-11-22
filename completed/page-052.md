@@ -177,6 +177,7 @@
 | M034862 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorConnectionClosedFibreStatement` | volunteer-build-reviewed |
 | M034863 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorConstMulDerivationTerm` | volunteer-build-reviewed |
 | M034864 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorConstMulDerivationTermStatement` | volunteer-build-reviewed |
+| M034865 | P2777 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorDefectPolynomialMonomialPeriods` | volunteer-build-reviewed |
 | M034866 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorDefectPolynomialMonomialPeriodsStatement` | volunteer-build-reviewed |
 | M034867 | P2732 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorFourierTermAlongFibreConnection` | volunteer-build-reviewed |
 | M034868 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeatOperatorFourierTermAlongFibreConnectionStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M035230 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergOperatorFinitePartLatticeVacuumSignStatement` | volunteer-build-reviewed |
 | M035231 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhat` | volunteer-build-reviewed |
 | M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |
-| M035237 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValues` | volunteer-build-reviewed |

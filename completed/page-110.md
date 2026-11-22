@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075315 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGLStatement` | build-observed |
+| M075316 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRing` | volunteer-build-reviewed |
 | M075317 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRingStatement` | build-observed |
 | M075318 | P0406 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplitting` | build-observed |
 | M075319 | P0447 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplittingStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M076229 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraic` | volunteer-build-reviewed |
 | M076230 | P1569 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraicStatement` | build-observed |
 | M076232 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointGeometricFibresFinite` | volunteer-build-reviewed |
-| M076233 | P2282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointMemAbLocus` | build-observed |
-| M076235 | P0124 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosureAdjoinUnitBallCoeffBoundStatement` | volunteer-build-reviewed |

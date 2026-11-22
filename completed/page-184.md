@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122000 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLatticeStatement` | volunteer-build-reviewed |
+| M122001 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernel` | volunteer-build-reviewed |
+| M122002 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernelStatement` | volunteer-build-reviewed |
+| M122003 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionTranslateJacquetKernel` | volunteer-build-reviewed |
+| M122004 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionTranslateJacquetKernelStatement` | volunteer-build-reviewed |
+| M122005 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetInd` | volunteer-build-reviewed |
+| M122007 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIndicatorSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M122009 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIndicatorUnitScalingStatement` | volunteer-build-reviewed |
 | M122010 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIntegralUnramified` | volunteer-build-reviewed |
 | M122011 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIntegralUnramifiedStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M122623 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharZeroDimSupportStatement` | volunteer-build-reviewed |
 | M122625 | P2633 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharacteristicDimensionZeroStatement` | volunteer-build-reviewed |
 | M122626 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandard` | volunteer-build-reviewed |
-| M122627 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandardStatement` | volunteer-build-reviewed |
-| M122628 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBound` | build-observed |
-| M122629 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBoundStatement` | build-observed |
-| M122630 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductLintegralLimit` | volunteer-build-reviewed |
-| M122631 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductLintegralLimitStatement` | volunteer-build-reviewed |
-| M122635 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductMeasureEventuallyStandardStatement` | volunteer-build-reviewed |
-| M122636 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvFinSSOneNot` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152759 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoAdicScalarConditions` | build-observed |
+| M152760 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoTorsionCurveToSeries` | build-observed |
+| M152762 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassReducedEquations` | wave-reused |
+| M152763 | P0571 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassSeriesIntegral` | wave-reused |
+| M152764 | P0571 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.Wp3ApplyEqSqMulSubSqMul` | build-observed |
+| M152766 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementA` | wave-reused |
+| M152767 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementB` | wave-reused |
+| M152768 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementC` | wave-reused |
+| M152771 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementI` | build-observed |
 | M152775 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementW` | build-observed |
 | M152776 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionHypothesesOfLevelOne` | wave-reused |
 | M152777 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionPointsIntegral` | wave-reused |
@@ -393,12 +402,3 @@
 | M153312 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OrthogonalityOfMackey` | build-observed |
 | M153313 | P0831 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic` | wave-reused |
 | M153314 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.ThreeForms` | build-observed |
-| M153315 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.UnipotentNumeric` | build-observed |
-| M153316 | P0503 | `Formalism.MirabolicMackeyTheory.StatementC` | build-observed |
-| M153317 | P0462 | `Formalism.MirabolicMackeyTheory.StatementL` | build-observed |
-| M153318 | P0538 | `Formalism.MirabolicMackeyTheory.StatementLoc` | build-observed |
-| M153319 | P0462 | `Formalism.MirabolicMackeyTheory.StatementT` | wave-reused |
-| M153320 | P0275 | `Formalism.MoebiusJetDuality.EvDualJet` | build-observed |
-| M153321 | P0215 | `Formalism.MoebiusJetDuality.Statement` | build-observed |
-| M153322 | P0328 | `Formalism.MoebiusJetDuality.StatementS` | build-observed |
-| M153323 | P0422 | `Formalism.MoebiusJetDuality.StatementU` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147324 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPJet` | wave-reused |
+| M147325 | P0069 | `Formalism.IncomingBounds.FrobOrbitPeriod` | build-observed |
+| M147326 | P0069 | `Formalism.IncomingBounds.IncomingBound` | wave-reused |
+| M147327 | P0148 | `Formalism.IncomingBounds.IndexLastStep` | build-observed |
+| M147328 | P0213 | `Formalism.IncomingBounds.LemmaMNumerics` | wave-reused |
+| M147329 | P0148 | `Formalism.IncomingBounds.LevelTail` | wave-reused |
+| M147330 | P0148 | `Formalism.IncomingBounds.StatementThmP` | wave-reused |
+| M147331 | P0213 | `Formalism.IncomingBounds.ValuationWindowImpliesOriginal` | wave-reused |
+| M147332 | P0327 | `Formalism.IncomingBounds.WeightIdentities` | build-observed |
 | M147333 | P0502 | `Formalism.JacobiWeightFamilies.LFunctionOnePositive` | build-observed |
 | M147334 | P0421 | `Formalism.JacobiWeightFamilies.Statement` | build-observed |
 | M147335 | P0069 | `Formalism.JacquetSubsetSums.JacquetSubsetSum` | build-observed |
@@ -393,12 +402,3 @@
 | M147761 | P0748 | `Formalism.LocalToGlobal.CharacterGerms.CoefficientIdentitySelfConjugate` | build-observed |
 | M147762 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.CompleteOfBasis` | volunteer-build-reviewed |
 | M147763 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.ConstMemTypeSetOfNonneg` | wave-reused |
-| M147764 | P1048 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffPderivUncurry` | build-observed |
-| M147765 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffSinglePointZero` | wave-reused |
-| M147766 | P1187 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffTripleSubstitution` | wave-reused |
-| M147767 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroCompCoordinate` | build-observed |
-| M147768 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroDoubleMultiplicationPair` | build-observed |
-| M147769 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroFirstThenZero` | build-observed |
-| M147770 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationEval` | build-observed |
-| M147771 | P1021 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationPair` | build-observed |
-| M147772 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroRestrictPoints` | build-observed |

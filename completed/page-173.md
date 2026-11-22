@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M116410 | P2762 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspValueNeZeroLowLevel` | volunteer-build-reviewed |
+| M116411 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspWithThetaJetValueLe` | volunteer-build-reviewed |
+| M116413 | P2791 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsDegreeParametersBound` | volunteer-build-reviewed |
+| M116414 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsFlatUnitBoundedAnyLevel` | volunteer-build-reviewed |
+| M116415 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsFlatUnitSection` | volunteer-build-reviewed |
+| M116417 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsGoodCoverAtMinimalLevel` | volunteer-build-reviewed |
+| M116419 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsKodairaSpencerComparisonLogPole` | volunteer-build-reviewed |
 | M116420 | P2382 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsKodairaSpencerFlagTangent` | volunteer-build-reviewed |
 | M116421 | P2572 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsLiftAtDefiniteBadPlaces` | volunteer-build-reviewed |
 | M116422 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsModelOfImage` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M116861 | P2739 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RationalDataSizedFamily` | volunteer-build-reviewed |
 | M116862 | P2724 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RationalSeriesCoeffAtState` | volunteer-build-reviewed |
 | M116863 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RationalTranslateAlgebraicCombination` | volunteer-build-reviewed |
-| M116864 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RationalVacuumEqSmulAlgebraicCombination` | volunteer-build-reviewed |
-| M116865 | P2718 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealDataWeightVectorFamily` | volunteer-build-reviewed |
-| M116866 | P2729 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealDataWeightVectorFamilyCore` | volunteer-build-reviewed |
-| M116867 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealEmbeddingsOfCharactersOfSameExponent` | volunteer-build-reviewed |
-| M116869 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealGroupInputsCombined` | volunteer-build-reviewed |
-| M116870 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealLieDerivativeMemCoinvariants` | volunteer-build-reviewed |
-| M116871 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealLiftCharacterTraceHasDerivAt` | volunteer-build-reviewed |

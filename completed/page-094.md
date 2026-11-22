@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064184 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOne` | build-observed |
+| M064185 | P1150 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOneStatement` | build-observed |
 | M064186 | P1452 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactor` | build-observed |
 | M064187 | P1481 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactorStatement` | build-observed |
 | M064188 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValHalfInf` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M064969 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntry` | volunteer-build-reviewed |
 | M064970 | P2227 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntryStatement` | volunteer-build-reviewed |
 | M064973 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntries` | volunteer-build-reviewed |
-| M064974 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntriesStatement` | volunteer-build-reviewed |
-| M064975 | P0358 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLift` | volunteer-build-reviewed |

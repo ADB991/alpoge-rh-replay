@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098705 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfVeryAmpleBy` | build-observed |
+| M098706 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIndepCoords` | volunteer-build-reviewed |
+| M098707 | P1576 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSections` | build-observed |
 | M098708 | P1602 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSectionsStatement` | build-observed |
 | M098709 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroup` | volunteer-build-reviewed |
 | M098710 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroupStatement` | wave-reused |
@@ -399,6 +402,3 @@
 | M099315 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTermsStatement` | build-observed |
 | M099316 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTerms` | build-observed |
 | M099317 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTermsStatement` | build-observed |
-| M099318 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtFormalTorsion` | build-observed |
-| M099319 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtOrigin` | build-observed |
-| M099322 | P0796 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuesNatural` | wave-reused |

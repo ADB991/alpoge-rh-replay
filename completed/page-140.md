@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098106 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinatesStatement` | build-observed |
+| M098108 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIdeleCharEqProdLocOfTameAtStatement` | volunteer-build-reviewed |
+| M098109 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlace` | volunteer-build-reviewed |
 | M098110 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlaceStatement` | volunteer-build-reviewed |
 | M098112 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInductionOnSplitPlaceSupportStatement` | volunteer-build-reviewed |
 | M098117 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjoint` | build-observed |
@@ -399,6 +402,3 @@
 | M098702 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfPullbackId` | build-observed |
 | M098703 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfRingMaps` | build-observed |
 | M098704 | P1462 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfThickenings` | build-observed |
-| M098705 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfVeryAmpleBy` | build-observed |
-| M098706 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIndepCoords` | volunteer-build-reviewed |
-| M098707 | P1576 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSections` | build-observed |

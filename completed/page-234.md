@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155152 | P1295 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.MemXspIff` | build-observed |
+| M155153 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.PartEq` | build-observed |
+| M155157 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.XiHermitianCofactorDet` | build-observed |
+| M155158 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.Assemble` | build-observed |
+| M155159 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.Expand` | build-observed |
+| M155160 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.HasSubstGood` | build-observed |
+| M155161 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.IntegralSubst` | build-observed |
+| M155162 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.PhGramOf` | build-observed |
+| M155163 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramUnitMultiplication.BeMulByZero` | build-observed |
 | M155164 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.GaloisClause` | build-observed |
 | M155165 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.IrreducibleCharpolyInv` | build-observed |
 | M155166 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.RootPowCard` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M155613 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlagC` | build-observed |
 | M155614 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlags` | build-observed |
 | M155615 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffMap` | build-observed |
-| M155616 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSpanSingle` | build-observed |
-| M155617 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffFlagC` | build-observed |
-| M155618 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffSG` | build-observed |
-| M155619 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PairMatrixSecondSplit` | build-observed |
-| M155620 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParGMapGlRed` | build-observed |
-| M155621 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParUniIffFlags` | build-observed |
-| M155622 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfAdapted` | build-observed |
-| M155623 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfBasisAdapted` | build-observed |
-| M155624 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfFrameBasis` | build-observed |

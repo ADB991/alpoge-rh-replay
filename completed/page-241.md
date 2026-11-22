@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158236 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeGapDS` | build-observed |
+| M158237 | P1321 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeHW` | build-observed |
+| M158238 | P1557 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemV` | build-observed |
+| M158239 | P1166 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVC` | build-observed |
+| M158240 | P0540 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVL` | build-observed |
+| M158241 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVN` | build-observed |
+| M158242 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVR` | build-observed |
+| M158243 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemma3` | build-observed |
+| M158244 | P0832 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGen` | build-observed |
 | M158245 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenA` | build-observed |
 | M158246 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenB` | build-observed |
 | M158247 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelIdx` | build-observed |
@@ -393,12 +402,3 @@
 | M158703 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJetA` | build-observed |
 | M158707 | P1166 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGUPf` | build-observed |
 | M158711 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie` | wave-reused |
-| M158715 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqBC` | build-observed |
-| M158718 | P0605 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqJet` | build-observed |
-| M158719 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqLoc` | build-observed |
-| M158723 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet` | wave-reused |
-| M158724 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdLB` | wave-reused |
-| M158725 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdSy` | wave-reused |
-| M158726 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBMapPf` | wave-reused |
-| M158729 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FormalGroupLinearSecond` | build-observed |
-| M158731 | P0969 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrRatio` | build-observed |

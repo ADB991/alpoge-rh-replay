@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072521 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpolyStatement` | volunteer-build-reviewed |
+| M072522 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixComputesTwistedSelmerResidualTransfer` | build-observed |
 | M072527 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSqStatement` | volunteer-build-reviewed |
 | M072528 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible` | volunteer-build-reviewed |
 | M072535 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixMulEntryNormLeUltrametric` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M073199 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaModuleSaturationTheoremStatement` | volunteer-build-reviewed |
 | M073202 | P0711 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiInjectiveQuotientH2` | build-observed |
 | M073203 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiInjectiveQuotientH2Statement` | build-observed |
-| M073206 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLattice` | build-observed |
-| M073207 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLatticeStatement` | build-observed |

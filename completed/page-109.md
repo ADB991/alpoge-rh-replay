@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074585 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationAtRealPlacesStatement` | volunteer-build-reviewed |
+| M074586 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlaces` | volunteer-build-reviewed |
 | M074587 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlacesStatement` | volunteer-build-reviewed |
 | M074590 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftHasPointAtLocalisationSamePlace` | volunteer-build-reviewed |
 | M074592 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSum` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M075312 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpace` | volunteer-build-reviewed |
 | M075313 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpaceStatement` | volunteer-build-reviewed |
 | M075314 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGL` | build-observed |
-| M075315 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGLStatement` | build-observed |
-| M075316 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRing` | volunteer-build-reviewed |

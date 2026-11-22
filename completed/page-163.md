@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111449 | P0905 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.IntegralConv` | build-observed |
+| M111450 | P1606 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.LocHeckeInert` | volunteer-build-reviewed |
+| M111451 | P0905 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.Mac` | build-observed |
+| M111452 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.MemSuppMono` | build-observed |
+| M111453 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.NonVan` | build-observed |
+| M111454 | P1577 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.PolyAlg` | volunteer-build-reviewed |
+| M111455 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.PsDimDecomp` | build-observed |
 | M111456 | P0990 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SandId` | build-observed |
 | M111457 | P0961 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SandPS` | build-observed |
 | M111458 | P0961 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SatAvg` | build-observed |
@@ -395,10 +402,3 @@
 | M111921 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCountIn` | volunteer-build-reviewed |
 | M111922 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCountOut` | volunteer-build-reviewed |
 | M111923 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetBasis` | volunteer-build-reviewed |
-| M111924 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCo` | volunteer-build-reviewed |
-| M111925 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCoLift` | volunteer-build-reviewed |
-| M111926 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCommon` | volunteer-build-reviewed |
-| M111927 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetCore` | volunteer-build-reviewed |
-| M111928 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetMem` | volunteer-build-reviewed |
-| M111929 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetOne` | volunteer-build-reviewed |
-| M111930 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetRingS` | volunteer-build-reviewed |

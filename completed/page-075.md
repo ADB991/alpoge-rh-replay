@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051143 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerateStatement` | volunteer-build-reviewed |
 | M051145 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanExpRealLinearStatement` | volunteer-build-reviewed |
 | M051146 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOne` | volunteer-build-reviewed |
 | M051147 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOneStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M051862 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairRankOneTraceStatement` | volunteer-build-reviewed |
 | M051864 | P1863 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingAdaptedFormulaStatement` | volunteer-build-reviewed |
 | M051865 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReduction` | volunteer-build-reviewed |
-| M051866 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReductionStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145146 | P0570 | `Formalism.GaussJetBounds.StatementY` | volunteer-build-reviewed |
+| M145147 | P0966 | `Formalism.GaussJetBounds.ThmAEntryFull` | build-observed |
+| M145148 | P0884 | `Formalism.GaussJetBounds.ThmAGauss` | build-observed |
+| M145149 | P0212 | `Formalism.GaussValuationBounds.GaussUnit` | wave-reused |
+| M145150 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.ExponentSumIdentity` | wave-reused |
+| M145151 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussBasic` | wave-reused |
+| M145152 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussMul` | wave-reused |
+| M145153 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactBis` | wave-reused |
+| M145154 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactVariant` | wave-reused |
 | M145155 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.KapBoundProof` | wave-reused |
 | M145156 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.LemmaCVal` | wave-reused |
 | M145157 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.PhiIterXProof` | wave-reused |
@@ -393,12 +402,3 @@
 | M145679 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalCut` | wave-reused |
 | M145680 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrame` | wave-reused |
 | M145681 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameA` | wave-reused |
-| M145682 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameB` | wave-reused |
-| M145684 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefCut` | wave-reused |
-| M145685 | P1293 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefTraceCut` | wave-reused |
-| M145686 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCTheta` | wave-reused |
-| M145689 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGauge` | wave-reused |
-| M145690 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeA` | wave-reused |
-| M145691 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeB` | wave-reused |
-| M145695 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTKLineCut` | build-observed |
-| M145710 | P1318 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRTrans` | wave-reused |

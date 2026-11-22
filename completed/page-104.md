@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071009 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HenselRootsOfLocalFamilyStatement` | volunteer-build-reviewed |
+| M071010 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermBasisOrthonormal` | volunteer-build-reviewed |
 | M071011 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatch` | volunteer-build-reviewed |
 | M071012 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatchStatement` | volunteer-build-reviewed |
 | M071013 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasis` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M071734 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalIffUnrOfLawsT` | volunteer-build-reviewed |
 | M071735 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalOfHypOutside` | volunteer-build-reviewed |
 | M071739 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfIsConjPl` | volunteer-build-reviewed |
-| M071740 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfNotIsConjPl` | build-observed |
-| M071741 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfTwoMem` | build-observed |

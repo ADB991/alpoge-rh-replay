@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051866 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReductionStatement` | volunteer-build-reviewed |
 | M051867 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOne` | volunteer-build-reviewed |
 | M051868 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOneStatement` | volunteer-build-reviewed |
 | M051871 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExists` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M052668 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRank` | volunteer-build-reviewed |
 | M052669 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRankStatement` | volunteer-build-reviewed |
 | M052671 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceOffTypePrimeDescriptionStatement` | volunteer-build-reviewed |
-| M052673 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceTypePrimeDescriptionStatement` | volunteer-build-reviewed |

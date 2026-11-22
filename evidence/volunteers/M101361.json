@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M101361"
+  ],
+  "started_utc": "2026-11-22T10:43:47.905964+00:00",
+  "ended_utc": "2026-11-22T10:44:33.249254+00:00",
+  "elapsed_seconds": 45.3,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 4970824
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplDvr:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "38ca64fbc006e791012e5d3dd2d5a5963952c5568b4d599d5e5bf7a26da5efce",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsNoetherianRingAdicCompletionOfNoetherian",
+    "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsRegularLocalRingAdicCompletion",
+    "Development.AbelianVarietyTheory.Proofs.ModuliProofs.IsNoetherianRingOfIsAdicComplete",
+    "Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGradedRingKernelLift",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplEx",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplLift",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplMap",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplReg",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.CaCplUniq",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.IsCplAtSelf"
+  ],
+  "objects": {
+    "M101361": "e0aade10321740fad633f497298874c759122c3ef96bc8913bdf7612d917ef03"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "cebd3849c76538df12b2244b18017f56d1c3c9d2db4f75ae3b446a0bb3c8719d",
+  "packet": "M101361",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31614#issuecomment-7078027694",
+  "reviewed_utc": "2026-11-22T11:49:07.041879+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

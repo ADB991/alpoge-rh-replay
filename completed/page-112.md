@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077050 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStagesStatement` | volunteer-build-reviewed |
+| M077051 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicSplit` | build-observed |
 | M077052 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLift` | volunteer-build-reviewed |
 | M077053 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLiftStatement` | volunteer-build-reviewed |
 | M077054 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdlCutProj` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M077854 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfRat` | volunteer-build-reviewed |
 | M077855 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRatSecOfPull` | volunteer-build-reviewed |
 | M077856 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsResOfTameAt` | volunteer-build-reviewed |
-| M077858 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRestrictedProductTupleMeasureStatement` | volunteer-build-reviewed |
-| M077859 | P2250 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsTrans` | build-observed |

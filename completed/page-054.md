@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036019 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftSmoothStatement` | build-observed |
 | M036021 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalPrimeDivisorIntegralEqGenericFibreStatement` | volunteer-build-reviewed |
 | M036022 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBound` | wave-reused |
 | M036023 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBoundStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M036683 | P1302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertPrimeNotDvdRelIndexSplitPlace` | build-observed |
 | M036687 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertSphericalStabilizerPreservesLattice` | volunteer-build-reviewed |
 | M036689 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertSupportedUnitaryPointIntegralCofiniteStatement` | volunteer-build-reviewed |
-| M036696 | P0015 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaDegBotEqFinrankFiniteDomain` | volunteer-build-reviewed |

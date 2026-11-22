@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073206 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLattice` | build-observed |
+| M073207 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLatticeStatement` | build-observed |
 | M073208 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvaria` | build-observed |
 | M073209 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvariaStatement` | build-observed |
 | M073210 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTilt` | build-observed |
@@ -400,5 +402,3 @@
 | M073873 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerUnramifiedOfVanishInertiaGeneratorsStatement` | build-observed |
 | M073874 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemiBCInjectiveOfInjective` | build-observed |
 | M073875 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearCoefficientMapCocycles` | build-observed |
-| M073878 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearMatrixComm` | volunteer-build-reviewed |
-| M073879 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleCompose` | wave-reused |

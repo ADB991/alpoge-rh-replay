@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168296 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MConeMapOverBaseRename` | wave-reused |
+| M168297 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MConeMapOverOfIsMultiHomog` | build-observed |
+| M168298 | P0702 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MIdealOverOneBlockEq` | build-observed |
+| M168299 | P0780 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MIdealOverOneHeightslock` | build-observed |
+| M168300 | P0807 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartOfMemSecOver` | build-observed |
+| M168301 | P0835 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartRingBlockVecIff` | build-observed |
+| M168302 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartSecOverOfMem` | wave-reused |
+| M168303 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemClosureOfMemChartRing` | wave-reused |
+| M168304 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemMIdealOverIff` | wave-reused |
 | M168307 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulMemSecsTwistIdealSys` | volunteer-build-reviewed |
 | M168308 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulQuotEqSt` | wave-reused |
 | M168309 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefExtendIsoSt` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M168841 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPInert` | volunteer-build-reviewed |
 | M168842 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPSplit` | volunteer-build-reviewed |
 | M168844 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PNormUbar` | volunteer-build-reviewed |
-| M168845 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationBound` | volunteer-build-reviewed |
-| M168846 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationCoeff` | volunteer-build-reviewed |
-| M168847 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPrimesLogSum` | volunteer-build-reviewed |
-| M168848 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestPBound` | volunteer-build-reviewed |
-| M168850 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestSummable` | volunteer-build-reviewed |
-| M168852 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShOfPower` | volunteer-build-reviewed |
-| M168853 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotIndependent` | volunteer-build-reviewed |
-| M168854 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotInvertiblePair` | volunteer-build-reviewed |
-| M168855 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermA` | volunteer-build-reviewed |

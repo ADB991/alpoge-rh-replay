@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102564 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerExtend` | volunteer-build-reviewed |
+| M102565 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerHom` | volunteer-build-reviewed |
+| M102566 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.EigenMem` | wave-reused |
+| M102567 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLiftDominatingPairOfMaximalIdealPowEqBot` | volunteer-build-reviewed |
 | M102568 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLimitOfSuccessiveDiffMemFiltration` | volunteer-build-reviewed |
 | M102569 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLocallyConstantDOneEqCocycleOfTameInertia` | volunteer-build-reviewed |
 | M102570 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FiniteLiftDualNumberOfPhiCond` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M103263 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StEta` | volunteer-build-reviewed |
 | M103264 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StMu` | volunteer-build-reviewed |
 | M103265 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StRes` | volunteer-build-reviewed |
-| M103266 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StSel` | volunteer-build-reviewed |
-| M103267 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StTame` | volunteer-build-reviewed |
-| M103268 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrSMul` | wave-reused |
-| M103269 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrYMap` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082379 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateCloseStatement` | volunteer-build-reviewed |
+| M082380 | P1698 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonal` | volunteer-build-reviewed |
 | M082381 | P1721 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonalStatement` | volunteer-build-reviewed |
 | M082383 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLiftReadingOfDecoratedLatticePresentatioStatement` | volunteer-build-reviewed |
 | M082384 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTrans` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M083458 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponent` | wave-reused |
 | M083459 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponentStatement` | wave-reused |
 | M083460 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensor` | wave-reused |
-| M083461 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensorStatement` | wave-reused |
-| M083462 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotone` | wave-reused |

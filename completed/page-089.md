@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061051 | P1225 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmQuadraticPhaseEquivariantEmbeddingsStatement` | build-observed |
 | M061052 | P1120 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatible` | build-observed |
 | M061053 | P1149 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatibleStatement` | build-observed |
 | M061056 | P1034 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaLatticePointMemThetaLatticeOfAdelic` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M061698 | P0653 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeight` | wave-reused |
 | M061699 | P0683 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeightStatement` | wave-reused |
 | M061704 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePa` | volunteer-build-reviewed |
-| M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |

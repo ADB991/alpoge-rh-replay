@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085049 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDominantGeometricPointOfIsPreimmersion` | volunteer-build-reviewed |
+| M085050 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsE8IsSharpBasis` | volunteer-build-reviewed |
 | M085051 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGaloisCoverOfIsQProjOver` | volunteer-build-reviewed |
 | M085053 | P1406 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGenSecNear` | volunteer-build-reviewed |
 | M085054 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGrpPullbackRetraction` | wave-reused |
@@ -400,5 +402,3 @@
 | M085745 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemRangeOfIsPullback` | volunteer-build-reviewed |
 | M085747 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MinimalAndDimLe` | volunteer-build-reviewed |
 | M085749 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus` | volunteer-build-reviewed |
-| M085752 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModelFiniteOverModuliModelDescends` | volunteer-build-reviewed |
-| M085756 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliFiniteSurjectiveOverGenericFamilyStatement` | volunteer-build-reviewed |

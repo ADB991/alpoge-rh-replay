@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081272 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartAtUpdSReFace` | volunteer-build-reviewed |
+| M081276 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharacters` | volunteer-build-reviewed |
 | M081277 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharactersStatement` | volunteer-build-reviewed |
 | M081279 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PatchAtSelf` | volunteer-build-reviewed |
 | M081284 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodChartRescaleBallToUnitPolydisc` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M082367 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerizationStatement` | volunteer-build-reviewed |
 | M082374 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardAddCharPlaceIdempotentDivPrime` | volunteer-build-reviewed |
 | M082378 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateClose` | volunteer-build-reviewed |
-| M082379 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateCloseStatement` | volunteer-build-reviewed |
-| M082380 | P1698 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonal` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M037498 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissible` | volunteer-build-reviewed |
 | M037499 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissibleDecomposableCompEquiv` | volunteer-build-reviewed |
 | M037505 | P1861 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterGoodIdempotentCuspidalProducStatement` | volunteer-build-reviewed |
 | M037506 | P0812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterOfProduct` | build-observed |
@@ -401,4 +402,3 @@
 | M038289 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionDifferenceStatement` | build-observed |
 | M038290 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionIntegralJ` | build-observed |
 | M038291 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionIntegralJStatement` | build-observed |
-| M038292 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionNonrealMultiplier` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156064 | P1190 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsCompactOhat` | build-observed |
+| M156065 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsCompactStabGLHat` | build-observed |
+| M156066 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsHermNDOfSetting` | build-observed |
+| M156067 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.LatHat` | build-observed |
+| M156068 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MapSubOneMulVec` | build-observed |
+| M156069 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassDataMassesOf` | build-observed |
+| M156070 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassHNonneg` | build-observed |
+| M156071 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldGenHolds` | build-observed |
+| M156072 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldHolds` | build-observed |
 | M156073 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MeasurePrjFPreimage` | build-observed |
 | M156074 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NLevelHolds` | build-observed |
 | M156075 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NRatBridgeHolds` | build-observed |
@@ -393,12 +402,3 @@
 | M156499 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.UnitMulDetNeZero` | build-observed |
 | M156500 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.UnitPreserving` | build-observed |
 | M156501 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RightSingleRule.EllSingleZero` | wave-reused |
-| M156502 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RightSingleRule.PatEntryZero` | wave-reused |
-| M156503 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.FlagMatLower` | build-observed |
-| M156504 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.NegOnePowMulSelf` | build-observed |
-| M156505 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.PtEntryNeZeroImp` | build-observed |
-| M156506 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.SuperdiagPairingAdjacent` | build-observed |
-| M156507 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.TriDefs` | build-observed |
-| M156508 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.TriShear` | build-observed |
-| M156509 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.ContinuousGS` | build-observed |
-| M156510 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.MatEqZeroOfSpan` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150263 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHSup` | volunteer-build-reviewed |
+| M150265 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.BaseEmbeddingInclusion` | build-observed |
+| M150266 | P1022 | `Formalism.LocalToGlobal.ProjectiveLattices.BetaAddRight` | build-observed |
+| M150267 | P0328 | `Formalism.LocalToGlobal.ProjectiveLattices.BetaAtSymm` | build-observed |
+| M150269 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.ChartDirectionsIntegral` | wave-reused |
+| M150270 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ChartWD` | wave-reused |
+| M150271 | P1164 | `Formalism.LocalToGlobal.ProjectiveLattices.ChiProofs` | build-observed |
+| M150272 | P1212 | `Formalism.LocalToGlobal.ProjectiveLattices.CombAlgOfCombBound` | volunteer-build-reviewed |
+| M150273 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompData` | build-observed |
 | M150274 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompFin` | build-observed |
 | M150275 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.CompHt` | build-observed |
 | M150276 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.CompOrd` | build-observed |
@@ -393,12 +402,3 @@
 | M150790 | P1050 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ParCols` | build-observed |
 | M150791 | P1109 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PhaseAtPf` | build-observed |
 | M150792 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PiMapMulRight` | build-observed |
-| M150794 | P1662 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ProdExactHolds` | build-observed |
-| M150795 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ProdFormula` | build-observed |
-| M150796 | P1346 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ProdIccRange` | build-observed |
-| M150797 | P1165 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ProductExactness` | build-observed |
-| M150798 | P1640 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ProductFormulaHolds` | build-observed |
-| M150799 | P0748 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PtCellUniq` | build-observed |
-| M150800 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.QuotIndepPf` | build-observed |
-| M150801 | P0071 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.QuotIndepStmt` | volunteer-build-reviewed |
-| M150802 | P1640 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPf` | build-observed |

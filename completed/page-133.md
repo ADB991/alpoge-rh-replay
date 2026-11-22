@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094461 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtensionStatement` | volunteer-build-reviewed |
+| M094462 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluation` | volunteer-build-reviewed |
 | M094463 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluationStatement` | volunteer-build-reviewed |
 | M094464 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModel` | volunteer-build-reviewed |
 | M094465 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModelStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M094941 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndex` | volunteer-build-reviewed |
 | M094942 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndexStatement` | volunteer-build-reviewed |
 | M094944 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceStabilizersFixWeilLatticeVacuumStatement` | volunteer-build-reviewed |
-| M094945 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfOfMulFinOf` | volunteer-build-reviewed |
-| M094946 | P1232 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfPartOneSubEInfSmul` | volunteer-build-reviewed |

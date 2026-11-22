@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156502 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RightSingleRule.PatEntryZero` | wave-reused |
+| M156503 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.FlagMatLower` | build-observed |
+| M156504 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.NegOnePowMulSelf` | build-observed |
+| M156505 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.PtEntryNeZeroImp` | build-observed |
+| M156506 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.SuperdiagPairingAdjacent` | build-observed |
+| M156507 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.TriDefs` | build-observed |
+| M156508 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.TriShear` | build-observed |
+| M156509 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.ContinuousGS` | build-observed |
+| M156510 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.MatEqZeroOfSpan` | build-observed |
 | M156511 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.RootHaarMain` | build-observed |
 | M156512 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.BlkLt` | build-observed |
 | M156513 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.ContinuousRootCoords` | build-observed |
@@ -393,12 +402,3 @@
 | M156914 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdm` | wave-reused |
 | M156915 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmA` | wave-reused |
 | M156916 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmB` | wave-reused |
-| M156917 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmC` | wave-reused |
-| M156918 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ESSymmApply` | wave-reused |
-| M156919 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.EventuallySmulSub` | wave-reused |
-| M156920 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.EventuallyStruct` | wave-reused |
-| M156921 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExChar` | wave-reused |
-| M156922 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExFDStab` | wave-reused |
-| M156923 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExFDStabFin` | wave-reused |
-| M156924 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExOmTOfSteps` | wave-reused |
-| M156925 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabFin` | wave-reused |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128693 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCard` | volunteer-build-reviewed |
+| M128694 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCardStatement` | volunteer-build-reviewed |
+| M128696 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergEqLFactorStatement` | volunteer-build-reviewed |
+| M128697 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergLocalFactor` | volunteer-build-reviewed |
+| M128698 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergLocalFactorStatement` | volunteer-build-reviewed |
+| M128699 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedSatake` | volunteer-build-reviewed |
+| M128700 | P1953 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegral` | build-observed |
 | M128701 | P1970 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegralStatement` | build-observed |
 | M128703 | P1915 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaSpherical` | build-observed |
 | M128704 | P1934 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaValueIndicator` | build-observed |
@@ -395,10 +402,3 @@
 | M129439 | P0629 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumberStatement` | wave-reused |
 | M129440 | P0689 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycle` | wave-reused |
 | M129441 | P0716 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycleStatement` | wave-reused |
-| M129442 | P0564 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontal` | wave-reused |
-| M129443 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontalStatement` | volunteer-build-reviewed |
-| M129444 | P0530 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalPairPowerSumVanish` | wave-reused |
-| M129445 | P0564 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalPairPowerSumVanishStatement` | wave-reused |
-| M129446 | P2751 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputs` | volunteer-build-reviewed |
-| M129447 | P2758 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputsStatement` | volunteer-build-reviewed |
-| M129456 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbBound` | volunteer-build-reviewed |

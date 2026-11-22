@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162950 | P0541 | `GroundTheory.AutomorphicForms.TraceFormulaWeil` | build-observed |
+| M162951 | P0225 | `GroundTheory.AutomorphicForms.TraceNormComp` | wave-reused |
+| M162952 | P0282 | `GroundTheory.AutomorphicForms.TraceStrongLimit` | wave-reused |
+| M162953 | P1393 | `GroundTheory.AutomorphicForms.UnitaryAdmissible` | wave-reused |
+| M162954 | P1348 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspCentral` | wave-reused |
+| M162955 | P1370 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspFinite` | wave-reused |
+| M162956 | P1026 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspScalar` | wave-reused |
+| M162957 | P1168 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.FiltrationCocycleLiftCriterion` | wave-reused |
+| M162958 | P0971 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.Scalar` | wave-reused |
 | M162959 | P0282 | `GroundTheory.AutomorphicForms.UnitaryGroupEquations` | wave-reused |
 | M162960 | P0225 | `GroundTheory.AutomorphicForms.UnitaryGroupScheme` | wave-reused |
 | M162961 | P0225 | `GroundTheory.AutomorphicForms.UnitaryRepresentations` | wave-reused |
@@ -393,12 +402,3 @@
 | M163408 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Monotone` | wave-reused |
 | M163409 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.NormIteratedFDerivCompLeOfIsOpen` | wave-reused |
 | M163410 | P0381 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects` | wave-reused |
-| M163411 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.OfListTailLog` | wave-reused |
-| M163412 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdCocycle` | wave-reused |
-| M163413 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdComparison` | wave-reused |
-| M163414 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdDivides` | wave-reused |
-| M163415 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdEqHolo` | wave-reused |
-| M163416 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdMetric` | wave-reused |
-| M163417 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdNormCont` | wave-reused |
-| M163418 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdPartition` | wave-reused |
-| M163419 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdSectionProps` | wave-reused |

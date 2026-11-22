@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163950 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.EqZeroOfMemZeroLocusLineOriginIdeal` | wave-reused |
+| M163952 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FrameProjEq` | wave-reused |
+| M163953 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FsLogRegBasic` | wave-reused |
+| M163954 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GenericCountCover` | volunteer-build-reviewed |
+| M163957 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GoodPointChartLemmas` | volunteer-build-reviewed |
+| M163958 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GradientAtPoint` | volunteer-build-reviewed |
+| M163959 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GraphChartEventuallyEqSheet` | wave-reused |
+| M163961 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HeightCoheightQuotient` | volunteer-build-reviewed |
+| M163962 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HolomorphicZerosNotIsolated` | volunteer-build-reviewed |
 | M163963 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Imports` | volunteer-build-reviewed |
 | M163964 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.ImportsAlt` | volunteer-build-reviewed |
 | M163965 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.ImportsBis` | wave-reused |
@@ -393,12 +402,3 @@
 | M164619 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermsNoetherian` | volunteer-build-reviewed |
 | M164620 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermsUFD` | volunteer-build-reviewed |
 | M164621 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicFibreInfinite` | volunteer-build-reviewed |
-| M164623 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicIsolatedFibreOpen` | volunteer-build-reviewed |
-| M164624 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicKernelFibre` | volunteer-build-reviewed |
-| M164625 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicOnSubset` | volunteer-build-reviewed |
-| M164626 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicZeroSetDimH` | volunteer-build-reviewed |
-| M164627 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHomogDimZeroPow` | wave-reused |
-| M164628 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHypersurfacePresentation` | volunteer-build-reviewed |
-| M164629 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIdealHeightSpread` | volunteer-build-reviewed |
-| M164630 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StImageDimLe` | volunteer-build-reviewed |
-| M164631 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StImplicitCurve` | wave-reused |

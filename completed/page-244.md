@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159619 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DPsiMonomialIwh` | build-observed |
+| M159620 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DerivativeRepresentation` | build-observed |
+| M159621 | P1687 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsP` | build-observed |
+| M159622 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsPAlt` | build-observed |
+| M159623 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetYNeZero` | build-observed |
+| M159624 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ExplicitMapOntoTwoLetterSpace` | build-observed |
+| M159625 | P0078 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.GrowthOfBasic` | build-observed |
+| M159626 | P1664 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ImportsAlt` | build-observed |
+| M159627 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.InitialMinorLiftFirstEntry` | build-observed |
 | M159628 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamAddC` | build-observed |
 | M159629 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamPolySmulRight` | build-observed |
 | M159630 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LastNeZero` | build-observed |
@@ -393,12 +402,3 @@
 | M160030 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExponentFactorialAddSingleOne` | wave-reused |
 | M160031 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorLatticeScaledMem` | wave-reused |
 | M160032 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorOfReducibility` | wave-reused |
-| M160033 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FiltrationAdjointStable` | wave-reused |
-| M160034 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FockLatticeFiniteSpanning` | wave-reused |
-| M160035 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FrameChangePreservesMultidegree` | wave-reused |
-| M160036 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedModuleWeightLemmaOfInterfaces` | wave-reused |
-| M160037 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedModuleWeightLemmaPartB` | wave-reused |
-| M160038 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedWeightLemmaOfFormulas` | wave-reused |
-| M160039 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedWeightLemmaOfReducibility` | wave-reused |
-| M160040 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GenericMatrixEvaluationDet` | wave-reused |
-| M160041 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorMemIntegralEnveloping` | wave-reused |

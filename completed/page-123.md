@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086643 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducible` | volunteer-build-reviewed |
+| M086644 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducibleStatement` | volunteer-build-reviewed |
 | M086645 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfIntertwining` | volunteer-build-reviewed |
 | M086646 | P2568 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfSplit` | volunteer-build-reviewed |
 | M086647 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRange` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M087803 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinatesStatement` | volunteer-build-reviewed |
 | M087809 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FullConclusionOfInputs` | volunteer-build-reviewed |
 | M087811 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslate` | volunteer-build-reviewed |
-| M087812 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslateStatement` | volunteer-build-reviewed |
-| M087813 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresented` | volunteer-build-reviewed |

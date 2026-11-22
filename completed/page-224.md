@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149287 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfRangeAdjoint` | build-observed |
+| M149288 | P1441 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfVec` | volunteer-build-reviewed |
+| M149289 | P1164 | `Formalism.LocalToGlobal.IndefiniteReal.EquivFunOM` | build-observed |
+| M149290 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.EvTieP` | build-observed |
+| M149292 | P1468 | `Formalism.LocalToGlobal.IndefiniteReal.EvalTieTOne` | build-observed |
+| M149293 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsChosenExtremalVector` | build-observed |
+| M149295 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsStrictHenselianAbsolutelyClosedLocalRing` | build-observed |
+| M149296 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsSumOfMemISup` | build-observed |
+| M149298 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FWExist` | build-observed |
 | M149299 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FWTie` | build-observed |
 | M149300 | P0967 | `Formalism.LocalToGlobal.IndefiniteReal.FaceOf3` | build-observed |
 | M149301 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ActsLinOfSplitLin` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M150260 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.AvMono` | wave-reused |
 | M150261 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHInst` | build-observed |
 | M150262 | P1188 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHLAM` | volunteer-build-reviewed |
-| M150263 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHSup` | volunteer-build-reviewed |
-| M150265 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.BaseEmbeddingInclusion` | build-observed |
-| M150266 | P1022 | `Formalism.LocalToGlobal.ProjectiveLattices.BetaAddRight` | build-observed |
-| M150267 | P0328 | `Formalism.LocalToGlobal.ProjectiveLattices.BetaAtSymm` | build-observed |
-| M150269 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.ChartDirectionsIntegral` | wave-reused |
-| M150270 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ChartWD` | wave-reused |
-| M150271 | P1164 | `Formalism.LocalToGlobal.ProjectiveLattices.ChiProofs` | build-observed |
-| M150272 | P1212 | `Formalism.LocalToGlobal.ProjectiveLattices.CombAlgOfCombBound` | volunteer-build-reviewed |
-| M150273 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompData` | build-observed |

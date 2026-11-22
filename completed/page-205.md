@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136315 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeOneValueOfRootsKum` | wave-reused |
+| M136316 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeTwoValueOfRootsKum` | wave-reused |
+| M136320 | P0417 | `Development.EtaleCohomology.TateTwists.FirstChernClassSpec` | wave-reused |
+| M136321 | P0458 | `Development.EtaleCohomology.TateTwists.FirstChernSpecOfRepresentative` | wave-reused |
+| M136322 | P0499 | `Development.EtaleCohomology.TateTwists.FreeExt` | wave-reused |
+| M136323 | P0499 | `Development.EtaleCohomology.TateTwists.GenConnPf` | wave-reused |
+| M136324 | P0663 | `Development.EtaleCohomology.TateTwists.HoldsOf` | wave-reused |
+| M136327 | P0458 | `Development.EtaleCohomology.TateTwists.IsTensorFlip` | wave-reused |
 | M136328 | P0499 | `Development.EtaleCohomology.TateTwists.KumAddPf` | wave-reused |
 | M136329 | P0499 | `Development.EtaleCohomology.TateTwists.KumExistsPf` | wave-reused |
 | M136330 | P0534 | `Development.EtaleCohomology.TateTwists.KumMulCocPf` | wave-reused |
@@ -394,11 +402,3 @@
 | M136742 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactChartUniqueness` | wave-reused |
 | M136743 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCommonCharts` | wave-reused |
 | M136744 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCoordinate` | wave-reused |
-| M136745 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactEtaleUniqueness` | wave-reused |
-| M136746 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactHypersurface` | wave-reused |
-| M136747 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactIdeal` | wave-reused |
-| M136748 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactStrictTransform` | wave-reused |
-| M136749 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.StalkIdealSpreadOut` | wave-reused |
-| M136750 | P0144 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdeal` | wave-reused |
-| M136751 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealPowers` | volunteer-build-reviewed |
-| M136752 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealSheaf` | wave-reused |

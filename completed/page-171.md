@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115391 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailMore` | volunteer-build-reviewed |
+| M115392 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailRest` | volunteer-build-reviewed |
+| M115393 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailTer` | volunteer-build-reviewed |
+| M115394 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTer` | volunteer-build-reviewed |
+| M115395 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerAlt` | build-observed |
+| M115396 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerBis` | build-observed |
+| M115397 | P0715 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerExtra` | wave-reused |
 | M115398 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerFurther` | volunteer-build-reviewed |
 | M115399 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerLast` | volunteer-build-reviewed |
 | M115400 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerMore` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M115817 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedHomogeneousMap` | volunteer-build-reviewed |
 | M115818 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedSumBis` | volunteer-build-reviewed |
 | M115819 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightsCompactStabilizer` | volunteer-build-reviewed |
-| M115820 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WithBotEqOfLeOfAddOneLe` | wave-reused |
-| M115821 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WtGeProd` | wave-reused |
-| M115822 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZASmul` | build-observed |
-| M115823 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZariskiNoetherianInduction` | wave-reused |
-| M115824 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZeroContDiffOnSupported` | volunteer-build-reviewed |
-| M115825 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Action` | wave-reused |
-| M115826 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Coefficients` | wave-reused |

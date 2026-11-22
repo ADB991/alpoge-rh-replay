@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148208 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelLocT` | build-observed |
+| M148209 | P1136 | `Formalism.LocalToGlobal.Columns.RecLevelStep` | build-observed |
+| M148210 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelSym` | build-observed |
+| M148211 | P1187 | `Formalism.LocalToGlobal.Columns.RecLevelSymExt` | build-observed |
+| M148212 | P1049 | `Formalism.LocalToGlobal.Columns.RecLevelSymF` | build-observed |
+| M148213 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelTop` | build-observed |
+| M148214 | P1528 | `Formalism.LocalToGlobal.Columns.RecPerFF` | build-observed |
+| M148215 | P1163 | `Formalism.LocalToGlobal.Columns.Record` | build-observed |
+| M148216 | P1238 | `Formalism.LocalToGlobal.Columns.RecordFS` | build-observed |
 | M148218 | P1498 | `Formalism.LocalToGlobal.Columns.ReducedMatrixExtensionEntry` | build-observed |
 | M148219 | P1583 | `Formalism.LocalToGlobal.Columns.ReductionColumnStandardBasis` | build-observed |
 | M148220 | P1556 | `Formalism.LocalToGlobal.Columns.ReductionExistsInLatticeStabilizerHolds` | build-observed |
@@ -393,12 +402,3 @@
 | M148776 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CoordMapInjective` | build-observed |
 | M148777 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdelicFunctionRightTranslateDiamond` | build-observed |
 | M148778 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdmissibleStabilisersOfCompatibleForms` | build-observed |
-| M148779 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.CharacterFiniteLevelZeroOfForms` | build-observed |
-| M148780 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplementSmulLocalExtensionMatrix` | build-observed |
-| M148781 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplexSpanBlockActionStable` | build-observed |
-| M148782 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.DiamondCommDistinctPlaces` | build-observed |
-| M148783 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.EqOneOfCoprimeTorsionTwoPrimes` | build-observed |
-| M148784 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.GroupActionMulSingleEqDilation` | build-observed |
-| M148785 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.LocalDiamondOfSplitIdempotent` | build-observed |
-| M148787 | P1318 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.MetricDisjointSupportOrthogonal` | build-observed |
-| M148789 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PSplitT` | build-observed |

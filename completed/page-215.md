@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144339 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WSubst` | wave-reused |
+| M144340 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionWeights` | wave-reused |
+| M144341 | P0460 | `Formalism.EllipticTorsion.FormalGroupPointsNoTorsion` | wave-reused |
+| M144342 | P0325 | `Formalism.EllipticTorsion.FormalGroupPointsParametrisation` | wave-reused |
+| M144343 | P0271 | `Formalism.EllipticTorsion.FormalGroupPointsTorsionFree` | wave-reused |
+| M144344 | P0068 | `Formalism.EllipticTorsion.IsoExpand` | wave-reused |
+| M144345 | P0271 | `Formalism.EllipticTorsion.JetsCube` | wave-reused |
+| M144346 | P0211 | `Formalism.EllipticTorsion.Statement` | wave-reused |
+| M144347 | P0271 | `Formalism.EllipticTorsion.UnitCancel` | wave-reused |
 | M144348 | P0271 | `Formalism.EllipticTorsion.VeluIntegralModel` | wave-reused |
 | M144349 | P0146 | `Formalism.EllipticTorsion.WChordSeries` | wave-reused |
 | M144350 | P0068 | `Formalism.EllipticTorsion.WSeriesUnique` | wave-reused |
@@ -393,12 +402,3 @@
 | M144738 | P0747 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormLeOfMemIdeal` | wave-reused |
 | M144739 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormSpanEqProd` | wave-reused |
 | M144740 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormSpanSingletonEq` | wave-reused |
-| M144741 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinIntegralOfNonempty` | wave-reused |
-| M144742 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinMemGenusIff` | wave-reused |
-| M144743 | P1076 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AkCountEqRedCountMul` | wave-reused |
-| M144744 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapConjO` | wave-reused |
-| M144745 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapIntCastSmul` | wave-reused |
-| M144746 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapNeZeroOfMemHcompl` | wave-reused |
-| M144747 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaLEqOfBridge` | wave-reused |
-| M144748 | P1106 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaNOfVdZeroUnit` | wave-reused |
-| M144749 | P1076 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaStdOneNeZero` | wave-reused |

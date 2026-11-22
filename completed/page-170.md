@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114959 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInter` | volunteer-build-reviewed |
+| M114960 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInterAlt` | volunteer-build-reviewed |
+| M114961 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalIntertwining` | volunteer-build-reviewed |
+| M114962 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMemInvariantSubmodule` | volunteer-build-reviewed |
+| M114963 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulHomog` | volunteer-build-reviewed |
+| M114964 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulOfIsHomogeneous` | volunteer-build-reviewed |
+| M114965 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AffineGenerators` | volunteer-build-reviewed |
 | M114966 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AgreeOfAdjoin` | volunteer-build-reviewed |
 | M114967 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraSmulCommClassComplex` | volunteer-build-reviewed |
 | M114968 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraicPointIntegral` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M115388 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailBis` | volunteer-build-reviewed |
 | M115389 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailExtra` | volunteer-build-reviewed |
 | M115390 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailFurther` | volunteer-build-reviewed |
-| M115391 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailMore` | volunteer-build-reviewed |
-| M115392 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailRest` | volunteer-build-reviewed |
-| M115393 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailTer` | volunteer-build-reviewed |
-| M115394 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTer` | volunteer-build-reviewed |
-| M115395 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerAlt` | build-observed |
-| M115396 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerBis` | build-observed |
-| M115397 | P0715 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerExtra` | wave-reused |

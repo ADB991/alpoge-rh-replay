@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095888 | P2587 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSum` | volunteer-build-reviewed |
+| M095889 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSumStatement` | volunteer-build-reviewed |
 | M095890 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwining` | volunteer-build-reviewed |
 | M095891 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwiningStatement` | volunteer-build-reviewed |
 | M095892 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelEq` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M096392 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateMoveV` | volunteer-build-reviewed |
 | M096393 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairInfApply` | volunteer-build-reviewed |
 | M096394 | P1103 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompat` | build-observed |
-| M096395 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompatStatement` | build-observed |
-| M096396 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairOperatorStatement` | volunteer-build-reviewed |

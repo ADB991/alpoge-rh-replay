@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162523 | P1215 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsBase` | wave-reused |
+| M162524 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContRep` | wave-reused |
+| M162525 | P1296 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContinuous` | wave-reused |
+| M162526 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsMeasure` | wave-reused |
+| M162527 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.TorusDifference` | wave-reused |
+| M162528 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.TorusReduction` | wave-reused |
+| M162529 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.Unimodular` | wave-reused |
+| M162530 | P1191 | `GroundTheory.AutomorphicForms.CuspidalProjection.ContinuousFiniteAdeleSingleAdd` | build-observed |
+| M162531 | P1215 | `GroundTheory.AutomorphicForms.CuspidalProjection.Global` | build-observed |
 | M162532 | P1242 | `GroundTheory.AutomorphicForms.CuspidalProjection.OrthogonalProjectionOntoCompSubtypeL` | build-observed |
 | M162533 | P0080 | `GroundTheory.AutomorphicForms.CuspidalProjection.Unfold` | volunteer-build-reviewed |
 | M162534 | P0805 | `GroundTheory.AutomorphicForms.CuspidalSplitting` | build-observed |
@@ -393,12 +402,3 @@
 | M162947 | P0465 | `GroundTheory.AutomorphicForms.TraceFormulaGeometric` | build-observed |
 | M162948 | P0380 | `GroundTheory.AutomorphicForms.TraceFormulaMultiplicity` | build-observed |
 | M162949 | P0334 | `GroundTheory.AutomorphicForms.TraceFormulaSpectral` | build-observed |
-| M162950 | P0541 | `GroundTheory.AutomorphicForms.TraceFormulaWeil` | build-observed |
-| M162951 | P0225 | `GroundTheory.AutomorphicForms.TraceNormComp` | wave-reused |
-| M162952 | P0282 | `GroundTheory.AutomorphicForms.TraceStrongLimit` | wave-reused |
-| M162953 | P1393 | `GroundTheory.AutomorphicForms.UnitaryAdmissible` | wave-reused |
-| M162954 | P1348 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspCentral` | wave-reused |
-| M162955 | P1370 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspFinite` | wave-reused |
-| M162956 | P1026 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspScalar` | wave-reused |
-| M162957 | P1168 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.FiltrationCocycleLiftCriterion` | wave-reused |
-| M162958 | P0971 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.Scalar` | wave-reused |

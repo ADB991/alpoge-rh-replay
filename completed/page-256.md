@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165666 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumZeroSlot` | pilot-reused |
+| M165667 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PLocalIntegralClosureFinite` | wave-reused |
+| M165668 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PLocalizedQuotientLength` | wave-reused |
+| M165669 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartDehomog` | wave-reused |
+| M165670 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartHomog` | wave-reused |
+| M165671 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartLocDim` | wave-reused |
+| M165672 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartTrdeg` | wave-reused |
+| M165673 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMixedDiffConst` | pilot-reused |
+| M165674 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMultEqualsCoeff` | pilot-reused |
 | M165675 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PNoetherIntegralClosure` | wave-reused |
 | M165676 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContracted` | pilot-reused |
 | M165677 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContractedDim` | pilot-reused |
@@ -393,12 +402,3 @@
 | M166111 | P0726 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualCurvePoint` | build-observed |
 | M166112 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEmbBijective` | build-observed |
 | M166113 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEnergyCharts` | volunteer-build-reviewed |
-| M166117 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeBasisExists` | build-observed |
-| M166118 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeIndex` | build-observed |
-| M166121 | P0726 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineIndex` | build-observed |
-| M166122 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineSemipositive` | build-observed |
-| M166127 | P0608 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedDegree` | build-observed |
-| M166129 | P0888 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcChart` | build-observed |
-| M166130 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCoords` | build-observed |
-| M166131 | P0861 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCycle` | build-observed |
-| M166132 | P0672 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcGeoFirst` | build-observed |

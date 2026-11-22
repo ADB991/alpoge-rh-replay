@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166953 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImageHilb` | build-observed |
+| M166970 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChangeOfModel` | build-observed |
+| M166971 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCharpolyRootLift` | build-observed |
+| M166972 | P0286 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartBergman` | volunteer-build-reviewed |
+| M166976 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartImageNull` | build-observed |
+| M166977 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartLatQCech` | wave-reused |
+| M166980 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartPrimePowerInverse` | build-observed |
+| M166981 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartSup` | volunteer-build-reviewed |
+| M166982 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsClopenComponents` | volunteer-build-reviewed |
 | M166983 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsClopenDegree` | volunteer-build-reviewed |
 | M166988 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexFormsOnPoints` | volunteer-build-reviewed |
 | M166990 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexMinimalPrimesContract` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M167647 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.RatLocalAffine` | wave-reused |
 | M167648 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.SpreadIsoModelIff` | wave-reused |
 | M167649 | P0286 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.Statements` | wave-reused |
-| M167650 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsBasisIsoFree` | wave-reused |
-| M167651 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsDescendHom` | wave-reused |
-| M167652 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsFreeSheafBasis` | wave-reused |
-| M167653 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericGerm` | wave-reused |
-| M167654 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericPullInj` | wave-reused |
-| M167655 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGenericSections` | wave-reused |
-| M167656 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGlue` | wave-reused |
-| M167657 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsGlueTwo` | volunteer-build-reviewed |
-| M167658 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsHeightOneSections` | wave-reused |

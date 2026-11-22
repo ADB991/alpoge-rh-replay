@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174302 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HWExists` | build-observed |
+| M174303 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HasDerivAtRealOfComplex` | wave-reused |
+| M174304 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HcParamGapGeIndex` | wave-reused |
+| M174305 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelCext` | wave-reused |
+| M174306 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelDer` | wave-reused |
+| M174307 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelFun` | wave-reused |
+| M174308 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGen` | wave-reused |
+| M174309 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGenA` | wave-reused |
+| M174310 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelInner` | wave-reused |
 | M174311 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelSpace` | wave-reused |
 | M174312 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau` | wave-reused |
 | M174313 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTwist` | wave-reused |
@@ -393,12 +402,3 @@
 | M174871 | P0171 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.BlockAnti` | volunteer-build-reviewed |
 | M174872 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CompactLoweringSpanDiagStable` | build-observed |
 | M174873 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CoordSpan` | build-observed |
-| M174874 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.DetOneSubEqSumMinors` | build-observed |
-| M174876 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ExistsNonzeroPhysicalHighestWeightVectorTensFock` | build-observed |
-| M174877 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.FfExpWedgeHasDeriv` | build-observed |
-| M174879 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.GeneratedSubStable` | build-observed |
-| M174880 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.GsBasisPhys` | build-observed |
-| M174882 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.InvoluteFfMapsTo` | build-observed |
-| M174883 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.IsPhysSet` | build-observed |
-| M174885 | P1083 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.LoweringSpanDiagStable` | build-observed |
-| M174886 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemHighestWeightSubIff` | build-observed |

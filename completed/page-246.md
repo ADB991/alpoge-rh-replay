@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160472 | P0506 | `Formalism.SharpRestriction.LevelLetterCocycles.DataN` | wave-reused |
+| M160473 | P0280 | `Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc` | wave-reused |
+| M160474 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DdRFull` | build-observed |
+| M160475 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData` | build-observed |
+| M160476 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices` | wave-reused |
+| M160477 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantUniformizer` | build-observed |
+| M160479 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DistinctEigenvalueCornerPerturbationOfBlocks` | build-observed |
+| M160480 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.DivisibilityInvariantMulLinear` | wave-reused |
+| M160482 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DownSlotProposition` | build-observed |
 | M160486 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalEndApply` | build-observed |
 | M160487 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalMemOfStable` | build-observed |
 | M160489 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ClassMapPf` | build-observed |
@@ -393,12 +402,3 @@
 | M161261 | P0778 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChiEightNoRealZeroHypothesis` | build-observed |
 | M161262 | P0222 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.CorollaryModelSideCondition` | build-observed |
 | M161263 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DiscriminantSettingSatisfied` | build-observed |
-| M161264 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DisplayedInequalitySharpHalf` | build-observed |
-| M161265 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ErrorExponentBelowOnesFalse` | build-observed |
-| M161266 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem` | build-observed |
-| M161267 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsOrthonormalFrameComplement` | build-observed |
-| M161268 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.GaloisMapComplexConjugation` | build-observed |
-| M161269 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.IntersectionFailsForSubmodule` | build-observed |
-| M161270 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.JointDModelAppliesUnitLattice` | build-observed |
-| M161271 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence` | build-observed |
-| M161272 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LipschitzWeightAndMinimum` | build-observed |

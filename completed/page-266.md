@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171883 | P0513 | `ReciprocityTheory.DualLattices.WdetDegreeOfSmithRestrict` | wave-reused |
+| M171884 | P0168 | `ReciprocityTheory.DualLattices.WedgeNeZeroOfLinearIndependent` | wave-reused |
+| M171885 | P0290 | `ReciprocityTheory.DualLattices.WtGtRowSubstXSub` | volunteer-build-reviewed |
+| M171886 | P0233 | `ReciprocityTheory.DualLattices.ZmodTrichotomy` | wave-reused |
+| M171887 | P0168 | `ReciprocityTheory.EigenFrames.EigenPf` | volunteer-build-reviewed |
+| M171888 | P0090 | `ReciprocityTheory.EigenFrames.EigenSt` | volunteer-build-reviewed |
+| M171889 | P0290 | `ReciprocityTheory.GaloisValuations.ArithOfA` | build-observed |
+| M171890 | P0168 | `ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient` | wave-reused |
+| M171891 | P0233 | `ReciprocityTheory.GaloisValuations.Global` | wave-reused |
 | M171892 | P0090 | `ReciprocityTheory.GaloisValuations.GlobalA` | wave-reused |
 | M171893 | P0168 | `ReciprocityTheory.GaloisValuations.GlobalB` | wave-reused |
 | M171895 | P0343 | `ReciprocityTheory.GaloisValuations.GlobalEA` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M172365 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.BigCellPf` | wave-reused |
 | M172367 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.BigStatementPfA` | volunteer-build-reviewed |
 | M172370 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CountAsm` | volunteer-build-reviewed |
-| M172373 | P0168 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CountPf` | volunteer-build-reviewed |
-| M172374 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CountRhoPArithStatement` | volunteer-build-reviewed |
-| M172376 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CuspStatementPf` | wave-reused |
-| M172377 | P0290 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DescentStatement` | volunteer-build-reviewed |
-| M172378 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DescentStatementPf` | volunteer-build-reviewed |
-| M172380 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStartPf` | wave-reused |
-| M172381 | P0547 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLA` | wave-reused |
-| M172382 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLB` | build-observed |
-| M172383 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLC` | build-observed |

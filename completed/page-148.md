@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103266 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StSel` | volunteer-build-reviewed |
+| M103267 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StTame` | volunteer-build-reviewed |
+| M103268 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrSMul` | wave-reused |
+| M103269 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrYMap` | wave-reused |
 | M103270 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Strict` | volunteer-build-reviewed |
 | M103271 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SumLe` | wave-reused |
 | M103272 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TameInertiaCondition` | wave-reused |
@@ -398,7 +402,3 @@
 | M103806 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.QuadraticGaussSumPowEightEqCardMulRadicalPowFour` | volunteer-build-reviewed |
 | M103807 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.RationalGL2InfiniteFiniteFactor` | volunteer-build-reviewed |
 | M103808 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.SlashAddSmulPow` | volunteer-build-reviewed |
-| M103809 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.StabilizerEqScalarMulCongruenceMulFinset` | volunteer-build-reviewed |
-| M103810 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.SystemCuspInfinityComponentCongrOne` | volunteer-build-reviewed |
-| M103811 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesCongrOneModPOfIsometry` | volunteer-build-reviewed |
-| M103812 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesHolomorphicQExpansionOfBoundedCoeff` | volunteer-build-reviewed |

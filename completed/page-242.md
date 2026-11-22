@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158715 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqBC` | build-observed |
+| M158718 | P0605 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqJet` | build-observed |
+| M158719 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqLoc` | build-observed |
+| M158723 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdJet` | wave-reused |
+| M158724 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdLB` | wave-reused |
+| M158725 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBIdSy` | wave-reused |
+| M158726 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBMapPf` | wave-reused |
+| M158729 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FormalGroupLinearSecond` | build-observed |
+| M158731 | P0969 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrRatio` | build-observed |
 | M158732 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanAlg` | wave-reused |
 | M158733 | P1241 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDir` | build-observed |
 | M158734 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDirAlg` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M159182 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LiePolarizationDerEqZeroOfDisjoint` | build-observed |
 | M159183 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LowerSetTypesSpan` | build-observed |
 | M159184 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.NablaDualLatticeOfIrreducibleLowestGenerated` | build-observed |
-| M159185 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.PeBnOfLt` | build-observed |
-| M159186 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RenameMulRenameMemSpanProductBasis` | build-observed |
-| M159187 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestPathFrom` | build-observed |
-| M159188 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestSplit` | build-observed |
-| M159189 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SaturatedLowerSetSpanOfLowerSetTypesSpan` | build-observed |
-| M159190 | P1585 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SplittingThirdPartHolds` | build-observed |
-| M159191 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.StandardPathBasisAnyRing` | build-observed |
-| M159192 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SubProjectorProductMemStrict` | build-observed |
-| M159193 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ToralGalois` | build-observed |

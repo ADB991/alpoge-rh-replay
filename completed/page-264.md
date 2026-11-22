@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170881 | P0089 | `Lemmata.PowerMembership.PowMem` | volunteer-build-reviewed |
+| M170882 | P0089 | `Lemmata.ProductIdentities.ProdInvZpowMulOfProdZpowEqOne` | volunteer-build-reviewed |
+| M170883 | P0089 | `Lemmata.RankOneOrbitForms.RankOneForm` | build-observed |
+| M170884 | P0089 | `Lemmata.ScalarExtension.Scal` | build-observed |
+| M170885 | P0089 | `Lemmata.SecondBlockLemmaA.Imports` | wave-reused |
+| M170886 | P0232 | `Lemmata.SimultaneousEigenvectors.BlSimeig` | wave-reused |
+| M170887 | P0089 | `Lemmata.SmulListSum.SmulListSum` | volunteer-build-reviewed |
+| M170888 | P0472 | `Lemmata.TwistedIdempotents.TwistedIdem` | build-observed |
+| M170890 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.BorelInjectivity.EquivariantProjections.ExistsEquivariantProjOfLeSumIrreducible` | volunteer-build-reviewed |
 | M170891 | P1687 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf` | build-observed |
 | M170897 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdelicGaussians.UpperRightUnipotentInvariance` | build-observed |
 | M170901 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.CoefZero` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M171409 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffMulOfTsupport` | wave-reused |
 | M171410 | P0232 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffOnFubiniStudyProfileInvNormSqFirst` | pilot-reused |
 | M171411 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Degree` | wave-reused |
-| M171412 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInhab` | wave-reused |
-| M171413 | P0579 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInt` | wave-reused |
-| M171414 | P0512 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeIntA` | wave-reused |
-| M171415 | P0546 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeIntB` | wave-reused |
-| M171416 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeSheets` | wave-reused |
-| M171417 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.FubiniStudyPotentialProductIsPotential` | volunteer-build-reviewed |
-| M171418 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCEqZeroOfEventuallyEqZero` | wave-reused |
-| M171419 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCIsHermitian` | wave-reused |
-| M171420 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HomogeneousLiftHolomorphicOnSnd` | volunteer-build-reviewed |

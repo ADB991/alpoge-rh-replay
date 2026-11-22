@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127951 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparability` | wave-reused |
+| M127952 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparabilityStatement` | wave-reused |
+| M127953 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompact` | volunteer-build-reviewed |
+| M127956 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapProductSegments` | volunteer-build-reviewed |
+| M127957 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProd` | volunteer-build-reviewed |
+| M127959 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLe` | volunteer-build-reviewed |
+| M127961 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistedCentralizerDiagonal` | volunteer-build-reviewed |
 | M127968 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero` | volunteer-build-reviewed |
 | M127969 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmall` | build-observed |
 | M127970 | P0414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmallStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M128687 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipal` | volunteer-build-reviewed |
 | M128688 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipalStatement` | volunteer-build-reviewed |
 | M128691 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticUniformizerOrder` | volunteer-build-reviewed |
-| M128693 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCard` | volunteer-build-reviewed |
-| M128694 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCardStatement` | volunteer-build-reviewed |
-| M128696 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergEqLFactorStatement` | volunteer-build-reviewed |
-| M128697 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergLocalFactor` | volunteer-build-reviewed |
-| M128698 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergLocalFactorStatement` | volunteer-build-reviewed |
-| M128699 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedSatake` | volunteer-build-reviewed |
-| M128700 | P1953 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegral` | build-observed |

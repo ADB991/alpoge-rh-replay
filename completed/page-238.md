@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156917 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmC` | wave-reused |
+| M156918 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ESSymmApply` | wave-reused |
+| M156919 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.EventuallySmulSub` | wave-reused |
+| M156920 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.EventuallyStruct` | wave-reused |
+| M156921 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExChar` | wave-reused |
+| M156922 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExFDStab` | wave-reused |
+| M156923 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExFDStabFin` | wave-reused |
+| M156924 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExOmTOfSteps` | wave-reused |
+| M156925 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabFin` | wave-reused |
 | M156926 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabNu` | wave-reused |
 | M156927 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabOrb` | wave-reused |
 | M156928 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabSt` | wave-reused |
@@ -393,12 +402,3 @@
 | M157339 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjP` | build-observed |
 | M157340 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjS` | build-observed |
 | M157341 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjSk` | build-observed |
-| M157342 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PsiInclR` | build-observed |
-| M157343 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.Reduce` | build-observed |
-| M157344 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.SigRTmulOne` | build-observed |
-| M157345 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.TcoordBound` | build-observed |
-| M157346 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfDeep` | build-observed |
-| M157347 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfHerm` | build-observed |
-| M157348 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfOpen` | build-observed |
-| M157349 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UnitaryClassMass` | build-observed |
-| M157351 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.ExistsUnitReal` | volunteer-build-reviewed |

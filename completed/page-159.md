@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109415 | P2667 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AdmissiblePi` | volunteer-build-reviewed |
+| M109416 | P1491 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AffineProperBaseChange` | build-observed |
+| M109417 | P1133 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AveragingTransferKills` | build-observed |
+| M109418 | P2811 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CIn` | volunteer-build-reviewed |
+| M109419 | P2550 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CardResOK` | volunteer-build-reviewed |
+| M109420 | P0593 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CompLeft` | volunteer-build-reviewed |
+| M109421 | P2102 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrysCopy` | volunteer-build-reviewed |
 | M109422 | P1104 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineAlgebraAlgebraMap` | build-observed |
 | M109423 | P0741 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineComparison` | build-observed |
 | M109425 | P2498 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.E4` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M109990 | P0658 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.SumFactorizationMulLogLe` | build-observed |
 | M109991 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.TorsionReduceInjective` | volunteer-build-reviewed |
 | M109992 | P0824 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.WAddOneLtOfDvd` | build-observed |
-| M109993 | P0769 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.WDvdQS` | build-observed |
-| M109995 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.SmallSum` | volunteer-build-reviewed |
-| M109996 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.Casimir` | volunteer-build-reviewed |
-| M109997 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.DualFamily` | volunteer-build-reviewed |
-| M109998 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.EmbSum` | volunteer-build-reviewed |
-| M109999 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.LocalGen` | volunteer-build-reviewed |
-| M110000 | P2252 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.NormGen` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |
 | M061708 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar` | build-observed |
 | M061709 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHom` | wave-reused |
 | M061710 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHomStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M062355 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCoeffRingHomMapCoeff` | volunteer-build-reviewed |
 | M062356 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSer` | wave-reused |
 | M062357 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSerStatement` | wave-reused |
-| M062358 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEq` | wave-reused |

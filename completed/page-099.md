@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067715 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevelsStatement` | volunteer-build-reviewed |
+| M067716 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugate` | volunteer-build-reviewed |
 | M067717 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugateStatement` | volunteer-build-reviewed |
 | M067718 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVector` | volunteer-build-reviewed |
 | M067719 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVectorStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M068406 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfHasSupportSingleton` | volunteer-build-reviewed |
 | M068407 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfIsLocCompGL` | volunteer-build-reviewed |
 | M068408 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfNodupSumMultisetOfEq` | volunteer-build-reviewed |
-| M068409 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfOverTwo` | volunteer-build-reviewed |
-| M068412 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnit` | volunteer-build-reviewed |

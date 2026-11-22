@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088872 | P2215 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreementStatement` | volunteer-build-reviewed |
+| M088873 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyPlacesOfRecord` | build-observed |
 | M088874 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormAevalSubLe` | wave-reused |
 | M088876 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOne` | volunteer-build-reviewed |
 | M088877 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOneStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M089734 | P2127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImage` | volunteer-build-reviewed |
 | M089735 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImageStatement` | volunteer-build-reviewed |
 | M089736 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissible` | volunteer-build-reviewed |
-| M089737 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissibleStatement` | volunteer-build-reviewed |
-| M089738 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedPolynomialComplexPointEvaluation` | volunteer-build-reviewed |

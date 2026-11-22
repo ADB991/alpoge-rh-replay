@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153740 | P0886 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagRelevScalar` | build-observed |
+| M153744 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockRaiseLow` | volunteer-build-reviewed |
+| M153745 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockWtDeg` | volunteer-build-reviewed |
+| M153746 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldDCUnfold` | build-observed |
+| M153747 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldMult` | build-observed |
+| M153748 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldUnfold` | build-observed |
+| M153749 | P0776 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FrameInd` | wave-reused |
+| M153750 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGCardUni` | build-observed |
+| M153751 | P0636 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGConvScalar` | build-observed |
 | M153752 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGGenRatio` | build-observed |
 | M153753 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMatBound` | build-observed |
 | M153754 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMirBound` | build-observed |
@@ -393,12 +402,3 @@
 | M154188 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.GLDelta` | build-observed |
 | M154189 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.IndexEqOfTraceInt` | build-observed |
 | M154190 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertGen` | build-observed |
-| M154191 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPow` | build-observed |
-| M154192 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowD` | build-observed |
-| M154193 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowDefs` | build-observed |
-| M154194 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertQRG` | build-observed |
-| M154195 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.LiftMatMapSame` | build-observed |
-| M154196 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.LocSplitChiOf` | build-observed |
-| M154197 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQEqOneOfMemNormalizer` | build-observed |
-| M154198 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQOneOfClosure` | build-observed |
-| M154199 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Partial` | build-observed |

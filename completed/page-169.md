@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114512 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylConjugateExponentialParabolic` | volunteer-build-reviewed |
+| M114513 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylEmbeddedColumns` | volunteer-build-reviewed |
+| M114515 | P2525 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSDblT` | volunteer-build-reviewed |
+| M114516 | P2550 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSPair` | volunteer-build-reviewed |
+| M114517 | P2572 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSTop` | volunteer-build-reviewed |
+| M114518 | P2643 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.TwoUpOKOfSteps` | volunteer-build-reviewed |
+| M114520 | P2287 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.LimFinOddOf` | volunteer-build-reviewed |
 | M114521 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.SlopeTestRemainingChoices` | volunteer-build-reviewed |
 | M114522 | P1133 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.AllHolds` | build-observed |
 | M114524 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.FLOf` | wave-reused |
@@ -395,10 +402,3 @@
 | M114956 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeTranslateEq` | volunteer-build-reviewed |
 | M114957 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalComm` | volunteer-build-reviewed |
 | M114958 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalEig` | volunteer-build-reviewed |
-| M114959 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInter` | volunteer-build-reviewed |
-| M114960 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInterAlt` | volunteer-build-reviewed |
-| M114961 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalIntertwining` | volunteer-build-reviewed |
-| M114962 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMemInvariantSubmodule` | volunteer-build-reviewed |
-| M114963 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulHomog` | volunteer-build-reviewed |
-| M114964 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulOfIsHomogeneous` | volunteer-build-reviewed |
-| M114965 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AffineGenerators` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126610 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowSubSuccLe` | wave-reused |
+| M126612 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtraction` | wave-reused |
+| M126613 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtractionStatement` | wave-reused |
+| M126614 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowersDiagonalAtTBlock` | volunteer-build-reviewed |
+| M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
+| M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |
+| M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
 | M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
 | M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
 | M126625 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegralBoundOfParts` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M127210 | P0660 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltration` | build-observed |
 | M127211 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltrationStatement` | build-observed |
 | M127212 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarOnWeightSpace` | volunteer-build-reviewed |
-| M127213 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExists` | volunteer-build-reviewed |
-| M127214 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExistsStatement` | volunteer-build-reviewed |
-| M127215 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScaledIntegralHermitianInOpenSubgroup` | volunteer-build-reviewed |
-| M127217 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalingMeasureProductArchimedean` | volunteer-build-reviewed |
-| M127222 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurInverseEqReversedNegStatement` | volunteer-build-reviewed |
-| M127223 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurOpOfSchurL` | volunteer-build-reviewed |
-| M127224 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2Sum` | volunteer-build-reviewed |

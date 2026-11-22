@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142876 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.CentralGenerators.CentralSubGen` | volunteer-build-reviewed |
+| M142878 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.EigenInjectivity.SubInjective` | volunteer-build-reviewed |
+| M142879 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.LeviScalars.EmbScalarMemLevi` | volunteer-build-reviewed |
+| M142883 | P1582 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.TopProdD` | volunteer-build-reviewed |
+| M142884 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.UnitarisableHypotheses.IrrSub` | volunteer-build-reviewed |
+| M142885 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.UnitarisableHypotheses.IsUnitarisableCast` | volunteer-build-reviewed |
+| M142887 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.AdjointSemisimple.AdjunctionCharZero` | volunteer-build-reviewed |
+| M142889 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses.InvCommOfComm` | volunteer-build-reviewed |
+| M142893 | P1732 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.OpenSlices.LatticeIndices.RelIndexLatConj` | volunteer-build-reviewed |
 | M142895 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.OpenSlices.OpenSlice` | volunteer-build-reviewed |
 | M142896 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVan` | volunteer-build-reviewed |
 | M142898 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.DistrC` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M143870 | P0145 | `Development.WeilBound.ThetaLifts.SphericalLattices.ExistsIsUnitAddMul` | volunteer-build-reviewed |
 | M143874 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunAvg` | volunteer-build-reviewed |
 | M143876 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunCount` | volunteer-build-reviewed |
-| M143879 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunFin` | volunteer-build-reviewed |
-| M143888 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.InvMemKgKCart2` | volunteer-build-reviewed |
-| M143889 | P0068 | `Development.WeilBound.ThetaLifts.SphericalLattices.LatDefs` | volunteer-build-reviewed |
-| M143890 | P0146 | `Development.WeilBound.ThetaLifts.SphericalLattices.LattEq` | volunteer-build-reviewed |
-| M143891 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocCommSt` | volunteer-build-reviewed |
-| M143892 | P2653 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocDataV` | volunteer-build-reviewed |
-| M143893 | P2661 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocDataVAlt` | volunteer-build-reviewed |
-| M143894 | P1732 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocMod` | volunteer-build-reviewed |
-| M143895 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocModSt` | volunteer-build-reviewed |

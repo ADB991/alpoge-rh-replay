@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039856 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemiLocalMirabolicAbstract` | volunteer-build-reviewed |
 | M039857 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemiLocalMirabolicAbstractStatement` | volunteer-build-reviewed |
 | M039858 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalMirabolicWhittaker` | volunteer-build-reviewed |
 | M039859 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalMirabolicWhittakerStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M040569 | P0480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeftTranslateSmoothCommuteLeftInvariantOps` | build-observed |
 | M040570 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeftTranslateSmoothCommuteLeftInvariantOpsStatement` | build-observed |
 | M040573 | P2663 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LemmaU` | volunteer-build-reviewed |
-| M040575 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthCokerLsmulEqLengthKerAddSumStatement` | volunteer-build-reviewed |

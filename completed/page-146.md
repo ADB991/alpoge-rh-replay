@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101963 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong` | volunteer-build-reviewed |
+| M101967 | P2568 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AlgOfCyc` | volunteer-build-reviewed |
+| M101969 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AutNewform` | volunteer-build-reviewed |
+| M101973 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatAtLQ` | volunteer-build-reviewed |
 | M101975 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatReal` | volunteer-build-reviewed |
 | M101976 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CongruenceNumberRankThree` | volunteer-build-reviewed |
 | M101977 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountK` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M102560 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ContSection` | volunteer-build-reviewed |
 | M102561 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoordGrading` | wave-reused |
 | M102563 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CotFg` | volunteer-build-reviewed |
-| M102564 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerExtend` | volunteer-build-reviewed |
-| M102565 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerHom` | volunteer-build-reviewed |
-| M102566 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.EigenMem` | wave-reused |
-| M102567 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLiftDominatingPairOfMaximalIdealPowEqBot` | volunteer-build-reviewed |

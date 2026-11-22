@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071740 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfNotIsConjPl` | build-observed |
+| M071741 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfTwoMem` | build-observed |
 | M071744 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitting` | volunteer-build-reviewed |
 | M071746 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStableGauss` | volunteer-build-reviewed |
 | M071747 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomComp` | wave-reused |
@@ -400,5 +402,3 @@
 | M072518 | P0622 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecomposition` | build-observed |
 | M072519 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecompositionStatement` | build-observed |
 | M072520 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpoly` | volunteer-build-reviewed |
-| M072521 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpolyStatement` | volunteer-build-reviewed |
-| M072522 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixComputesTwistedSelmerResidualTransfer` | build-observed |

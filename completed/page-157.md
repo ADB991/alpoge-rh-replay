@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108349 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.IsAcyclicSpace` | volunteer-build-reviewed |
+| M108353 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.StabDirectedSystem` | volunteer-build-reviewed |
+| M108354 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.AutP` | volunteer-build-reviewed |
+| M108355 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CharpolyCompNegRoots` | volunteer-build-reviewed |
 | M108356 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CharpolyPow` | volunteer-build-reviewed |
 | M108357 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CocField` | volunteer-build-reviewed |
 | M108358 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.ContinuousCocyclesFgIntegralOfPhiCond` | volunteer-build-reviewed |
@@ -194,6 +198,7 @@
 | M108565 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CanonEx` | volunteer-build-reviewed |
 | M108566 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CanonGr` | volunteer-build-reviewed |
 | M108567 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CanonMap` | volunteer-build-reviewed |
+| M108571 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CommAlgFunctorCoboundaryZeroMemCocyclesOne` | volunteer-build-reviewed |
 | M108573 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.ConjPushMat` | volunteer-build-reviewed |
 | M108576 | P1679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CountVOf` | volunteer-build-reviewed |
 | M108579 | P0797 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.DyadicCharacterPowerNeOne` | wave-reused |
@@ -212,6 +217,7 @@
 | M108614 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LengthLeCotLenOfInjectiveTangentMap` | volunteer-build-reviewed |
 | M108615 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LevelAt` | volunteer-build-reviewed |
 | M108616 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LevelAway` | volunteer-build-reviewed |
+| M108617 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LiftAlongSurjectionGraded` | volunteer-build-reviewed |
 | M108619 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LocAtDeformD` | volunteer-build-reviewed |
 | M108620 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LocAtDeformU` | volunteer-build-reviewed |
 | M108628 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LtTorus` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M108897 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.CharpolyMapRep` | volunteer-build-reviewed |
 | M108900 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConTrace` | volunteer-build-reviewed |
 | M108901 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConjTrans` | volunteer-build-reviewed |
-| M108907 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FlagFacts` | volunteer-build-reviewed |
-| M108908 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FrobIn` | volunteer-build-reviewed |
-| M108909 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GlobalTheory` | volunteer-build-reviewed |
-| M108910 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GysinAl` | volunteer-build-reviewed |
-| M108911 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GysinPs` | volunteer-build-reviewed |
-| M108912 | P2550 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.H4` | volunteer-build-reviewed |

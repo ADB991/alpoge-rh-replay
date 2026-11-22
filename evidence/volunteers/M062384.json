@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    "M062384"
+  ],
+  "started_utc": "2026-11-22T10:52:55.569027+00:00",
+  "ended_utc": "2026-11-22T10:57:31.349608+00:00",
+  "elapsed_seconds": 275.7,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5863380
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasCompactSupportPhiU:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1efa85ac870a97bc7531e66085ebcc69b285974e954ede4d40c42db4b6d91688",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.LocalIntegralGL",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GLRealOpen",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.GlR",
+    "Formalism.DoubleCosetMeasures.LatticeCoset",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.DoubleCosetEqPreimage",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.ExistsContinuousLowerUpperEntry",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.IsClosedLowUni",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.IsIntOfLatOfLe",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.IsOpenIsIntSet",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.LemmaU",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.LowUniMulVecELast",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.MeasureUniformizerMatrixSetMulCard",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.MulInvBlockDiagApplySameBlock",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.RelIndexMulMeasure",
+    "Formalism.DoubleCosetMeasures.LowerUnipotentOrbits.TwoSided",
+    "Formalism.DoubleCosetMeasures.Statement",
+    "Formalism.DoubleCosetMeasures.StatementV",
+    "Formalism.DoubleCosetMeasures.StatementZ"
+  ],
+  "objects": {
+    "M062384": "79c0858ed347e8ed68ebd1067f96519a8a8ce4fb15d6f368f992c0c028677201"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "20ed8eda0138fb209b7889c8713ad76b38788e5833134abd48f0760639c76a6f",
+  "packet": "M062384",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31610#issuecomment-7078131925",
+  "reviewed_utc": "2026-11-22T11:49:07.114433+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138551 | P2302 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twexists` | volunteer-build-reviewed |
+| M138553 | P1553 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfDiv` | build-observed |
+| M138554 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfFin` | build-observed |
+| M138555 | P0209 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfInd` | volunteer-build-reviewed |
+| M138556 | P1611 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfMain` | build-observed |
+| M138558 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twomega` | build-observed |
+| M138562 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twpdiv` | build-observed |
+| M138563 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivHopf` | build-observed |
 | M138564 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivTate` | build-observed |
 | M138565 | P0209 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ValAtRestrict` | volunteer-build-reviewed |
 | M138571 | P2661 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ZarTop` | volunteer-build-reviewed |
@@ -127,6 +135,7 @@
 | M138810 | P2633 | `Development.WeilBound.CoreStatements.NefModelVolumes.TwoLtHalfFinrank` | volunteer-build-reviewed |
 | M138812 | P2444 | `Development.WeilBound.CoreStatements.NefModelVolumes.WeightSectionBasisBound` | volunteer-build-reviewed |
 | M138818 | P1637 | `Development.WeilBound.CoreStatements.OrbitDecayEstimates.CurveDerivativeDecay.LipschitzEstimate` | volunteer-build-reviewed |
+| M138819 | P0372 | `Development.WeilBound.CoreStatements.OrbitDecayEstimates.CurveDerivativeDecay.OneLeHsG` | volunteer-build-reviewed |
 | M138825 | P0065 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.CocharacterLieDivisors.MeetsOpenCosets` | volunteer-build-reviewed |
 | M138828 | P0664 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.AcrisKummerUnits.ConstantCoeffSurjective` | wave-reused |
 | M138829 | P1075 | `Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.AcrisKummerUnits.FiltrationSpanDividedPowers` | wave-reused |
@@ -393,12 +402,3 @@
 | M139424 | P0828 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorUpdateColLin` | build-observed |
 | M139425 | P1210 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.NotMemOfEqTop` | build-observed |
 | M139428 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ProjectiveLineNormalFrame` | volunteer-build-reviewed |
-| M139431 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.SecondDerivativeOfEventuallyEq` | volunteer-build-reviewed |
-| M139432 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.TripleDeriv` | volunteer-build-reviewed |
-| M139435 | P0569 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XAnTwo` | build-observed |
-| M139443 | P2528 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsImmersion` | volunteer-build-reviewed |
-| M139444 | P2472 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsLocal` | volunteer-build-reviewed |
-| M139445 | P2528 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsPeriod` | volunteer-build-reviewed |
-| M139459 | P0664 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCGradAtlas` | build-observed |
-| M139462 | P1237 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCUnif` | build-observed |
-| M139463 | P0966 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCWArith` | build-observed |

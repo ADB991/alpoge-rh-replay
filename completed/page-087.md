@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |
 | M059702 | P1090 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDual` | build-observed |
 | M059703 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDualStatement` | build-observed |
 | M059705 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow` | build-observed |
@@ -401,4 +402,3 @@
 | M060407 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumRationalClassesEqProdLocalSumsStatement` | volunteer-build-reviewed |
 | M060408 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumTransversalEqTsumOrbitQuotientGeneral` | wave-reused |
 | M060409 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometry` | wave-reused |
-| M060410 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometryStatement` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143879 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunFin` | volunteer-build-reviewed |
+| M143888 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.InvMemKgKCart2` | volunteer-build-reviewed |
+| M143889 | P0068 | `Development.WeilBound.ThetaLifts.SphericalLattices.LatDefs` | volunteer-build-reviewed |
+| M143890 | P0146 | `Development.WeilBound.ThetaLifts.SphericalLattices.LattEq` | volunteer-build-reviewed |
+| M143891 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocCommSt` | volunteer-build-reviewed |
+| M143892 | P2653 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocDataV` | volunteer-build-reviewed |
+| M143893 | P2661 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocDataVAlt` | volunteer-build-reviewed |
+| M143894 | P1732 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocMod` | volunteer-build-reviewed |
+| M143895 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocModSt` | volunteer-build-reviewed |
 | M143897 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.MemIntGLIff` | volunteer-build-reviewed |
 | M143908 | P2592 | `Development.WeilBound.ThetaLifts.SphericalLattices.TheoremKSphOf` | volunteer-build-reviewed |
 | M143911 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.UnitLiftSt` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M144336 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WChord` | wave-reused |
 | M144337 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WPoint` | wave-reused |
 | M144338 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WSeries` | wave-reused |
-| M144339 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WSubst` | wave-reused |
-| M144340 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionWeights` | wave-reused |
-| M144341 | P0460 | `Formalism.EllipticTorsion.FormalGroupPointsNoTorsion` | wave-reused |
-| M144342 | P0325 | `Formalism.EllipticTorsion.FormalGroupPointsParametrisation` | wave-reused |
-| M144343 | P0271 | `Formalism.EllipticTorsion.FormalGroupPointsTorsionFree` | wave-reused |
-| M144344 | P0068 | `Formalism.EllipticTorsion.IsoExpand` | wave-reused |
-| M144345 | P0271 | `Formalism.EllipticTorsion.JetsCube` | wave-reused |
-| M144346 | P0211 | `Formalism.EllipticTorsion.Statement` | wave-reused |
-| M144347 | P0271 | `Formalism.EllipticTorsion.UnitCancel` | wave-reused |

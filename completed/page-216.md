@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144741 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinIntegralOfNonempty` | wave-reused |
+| M144742 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinMemGenusIff` | wave-reused |
+| M144743 | P1076 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AkCountEqRedCountMul` | wave-reused |
+| M144744 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapConjO` | wave-reused |
+| M144745 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapIntCastSmul` | wave-reused |
+| M144746 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlgebraMapNeZeroOfMemHcompl` | wave-reused |
+| M144747 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaLEqOfBridge` | wave-reused |
+| M144748 | P1106 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaNOfVdZeroUnit` | wave-reused |
+| M144749 | P1076 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AlphaStdOneNeZero` | wave-reused |
 | M144750 | P1106 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ApplyMemSmul` | wave-reused |
 | M144751 | P1186 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ApplyMemSmulOfMemAutSub` | wave-reused |
 | M144752 | P1368 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AutSubApplyMem` | wave-reused |
@@ -393,12 +402,3 @@
 | M145143 | P0602 | `Formalism.GaussJetBounds.StatementV` | wave-reused |
 | M145144 | P0570 | `Formalism.GaussJetBounds.StatementW` | build-observed |
 | M145145 | P0634 | `Formalism.GaussJetBounds.StatementX` | wave-reused |
-| M145146 | P0570 | `Formalism.GaussJetBounds.StatementY` | volunteer-build-reviewed |
-| M145147 | P0966 | `Formalism.GaussJetBounds.ThmAEntryFull` | build-observed |
-| M145148 | P0884 | `Formalism.GaussJetBounds.ThmAGauss` | build-observed |
-| M145149 | P0212 | `Formalism.GaussValuationBounds.GaussUnit` | wave-reused |
-| M145150 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.ExponentSumIdentity` | wave-reused |
-| M145151 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussBasic` | wave-reused |
-| M145152 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussMul` | wave-reused |
-| M145153 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactBis` | wave-reused |
-| M145154 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactVariant` | wave-reused |

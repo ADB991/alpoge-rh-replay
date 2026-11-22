@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135073 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafExactPf` | build-observed |
+| M135074 | P0662 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcAffPf` | build-observed |
+| M135075 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcDegPf` | build-observed |
+| M135076 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcFormalPf` | build-observed |
+| M135077 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcIdentPf` | build-observed |
+| M135078 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcLevelPf` | build-observed |
+| M135079 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcOfEqvPf` | build-observed |
+| M135080 | P0662 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcOfEqvPfSq` | build-observed |
 | M135081 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPPf` | build-observed |
 | M135082 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPf` | build-observed |
 | M135083 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSheafCut` | build-observed |
@@ -394,11 +402,3 @@
 | M135672 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafObjFPPf` | volunteer-build-reviewed |
 | M135673 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafObjGluePf` | volunteer-build-reviewed |
 | M135676 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafOneHighPf` | build-observed |
-| M135677 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafOneLocPf` | wave-reused |
-| M135678 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafOneSpecPf` | wave-reused |
-| M135679 | P0064 | `Development.EtaleCohomology.EtaleSheaves.LeafOrdInfHomPf` | volunteer-build-reviewed |
-| M135680 | P0143 | `Development.EtaleCohomology.EtaleSheaves.LeafOrdInfLocalPf` | volunteer-build-reviewed |
-| M135681 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafPairExtPf` | wave-reused |
-| M135684 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPicCut` | wave-reused |
-| M135685 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPointCut` | wave-reused |
-| M135686 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafPointTransferCut` | wave-reused |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119070 | P1848 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCutOfArtinStatement` | volunteer-build-reviewed |
+| M119071 | P2443 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsPin` | volunteer-build-reviewed |
+| M119072 | P2185 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StmtJHolds` | volunteer-build-reviewed |
+| M119073 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrCalcO` | volunteer-build-reviewed |
+| M119074 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrInertTyz` | volunteer-build-reviewed |
+| M119075 | P2773 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplit` | volunteer-build-reviewed |
+| M119076 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplitStatement` | volunteer-build-reviewed |
 | M119077 | P1726 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StringDecompHolds` | volunteer-build-reviewed |
 | M119078 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGood` | volunteer-build-reviewed |
 | M119079 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGoodStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M119563 | P2552 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceArchIdeleMulFiniteNatIdele` | volunteer-build-reviewed |
 | M119564 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceConditionMulCongruenceUnitIff` | volunteer-build-reviewed |
 | M119566 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleEmbeddingUniformizerOfSplitPlacePair` | volunteer-build-reviewed |
-| M119567 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleOfNatMulAndPrimePow` | volunteer-build-reviewed |
-| M119568 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.InertOrSplitOfGoodDeltaRat` | volunteer-build-reviewed |
-| M119569 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableAndContinuousMellinIntegralOfRapidDeca` | volunteer-build-reviewed |
-| M119570 | P2062 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableConstantTermLeviEmbeddingMulConjCuspFo` | volunteer-build-reviewed |
-| M119571 | P2046 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableMulConjOfModerateGrowthOfCuspidal` | volunteer-build-reviewed |
-| M119573 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralEvenPowerGaussianMulAbsRpow` | volunteer-build-reviewed |
-| M119574 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralMaxCompactEqCircleAverage` | volunteer-build-reviewed |

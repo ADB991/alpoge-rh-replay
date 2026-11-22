@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174874 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.DetOneSubEqSumMinors` | build-observed |
+| M174876 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ExistsNonzeroPhysicalHighestWeightVectorTensFock` | build-observed |
+| M174877 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.FfExpWedgeHasDeriv` | build-observed |
+| M174879 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.GeneratedSubStable` | build-observed |
+| M174880 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.GsBasisPhys` | build-observed |
+| M174882 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.InvoluteFfMapsTo` | build-observed |
+| M174883 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.IsPhysSet` | build-observed |
+| M174885 | P1083 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.LoweringSpanDiagStable` | build-observed |
+| M174886 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemHighestWeightSubIff` | build-observed |
 | M174887 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemTensorFockOfCoeffs` | build-observed |
 | M174888 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ProdModeCharExp` | build-observed |
 | M174889 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.SignedActionTensor` | build-observed |

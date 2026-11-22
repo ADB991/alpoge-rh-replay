@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120149 | P0852 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyHodgeLatticeData` | wave-reused |
+| M120150 | P0879 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyHodgeLatticeDataStatement` | build-observed |
+| M120151 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FcIndepDetNeZeroOfRank` | volunteer-build-reviewed |
+| M120153 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibreCountRotationInvariant` | volunteer-build-reviewed |
+| M120155 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibreDim` | build-observed |
+| M120156 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibrePowerMapOfTotalSpacesIsPullback` | volunteer-build-reviewed |
+| M120157 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvariance` | build-observed |
 | M120158 | P0825 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvarianceStatement` | build-observed |
 | M120161 | P1234 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffine` | build-observed |
 | M120162 | P1262 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffineStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M120839 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverHigherCohomologyVanishesStatement` | volunteer-build-reviewed |
 | M120841 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineFormsOfFormUniqueness` | build-observed |
 | M120842 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineFormsOfFormUniquenessStatement` | build-observed |
-| M120843 | P1657 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishing` | build-observed |
-| M120844 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishingStatement` | volunteer-build-reviewed |
-| M120845 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedQuotientVanishAboveDim` | volunteer-build-reviewed |
-| M120846 | P1703 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedQuotientVanishAboveDimStatement` | volunteer-build-reviewed |
-| M120847 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterion` | volunteer-build-reviewed |
-| M120848 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterionStatement` | volunteer-build-reviewed |
-| M120849 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineOpenFiniteType` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173891 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCasA` | wave-reused |
+| M173892 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigRep` | wave-reused |
+| M173893 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BochIneq` | wave-reused |
+| M173894 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasValK` | wave-reused |
+| M173895 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasimirGapAtNoncompactWeight` | wave-reused |
+| M173896 | P0473 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CrossOpEigGap` | wave-reused |
+| M173897 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CrossOpSlotBound` | wave-reused |
+| M173898 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.InnerCrossOpEigEqZero` | wave-reused |
+| M173899 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.IsKUnitaryOfIsInfUnitary` | wave-reused |
 | M173900 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.KUnitB` | wave-reused |
 | M173901 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.KhwWeightEqOfIrr` | wave-reused |
 | M173902 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.LayerBasic` | wave-reused |
@@ -393,12 +402,3 @@
 | M174299 | P0836 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHC` | wave-reused |
 | M174300 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCA` | wave-reused |
 | M174301 | P0808 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCB` | wave-reused |
-| M174302 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HWExists` | build-observed |
-| M174303 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HasDerivAtRealOfComplex` | wave-reused |
-| M174304 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HcParamGapGeIndex` | wave-reused |
-| M174305 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelCext` | wave-reused |
-| M174306 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelDer` | wave-reused |
-| M174307 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelFun` | wave-reused |
-| M174308 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGen` | wave-reused |
-| M174309 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGenA` | wave-reused |
-| M174310 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelInner` | wave-reused |

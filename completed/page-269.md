@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173378 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameA` | build-observed |
+| M173380 | P1322 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameC` | build-observed |
+| M173382 | P0836 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnHolFamOfHolTo` | build-observed |
+| M173383 | P0890 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnLawX` | build-observed |
+| M173384 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.BiextChangeSecondFactor` | volunteer-build-reviewed |
+| M173385 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.BiextCoeffSecondLinear` | build-observed |
+| M173388 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.CmHostUnitAddConjEqOne` | build-observed |
+| M173389 | P0863 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ComposeLinearAction` | build-observed |
+| M173392 | P0677 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.EigRamCore` | build-observed |
 | M173393 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.EigRamData` | build-observed |
 | M173394 | P1371 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.EigRamHelp` | build-observed |
 | M173395 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.EigRamLift` | build-observed |
@@ -393,12 +402,3 @@
 | M173888 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Unitary` | wave-reused |
 | M173889 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.WeightBound` | wave-reused |
 | M173890 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCas` | wave-reused |
-| M173891 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCasA` | wave-reused |
-| M173892 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigRep` | wave-reused |
-| M173893 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BochIneq` | wave-reused |
-| M173894 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasValK` | wave-reused |
-| M173895 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CasimirGapAtNoncompactWeight` | wave-reused |
-| M173896 | P0473 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CrossOpEigGap` | wave-reused |
-| M173897 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.CrossOpSlotBound` | wave-reused |
-| M173898 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.InnerCrossOpEigEqZero` | wave-reused |
-| M173899 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.IsKUnitaryOfIsInfUnitary` | wave-reused |

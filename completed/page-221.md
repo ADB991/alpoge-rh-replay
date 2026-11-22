@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147764 | P1048 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffPderivUncurry` | build-observed |
+| M147765 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffSinglePointZero` | wave-reused |
+| M147766 | P1187 | `Formalism.LocalToGlobal.CharacterGerms.ConstantCoeffTripleSubstitution` | wave-reused |
+| M147767 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroCompCoordinate` | build-observed |
+| M147768 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroDoubleMultiplicationPair` | build-observed |
+| M147769 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroFirstThenZero` | build-observed |
+| M147770 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationEval` | build-observed |
+| M147771 | P1021 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationPair` | build-observed |
+| M147772 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroRestrictPoints` | build-observed |
 | M147773 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroSecondCoordinate` | build-observed |
 | M147774 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.ContentLargeFromSupplies` | build-observed |
 | M147775 | P0421 | `Formalism.LocalToGlobal.CharacterGerms.ContentZeroAt` | wave-reused |
@@ -393,12 +402,3 @@
 | M148205 | P1077 | `Formalism.LocalToGlobal.Columns.RecLevelLocF` | build-observed |
 | M148206 | P1049 | `Formalism.LocalToGlobal.Columns.RecLevelLocK` | build-observed |
 | M148207 | P1107 | `Formalism.LocalToGlobal.Columns.RecLevelLocP` | build-observed |
-| M148208 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelLocT` | build-observed |
-| M148209 | P1136 | `Formalism.LocalToGlobal.Columns.RecLevelStep` | build-observed |
-| M148210 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelSym` | build-observed |
-| M148211 | P1187 | `Formalism.LocalToGlobal.Columns.RecLevelSymExt` | build-observed |
-| M148212 | P1049 | `Formalism.LocalToGlobal.Columns.RecLevelSymF` | build-observed |
-| M148213 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelTop` | build-observed |
-| M148214 | P1528 | `Formalism.LocalToGlobal.Columns.RecPerFF` | build-observed |
-| M148215 | P1163 | `Formalism.LocalToGlobal.Columns.Record` | build-observed |
-| M148216 | P1238 | `Formalism.LocalToGlobal.Columns.RecordFS` | build-observed |

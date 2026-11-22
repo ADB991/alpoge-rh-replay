@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164623 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicIsolatedFibreOpen` | volunteer-build-reviewed |
+| M164624 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicKernelFibre` | volunteer-build-reviewed |
+| M164625 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicOnSubset` | volunteer-build-reviewed |
+| M164626 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicZeroSetDimH` | volunteer-build-reviewed |
+| M164627 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHomogDimZeroPow` | wave-reused |
+| M164628 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHypersurfacePresentation` | volunteer-build-reviewed |
+| M164629 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIdealHeightSpread` | volunteer-build-reviewed |
+| M164630 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StImageDimLe` | volunteer-build-reviewed |
+| M164631 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StImplicitCurve` | wave-reused |
 | M164632 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicDerivNeZero` | volunteer-build-reviewed |
 | M164633 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicInverse` | volunteer-build-reviewed |
 | M164634 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicJacobianNeZero` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M165127 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleSectionForms` | wave-reused |
 | M165128 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleSectionFormsTools` | wave-reused |
 | M165129 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagIndependence` | wave-reused |
-| M165130 | P0383 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagIndependenceAlgebra` | wave-reused |
-| M165131 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineDegree` | wave-reused |
-| M165132 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSection` | wave-reused |
-| M165133 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSectionForms` | wave-reused |
-| M165134 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSectionSplit` | wave-reused |
-| M165136 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericCycleCorresp` | wave-reused |
-| M165137 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimBound` | wave-reused |
-| M165138 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimGe` | wave-reused |
-| M165139 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericFibProps` | wave-reused |

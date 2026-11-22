@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107481 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharExt` | volunteer-build-reviewed |
+| M107482 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharFil` | volunteer-build-reviewed |
+| M107483 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartChange` | volunteer-build-reviewed |
+| M107484 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartCount` | volunteer-build-reviewed |
 | M107485 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartGraded` | volunteer-build-reviewed |
 | M107486 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartSpan` | volunteer-build-reviewed |
 | M107487 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CocycleTransportH1fSurjective` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M108343 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.ValProd` | volunteer-build-reviewed |
 | M108347 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.DedekindSR` | volunteer-build-reviewed |
 | M108348 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.GrpHComp` | volunteer-build-reviewed |
-| M108349 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.IsAcyclicSpace` | volunteer-build-reviewed |
-| M108353 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.StabDirectedSystem` | volunteer-build-reviewed |
-| M108354 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.AutP` | volunteer-build-reviewed |
-| M108355 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CharpolyCompNegRoots` | volunteer-build-reviewed |

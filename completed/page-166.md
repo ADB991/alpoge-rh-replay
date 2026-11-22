@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113030 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.CRealAv` | volunteer-build-reviewed |
+| M113031 | P2762 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.EndoscopyRank2Ordinary` | volunteer-build-reviewed |
+| M113033 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.LinkTwo` | volunteer-build-reviewed |
+| M113034 | P2687 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.OffSelf` | volunteer-build-reviewed |
+| M113035 | P2739 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.PlainTorOfMono0` | volunteer-build-reviewed |
+| M113036 | P2687 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.TypePlain` | volunteer-build-reviewed |
+| M113037 | P1725 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CentralEig2` | volunteer-build-reviewed |
 | M113038 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CharConj` | volunteer-build-reviewed |
 | M113039 | P2667 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CharConjHolds` | volunteer-build-reviewed |
 | M113040 | P1703 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CompLocOfApart` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M113598 | P2766 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixEq` | volunteer-build-reviewed |
 | M113599 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixFinite` | volunteer-build-reviewed |
 | M113600 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixFwd` | volunteer-build-reviewed |
-| M113601 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixGa` | volunteer-build-reviewed |
-| M113602 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixLine` | volunteer-build-reviewed |
-| M113603 | P2766 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixLoc` | volunteer-build-reviewed |
-| M113604 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFlatAffine` | volunteer-build-reviewed |
-| M113605 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFlatComp` | volunteer-build-reviewed |
-| M113607 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFrame` | volunteer-build-reviewed |
-| M113608 | P2667 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFrameEx` | volunteer-build-reviewed |

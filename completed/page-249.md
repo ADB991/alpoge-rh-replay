@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162077 | P0833 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.SplitText` | wave-reused |
+| M162078 | P0778 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplit` | wave-reused |
+| M162079 | P0805 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplitHZero` | wave-reused |
+| M162080 | P0751 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplitOfSplit` | wave-reused |
+| M162081 | P0725 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TorsionLeHZero` | wave-reused |
+| M162082 | P0698 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremHZero` | wave-reused |
+| M162083 | P0725 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremStatedForm` | wave-reused |
+| M162084 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.CardFilterAddLeOfNone` | wave-reused |
+| M162085 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.LengthHomCoker` | wave-reused |
 | M162086 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.RowCol` | wave-reused |
 | M162087 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.SubmoduleLengthBoundStatement` | wave-reused |
 | M162088 | P0669 | `Formalism.WachLatticeTwists.TorsionLengthCounts.TheoremFiveSplitOfBounds` | wave-reused |
@@ -393,12 +402,3 @@
 | M162520 | P1026 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SmoothingFinite` | wave-reused |
 | M162521 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsArchConv` | wave-reused |
 | M162522 | P1321 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsAreCuspForms` | wave-reused |
-| M162523 | P1215 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsBase` | wave-reused |
-| M162524 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContRep` | wave-reused |
-| M162525 | P1296 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContinuous` | wave-reused |
-| M162526 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsMeasure` | wave-reused |
-| M162527 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.TorusDifference` | wave-reused |
-| M162528 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.TorusReduction` | wave-reused |
-| M162529 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.Unimodular` | wave-reused |
-| M162530 | P1191 | `GroundTheory.AutomorphicForms.CuspidalProjection.ContinuousFiniteAdeleSingleAdd` | build-observed |
-| M162531 | P1215 | `GroundTheory.AutomorphicForms.CuspidalProjection.Global` | build-observed |

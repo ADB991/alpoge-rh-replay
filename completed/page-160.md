@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109993 | P0769 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.WDvdQS` | build-observed |
+| M109995 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.SmallSum` | volunteer-build-reviewed |
+| M109996 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.Casimir` | volunteer-build-reviewed |
+| M109997 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.DualFamily` | volunteer-build-reviewed |
+| M109998 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.EmbSum` | volunteer-build-reviewed |
+| M109999 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.LocalGen` | volunteer-build-reviewed |
+| M110000 | P2252 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.NormGen` | volunteer-build-reviewed |
 | M110001 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.TraceForm` | volunteer-build-reviewed |
 | M110002 | P0201 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.ValGen` | volunteer-build-reviewed |
 | M110003 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.AttExp` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M110447 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationSubringUniqueOfPrime` | volunteer-build-reviewed |
 | M110448 | P2686 | `Development.AutomorphicArithmetic.DivisorFrames.VanishingSectionsToroidalFlagIndependent` | volunteer-build-reviewed |
 | M110449 | P2441 | `Development.AutomorphicArithmetic.DivisorFrames.VectorBundleSubbundleUniversal` | volunteer-build-reviewed |
-| M110450 | P2241 | `Development.AutomorphicArithmetic.DivisorFrames.VectorValuedAutFormEquivariantInfiniteComponent` | volunteer-build-reviewed |
-| M110451 | P2708 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalDegreeRationalSection` | volunteer-build-reviewed |
-| M110452 | P2705 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalModelDimensionMatch` | volunteer-build-reviewed |
-| M110453 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalModelMatchCompat` | volunteer-build-reviewed |
-| M110454 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WeightUnitsSectionAtPoint` | volunteer-build-reviewed |
-| M110455 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.WeilPairingLabelsTorsionPoints` | volunteer-build-reviewed |
-| M110456 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WtGeneric` | volunteer-build-reviewed |

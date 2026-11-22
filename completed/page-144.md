@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100592 | P0559 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationCoeEqNorm` | wave-reused |
+| M100593 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationIntegersPadicComplete` | volunteer-build-reviewed |
+| M100594 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeaf` | wave-reused |
 | M100595 | P0713 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeafStatement` | wave-reused |
 | M100596 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOne` | build-observed |
 | M100597 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOneStatement` | build-observed |
@@ -399,6 +402,3 @@
 | M101242 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdicCompletionIntegersBaseChangeIff` | build-observed |
 | M101243 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.BaseChangeTrivialExtension` | build-observed |
 | M101244 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange` | build-observed |
-| M101245 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionLocalScalar` | build-observed |
-| M101246 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralizerCommutativeOfSeparableCharpoly` | build-observed |
-| M101249 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CharpolySeparableUnitSmul` | build-observed |

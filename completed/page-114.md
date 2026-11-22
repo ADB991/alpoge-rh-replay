@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078596 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeedsStatement` | volunteer-build-reviewed |
+| M078603 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEq` | volunteer-build-reviewed |
 | M078604 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEqStatement` | volunteer-build-reviewed |
 | M078607 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueEmbeddingEigenspaceSum` | volunteer-build-reviewed |
 | M078611 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueInfEmb` | build-observed |
@@ -400,5 +402,3 @@
 | M079469 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeAlgebraCompUnitaryGroupAntidiagTransportMem` | volunteer-build-reviewed |
 | M079472 | P2040 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeArgumentResidueEqWeightedSymmetricFrameSumStatement` | volunteer-build-reviewed |
 | M079473 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualFiniteIdelicIffLocal` | volunteer-build-reviewed |
-| M079474 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualFiniteIdelicIffLocalStatement` | volunteer-build-reviewed |
-| M079475 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualInfinityInfinitesimalIffFie` | volunteer-build-reviewed |

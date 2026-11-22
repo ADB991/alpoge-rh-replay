@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096395 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompatStatement` | build-observed |
+| M096396 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairOperatorStatement` | volunteer-build-reviewed |
 | M096397 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsClasses` | volunteer-build-reviewed |
 | M096398 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEq` | volunteer-build-reviewed |
 | M096399 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEqSum` | volunteer-build-reviewed |
@@ -182,6 +184,7 @@
 | M096629 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PureTensorUpdateFactorFromBaseVector` | volunteer-build-reviewed |
 | M096630 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PureTensorUpdateFactorFromBaseVectorStatement` | volunteer-build-reviewed |
 | M096632 | P2412 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.QEqColPer` | volunteer-build-reviewed |
+| M096633 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetAddOneSubEqSumQminor` | volunteer-build-reviewed |
 | M096634 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetAddOneSubEqSumQminorStatement` | volunteer-build-reviewed |
 | M096635 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetPolyMapMonic` | volunteer-build-reviewed |
 | M096636 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.QdetPolyMapMonicStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M096922 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatum` | volunteer-build-reviewed |
 | M096923 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatumStatement` | volunteer-build-reviewed |
 | M096924 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowColWeightsAgree` | build-observed |
-| M096925 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepth` | volunteer-build-reviewed |
-| M096926 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepthStatement` | volunteer-build-reviewed |
-| M096927 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDivEqZeroOfMatRepUnipotentFixed` | build-observed |

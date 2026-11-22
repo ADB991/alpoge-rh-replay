@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    "M108571"
+  ],
+  "started_utc": "2026-11-22T10:47:33.374818+00:00",
+  "ended_utc": "2026-11-22T10:48:04.831154+00:00",
+  "elapsed_seconds": 31.5,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5332000
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CommAlgFunctorCoboundaryZeroMemCocyclesOne:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "308d5247e05b2f7a5b56824797fd78e802513191ac9b9bbbc92165c5a42ccbe7",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.MapDiagonalRepMatrixEq",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.DefNorm",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.EntInMulRight"
+  ],
+  "objects": {
+    "M108571": "7e4b5b12314b95d418b527ed2f684fa40ab8af0e10ed255ef14a7ddcfe76523d"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "59c9999c0038342fe742f3d0dec9025ef9fff14b039d96e4af87aef25364736b",
+  "packet": "M108571",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31616#issuecomment-7078028539",
+  "reviewed_utc": "2026-11-22T11:49:06.990812+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

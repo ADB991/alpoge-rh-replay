@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090655 | P0767 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOrigin` | wave-reused |
+| M090656 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOriginStatement` | volunteer-build-reviewed |
 | M090660 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPoint` | build-observed |
 | M090661 | P1231 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPointStatement` | build-observed |
 | M090662 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointOfPerLev` | build-observed |
@@ -400,5 +402,3 @@
 | M091345 | P0850 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThickenedPointToTorusExtensionGenerator` | wave-reused |
 | M091346 | P0988 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToFSurjectiveFractionRing` | wave-reused |
 | M091347 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToUnitCompLeft` | build-observed |
-| M091349 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOfSameRatios` | build-observed |
-| M091350 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOneOfTranslationKeepsRatios` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085752 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModelFiniteOverModuliModelDescends` | volunteer-build-reviewed |
+| M085756 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliFiniteSurjectiveOverGenericFamilyStatement` | volunteer-build-reviewed |
 | M085759 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliRepOfBase` | build-observed |
 | M085761 | P2099 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeLevelMapsHeckePointsStatement` | build-observed |
 | M085763 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeNonemptyAtEveryLevelStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M086638 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BcDatumNatural` | volunteer-build-reviewed |
 | M086639 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResidues` | volunteer-build-reviewed |
 | M086640 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResiduesStatement` | build-observed |
-| M086643 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducible` | volunteer-build-reviewed |
-| M086644 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducibleStatement` | volunteer-build-reviewed |

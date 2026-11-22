@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172373 | P0168 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CountPf` | volunteer-build-reviewed |
+| M172374 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CountRhoPArithStatement` | volunteer-build-reviewed |
+| M172376 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.CuspStatementPf` | wave-reused |
+| M172377 | P0290 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DescentStatement` | volunteer-build-reviewed |
+| M172378 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DescentStatementPf` | volunteer-build-reviewed |
+| M172380 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStartPf` | wave-reused |
+| M172381 | P0547 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLA` | wave-reused |
+| M172382 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLB` | build-observed |
+| M172383 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLC` | build-observed |
 | M172384 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLD` | build-observed |
 | M172385 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLE` | build-observed |
 | M172386 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.EtaStatementHolds` | wave-reused |
@@ -393,12 +402,3 @@
 | M172804 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.QuadTie` | wave-reused |
 | M172805 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.QuadraticAlgebraValuation` | wave-reused |
 | M172810 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.RsAppPullGen` | wave-reused |
-| M172813 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.SectionScalarValuation` | wave-reused |
-| M172814 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWFinal` | volunteer-build-reviewed |
-| M172815 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWMain` | wave-reused |
-| M172816 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWMove` | wave-reused |
-| M172817 | P1055 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaArc` | wave-reused |
-| M172818 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGen` | wave-reused |
-| M172819 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenDiv` | wave-reused |
-| M172820 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenFam` | wave-reused |
-| M172821 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ThetaGenFibre` | wave-reused |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M118649 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PlacesUnder` | volunteer-build-reviewed |
+| M118650 | P2231 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PlacesUnderStatement` | volunteer-build-reviewed |
+| M118651 | P2633 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointCases` | volunteer-build-reviewed |
+| M118652 | P2643 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointCasesStatement` | volunteer-build-reviewed |
+| M118653 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointEvaluationSide` | volunteer-build-reviewed |
+| M118654 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointEvaluationSideStatement` | volunteer-build-reviewed |
+| M118655 | P1802 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointInputAwayFromTypePrimes` | volunteer-build-reviewed |
 | M118656 | P1826 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointInputAwayFromTypePrimesStatement` | volunteer-build-reviewed |
 | M118657 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointRead` | volunteer-build-reviewed |
 | M118658 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointStageEigenspaceSpan` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M119067 | P2207 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYWeilVecStatement` | volunteer-build-reviewed |
 | M119068 | P1751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCut` | volunteer-build-reviewed |
 | M119069 | P1826 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCutOfArtin` | volunteer-build-reviewed |
-| M119070 | P1848 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCutOfArtinStatement` | volunteer-build-reviewed |
-| M119071 | P2443 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsPin` | volunteer-build-reviewed |
-| M119072 | P2185 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StmtJHolds` | volunteer-build-reviewed |
-| M119073 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrCalcO` | volunteer-build-reviewed |
-| M119074 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrInertTyz` | volunteer-build-reviewed |
-| M119075 | P2773 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplit` | volunteer-build-reviewed |
-| M119076 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplitStatement` | volunteer-build-reviewed |

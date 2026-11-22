@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049721 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SesquilinearDetOrdSignOnKernelConjGLStatement` | volunteer-build-reviewed |
 | M049722 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAt` | volunteer-build-reviewed |
 | M049723 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAtStatement` | volunteer-build-reviewed |
 | M049725 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralCompAut` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M050385 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectivStatement` | volunteer-build-reviewed |
 | M050387 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCompositionFormStatement` | volunteer-build-reviewed |
 | M050391 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothConeSumGeneratorsEqOfCommonInteriorPointStatement` | volunteer-build-reviewed |
-| M050392 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEq` | build-observed |

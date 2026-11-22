@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076233 | P2282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointMemAbLocus` | build-observed |
+| M076235 | P0124 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosureAdjoinUnitBallCoeffBoundStatement` | volunteer-build-reviewed |
 | M076238 | P1405 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClsAt` | volunteer-build-reviewed |
 | M076239 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmDataIsCMExtAndGramIsHermND` | build-observed |
 | M076240 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmExtensionLocalFieldProductRingExistsSmulEq` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M077043 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOne` | volunteer-build-reviewed |
 | M077044 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOneStatement` | volunteer-build-reviewed |
 | M077049 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStages` | volunteer-build-reviewed |
-| M077050 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStagesStatement` | volunteer-build-reviewed |
-| M077051 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicSplit` | build-observed |

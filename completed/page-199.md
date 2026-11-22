@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132277 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusOver` | volunteer-build-reviewed |
+| M132278 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusOverLieModelBaseChange` | volunteer-build-reviewed |
+| M132280 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusPointOverFractionField` | volunteer-build-reviewed |
+| M132281 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusPointOverFractionFieldStatement` | volunteer-build-reviewed |
+| M132284 | P2318 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerComponentsCompatibleLaws` | volunteer-build-reviewed |
+| M132285 | P2336 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerComponentsCompatibleLawsStatement` | volunteer-build-reviewed |
+| M132286 | P2318 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerComponentsEquivOfGiven` | volunteer-build-reviewed |
 | M132287 | P2336 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerComponentsEquivOfGivenStatement` | volunteer-build-reviewed |
 | M132295 | P2730 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerIntersectionOfSandwichSplitStatement` | volunteer-build-reviewed |
 | M132296 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerOriginComponentBound` | volunteer-build-reviewed |
@@ -198,6 +205,7 @@
 | M132670 | P1046 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteUnitsBoundedEmbeddingRatioStatement` | build-observed |
 | M132671 | P0370 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.FinitelyManyOpenSubgroupsBoundedIndex` | build-observed |
 | M132672 | P0415 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.FinitelyManyOpenSubgroupsBoundedIndexStatement` | build-observed |
+| M132676 | P0370 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.GaloisUnramifiedOutsideCohomology` | volunteer-build-reviewed |
 | M132682 | P0143 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.GeneralLinearIntegralCompactOpen` | volunteer-build-reviewed |
 | M132683 | P0208 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.GeneralLinearIntegralCompactOpenStatement` | volunteer-build-reviewed |
 | M132688 | P1706 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.HaarIntegralIntegersFiniteSum` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M133044 | P1316 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinateStatement` | build-observed |
 | M133045 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitary` | volunteer-build-reviewed |
 | M133046 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitaryStatement` | volunteer-build-reviewed |
-| M133047 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLattice` | volunteer-build-reviewed |
-| M133048 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLatticeStatement` | volunteer-build-reviewed |
-| M133049 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameHermitianProduct` | volunteer-build-reviewed |
-| M133050 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameHermitianProductStatement` | build-observed |
-| M133051 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameInverseProperties` | volunteer-build-reviewed |
-| M133052 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameInversePropertiesStatement` | volunteer-build-reviewed |
-| M133053 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalent` | volunteer-build-reviewed |
-| M133054 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalentStatement` | volunteer-build-reviewed |

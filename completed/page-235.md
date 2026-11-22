@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155616 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSpanSingle` | build-observed |
+| M155617 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffFlagC` | build-observed |
+| M155618 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffSG` | build-observed |
+| M155619 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PairMatrixSecondSplit` | build-observed |
+| M155620 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParGMapGlRed` | build-observed |
+| M155621 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParUniIffFlags` | build-observed |
+| M155622 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfAdapted` | build-observed |
+| M155623 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfBasisAdapted` | build-observed |
+| M155624 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfFrameBasis` | build-observed |
 | M155625 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfResidueFrame` | build-observed |
 | M155626 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicReductionImage` | build-observed |
 | M155627 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PhiBijective` | build-observed |
@@ -393,12 +402,3 @@
 | M156061 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.FmatInvMul` | build-observed |
 | M156062 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.FundamentalDomainOfCompactOpen` | build-observed |
 | M156063 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.Imports` | build-observed |
-| M156064 | P1190 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsCompactOhat` | build-observed |
-| M156065 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsCompactStabGLHat` | build-observed |
-| M156066 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.IsHermNDOfSetting` | build-observed |
-| M156067 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.LatHat` | build-observed |
-| M156068 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MapSubOneMulVec` | build-observed |
-| M156069 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassDataMassesOf` | build-observed |
-| M156070 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassHNonneg` | build-observed |
-| M156071 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldGenHolds` | build-observed |
-| M156072 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldHolds` | build-observed |

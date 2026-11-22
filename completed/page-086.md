@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059029 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstant` | build-observed |
 | M059030 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstantStatement` | build-observed |
 | M059032 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBoundByDyadicSummationStatement` | volunteer-build-reviewed |
 | M059033 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBessel` | build-observed |
@@ -401,4 +402,3 @@
 | M059692 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdFirstBlocksByLayers` | volunteer-build-reviewed |
 | M059697 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSq` | build-observed |
 | M059698 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSqStatement` | build-observed |
-| M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |

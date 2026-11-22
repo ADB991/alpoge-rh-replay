@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060410 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometryStatement` | wave-reused |
 | M060417 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoGeometricSumsIndexBound` | wave-reused |
 | M060422 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoSidedSizeFunctionPosInvariantContinuousStatement` | volunteer-build-reviewed |
 | M060423 | P2227 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBessel` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M061037 | P2311 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassInvariantDescentCoprimeLevelModPow` | volunteer-build-reviewed |
 | M061040 | P2098 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypotheses` | volunteer-build-reviewed |
 | M061041 | P2113 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypothesesStatement` | volunteer-build-reviewed |
-| M061051 | P1225 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmQuadraticPhaseEquivariantEmbeddingsStatement` | build-observed |

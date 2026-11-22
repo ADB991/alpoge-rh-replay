@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139431 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.SecondDerivativeOfEventuallyEq` | volunteer-build-reviewed |
+| M139432 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.TripleDeriv` | volunteer-build-reviewed |
+| M139435 | P0569 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XAnTwo` | build-observed |
+| M139443 | P2528 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsImmersion` | volunteer-build-reviewed |
+| M139444 | P2472 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsLocal` | volunteer-build-reviewed |
+| M139445 | P2528 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCBmExistsPeriod` | volunteer-build-reviewed |
+| M139459 | P0664 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCGradAtlas` | build-observed |
+| M139462 | P1237 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCUnif` | build-observed |
+| M139463 | P0966 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCWArith` | build-observed |
 | M139467 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibHess` | build-observed |
 | M139468 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibMdisc` | build-observed |
 | M139469 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibStereo` | build-observed |
@@ -393,12 +402,3 @@
 | M140394 | P0459 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.DegreeZeroCurvePositive` | build-observed |
 | M140395 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.DualBasisReverseTriangular` | volunteer-build-reviewed |
 | M140400 | P0459 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsCurveThroughSpecialPoint` | build-observed |
-| M140402 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsDualBaseChange` | volunteer-build-reviewed |
-| M140403 | P2386 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsDualFamily` | volunteer-build-reviewed |
-| M140404 | P0664 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsFunctionAtPoint` | build-observed |
-| M140405 | P1186 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsFunctionOnChart` | build-observed |
-| M140409 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsMonogenicSeparating` | volunteer-build-reviewed |
-| M140410 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsPointOverNonvanishing` | build-observed |
-| M140411 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsPrimeDimOneAvoiding` | volunteer-build-reviewed |
-| M140412 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsRepresentativeAvoidingIdeal` | wave-reused |
-| M140414 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsTorsionGroupExtension` | volunteer-build-reviewed |

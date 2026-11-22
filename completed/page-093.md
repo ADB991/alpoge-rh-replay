@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063531 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuous` | wave-reused |
+| M063532 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuousStatement` | wave-reused |
 | M063535 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOne` | wave-reused |
 | M063536 | P0710 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOneStatement` | wave-reused |
 | M063538 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientCharTrivialInertiaCyclotomicTower` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M064175 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0Statement` | volunteer-build-reviewed |
 | M064176 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1Inte` | volunteer-build-reviewed |
 | M064177 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1InteStatement` | volunteer-build-reviewed |
-| M064184 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOne` | build-observed |
-| M064185 | P1150 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOneStatement` | build-observed |

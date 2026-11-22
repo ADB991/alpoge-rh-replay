@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M104392 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.OneParam` | volunteer-build-reviewed |
+| M104395 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.PetEx` | volunteer-build-reviewed |
+| M104402 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformAdj` | volunteer-build-reviewed |
+| M104403 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformPos` | volunteer-build-reviewed |
 | M104405 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.ZalgCommute` | volunteer-build-reviewed |
 | M104406 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.ClozelConjCOf` | volunteer-build-reviewed |
 | M104408 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.NormEqOneOfKillsMu` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M104988 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.LocTransAlt` | volunteer-build-reviewed |
 | M104989 | P2697 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.MixSeedPAlt` | volunteer-build-reviewed |
 | M104990 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.OrdPlain` | volunteer-build-reviewed |
-| M104991 | P2712 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PlainAtRTwist` | volunteer-build-reviewed |
-| M104992 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PmSeedP` | volunteer-build-reviewed |
-| M104993 | P2712 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PotOrd` | volunteer-build-reviewed |
-| M104994 | P2703 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PrOrd` | volunteer-build-reviewed |

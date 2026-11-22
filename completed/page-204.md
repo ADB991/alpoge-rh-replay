@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135677 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafOneLocPf` | wave-reused |
+| M135678 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafOneSpecPf` | wave-reused |
+| M135679 | P0064 | `Development.EtaleCohomology.EtaleSheaves.LeafOrdInfHomPf` | volunteer-build-reviewed |
+| M135680 | P0143 | `Development.EtaleCohomology.EtaleSheaves.LeafOrdInfLocalPf` | volunteer-build-reviewed |
+| M135681 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafPairExtPf` | wave-reused |
+| M135684 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPicCut` | wave-reused |
+| M135685 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPointCut` | wave-reused |
+| M135686 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafPointTransferCut` | wave-reused |
 | M135688 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafPreTensLocInjPf` | wave-reused |
 | M135689 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafPrimCoverPf` | wave-reused |
 | M135697 | P0662 | `Development.EtaleCohomology.EtaleSheaves.LeafReducedSmooth` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M136312 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotientAndPreshe` | wave-reused |
 | M136313 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfLocalCriterionAn` | wave-reused |
 | M136314 | P0568 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfRootListsLocally` | wave-reused |
-| M136315 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeOneValueOfRootsKum` | wave-reused |
-| M136316 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeTwoValueOfRootsKum` | wave-reused |
-| M136320 | P0417 | `Development.EtaleCohomology.TateTwists.FirstChernClassSpec` | wave-reused |
-| M136321 | P0458 | `Development.EtaleCohomology.TateTwists.FirstChernSpecOfRepresentative` | wave-reused |
-| M136322 | P0499 | `Development.EtaleCohomology.TateTwists.FreeExt` | wave-reused |
-| M136323 | P0499 | `Development.EtaleCohomology.TateTwists.GenConnPf` | wave-reused |
-| M136324 | P0663 | `Development.EtaleCohomology.TateTwists.HoldsOf` | wave-reused |
-| M136327 | P0458 | `Development.EtaleCohomology.TateTwists.IsTensorFlip` | wave-reused |

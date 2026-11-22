@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142228 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.GlobCore` | volunteer-build-reviewed |
+| M142229 | P0067 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.GramDiagUnitary` | volunteer-build-reviewed |
+| M142230 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.GramXApply` | volunteer-build-reviewed |
+| M142231 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.GroupPart` | volunteer-build-reviewed |
+| M142232 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HasDerivAtEvalCurve` | volunteer-build-reviewed |
+| M142233 | P1554 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HasDerivAtPhi` | volunteer-build-reviewed |
+| M142234 | P1439 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HolParam` | build-observed |
+| M142235 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HolomorphicSectionExtensionExists` | volunteer-build-reviewed |
+| M142236 | P1612 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HzBound` | volunteer-build-reviewed |
 | M142237 | P1582 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.HzBound0` | volunteer-build-reviewed |
 | M142238 | P1554 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.IEqOfSL` | volunteer-build-reviewed |
 | M142239 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.ImportsAlt` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M142871 | P2288 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.BernAll` | volunteer-build-reviewed |
 | M142873 | P1554 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.IsInvForm` | volunteer-build-reviewed |
 | M142874 | P2288 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.ThmBChar0` | volunteer-build-reviewed |
-| M142876 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.CentralGenerators.CentralSubGen` | volunteer-build-reviewed |
-| M142878 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.EigenInjectivity.SubInjective` | volunteer-build-reviewed |
-| M142879 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.LeviScalars.EmbScalarMemLevi` | volunteer-build-reviewed |
-| M142883 | P1582 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.TopProdD` | volunteer-build-reviewed |
-| M142884 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.UnitarisableHypotheses.IrrSub` | volunteer-build-reviewed |
-| M142885 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.UnitarisableHypotheses.IsUnitarisableCast` | volunteer-build-reviewed |
-| M142887 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.AdjointSemisimple.AdjunctionCharZero` | volunteer-build-reviewed |
-| M142889 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses.InvCommOfComm` | volunteer-build-reviewed |
-| M142893 | P1732 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.OpenSlices.LatticeIndices.RelIndexLatConj` | volunteer-build-reviewed |

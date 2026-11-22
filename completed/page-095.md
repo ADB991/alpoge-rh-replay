@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064974 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntriesStatement` | volunteer-build-reviewed |
+| M064975 | P0358 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLift` | volunteer-build-reviewed |
 | M064976 | P0404 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLiftStatement` | volunteer-build-reviewed |
 | M064979 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodTopCountLeConstMulLog` | build-observed |
 | M064982 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HaarDisintegrationAveragedFibreMeasures` | build-observed |
@@ -400,5 +402,3 @@
 | M065789 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpaceStatement` | volunteer-build-reviewed |
 | M065790 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntries` | volunteer-build-reviewed |
 | M065791 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntriesStatement` | volunteer-build-reviewed |
-| M065793 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeylHeisenbergOperatorCalculusRationalStatement` | volunteer-build-reviewed |
-| M065796 | P1225 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowLower` | build-observed |

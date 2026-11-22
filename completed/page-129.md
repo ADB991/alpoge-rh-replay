@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092078 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuousStatement` | volunteer-build-reviewed |
+| M092079 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthData` | volunteer-build-reviewed |
 | M092080 | P2628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthDataStatement` | volunteer-build-reviewed |
 | M092081 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselSecondBasePointCharacterTrivialDepthLattic` | volunteer-build-reviewed |
 | M092083 | P2042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepBasePointScaledCoordinates` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M092825 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelKFinite` | volunteer-build-reviewed |
 | M092827 | P1205 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelOfDualParameter` | volunteer-build-reviewed |
 | M092830 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelParamShiftedWeightOfCoverDiscStatement` | volunteer-build-reviewed |
-| M092831 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesMultiplicity` | volunteer-build-reviewed |
-| M092833 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProduct` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047597 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatricesDiscreteCocompactAdelicMatrixSpa` | volunteer-build-reviewed |
 | M047599 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRational` | volunteer-build-reviewed |
 | M047600 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRationalStatement` | volunteer-build-reviewed |
 | M047601 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMap` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M048322 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedProductUnitaryGroupStatement` | volunteer-build-reviewed |
 | M048324 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorLocalOperators` | volunteer-build-reviewed |
 | M048325 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorLocalOperatorsStatement` | volunteer-build-reviewed |
-| M048326 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorSchwartz` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089737 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissibleStatement` | volunteer-build-reviewed |
+| M089738 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedPolynomialComplexPointEvaluation` | volunteer-build-reviewed |
 | M089740 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLaw` | volunteer-build-reviewed |
 | M089741 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLawStatement` | volunteer-build-reviewed |
 | M089743 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainStabilisersEqStandardReaderPointsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M090651 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByM` | wave-reused |
 | M090652 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByMStatement` | wave-reused |
 | M090654 | P1285 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedKeyInvariantRuleCharZeroStatement` | build-observed |
-| M090655 | P0767 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOrigin` | wave-reused |
-| M090656 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOriginStatement` | volunteer-build-reviewed |

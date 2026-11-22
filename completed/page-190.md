@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125993 | P1609 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulVecMidBlockDecompStatement` | volunteer-build-reviewed |
+| M125994 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultHaarConstToRealNeZero` | volunteer-build-reviewed |
+| M125995 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultIntegralPowerBound` | volunteer-build-reviewed |
+| M125996 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultIntegralPowerBoundStatement` | volunteer-build-reviewed |
+| M125997 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocks` | volunteer-build-reviewed |
+| M125998 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocksStatement` | volunteer-build-reviewed |
+| M125999 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProductSingleFactorEquiv` | volunteer-build-reviewed |
 | M126002 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulticonePointDescendsToSubvarietyStatement` | volunteer-build-reviewed |
 | M126003 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactors` | build-observed |
 | M126004 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactorsStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M126604 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspaceStatement` | volunteer-build-reviewed |
 | M126605 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityStatement` | volunteer-build-reviewed |
 | M126609 | P1134 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowIdeal` | wave-reused |
-| M126610 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowSubSuccLe` | wave-reused |
-| M126612 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtraction` | wave-reused |
-| M126613 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtractionStatement` | wave-reused |
-| M126614 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowersDiagonalAtTBlock` | volunteer-build-reviewed |
-| M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
-| M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |
-| M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |

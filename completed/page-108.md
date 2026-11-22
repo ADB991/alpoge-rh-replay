@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073878 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearMatrixComm` | volunteer-build-reviewed |
+| M073879 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleCompose` | wave-reused |
 | M073880 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleComposeStatement` | wave-reused |
 | M073881 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfInjective` | build-observed |
 | M073882 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSup` | build-observed |
@@ -400,5 +402,3 @@
 | M074579 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLatticeConditionOfSeriesComparisonUniversal` | volunteer-build-reviewed |
 | M074582 | P2665 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSum` | volunteer-build-reviewed |
 | M074583 | P2671 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSumStatement` | volunteer-build-reviewed |
-| M074585 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationAtRealPlacesStatement` | volunteer-build-reviewed |
-| M074586 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlaces` | volunteer-build-reviewed |

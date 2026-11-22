@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095420 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselFlatMapEquivariant` | volunteer-build-reviewed |
+| M095421 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselFlatMapEquivariantStatement` | volunteer-build-reviewed |
 | M095422 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLattices` | volunteer-build-reviewed |
 | M095423 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
 | M095424 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilators` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M095883 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernelStatement` | volunteer-build-reviewed |
 | M095886 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransform` | volunteer-build-reviewed |
 | M095887 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransformStatement` | volunteer-build-reviewed |
-| M095888 | P2587 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSum` | volunteer-build-reviewed |
-| M095889 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSumStatement` | volunteer-build-reviewed |

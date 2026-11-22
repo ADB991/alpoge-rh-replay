@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070365 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeriesStatement` | volunteer-build-reviewed |
+| M070368 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpace` | volunteer-build-reviewed |
 | M070369 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpaceStatement` | volunteer-build-reviewed |
 | M070372 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockInnerProductPosDefCompactMatrixUnitAdjoint` | volunteer-build-reviewed |
 | M070374 | P1482 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockMinorProductEqSignDualWeylExtremalVector` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M071001 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeightsoundQdPlacesUniformConst` | volunteer-build-reviewed |
 | M071003 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisOFixOfIsThetaAt` | volunteer-build-reviewed |
 | M071005 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisenbergRealPointFockVacuumPairingScalarStatement` | volunteer-build-reviewed |
-| M071009 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HenselRootsOfLocalFamilyStatement` | volunteer-build-reviewed |
-| M071010 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermBasisOrthonormal` | volunteer-build-reviewed |

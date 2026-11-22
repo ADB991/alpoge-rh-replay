@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084319 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QdetTopThreeOrders` | volunteer-build-reviewed |
+| M084323 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorIntertwiningApply` | build-observed |
 | M084325 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorPolyMap` | volunteer-build-reviewed |
 | M084327 | P0127 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuadraticFieldDiscPrimeThreeModFour` | volunteer-build-reviewed |
 | M084329 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalue` | wave-reused |
@@ -400,5 +402,3 @@
 | M085046 | P1284 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZero` | wave-reused |
 | M085047 | P1310 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZeroStatement` | wave-reused |
 | M085048 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDerivAt0NotIsDerivAlong` | volunteer-build-reviewed |
-| M085049 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDominantGeometricPointOfIsPreimmersion` | volunteer-build-reviewed |
-| M085050 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsE8IsSharpBasis` | volunteer-build-reviewed |

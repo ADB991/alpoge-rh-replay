@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110450 | P2241 | `Development.AutomorphicArithmetic.DivisorFrames.VectorValuedAutFormEquivariantInfiniteComponent` | volunteer-build-reviewed |
+| M110451 | P2708 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalDegreeRationalSection` | volunteer-build-reviewed |
+| M110452 | P2705 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalModelDimensionMatch` | volunteer-build-reviewed |
+| M110453 | P2698 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalModelMatchCompat` | volunteer-build-reviewed |
+| M110454 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WeightUnitsSectionAtPoint` | volunteer-build-reviewed |
+| M110455 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.WeilPairingLabelsTorsionPoints` | volunteer-build-reviewed |
+| M110456 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WtGeneric` | volunteer-build-reviewed |
 | M110457 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.CorrespondenceNormBoundOfAffineOpens` | build-observed |
 | M110459 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.CrystallineExpansionRelationOfScaledEndomorphism` | build-observed |
 | M110461 | P0491 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCoefficientEquivCohomologyOfElements` | build-observed |
@@ -395,10 +402,3 @@
 | M110978 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.TwoParts` | volunteer-build-reviewed |
 | M110979 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.UnitOfPow` | volunteer-build-reviewed |
 | M110980 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.ZeroExp` | volunteer-build-reviewed |
-| M110981 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.CptInt` | volunteer-build-reviewed |
-| M110983 | P1550 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.NormCount` | volunteer-build-reviewed |
-| M110984 | P1577 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.OrbUnit` | volunteer-build-reviewed |
-| M110985 | P1577 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.OrbZero` | volunteer-build-reviewed |
-| M110986 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.PolFin` | volunteer-build-reviewed |
-| M110989 | P1826 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.AbsGrow` | volunteer-build-reviewed |
-| M110990 | P1848 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.AbsTaylor` | volunteer-build-reviewed |

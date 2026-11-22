@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114091 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutDef` | volunteer-build-reviewed |
+| M114092 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutGen` | volunteer-build-reviewed |
+| M114093 | P2229 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutLat` | volunteer-build-reviewed |
+| M114094 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutLatA` | volunteer-build-reviewed |
+| M114095 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutProd` | volunteer-build-reviewed |
+| M114096 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutProdA` | volunteer-build-reviewed |
+| M114097 | P2229 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutReal` | volunteer-build-reviewed |
 | M114098 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealA` | volunteer-build-reviewed |
 | M114099 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealB` | volunteer-build-reviewed |
 | M114100 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSer` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M114509 | P2194 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairUnitary` | volunteer-build-reviewed |
 | M114510 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilSchwartzDecayBound` | volunteer-build-reviewed |
 | M114511 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylBaseColumn` | volunteer-build-reviewed |
-| M114512 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylConjugateExponentialParabolic` | volunteer-build-reviewed |
-| M114513 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylEmbeddedColumns` | volunteer-build-reviewed |
-| M114515 | P2525 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSDblT` | volunteer-build-reviewed |
-| M114516 | P2550 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSPair` | volunteer-build-reviewed |
-| M114517 | P2572 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSTop` | volunteer-build-reviewed |
-| M114518 | P2643 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.TwoUpOKOfSteps` | volunteer-build-reviewed |
-| M114520 | P2287 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.LimFinOddOf` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154685 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NMPseudoOf` | build-observed |
+| M154686 | P1833 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NormMMOfJD` | build-observed |
+| M154687 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFDefs` | build-observed |
+| M154688 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepAll` | build-observed |
+| M154689 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepFin` | build-observed |
+| M154690 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepFinal` | build-observed |
+| M154691 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepGood` | build-observed |
+| M154692 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepRank` | build-observed |
+| M154693 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepTop` | build-observed |
 | M154694 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitCountSecondStage` | build-observed |
 | M154695 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitFiniteOf` | build-observed |
 | M154700 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ProdAbsNormDifferentIdealPowers` | build-observed |
@@ -393,12 +402,3 @@
 | M155148 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HermXGen` | build-observed |
 | M155149 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HmSelfRe` | build-observed |
 | M155150 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.IsotropicSubspaceEqPrimed` | build-observed |
-| M155152 | P1295 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.MemXspIff` | build-observed |
-| M155153 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.PartEq` | build-observed |
-| M155157 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.XiHermitianCofactorDet` | build-observed |
-| M155158 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.Assemble` | build-observed |
-| M155159 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.Expand` | build-observed |
-| M155160 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.HasSubstGood` | build-observed |
-| M155161 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.IntegralSubst` | build-observed |
-| M155162 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.PhGramOf` | build-observed |
-| M155163 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramUnitMultiplication.BeMulByZero` | build-observed |

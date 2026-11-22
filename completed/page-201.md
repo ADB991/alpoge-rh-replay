@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133653 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentityStatement` | volunteer-build-reviewed |
+| M133654 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelHeightLowerEstimate` | volunteer-build-reviewed |
+| M133658 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointInMultiprojectivePoints` | build-observed |
+| M133659 | P1161 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointInMultiprojectivePointsStatement` | build-observed |
+| M133660 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointTriangularChangeOrbit` | build-observed |
+| M133661 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointTriangularChangeOrbitStatement` | build-observed |
+| M133662 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointsIntegralProductFormula` | volunteer-build-reviewed |
+| M133664 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecomposition` | volunteer-build-reviewed |
 | M133665 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecompositionStatement` | build-observed |
 | M133666 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCell` | build-observed |
 | M133667 | P0456 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCellStatement` | build-observed |
@@ -394,11 +402,3 @@
 | M134296 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockField` | build-observed |
 | M134297 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockFieldStatement` | build-observed |
 | M134298 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRing` | build-observed |
-| M134299 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRingAltBis` | build-observed |
-| M134300 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRingStatement` | build-observed |
-| M134313 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularizedWeightDominatesEventually` | build-observed |
-| M134314 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularizedWeightDominatesEventuallyStatement` | build-observed |
-| M134327 | P0268 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminant` | volunteer-build-reviewed |
-| M134328 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminantBound` | volunteer-build-reviewed |
-| M134329 | P0208 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminantBoundStatement` | volunteer-build-reviewed |
-| M134331 | P0631 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeEigenProjection` | wave-reused |

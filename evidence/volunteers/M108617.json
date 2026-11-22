@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M108617"
+  ],
+  "started_utc": "2026-11-22T10:44:35.915839+00:00",
+  "ended_utc": "2026-11-22T10:47:29.676189+00:00",
+  "elapsed_seconds": 173.7,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5539228
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.LiftAlongSurjectionGraded:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "c16f0889442549c831923bcd04e503c41702a93bf0f06099bceda2caa6d72532",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.CondConj",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.ConjugateStarMatrix",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.MatGstar",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.NormEx",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.NormUniq",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeGroups.ZetaReducibleRepEqSubInvAndIsUnit",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalTranspose",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.MapTor",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ThetaInvolution",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.TransposeInverseTheta"
+  ],
+  "objects": {
+    "M108617": "71447ec63aee20ea7c3428adadfd05eb7fd9e61953c6700b6e43a4ca2d40b7b4"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "6912fdebadcd0e7f68a9e61089f4aad408f1322e62da6d2acef3be9f908d1bd7",
+  "packet": "M108617",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31615#issuecomment-7078028138",
+  "reviewed_utc": "2026-11-22T11:49:07.018293+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

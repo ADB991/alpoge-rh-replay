@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157826 | P0912 | `Formalism.PieriBlockIdeals.PieriColumnMinors.IrreducibleGeneration` | wave-reused |
+| M157827 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointCorollaryFiveBound` | wave-reused |
+| M157828 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointExactExponentStopHigh` | wave-reused |
+| M157829 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LabelSumNeedsLeFalse` | wave-reused |
+| M157830 | P1051 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LargeParameterEstimates` | wave-reused |
+| M157831 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LastGradedImpliesOneBlock` | wave-reused |
+| M157832 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LemmaDSkeletonFour` | wave-reused |
+| M157833 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LocalComponentGL` | wave-reused |
+| M157834 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LogarithmEquivalence` | wave-reused |
 | M157835 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LowerTriangularIntegral` | wave-reused |
 | M157836 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LpcDpartCommEps` | wave-reused |
 | M157837 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrbPiSingleCast` | wave-reused |
@@ -393,12 +402,3 @@
 | M158233 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur` | wave-reused |
 | M158234 | P1214 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCountE` | build-observed |
 | M158235 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeDeepQ` | build-observed |
-| M158236 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeGapDS` | build-observed |
-| M158237 | P1321 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeHW` | build-observed |
-| M158238 | P1557 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemV` | build-observed |
-| M158239 | P1166 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVC` | build-observed |
-| M158240 | P0540 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVL` | build-observed |
-| M158241 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVN` | build-observed |
-| M158242 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVR` | build-observed |
-| M158243 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemma3` | build-observed |
-| M158244 | P0832 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGen` | build-observed |

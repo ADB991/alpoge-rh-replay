@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062358 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEq` | wave-reused |
 | M062359 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEqStatement` | wave-reused |
 | M062360 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInv` | wave-reused |
 | M062361 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInvStatement` | wave-reused |
@@ -26,6 +27,7 @@
 | M062381 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HarmonicMinorProductDeltaMemHighestWeightSecondStatement` | build-observed |
 | M062382 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasCommonExponentDenominatorRingOperations` | wave-reused |
 | M062383 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasCommonExponentDenominatorRingOperationsStatement` | wave-reused |
+| M062384 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasCompactSupportPhiU` | volunteer-build-reviewed |
 | M062385 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasDerivAtDetOfOne` | volunteer-build-reviewed |
 | M062388 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasModerateGrowthAlgebraSlashStable` | wave-reused |
 | M062389 | P0620 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HasModerateGrowthAlgebraSlashStableStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M062952 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumIdempotentRankLeRootExchange` | wave-reused |
 | M062953 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumIdempotentRankLeRootExchangeStatement` | wave-reused |
 | M062954 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumSubgroupCharacterProperties` | wave-reused |
-| M062955 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumSubgroupCharacterPropertiesStatement` | wave-reused |
-| M062956 | P1008 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansion` | wave-reused |

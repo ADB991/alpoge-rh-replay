@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103809 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.StabilizerEqScalarMulCongruenceMulFinset` | volunteer-build-reviewed |
+| M103810 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.SystemCuspInfinityComponentCongrOne` | volunteer-build-reviewed |
+| M103811 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesCongrOneModPOfIsometry` | volunteer-build-reviewed |
+| M103812 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesHolomorphicQExpansionOfBoundedCoeff` | volunteer-build-reviewed |
 | M103813 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesTranslationTwistsCoefficients` | volunteer-build-reviewed |
 | M103814 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSlashEighthRootOfSquareDet` | volunteer-build-reviewed |
 | M103815 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaTranslateIntegralCongruentOneModPrime` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M104384 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.IpDef` | volunteer-build-reviewed |
 | M104387 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.KugaZero` | volunteer-build-reviewed |
 | M104390 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.LieOneComm` | volunteer-build-reviewed |
-| M104392 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.OneParam` | volunteer-build-reviewed |
-| M104395 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.PetEx` | volunteer-build-reviewed |
-| M104402 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformAdj` | volunteer-build-reviewed |
-| M104403 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformPos` | volunteer-build-reviewed |

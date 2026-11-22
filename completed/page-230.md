@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153315 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.UnipotentNumeric` | build-observed |
+| M153316 | P0503 | `Formalism.MirabolicMackeyTheory.StatementC` | build-observed |
+| M153317 | P0462 | `Formalism.MirabolicMackeyTheory.StatementL` | build-observed |
+| M153318 | P0538 | `Formalism.MirabolicMackeyTheory.StatementLoc` | build-observed |
+| M153319 | P0462 | `Formalism.MirabolicMackeyTheory.StatementT` | wave-reused |
+| M153320 | P0275 | `Formalism.MoebiusJetDuality.EvDualJet` | build-observed |
+| M153321 | P0215 | `Formalism.MoebiusJetDuality.Statement` | build-observed |
+| M153322 | P0328 | `Formalism.MoebiusJetDuality.StatementS` | build-observed |
+| M153323 | P0422 | `Formalism.MoebiusJetDuality.StatementU` | build-observed |
 | M153324 | P0376 | `Formalism.MoebiusJetDuality.StatementV` | build-observed |
 | M153325 | P0462 | `Formalism.MonomialMeanResidues.BetaLogMean` | build-observed |
 | M153326 | P0422 | `Formalism.MonomialMeanResidues.FilteredDegree` | build-observed |
@@ -393,12 +402,3 @@
 | M153737 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdAd` | build-observed |
 | M153738 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdRedOne` | build-observed |
 | M153739 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagGramNonneg` | build-observed |
-| M153740 | P0886 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagRelevScalar` | build-observed |
-| M153744 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockRaiseLow` | volunteer-build-reviewed |
-| M153745 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockWtDeg` | volunteer-build-reviewed |
-| M153746 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldDCUnfold` | build-observed |
-| M153747 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldMult` | build-observed |
-| M153748 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FoldUnfold` | build-observed |
-| M153749 | P0776 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FrameInd` | wave-reused |
-| M153750 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGCardUni` | build-observed |
-| M153751 | P0636 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGConvScalar` | build-observed |

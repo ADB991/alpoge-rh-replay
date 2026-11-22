@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166117 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeBasisExists` | build-observed |
+| M166118 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeIndex` | build-observed |
+| M166121 | P0726 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineIndex` | build-observed |
+| M166122 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineSemipositive` | build-observed |
+| M166127 | P0608 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedDegree` | build-observed |
+| M166129 | P0888 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcChart` | build-observed |
+| M166130 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCoords` | build-observed |
+| M166131 | P0861 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCycle` | build-observed |
+| M166132 | P0672 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcGeoFirst` | build-observed |
 | M166137 | P0752 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcResidueExists` | build-observed |
 | M166140 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedGraphHorizontal` | build-observed |
 | M166154 | P0544 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopLatticeChange` | build-observed |
@@ -393,12 +402,3 @@
 | M166945 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockDefectMetricChange` | volunteer-build-reviewed |
 | M166949 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImage` | build-observed |
 | M166950 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImageArith` | build-observed |
-| M166953 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImageHilb` | build-observed |
-| M166970 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChangeOfModel` | build-observed |
-| M166971 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCharpolyRootLift` | build-observed |
-| M166972 | P0286 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartBergman` | volunteer-build-reviewed |
-| M166976 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartImageNull` | build-observed |
-| M166977 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartLatQCech` | wave-reused |
-| M166980 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartPrimePowerInverse` | build-observed |
-| M166981 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartSup` | volunteer-build-reviewed |
-| M166982 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsClopenComponents` | volunteer-build-reviewed |

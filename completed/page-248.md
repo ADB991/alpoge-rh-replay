@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161666 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.GaussElementarySymmetric` | build-observed |
+| M161667 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.IntegralPderivLgF` | wave-reused |
+| M161668 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.KOneConsequenceOf` | build-observed |
+| M161669 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LemmaTwoOf` | wave-reused |
+| M161670 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LocalComponentGL` | wave-reused |
+| M161671 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.LogarithmEquivalence` | wave-reused |
+| M161672 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MPlaces` | build-observed |
+| M161673 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MinorProdBlockDegree` | build-observed |
+| M161674 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLeOfDvd` | build-observed |
 | M161675 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLiftLeOne` | wave-reused |
 | M161676 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormNatCastLeOfDvd` | build-observed |
 | M161677 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NotDvdChoosePowMul` | wave-reused |
@@ -393,12 +402,3 @@
 | M162074 | P0698 | `Formalism.WachLatticeTwists.TheoremNFiveSplit` | wave-reused |
 | M162075 | P0669 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.Statement` | wave-reused |
 | M162076 | P0751 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.KerTors` | wave-reused |
-| M162077 | P0833 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.SplitText` | wave-reused |
-| M162078 | P0778 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplit` | wave-reused |
-| M162079 | P0805 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplitHZero` | wave-reused |
-| M162080 | P0751 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplitOfSplit` | wave-reused |
-| M162081 | P0725 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TorsionLeHZero` | wave-reused |
-| M162082 | P0698 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremHZero` | wave-reused |
-| M162083 | P0725 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremStatedForm` | wave-reused |
-| M162084 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.CardFilterAddLeOfNone` | wave-reused |
-| M162085 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.LengthHomCoker` | wave-reused |

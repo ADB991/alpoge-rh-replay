@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M104991 | P2712 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PlainAtRTwist` | volunteer-build-reviewed |
+| M104992 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PmSeedP` | volunteer-build-reviewed |
+| M104993 | P2712 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PotOrd` | volunteer-build-reviewed |
+| M104994 | P2703 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PrOrd` | volunteer-build-reviewed |
 | M104995 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsCent` | volunteer-build-reviewed |
 | M104996 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsOfForm` | volunteer-build-reviewed |
 | M104997 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsPlain` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M105522 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SpectralOperatorNorms.HeightTwoBlocks.SliceRep` | volunteer-build-reviewed |
 | M105523 | P2061 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SpectralOperatorNorms.HeightTwoBlocks.UnfZero` | volunteer-build-reviewed |
 | M105524 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SpectralOperatorNorms.HeightTwoBlocks.ZeroLine` | volunteer-build-reviewed |
-| M105527 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.IndAutCs` | volunteer-build-reviewed |
-| M105528 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.PolMix` | volunteer-build-reviewed |
-| M105529 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDec` | volunteer-build-reviewed |
-| M105530 | P2679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDecAlt` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125372 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormula` | volunteer-build-reviewed |
+| M125373 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormulaStatement` | volunteer-build-reviewed |
+| M125374 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedVolume` | volunteer-build-reviewed |
+| M125375 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedVolumeStatement` | volunteer-build-reviewed |
+| M125376 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadical` | volunteer-build-reviewed |
+| M125377 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadicalStatement` | volunteer-build-reviewed |
+| M125380 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierCosetIndValBall` | volunteer-build-reviewed |
 | M125381 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierTransformIdentity` | volunteer-build-reviewed |
 | M125382 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompat` | build-observed |
 | M125383 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompatStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M125985 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvMemQOfRowQEq` | volunteer-build-reviewed |
 | M125989 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulProdCongr` | volunteer-build-reviewed |
 | M125990 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulSubEqZeroOfSum` | build-observed |
-| M125993 | P1609 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulVecMidBlockDecompStatement` | volunteer-build-reviewed |
-| M125994 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultHaarConstToRealNeZero` | volunteer-build-reviewed |
-| M125995 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultIntegralPowerBound` | volunteer-build-reviewed |
-| M125996 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultIntegralPowerBoundStatement` | volunteer-build-reviewed |
-| M125997 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocks` | volunteer-build-reviewed |
-| M125998 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocksStatement` | volunteer-build-reviewed |
-| M125999 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProductSingleFactorEquiv` | volunteer-build-reviewed |

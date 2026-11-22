@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168845 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationBound` | volunteer-build-reviewed |
+| M168846 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationCoeff` | volunteer-build-reviewed |
+| M168847 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPrimesLogSum` | volunteer-build-reviewed |
+| M168848 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestPBound` | volunteer-build-reviewed |
+| M168850 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PRestSummable` | volunteer-build-reviewed |
+| M168852 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShOfPower` | volunteer-build-reviewed |
+| M168853 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotIndependent` | volunteer-build-reviewed |
+| M168854 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotInvertiblePair` | volunteer-build-reviewed |
+| M168855 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermA` | volunteer-build-reviewed |
 | M168856 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermB` | volunteer-build-reviewed |
 | M168858 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermD` | volunteer-build-reviewed |
 | M168860 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTotOfPower` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M169562 | P0676 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Imports` | wave-reused |
 | M169563 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Inhabitants` | wave-reused |
 | M169564 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IntToFracInjective` | wave-reused |
-| M169565 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IsChowFormCMul` | wave-reused |
-| M169566 | P0612 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfChartPointSecPointSpecChart` | wave-reused |
-| M169567 | P0645 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfFreeParAlgIndep` | wave-reused |
-| M169568 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartDomain` | wave-reused |
-| M169569 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartPointTrdeg` | wave-reused |
-| M169570 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChartTorsion` | wave-reused |
-| M169571 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowFormHomog` | wave-reused |
-| M169572 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormForm` | wave-reused |
-| M169573 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormFormGeneric` | wave-reused |

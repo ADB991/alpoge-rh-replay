@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160033 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FiltrationAdjointStable` | wave-reused |
+| M160034 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FockLatticeFiniteSpanning` | wave-reused |
+| M160035 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FrameChangePreservesMultidegree` | wave-reused |
+| M160036 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedModuleWeightLemmaOfInterfaces` | wave-reused |
+| M160037 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedModuleWeightLemmaPartB` | wave-reused |
+| M160038 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedWeightLemmaOfFormulas` | wave-reused |
+| M160039 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedWeightLemmaOfReducibility` | wave-reused |
+| M160040 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GenericMatrixEvaluationDet` | wave-reused |
+| M160041 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorMemIntegralEnveloping` | wave-reused |
 | M160042 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorPreservesMultidegree` | wave-reused |
 | M160043 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HeisenbergDividedPowerExpansion` | wave-reused |
 | M160044 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightDominantHolds` | wave-reused |
@@ -393,12 +402,3 @@
 | M160469 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PsCycloStatement` | wave-reused |
 | M160470 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.RhoUnit` | wave-reused |
 | M160471 | P1053 | `Formalism.SharpRestriction.LevelLetterCocycles.CylinderCountFamily` | build-observed |
-| M160472 | P0506 | `Formalism.SharpRestriction.LevelLetterCocycles.DataN` | wave-reused |
-| M160473 | P0280 | `Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc` | wave-reused |
-| M160474 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DdRFull` | build-observed |
-| M160475 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.DecompositionData` | build-observed |
-| M160476 | P0724 | `Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantLattices` | wave-reused |
-| M160477 | P0998 | `Formalism.SharpRestriction.LevelLetterCocycles.DeltaInvariantUniformizer` | build-observed |
-| M160479 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DistinctEigenvalueCornerPerturbationOfBlocks` | build-observed |
-| M160480 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.DivisibilityInvariantMulLinear` | wave-reused |
-| M160482 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DownSlotProposition` | build-observed |

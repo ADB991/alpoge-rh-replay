@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170001 | P0645 | `GroundTheory.PAdicHodge.BCrisRegular` | build-observed |
+| M170002 | P1112 | `GroundTheory.PAdicHodge.BCrisRegularFinal` | build-observed |
+| M170003 | P1082 | `GroundTheory.PAdicHodge.BCrisRegularSenTate` | build-observed |
+| M170006 | P0579 | `GroundTheory.PAdicHodge.BStPeriod` | wave-reused |
+| M170007 | P0288 | `GroundTheory.PAdicHodge.BdRAlg` | wave-reused |
+| M170008 | P0471 | `GroundTheory.PAdicHodge.BdRAlgCl` | wave-reused |
+| M170009 | P0471 | `GroundTheory.PAdicHodge.BdRField` | wave-reused |
+| M170010 | P0431 | `GroundTheory.PAdicHodge.BdRGalois` | wave-reused |
+| M170011 | P0579 | `GroundTheory.PAdicHodge.BdRInvariants` | build-observed |
 | M170012 | P0288 | `GroundTheory.PAdicHodge.BdRLattice` | wave-reused |
 | M170013 | P0086 | `GroundTheory.PAdicHodge.BdRSeries` | wave-reused |
 | M170014 | P0512 | `GroundTheory.PAdicHodge.BdRTGalois` | wave-reused |
@@ -393,12 +402,3 @@
 | M170878 | P0089 | `Lemmata.PowMulVecEigen.PowMulVecEig` | wave-reused |
 | M170879 | P0089 | `Lemmata.PowMulVecEigenvalue.PowMulVecEig` | volunteer-build-reviewed |
 | M170880 | P0089 | `Lemmata.PowerApplication.PowApp` | wave-reused |
-| M170881 | P0089 | `Lemmata.PowerMembership.PowMem` | volunteer-build-reviewed |
-| M170882 | P0089 | `Lemmata.ProductIdentities.ProdInvZpowMulOfProdZpowEqOne` | volunteer-build-reviewed |
-| M170883 | P0089 | `Lemmata.RankOneOrbitForms.RankOneForm` | build-observed |
-| M170884 | P0089 | `Lemmata.ScalarExtension.Scal` | build-observed |
-| M170885 | P0089 | `Lemmata.SecondBlockLemmaA.Imports` | wave-reused |
-| M170886 | P0232 | `Lemmata.SimultaneousEigenvectors.BlSimeig` | wave-reused |
-| M170887 | P0089 | `Lemmata.SmulListSum.SmulListSum` | volunteer-build-reviewed |
-| M170888 | P0472 | `Lemmata.TwistedIdempotents.TwistedIdem` | build-observed |
-| M170890 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.BorelInjectivity.EquivariantProjections.ExistsEquivariantProjOfLeSumIrreducible` | volunteer-build-reviewed |

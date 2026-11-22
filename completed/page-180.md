@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119567 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleOfNatMulAndPrimePow` | volunteer-build-reviewed |
+| M119568 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.InertOrSplitOfGoodDeltaRat` | volunteer-build-reviewed |
+| M119569 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableAndContinuousMellinIntegralOfRapidDeca` | volunteer-build-reviewed |
+| M119570 | P2062 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableConstantTermLeviEmbeddingMulConjCuspFo` | volunteer-build-reviewed |
+| M119571 | P2046 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableMulConjOfModerateGrowthOfCuspidal` | volunteer-build-reviewed |
+| M119573 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralEvenPowerGaussianMulAbsRpow` | volunteer-build-reviewed |
+| M119574 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralMaxCompactEqCircleAverage` | volunteer-build-reviewed |
 | M119575 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralQuotientDerivativeOneParameterEqZero` | volunteer-build-reviewed |
 | M119578 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnfoldedIntegrandEqZetaIntegral` | volunteer-build-reviewed |
 | M119579 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnipotentCoordinatesEqZeroOfCuspidal` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M120145 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpan` | volunteer-build-reviewed |
 | M120146 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpanStatement` | volunteer-build-reviewed |
 | M120147 | P0825 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyGivesConjugateLieData` | wave-reused |
-| M120149 | P0852 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyHodgeLatticeData` | wave-reused |
-| M120150 | P0879 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyHodgeLatticeDataStatement` | build-observed |
-| M120151 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FcIndepDetNeZeroOfRank` | volunteer-build-reviewed |
-| M120153 | P1951 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibreCountRotationInvariant` | volunteer-build-reviewed |
-| M120155 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibreDim` | build-observed |
-| M120156 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibrePowerMapOfTotalSpacesIsPullback` | volunteer-build-reviewed |
-| M120157 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvariance` | build-observed |

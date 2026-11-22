@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080345 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptotics` | build-observed |
+| M080346 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptoticsStatement` | volunteer-build-reviewed |
 | M080347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLattice` | volunteer-build-reviewed |
 | M080348 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLatticeStatement` | volunteer-build-reviewed |
 | M080350 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicative` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M081258 | P0765 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PadicIntHomUnique` | wave-reused |
 | M081260 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PairingComplexFormsConstOnRowClassesStatement` | volunteer-build-reviewed |
 | M081269 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ParameterOfDiscreteSeriesReciprocityStatement` | volunteer-build-reviewed |
-| M081272 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartAtUpdSReFace` | volunteer-build-reviewed |
-| M081276 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharacters` | volunteer-build-reviewed |

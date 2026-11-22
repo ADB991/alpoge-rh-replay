@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092831 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesMultiplicity` | volunteer-build-reviewed |
+| M092833 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProduct` | volunteer-build-reviewed |
 | M092834 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProductStatement` | volunteer-build-reviewed |
 | M092835 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSide` | volunteer-build-reviewed |
 | M092836 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSideStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M093401 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalf` | volunteer-build-reviewed |
 | M093402 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalfStatement` | volunteer-build-reviewed |
 | M093403 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairing` | volunteer-build-reviewed |
-| M093404 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairingStatement` | volunteer-build-reviewed |
-| M093405 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempote` | volunteer-build-reviewed |
