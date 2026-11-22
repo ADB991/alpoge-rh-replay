@@ -1,0 +1,13 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/FlagMeasures/ExistsMemFractionalIdealPrimitiveLocalGeneratorA.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/FlagMeasures/ExistsMemFractionalIdealPrimitiveLocalGeneratorA.lean
+@@ -9,8 +9,8 @@
+ 
+ theorem fractionalIdeal_restrictScalars_isLattice_of_tower (F E : Type) [Field F] [NumberField F] [Field E] [NumberField E]
+     [Algebra F E] (c : FractionalIdeal (nonZeroDivisors (𝓞 E)) E) (hc : c ≠ 0) :
+-    Submodule.IsLattice F ((c : Submodule (𝓞 E) E).restrictScalars (𝓞 F)) := by
+-  refine ⟨?_, ?_⟩
++    Submodule.IsFullLattice F ((c : Submodule (𝓞 E) E).restrictScalars (𝓞 F)) := by
++  refine { toIsLattice := Submodule.IsLattice.of_fg F ?_, span_eq_top := ?_ }
+   · exact (FractionalIdeal.fg_of_isNoetherianRing le_rfl c).restrictScalars
+   · obtain ⟨x, hxc, hx0⟩ := Submodule.exists_mem_ne_zero_of_ne_bot (p := (c : Submodule (𝓞 E) E))
+       (by rwa [Ne, FractionalIdeal.coeToSubmodule_eq_bot])

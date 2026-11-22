@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMemFractionalIdealPrimitiveLocalGeneratorA",
+  "source_sha256": "d843d110b2d66bf57e3394e4ecbbb04ebacbd5ee4bc5dfdb8402eb451dd25fe0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Replaced the pinned `Submodule.IsLattice F` conclusion with `Submodule.IsFullLattice F`. Since `F` is the fraction field of `𝓞 F`, `Submodule.IsLattice.of_fg` supplies the target lattice parent from finite generation, so the conclusion is equivalent to the pinned finite generation and full scalar span conditions.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0186-lean436-20261122/P0186-receipt.json"
+}

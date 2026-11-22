@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.AutomorphismOnExtensionPointwiseStatement",
+  "source_sha256": "d208710845e86c9ddd5db6a37d2ed0110503a7a845c04f7ac4c20215cf9ecb52",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0186-lean436-20261122/P0186-receipt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.FlagMeasures.WittExtensionHermitianFramesStatement",
+  "source_sha256": "688a0185bcdeb4cda8c0dde1dd90a42f06b1de5c0300504b86e66634ed4e81d1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0186-lean436-20261122/P0186-receipt.json"
+}
