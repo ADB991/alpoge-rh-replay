@@ -1,0 +1,7 @@
+{
+ "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.Gl2L2IntegralityStatement",
+ "source_sha256": "7336d7ce31289747dd06e23739d0d12df82b112b0ec3bf1e11e755297950ca14",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
