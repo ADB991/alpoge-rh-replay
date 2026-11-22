@@ -1,0 +1,22 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/FreeSheafCechDegreeTwoExactForall.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/FreeSheafCechDegreeTwoExactForall.lean
+@@ -108,9 +108,6 @@
+     rw [hd]
+     simp only [d2, Functor.mapIso_hom, Preadditive.comp_add, Preadditive.comp_sub, Preadditive.add_comp,
+       Preadditive.sub_comp, ← Functor.map_comp, cech_nerve_face_two_zero, cech_nerve_face_two_one, cech_nerve_face_two_two]
+-    simp only [Functor.map_comp]
+-    erw [Preadditive.comp_add, Preadditive.comp_sub]
+-    rfl
+   · have hd : ((AlgebraicTopology.alternatingFaceMapComplex (Shv R)).obj
+         ((Arrow.mk f).cechNerve ⋙ freeOn R)).d 1 0 =
+         (freeOn R).map ((Arrow.mk f).cechNerve.δ (0 : Fin 2)) - (freeOn R).map ((Arrow.mk f).cechNerve.δ (1 : Fin 2)) := by
+@@ -121,9 +118,6 @@
+     rw [hd]
+     simp only [d1, Functor.mapIso_hom, Preadditive.comp_sub,
+       Preadditive.sub_comp, ← Functor.map_comp, cech_nerve_face_one_zero, cech_nerve_face_one_one]
+-    simp only [Functor.map_comp]
+-    erw [Preadditive.comp_sub]
+-    rfl
+ end GlobalTheory.Et.CovChar.Trip
+ 
+ example : ∀ (R : Type) [CommRing R] {X Y : Scheme.{0}} (f : Y ⟶ X), (ShortComplex.mk (d2 f R) (d1 f R) (d2_comp f R)).Exact :=

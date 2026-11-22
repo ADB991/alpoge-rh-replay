@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/GaussianPairingUnitaryGroupTwoThree.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/GaussianPairingUnitaryGroupTwoThree.lean
+@@ -168,7 +168,7 @@
+           exact hmp.integral_comp hme (fun w => cexp (-(π : ℂ) * (star (Sum.elim (e u) w) ⬝ᵥ M *ᵥ Sum.elim (e u) w)))
+       _ = ∫ z, ∫ w, cexp (-(π : ℂ) * (star (Sum.elim z w) ⬝ᵥ M *ᵥ Sum.elim z w)) :=
+           hmp.integral_comp hme (fun z => ∫ w, cexp (-(π : ℂ) * (star (Sum.elim z w) ⬝ᵥ M *ᵥ Sum.elim z w)))
+-      _ = ∫ x, cexp (-(π : ℂ) * (star x ⬝ᵥ M *ᵥ x)) := integral_sum_elim _ hMi
++      _ = ∫ x, cexp (-(π : ℂ) * (star x ⬝ᵥ M *ᵥ x)) := integral_sum_elim (fun x => cexp (-(π : ℂ) * (star x ⬝ᵥ M *ᵥ x))) hMi
+       _ = M.det⁻¹ := hMint
+       _ = (dP s g₁⁻¹ * dP s g₂ * dP s (g₂⁻¹ * g₁))⁻¹ := by rw [hdet2]
+ 
