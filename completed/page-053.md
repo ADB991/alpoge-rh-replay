@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035241 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSmoothOfWeakDerivativeClosedSet` | volunteer-build-reviewed |
+| M035242 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSmoothOfWeakDerivativeClosedSetStatement` | volunteer-build-reviewed |
+| M035243 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergStableRelationOfVacua` | volunteer-build-reviewed |
+| M035244 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergStableRelationOfVacuaStatement` | volunteer-build-reviewed |
+| M035245 | P2054 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergTranslateFixesThetaDeepLevel` | volunteer-build-reviewed |
 | M035246 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergTranslateFixesThetaDeepLevelStatement` | volunteer-build-reviewed |
 | M035247 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergTranslateUnitVectorCongrUnimodular` | volunteer-build-reviewed |
 | M035248 | P2018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergTranslateUnitVectorCongrUnimodularStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M036021 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalPrimeDivisorIntegralEqGenericFibreStatement` | volunteer-build-reviewed |
 | M036022 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBound` | wave-reused |
 | M036023 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBoundStatement` | wave-reused |
-| M036026 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumns` | volunteer-build-reviewed |
-| M036027 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumnsStatement` | volunteer-build-reviewed |
-| M036031 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostIntegerCharacterCompConjEqConjEmbedding` | volunteer-build-reviewed |
-| M036032 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostIntegerCharacterCompConjEqConjEmbeddingStatement` | volunteer-build-reviewed |
-| M036035 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityFiniteOfUnitary` | volunteer-build-reviewed |

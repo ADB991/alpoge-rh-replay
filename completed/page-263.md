@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170083 | P0342 | `GroundTheory.PAdicHodge.FontaineLemmaAInf` | build-observed |
+| M170084 | P0676 | `GroundTheory.PAdicHodge.FontaineLemmaInvariants` | build-observed |
+| M170085 | P0431 | `GroundTheory.PAdicHodge.FontaineLemmaPeriod` | build-observed |
+| M170086 | P0579 | `GroundTheory.PAdicHodge.FontaineLemmaPhi` | build-observed |
+| M170087 | P0676 | `GroundTheory.PAdicHodge.FontaineWintenberger` | build-observed |
+| M170088 | P0807 | `GroundTheory.PAdicHodge.FundamentalSeq` | build-observed |
+| M170089 | P0781 | `GroundTheory.PAdicHodge.FundamentalSeqBCris` | build-observed |
+| M170090 | P0755 | `GroundTheory.PAdicHodge.FundamentalSeqFixed` | build-observed |
+| M170091 | P0471 | `GroundTheory.PAdicHodge.FundamentalSeqLog` | build-observed |
 | M170092 | P0729 | `GroundTheory.PAdicHodge.FundamentalSeqSurj` | build-observed |
 | M170093 | P0703 | `GroundTheory.PAdicHodge.GalSmulAlgebraMapPadicPlus` | build-observed |
 | M170094 | P0086 | `GroundTheory.PAdicHodge.GaloisOnCp` | wave-reused |
@@ -393,12 +402,3 @@
 | M170931 | P1879 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.AdmM` | build-observed |
 | M170932 | P1918 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.ConstantTermModerateGrowth` | build-observed |
 | M170933 | P1937 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.FourierExpansionCentral` | build-observed |
-| M170934 | P1900 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.GENSL` | build-observed |
-| M170935 | P1833 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.PureTh` | build-observed |
-| M170936 | P1855 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.REALTH` | build-observed |
-| M170937 | P1879 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.SchwartzR2` | build-observed |
-| M170938 | P1900 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.TTRANS` | build-observed |
-| M170939 | P1833 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces` | build-observed |
-| M170940 | P1786 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.DampedFunctionalEquationAtPoint` | build-observed |
-| M170941 | P1811 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.FibProp` | build-observed |
-| M170942 | P1759 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.LocalFunctionalEquationFinite` | build-observed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062364 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesSubringCoeffMulInvMem` | wave-reused |
+| M062365 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesSubringCoeffMulInvMemStatement` | wave-reused |
+| M062366 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeriodThetaDifferentiableAndSignedTranslateI` | build-observed |
+| M062368 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralHeckeTAdjoint` | wave-reused |
+| M062369 | P0898 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralHeckeTAdjointStatement` | wave-reused |
+| M062370 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralHeckeUAdjoint` | wave-reused |
 | M062371 | P0898 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralHeckeUAdjointStatement` | wave-reused |
 | M062372 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralSelfNeZeroCuspForm` | wave-reused |
 | M062373 | P0898 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeterssonIntegralSelfNeZeroCuspFormStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M062966 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMul` | volunteer-build-reviewed |
 | M062967 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMulStatement` | volunteer-build-reviewed |
 | M062968 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFinite` | wave-reused |
-| M062969 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFiniteStatement` | wave-reused |
-| M062970 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfDetMemNonZeroDivisors` | volunteer-build-reviewed |
-| M062971 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfJointEigenvectors` | volunteer-build-reviewed |
-| M062972 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentVecMulOfSpanRat` | volunteer-build-reviewed |
-| M062973 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentVecMulOfSpanRatStatement` | volunteer-build-reviewed |
-| M062974 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LintegralExpNegMulSumNorm` | build-observed |

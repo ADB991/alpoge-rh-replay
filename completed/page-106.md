@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072542 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquationStatement` | build-observed |
+| M072543 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapField` | volunteer-build-reviewed |
+| M072544 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapFieldStatement` | build-observed |
+| M072545 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRegular` | volunteer-build-reviewed |
+| M072547 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxCompactUnitaryConjRelIndexEqStatement` | volunteer-build-reviewed |
+| M072550 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxIdealExactPowDvdSpanPrime` | volunteer-build-reviewed |
+| M072553 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxLengthLocalInvariantsTwistedFractionModIntegeStatement` | volunteer-build-reviewed |
 | M072554 | P0847 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxUnramifiedActsOnLetterIdempotentImage` | build-observed |
 | M072555 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxUnramifiedActsOnLetterIdempotentImageStatement` | build-observed |
 | M072557 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaximalIsotropicDoubled` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M073213 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEq` | build-observed |
 | M073214 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEqStatement` | build-observed |
 | M073215 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPow` | build-observed |
-| M073216 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPowStatement` | build-observed |
-| M073217 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNested` | volunteer-build-reviewed |
-| M073218 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNestedStatement` | volunteer-build-reviewed |
-| M073221 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceInUnique` | volunteer-build-reviewed |
-| M073222 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceInvariantFormKillsVanishingSchwartzBruhat` | volunteer-build-reviewed |
-| M073224 | P1910 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceModelIndicatorEqMean` | volunteer-build-reviewed |
-| M073227 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceOverTransportRingIsoSymm` | volunteer-build-reviewed |

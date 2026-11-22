@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099339 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximationStatement` | volunteer-build-reviewed |
+| M099340 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLattice` | build-observed |
+| M099341 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLatticeStatement` | build-observed |
+| M099342 | P1286 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicElementLatticeFullAndCompletion` | build-observed |
+| M099343 | P1313 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicElementLatticeFullAndCompletionStatement` | build-observed |
+| M099344 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicHermitianFormGaloisMemOfMemCompletion` | build-observed |
+| M099345 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryEqRealMulFiniteSplit` | build-observed |
+| M099346 | P1286 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryEqRealMulFiniteSplitStatement` | build-observed |
+| M099347 | P1206 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryExistsWithPrescribedParts` | build-observed |
 | M099348 | P1232 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryExistsWithPrescribedPartsStatement` | volunteer-build-reviewed |
 | M099349 | P1338 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryLatticeRationalTranslateInvariance` | volunteer-build-reviewed |
 | M099351 | P1338 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryLatticeSelfDualTraceForm` | build-observed |
@@ -393,12 +402,3 @@
 | M099982 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalGroupActsFreelyOnFlagsStatement` | volunteer-build-reviewed |
 | M099986 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalLevelGroupFiniteIndexUnitaryStabiliserStatement` | volunteer-build-reviewed |
 | M099987 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordExistsUniqueUpToUnitLocal` | volunteer-build-reviewed |
-| M099989 | P1800 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordOfIsPullDegId` | volunteer-build-reviewed |
-| M099991 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RatioSqEqDetJAut` | volunteer-build-reviewed |
-| M099992 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RationalPointsAdelicUnitaryEqUnitary` | build-observed |
-| M099998 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RealAdelesCmFieldEquivComplexCmType` | build-observed |
-| M100002 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ReducedFiniteTypeIffTestRing` | wave-reused |
-| M100008 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RelabelEmbeddingsGoodBijectiveConjCompat` | build-observed |
-| M100010 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RingHomFlatCodescendsAlongFaithfullyFlat` | wave-reused |
-| M100011 | P0768 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.SabGroupIsoOfGeneric` | build-observed |
-| M100012 | P0877 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.SabMapOfIsoOfExtendGen` | build-observed |

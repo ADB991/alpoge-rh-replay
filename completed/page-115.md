@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079499 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigenspaceNeBotEveryLocalisationPoint` | volunteer-build-reviewed |
+| M079501 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigensystemMultiplicities` | volunteer-build-reviewed |
+| M079506 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeElementUniformizerRatioDeterminantStatement` | volunteer-build-reviewed |
+| M079513 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeGeometricAllStatesStatement` | volunteer-build-reviewed |
+| M079518 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeLAdicCharacterAndPrincipalIdealSt` | volunteer-build-reviewed |
+| M079519 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeMultiplicityEqFinrankJointEigenspace` | volunteer-build-reviewed |
+| M079520 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeMultiplicityEqFinrankJointEigenspaceStatement` | volunteer-build-reviewed |
+| M079521 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeOperatorIntegralOnLatticeAtTwistedPlaces` | volunteer-build-reviewed |
 | M079523 | P2040 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeOperatorKeepsRationalIntegralLevelForms` | volunteer-build-reviewed |
 | M079524 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeOperatorKeepsRationalIntegralLevelFormsStatement` | volunteer-build-reviewed |
 | M079525 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeOperatorsOnLocalisationSpaceSemisimple` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M080353 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurentStatement` | volunteer-build-reviewed |
 | M080354 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFock` | volunteer-build-reviewed |
 | M080355 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFockStatement` | volunteer-build-reviewed |
-| M080356 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLattice` | volunteer-build-reviewed |
-| M080357 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLatticeStatement` | volunteer-build-reviewed |
-| M080358 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsAll` | volunteer-build-reviewed |
-| M080359 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsJEnl` | volunteer-build-reviewed |
-| M080360 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsOfOk` | volunteer-build-reviewed |
-| M080364 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LayeredAutomorphicDataExistsOfTwoPassesStatement` | volunteer-build-reviewed |
-| M080365 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Lb1OfRestagingBound` | volunteer-build-reviewed |
-| M080366 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Lb1OfRestagingBoundStatement` | volunteer-build-reviewed |

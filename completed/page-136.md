@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095899 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentityStatement` | volunteer-build-reviewed |
+| M095901 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalSumStatement` | volunteer-build-reviewed |
+| M095902 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitIdentity` | volunteer-build-reviewed |
+| M095903 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitIdentityStatement` | volunteer-build-reviewed |
+| M095904 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitKernel` | volunteer-build-reviewed |
+| M095905 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitKernelStatement` | volunteer-build-reviewed |
+| M095906 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitSum` | volunteer-build-reviewed |
+| M095907 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitSumStatement` | volunteer-build-reviewed |
+| M095909 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsRealFiniteStatement` | volunteer-build-reviewed |
 | M095911 | P2523 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsTripleFactorStatement` | volunteer-build-reviewed |
 | M095912 | P2739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedThetaIntegralValue` | volunteer-build-reviewed |
 | M095913 | P2745 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedThetaIntegralValueStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M096403 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVEqOfProdFunEq` | volunteer-build-reviewed |
 | M096404 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVecSumEqOfProdEq` | volunteer-build-reviewed |
 | M096405 | P2441 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairedPointsFirstLevelLawStatement` | volunteer-build-reviewed |
-| M096407 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEqZero` | volunteer-build-reviewed |
-| M096408 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEquivariantAndNeZero` | build-observed |
-| M096409 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingTensor` | volunteer-build-reviewed |
-| M096410 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairwiseDisjointParahoricTorusDoubleCosetAntiton` | volunteer-build-reviewed |
-| M096412 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairwiseFlatMapBand` | volunteer-build-reviewed |
-| M096413 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParIndJacPlacing` | build-observed |
-| M096416 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicDeterminantMultiplicative` | volunteer-build-reviewed |
-| M096417 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicDeterminantMultiplicativeStatement` | volunteer-build-reviewed |
-| M096418 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicHaarVolumeConjIntersectionEqMul` | volunteer-build-reviewed |

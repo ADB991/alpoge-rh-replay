@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M031678 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrderStatement` | volunteer-build-reviewed |
+| M031682 | P2511 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfNotDominantCharts` | volunteer-build-reviewed |
+| M031684 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfVolumeImageEqZero` | volunteer-build-reviewed |
+| M031687 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMapIdempotentEqRankAtStalk` | volunteer-build-reviewed |
+| M031688 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMapIdempotentEqRankAtStalkStatement` | volunteer-build-reviewed |
 | M031689 | P0760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMulLeftIdempotentGroupAlgebra` | volunteer-build-reviewed |
 | M031693 | P2636 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRigidExtensionsEqHeightAndDimAddDual` | volunteer-build-reviewed |
 | M031694 | P2646 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRigidExtensionsEqHeightAndDimAddDualStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M032356 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontalStatement` | build-observed |
 | M032357 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSection` | build-observed |
 | M032358 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSectionStatement` | volunteer-build-reviewed |
-| M032359 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormSmoothOnCover` | volunteer-build-reviewed |
-| M032360 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormSmoothOnCoverStatement` | build-observed |
-| M032361 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormTypeOneOne` | volunteer-build-reviewed |
-| M032362 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormTypeOneOneStatement` | volunteer-build-reviewed |
-| M032363 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormVerticalNegativeImagPositive` | volunteer-build-reviewed |

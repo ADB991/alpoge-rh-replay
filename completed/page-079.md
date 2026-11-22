@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054085 | P1006 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationChartCoboundaryOnChartsFirstOrder` | build-observed |
+| M054088 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElement` | build-observed |
+| M054089 | P0353 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElementStatement` | build-observed |
+| M054090 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationExponentOfFrameExponent` | volunteer-build-reviewed |
+| M054091 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationExponentOfFrameExponentStatement` | volunteer-build-reviewed |
+| M054092 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationHorizontalOfCommutingHeatOperators` | volunteer-build-reviewed |
 | M054093 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationHorizontalOfCommutingHeatOperatorsStatement` | volunteer-build-reviewed |
 | M054094 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationInvariantFormConstL2` | volunteer-build-reviewed |
 | M054096 | P0186 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationInvariantFunctionalLinearZero` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M054808 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricActionStatement` | volunteer-build-reviewed |
 | M054809 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationSectionsExtendingPointsMultiply` | volunteer-build-reviewed |
 | M054813 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAdd` | volunteer-build-reviewed |
-| M054814 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAddStatement` | volunteer-build-reviewed |
-| M054816 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationsTranslationPeriodMapsCorrespondStatement` | volunteer-build-reviewed |
-| M054819 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedComplexFibreMarkedLatticeClass` | volunteer-build-reviewed |
-| M054825 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedFibreFrameAtOriginEqRigidification` | volunteer-build-reviewed |
-| M054830 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupAbelianWhereTrivialisationsUnitsStatement` | volunteer-build-reviewed |
-| M054831 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupClosedFibreFinsetInAffineOpen` | volunteer-build-reviewed |

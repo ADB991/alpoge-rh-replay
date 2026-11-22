@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032359 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormSmoothOnCover` | volunteer-build-reviewed |
+| M032360 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormSmoothOnCoverStatement` | build-observed |
+| M032361 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormTypeOneOne` | volunteer-build-reviewed |
+| M032362 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormTypeOneOneStatement` | volunteer-build-reviewed |
+| M032363 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormVerticalNegativeImagPositive` | volunteer-build-reviewed |
 | M032364 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormVerticalNegativeImagPositiveStatement` | build-observed |
 | M032365 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormWedgePowerVanishes` | volunteer-build-reviewed |
 | M032366 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormWedgePowerVanishesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M033002 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeAwayMulOfFiniteType` | volunteer-build-reviewed |
 | M033003 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallCentreInterpolationDetWeightSmallSignatu` | volunteer-build-reviewed |
 | M033004 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallCentreInterpolationDetWeightSmallSignatuStatement` | volunteer-build-reviewed |
-| M033006 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallNoContractionUnitaryUpperLevelStatement` | volunteer-build-reviewed |
-| M033007 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSections` | wave-reused |
-| M033008 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSectionsStatement` | wave-reused |
-| M033009 | P0552 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafMapMonoEpiIso` | wave-reused |
-| M033010 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafMapMonoEpiIsoStatement` | wave-reused |

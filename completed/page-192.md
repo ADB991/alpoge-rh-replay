@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127253 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzFunctionSchwartzBruhatStatement` | volunteer-build-reviewed |
+| M127256 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeightMajorantIntegrable` | volunteer-build-reviewed |
+| M127258 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeisLine` | volunteer-build-reviewed |
+| M127260 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLatticeSumBoundedAltBis` | volunteer-build-reviewed |
+| M127262 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLinearChange` | volunteer-build-reviewed |
+| M127263 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLinearChangeStatement` | volunteer-build-reviewed |
+| M127264 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzNormFormPullback` | volunteer-build-reviewed |
+| M127265 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzNormFormPullbackStatement` | volunteer-build-reviewed |
+| M127266 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzQuadraticPhaseMultiplication` | volunteer-build-reviewed |
 | M127267 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzQuadraticPhaseMultiplicationStatement` | volunteer-build-reviewed |
 | M127269 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzTensorDensity` | volunteer-build-reviewed |
 | M127270 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzTensorDensityStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M128009 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperateMultiplierPreservesSchwartz` | volunteer-build-reviewed |
 | M128011 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2` | build-observed |
 | M128012 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInduced` | volunteer-build-reviewed |
-| M128013 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInducedStatement` | volunteer-build-reviewed |
-| M128016 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittaker` | volunteer-build-reviewed |
-| M128017 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittakerStatement` | volunteer-build-reviewed |
-| M128018 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedLanglandsFactorsSquareIntegrable` | volunteer-build-reviewed |
-| M128020 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestriction` | volunteer-build-reviewed |
-| M128021 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestrictionStatement` | volunteer-build-reviewed |
-| M128022 | P2142 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoAbsoluteCharacterOne` | volunteer-build-reviewed |
-| M128023 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoAbsoluteCharacterOneStatement` | volunteer-build-reviewed |
-| M128024 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoExpMulPoly` | volunteer-build-reviewed |

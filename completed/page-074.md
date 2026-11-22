@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050406 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunctionStatement` | volunteer-build-reviewed |
+| M050407 | P0652 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFibreRegularLocalRing` | volunteer-build-reviewed |
+| M050409 | P2614 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFormsCalculusHolomorphicAtlas` | volunteer-build-reviewed |
+| M050410 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFormsCalculusHolomorphicAtlasStatement` | volunteer-build-reviewed |
+| M050411 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundFirst` | volunteer-build-reviewed |
+| M050412 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundFirstStatement` | volunteer-build-reviewed |
 | M050413 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundSecond` | volunteer-build-reviewed |
 | M050414 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundSecondStatement` | volunteer-build-reviewed |
 | M050415 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionHeightWeightEstimate` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M051147 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOneStatement` | volunteer-build-reviewed |
 | M051148 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdditiveCharacterProductFormula` | volunteer-build-reviewed |
 | M051150 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicAddCharNontrivialFinitePlaceStatement` | volunteer-build-reviewed |
-| M051151 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOne` | volunteer-build-reviewed |
-| M051152 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOneStatement` | volunteer-build-reviewed |
-| M051154 | P1304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharFiniteSuperDiagonalSumIntegralStatement` | volunteer-build-reviewed |
-| M051155 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacter` | volunteer-build-reviewed |
-| M051156 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacterNontrivialAtPlaces` | volunteer-build-reviewed |
-| M051157 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacterNontrivialAtPlacesStatement` | volunteer-build-reviewed |

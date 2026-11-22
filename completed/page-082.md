@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056162 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBoundsStatement` | volunteer-build-reviewed |
+| M056163 | P2137 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmExtensionIsUnitaryOn` | volunteer-build-reviewed |
+| M056165 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmPreservesAdmissibleForms` | volunteer-build-reviewed |
+| M056166 | P2169 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmPreservesAdmissibleFormsStatement` | volunteer-build-reviewed |
+| M056167 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTwistByHeckeCharactersTrivialBase` | volunteer-build-reviewed |
+| M056169 | P1592 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumUniqueOnThetaFunctions` | build-observed |
 | M056170 | P1622 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumUniqueOnThetaFunctionsStatement` | build-observed |
 | M056172 | P2566 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDoubledDarbouxCoordinatesStatement` | volunteer-build-reviewed |
 | M056173 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilEigenBijectiveGoodModel` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M056882 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselFormStatement` | build-observed |
 | M056883 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRep` | build-observed |
 | M056884 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRepStatement` | build-observed |
-| M056885 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupsClosedUnitaryWCompact` | build-observed |
-| M056886 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupsClosedUnitaryWCompactStatement` | build-observed |
-| M056894 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselZhatInvAndRegularIff` | build-observed |
-| M056895 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselZhatInvAndRegularIffStatement` | build-observed |
-| M056896 | P0951 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BigCellChartDifferentialSkewAndFrobenius` | build-observed |
-| M056897 | P0979 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BigCellChartDifferentialSkewAndFrobeniusStatement` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149407 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FrmCase` | build-observed |
+| M149408 | P1390 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.InitialDataUntwistedOfModelChoice` | build-observed |
+| M149409 | P1415 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalFrameClauses` | build-observed |
+| M149410 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalisedAdaptedVectorZero` | build-observed |
+| M149411 | P1294 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.SelfDualFramesExistOfDiagonal` | build-observed |
+| M149412 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose` | build-observed |
+| M149414 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.MinfUnique` | build-observed |
+| M149415 | P0327 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.MinfUniqueP` | build-observed |
+| M149417 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.SobLeafP` | volunteer-build-reviewed |
 | M149418 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.Unimod` | build-observed |
 | M149419 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.UnimodP` | build-observed |
 | M149420 | P0274 | `Formalism.LocalToGlobal.IndefiniteReal.HasInfExpF` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M150294 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeMin` | volunteer-build-reviewed |
 | M150295 | P0722 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeOrd` | build-observed |
 | M150296 | P0695 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeVal` | build-observed |
-| M150297 | P1319 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveAsm` | build-observed |
-| M150298 | P1268 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveComp` | build-observed |
-| M150299 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveCountA` | volunteer-build-reviewed |
-| M150300 | P1319 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveCountB` | build-observed |
-| M150301 | P1188 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveFr` | build-observed |
-| M150302 | P1319 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveInj` | build-observed |
-| M150303 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveInstSt` | build-observed |
-| M150304 | P1294 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveLoc` | build-observed |
-| M150305 | P1345 | `Formalism.LocalToGlobal.ProjectiveLattices.CurveLocInst` | build-observed |

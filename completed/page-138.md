@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096938 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowReductionSurjectiveLatticeVectorsPlaces` | volunteer-build-reviewed |
+| M096940 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainSteps` | volunteer-build-reviewed |
+| M096941 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainStepsStatement` | volunteer-build-reviewed |
+| M096943 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowShiftEq` | volunteer-build-reviewed |
+| M096944 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowShiftTheta` | volunteer-build-reviewed |
+| M096945 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSizesNR` | volunteer-build-reviewed |
+| M096946 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSupportUniform` | build-observed |
+| M096947 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestAtRealisationOfHilbertModels` | volunteer-build-reviewed |
+| M096949 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestCellValueOfStepsLargeDepth` | volunteer-build-reviewed |
 | M096950 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestCellValueOfStepsLargeDepthStatement` | volunteer-build-reviewed |
 | M096951 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestChoiceDatumSurjective` | volunteer-build-reviewed |
 | M096952 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestChoiceDatumSurjectiveStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M097481 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNonnegFamilyOfDifferentiableOn` | volunteer-build-reviewed |
 | M097482 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOut` | volunteer-build-reviewed |
 | M097483 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOutStatement` | volunteer-build-reviewed |
-| M097484 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SupLatticeLocalisationOfUnitBall` | volunteer-build-reviewed |
-| M097489 | P1181 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SuppInd` | volunteer-build-reviewed |
-| M097493 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SurjectiveReductionOntoFiniteLevelGroupStatement` | volunteer-build-reviewed |
-| M097495 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetricPositionLevelShapeOnParabolic` | build-observed |
-| M097496 | P0487 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetricPositionLevelShapeOnParabolicStatement` | build-observed |
-| M097497 | P1016 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetrisationEquivariant` | volunteer-build-reviewed |
-| M097500 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplOSmulAddSmulAdd` | volunteer-build-reviewed |
-| M097502 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplOZeroRight` | volunteer-build-reviewed |
-| M097504 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplecticFormFockMatrixEqNegSumImRealPlacesStatement` | volunteer-build-reviewed |

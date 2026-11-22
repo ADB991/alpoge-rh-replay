@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144767 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CntIOneOfNotMem` | wave-reused |
+| M144768 | P0938 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeCmbSingle` | wave-reused |
+| M144769 | P1211 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeMemOfMemSmulTop` | wave-reused |
+| M144770 | P1136 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CongrPIffInI` | wave-reused |
+| M144771 | P1344 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjMemAutSub` | wave-reused |
+| M144772 | P0747 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjOMemConjIdeal` | wave-reused |
+| M144773 | P0634 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjOMemHcompl` | wave-reused |
+| M144774 | P1020 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjTransposeEqOfSymm` | wave-reused |
+| M144775 | P0993 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjTransposeMapMk` | wave-reused |
 | M144776 | P0461 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CovolumeIntegerLatticeEq` | wave-reused |
 | M144777 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.DetMulLeftCompMulRight` | wave-reused |
 | M144778 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.DifferentIdealEqTop` | wave-reused |
@@ -393,12 +402,3 @@
 | M145169 | P0212 | `Formalism.GelfandTransference.HadamardGelfand.Highest` | volunteer-build-reviewed |
 | M145170 | P0421 | `Formalism.GelfandTransference.HadamardGelfand.Transference` | build-observed |
 | M145171 | P0147 | `Formalism.GelfandTransference.Statement` | build-observed |
-| M145172 | P0421 | `Formalism.GradedWeylDivisibility.DualWeylDominanceOf` | wave-reused |
-| M145173 | P0536 | `Formalism.GradedWeylDivisibility.FinalB` | wave-reused |
-| M145174 | P0570 | `Formalism.GradedWeylDivisibility.FinalC` | wave-reused |
-| M145175 | P0721 | `Formalism.GradedWeylDivisibility.FinalD` | wave-reused |
-| M145176 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BideterminantDominance` | wave-reused |
-| M145177 | P0374 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BideterminantMem` | wave-reused |
-| M145178 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BlockActTensor` | wave-reused |
-| M145179 | P0502 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ClosedEqNabla` | wave-reused |
-| M145180 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColLexInitMinor` | wave-reused |

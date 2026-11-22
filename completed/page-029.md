@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019725 | P1374 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlaceStatement` | build-observed |
+| M019727 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousReGLSymm` | volunteer-build-reviewed |
+| M019729 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRestrStatement` | volunteer-build-reviewed |
+| M019730 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApply` | volunteer-build-reviewed |
+| M019731 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApplyStatement` | volunteer-build-reviewed |
 | M019732 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousSec` | volunteer-build-reviewed |
 | M019733 | P1535 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousSectionPolynomialGrowth` | build-observed |
 | M019734 | P1739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousSingleV` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M020404 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDoubledSpace` | volunteer-build-reviewed |
 | M020405 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDoubledSpaceStatement` | volunteer-build-reviewed |
 | M020406 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModel` | volunteer-build-reviewed |
-| M020407 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModelStatement` | volunteer-build-reviewed |
-| M020408 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesInsertZero` | volunteer-build-reviewed |
-| M020409 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsGoodModel` | volunteer-build-reviewed |
-| M020410 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsGoodModelStatement` | volunteer-build-reviewed |
-| M020412 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsRationalPointsStatement` | volunteer-build-reviewed |

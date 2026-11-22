@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135097 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGoodPf` | build-observed |
+| M135098 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafGysinPf` | build-observed |
+| M135099 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHKSplitPf` | build-observed |
+| M135100 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHKSumPf` | build-observed |
+| M135101 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensCut` | build-observed |
+| M135102 | P0064 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensCutDef` | volunteer-build-reviewed |
+| M135103 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensHPf` | build-observed |
+| M135104 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafHomLocPf` | build-observed |
+| M135105 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafHsContPf` | wave-reused |
 | M135106 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafHsContPfFive` | wave-reused |
 | M135107 | P0662 | `Development.EtaleCohomology.CohomologicalPurity.LeafHsRelPf` | build-observed |
 | M135108 | P0692 | `Development.EtaleCohomology.CohomologicalPurity.LeafHsRelPfSplit` | build-observed |
@@ -393,12 +402,3 @@
 | M135733 | P2444 | `Development.EtaleCohomology.EtaleSheaves.LeafStalkValuationPf` | volunteer-build-reviewed |
 | M135734 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSuppKillPfSec` | volunteer-build-reviewed |
 | M135735 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSupport` | wave-reused |
-| M135736 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafTensFactorPf` | wave-reused |
-| M135737 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafTensMonoPf` | wave-reused |
-| M135738 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafTensQIsoGenPf` | wave-reused |
-| M135739 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafTensQIsoPf` | wave-reused |
-| M135740 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafTensUPPf` | wave-reused |
-| M135745 | P0773 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0GenFreeOf` | wave-reused |
-| M135746 | P0828 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0LocGenOf` | wave-reused |
-| M135747 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0LocSplitOf` | wave-reused |
-| M135748 | P0800 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0TwFreeOf` | wave-reused |

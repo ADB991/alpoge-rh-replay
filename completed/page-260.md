@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168332 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDSq` | wave-reused |
+| M168333 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDouble` | wave-reused |
+| M168334 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDoubleStair` | wave-reused |
+| M168335 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechExact` | wave-reused |
+| M168336 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechFlat` | wave-reused |
+| M168337 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechHdegOfSub` | wave-reused |
+| M168338 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechPartition` | wave-reused |
+| M168339 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechTop` | wave-reused |
+| M168340 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechTransport` | wave-reused |
 | M168341 | P0702 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PChartSecGen` | wave-reused |
 | M168342 | P0702 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PChartSecMul` | wave-reused |
 | M168343 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PClaimSeq` | wave-reused |
@@ -393,12 +402,3 @@
 | M168877 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.Contract` | build-observed |
 | M168878 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixed` | build-observed |
 | M168879 | P0702 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixedField` | build-observed |
-| M168880 | P0644 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordFibreDeg` | build-observed |
-| M168881 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordRatioDeg` | build-observed |
-| M168886 | P0578 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ExistsUnique` | build-observed |
-| M168887 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.FibreCurve` | build-observed |
-| M168888 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.FibreMultiHomog` | build-observed |
-| M168890 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GenFibreChartDeg` | build-observed |
-| M168891 | P0578 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GeoNum` | build-observed |
-| M168892 | P0340 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GraphIdeal` | volunteer-build-reviewed |
-| M168893 | P0702 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ImageArith` | build-observed |

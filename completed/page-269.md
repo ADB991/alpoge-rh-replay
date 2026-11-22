@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173427 | P0169 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.PadicValNatAbsNormEqZero` | volunteer-build-reviewed |
+| M173431 | P1393 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.RamifiedEigenLiftsGeneral` | build-observed |
+| M173435 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.SingleMemDegLE` | build-observed |
+| M173448 | P0836 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.UnLocal` | build-observed |
+| M173449 | P0473 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.UnitHmA` | volunteer-build-reviewed |
+| M173454 | P0782 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.VtFrRdHol` | build-observed |
+| M173457 | P1348 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.WeightFloorInequalities` | volunteer-build-reviewed |
+| M173458 | P0169 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.IndepPts` | volunteer-build-reviewed |
+| M173460 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.IsMixedOver` | build-observed |
 | M173462 | P0677 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.JetSubstPCompJetBC` | build-observed |
 | M173464 | P1027 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LatOfLamSt` | volunteer-build-reviewed |
 | M173466 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.LieBridgeB` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M173915 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.Weights` | wave-reused |
 | M173916 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.CasimirKKhwVec` | wave-reused |
 | M173917 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.KhwLowKSubRootEqZero` | wave-reused |
-| M173918 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.MulMulSubMulMulEqAdd` | wave-reused |
-| M173919 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.RhoEqRhoCAddRhoN` | wave-reused |
-| M173920 | P0473 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ByParts` | wave-reused |
-| M173921 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CBinet` | wave-reused |
-| M173923 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChain` | wave-reused |
-| M173924 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChainA` | wave-reused |
-| M173925 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChainB` | wave-reused |
-| M173926 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasLPsM` | wave-reused |
-| M173927 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasPsA` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111472 | P2693 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftAt` | volunteer-build-reviewed |
+| M111473 | P2790 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftUnr` | volunteer-build-reviewed |
+| M111474 | P2686 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormRam` | volunteer-build-reviewed |
+| M111475 | P2773 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormUnr` | volunteer-build-reviewed |
+| M111476 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.PowSat` | volunteer-build-reviewed |
+| M111477 | P2793 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.QuadLift` | volunteer-build-reviewed |
+| M111479 | P2791 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.QuadLiftUnr` | volunteer-build-reviewed |
+| M111480 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.RamDefs` | volunteer-build-reviewed |
+| M111482 | P2785 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SameSat` | volunteer-build-reviewed |
 | M111483 | P2699 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SatDict` | volunteer-build-reviewed |
 | M111484 | P2770 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SmoEq` | volunteer-build-reviewed |
 | M111485 | P2673 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SphConj` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M111945 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PGenMul` | build-observed |
 | M111946 | P2027 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PGenScale` | volunteer-build-reviewed |
 | M111947 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PIdemCover` | volunteer-build-reviewed |
-| M111948 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PInjSplit` | volunteer-build-reviewed |
-| M111950 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PLiftP` | volunteer-build-reviewed |
-| M111951 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PLinFactor` | volunteer-build-reviewed |
-| M111952 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatRep` | volunteer-build-reviewed |
-| M111953 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatchPart` | volunteer-build-reviewed |
-| M111955 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatchVal` | volunteer-build-reviewed |
-| M111956 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatching` | volunteer-build-reviewed |
-| M111957 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilAnn` | volunteer-build-reviewed |
-| M111958 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilEmb` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052683 | P2542 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGroupActionPullbackThetaSectionsGaloisTwistStatement` | volunteer-build-reviewed |
+| M052696 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntNeZero` | volunteer-build-reviewed |
+| M052699 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralCompactInvariant` | volunteer-build-reviewed |
+| M052700 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralFiniteRelation` | volunteer-build-reviewed |
+| M052701 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralFiniteRelationStatement` | volunteer-build-reviewed |
+| M052702 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralInvariantFirstGroup` | volunteer-build-reviewed |
 | M052703 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralInvariantFirstGroupStatement` | volunteer-build-reviewed |
 | M052704 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralIteratedRealDerivatives` | volunteer-build-reviewed |
 | M052708 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralLieDerivativeInvariant` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M053349 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointCharacterEqWeilPairingLabel` | volunteer-build-reviewed |
 | M053351 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointOfTorusPointAtClosedPointField` | volunteer-build-reviewed |
 | M053353 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionEqTorusPointAtClosedPointFiel` | volunteer-build-reviewed |
-| M053355 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMap` | volunteer-build-reviewed |
-| M053356 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMapStatement` | volunteer-build-reviewed |
-| M053357 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricValueHeightBoundOfDenominatorsMeans` | volunteer-build-reviewed |
-| M053358 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricValueHeightBoundOfDenominatorsMeansStatement` | volunteer-build-reviewed |
-| M053359 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalBoundaryLocalEquation` | volunteer-build-reviewed |
-| M053360 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalBoundaryLocalEquationStatement` | volunteer-build-reviewed |

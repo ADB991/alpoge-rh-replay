@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M020407 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModelStatement` | volunteer-build-reviewed |
+| M020408 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesInsertZero` | volunteer-build-reviewed |
+| M020409 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsGoodModel` | volunteer-build-reviewed |
+| M020410 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsGoodModelStatement` | volunteer-build-reviewed |
+| M020412 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsRationalPointsStatement` | volunteer-build-reviewed |
 | M020413 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsRealFamilyArchimedeanLinear` | volunteer-build-reviewed |
 | M020414 | P1903 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsRealFamilyArchimedeanLinearStatement` | volunteer-build-reviewed |
 | M020415 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsTransferHaarFundamentalDomainCm` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M021122 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBounds` | volunteer-build-reviewed |
 | M021123 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBoundsStatement` | volunteer-build-reviewed |
 | M021124 | P1859 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDet` | build-observed |
-| M021125 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDetStatement` | volunteer-build-reviewed |
-| M021129 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPairInducedNontrivialStatement` | volunteer-build-reviewed |
-| M021130 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPowSectionRationalGenericPoint` | volunteer-build-reviewed |
-| M021131 | P1997 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPowSectionRationalGenericPointStatement` | volunteer-build-reviewed |
-| M021133 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetProductDepthInChartEqSumFactorDepthsStatement` | volunteer-build-reviewed |

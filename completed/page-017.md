@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010524 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedThetaSeriesTermsLawsUnipotentRational` | volunteer-build-reviewed |
+| M010525 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedThetaSeriesTermsLawsUnipotentRationalStatement` | volunteer-build-reviewed |
+| M010526 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ModelIdentificationRespectsRealAndFinite` | volunteer-build-reviewed |
+| M010527 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ModelIdentificationRespectsRealAndFiniteStatement` | volunteer-build-reviewed |
 | M010528 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MonoAtOfJacFrame` | volunteer-build-reviewed |
 | M010529 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MonoAtOfSplitW` | volunteer-build-reviewed |
 | M010530 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MoveCompactLevelInvariant` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M011180 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawFlatMapContractionSupportAtLevelPlaceStatement` | volunteer-build-reviewed |
 | M011185 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawIteratedIntegrandVacuumFormBasePoints` | volunteer-build-reviewed |
 | M011190 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawKernelLiftCombinationOfDefiniteClassDataStatement` | volunteer-build-reviewed |
-| M011191 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastPeriodFactorizationOfClassData` | volunteer-build-reviewed |
-| M011192 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastPeriodFactorizationOfClassDataStatement` | volunteer-build-reviewed |
-| M011195 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastTwoStepsDoubleLiftAdditive` | volunteer-build-reviewed |
-| M011196 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastTwoStepsDoubleLiftAdditiveStatement` | volunteer-build-reviewed |

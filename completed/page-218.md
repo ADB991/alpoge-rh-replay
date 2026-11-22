@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145780 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJA` | volunteer-build-reviewed |
+| M145781 | P1784 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAAdjDone` | volunteer-build-reviewed |
+| M145782 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAAsm` | volunteer-build-reviewed |
+| M145783 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABStar` | build-observed |
+| M145786 | P1661 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddKap` | volunteer-build-reviewed |
+| M145790 | P1784 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddKapShared` | volunteer-build-reviewed |
+| M145792 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddOp` | build-observed |
+| M145793 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddSSn` | build-observed |
+| M145803 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStable2` | volunteer-build-reviewed |
 | M145805 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableAdjCont` | volunteer-build-reviewed |
 | M145813 | P1661 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableFormAdj` | volunteer-build-reviewed |
 | M145814 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStableGerm` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M146745 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLim` | build-observed |
 | M146746 | P1187 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLoc` | build-observed |
 | M146747 | P1048 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCMean` | build-observed |
-| M146748 | P1107 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCSplit` | build-observed |
-| M146749 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStep` | build-observed |
-| M146750 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStmt` | build-observed |
-| M146751 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCutInside` | volunteer-build-reviewed |
-| M146753 | P1468 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVnice` | volunteer-build-reviewed |
-| M146756 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVstep` | build-observed |
-| M146757 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGCongr` | volunteer-build-reviewed |
-| M146761 | P1048 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGHead` | build-observed |
-| M146764 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLet` | volunteer-build-reviewed |

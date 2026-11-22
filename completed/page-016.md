@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010005 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapMemValCTrue` | volunteer-build-reviewed |
+| M010006 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexField` | volunteer-build-reviewed |
+| M010007 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexFieldStatement` | volunteer-build-reviewed |
+| M010008 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LamEqOfRed` | volunteer-build-reviewed |
 | M010009 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LamTEqLamTHcW` | volunteer-build-reviewed |
 | M010010 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LambdaValueEdgeSum` | volunteer-build-reviewed |
 | M010011 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LambdaValueEdgeSumStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M010521 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTargetStatement` | volunteer-build-reviewed |
 | M010522 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBox` | volunteer-build-reviewed |
 | M010523 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBoxStatement` | volunteer-build-reviewed |
-| M010524 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedThetaSeriesTermsLawsUnipotentRational` | volunteer-build-reviewed |
-| M010525 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedThetaSeriesTermsLawsUnipotentRationalStatement` | volunteer-build-reviewed |
-| M010526 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ModelIdentificationRespectsRealAndFinite` | volunteer-build-reviewed |
-| M010527 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ModelIdentificationRespectsRealAndFiniteStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081315 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNormStatement` | volunteer-build-reviewed |
+| M081316 | P0792 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRingsGaloisActionLawsFrobeniusComm` | wave-reused |
+| M081322 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodicLeftHalfPlaneShiftNonnegOfImPos` | volunteer-build-reviewed |
+| M081323 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodicLeftHalfPlaneShiftNonnegOfImPosStatement` | volunteer-build-reviewed |
+| M081326 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodsPolyGrowthOfBoundedCoisotropic` | volunteer-build-reviewed |
+| M081328 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PetIntOfCuspRapidDecay` | volunteer-build-reviewed |
+| M081331 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDeXExpand` | volunteer-build-reviewed |
+| M081339 | P2684 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorIntegralHolds` | volunteer-build-reviewed |
+| M081340 | P2691 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorIntegralHoldsStatement` | volunteer-build-reviewed |
 | M081343 | P2696 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorOrderHolds` | volunteer-build-reviewed |
 | M081344 | P2703 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorOrderHoldsStatement` | volunteer-build-reviewed |
 | M081347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PinsCardIndexRanks` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M082391 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthCommonDenominatorRankLeStatement` | volunteer-build-reviewed |
 | M082393 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthLeOnCentreCellStatement` | volunteer-build-reviewed |
 | M082397 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthSetBddAboveOfUniqueCentreStatement` | build-observed |
-| M082398 | P2355 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthToFunNonneg` | volunteer-build-reviewed |
-| M082401 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarLabEvalZOfEqOne` | build-observed |
-| M082405 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionBarycentreCellNextStageStatement` | build-observed |
-| M082407 | P2467 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionCellMemStarConeOrCentrelessStatement` | build-observed |
-| M082411 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionDepthHostFixingAutInvariantStatement` | build-observed |
-| M082413 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionEstimateOffCentreCellStatement` | volunteer-build-reviewed |
-| M082415 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionFunctionLinearOnCellsStatement` | volunteer-build-reviewed |
-| M082417 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionNewCellMultiplicityLtStatement` | volunteer-build-reviewed |
-| M082419 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionNoNewCellOfMaximalMultiplicityFanStatement` | volunteer-build-reviewed |

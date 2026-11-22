@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126643 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeftEqRTensor` | volunteer-build-reviewed |
+| M126644 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdMapInjective` | volunteer-build-reviewed |
+| M126646 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdNormPull` | volunteer-build-reviewed |
+| M126649 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdRelIndexNeZero` | volunteer-build-reviewed |
+| M126650 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdRelIndexNeZeroStatement` | volunteer-build-reviewed |
+| M126651 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdZpowSingle` | volunteer-build-reviewed |
+| M126653 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductCharacterNormOneTrivialStatement` | volunteer-build-reviewed |
+| M126654 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductFirstCohomologyComparison` | volunteer-build-reviewed |
+| M126662 | P1970 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductIntegralUnitShift` | build-observed |
 | M126664 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductIrreducibleAppendEquiv` | volunteer-build-reviewed |
 | M126666 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductIrreducibleFiniteLength` | volunteer-build-reviewed |
 | M126667 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductIrreducibleFiniteLengthStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M127243 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatProdSpanTensorsStatement` | build-observed |
 | M127244 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorant` | build-observed |
 | M127245 | P0853 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorantStatement` | build-observed |
-| M127253 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzFunctionSchwartzBruhatStatement` | volunteer-build-reviewed |
-| M127256 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeightMajorantIntegrable` | volunteer-build-reviewed |
-| M127258 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeisLine` | volunteer-build-reviewed |
-| M127260 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLatticeSumBoundedAltBis` | volunteer-build-reviewed |
-| M127262 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLinearChange` | volunteer-build-reviewed |
-| M127263 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzLinearChangeStatement` | volunteer-build-reviewed |
-| M127264 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzNormFormPullback` | volunteer-build-reviewed |
-| M127265 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzNormFormPullbackStatement` | volunteer-build-reviewed |
-| M127266 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzQuadraticPhaseMultiplication` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119596 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.MeasurableAndBoundedTwistedZetaIntegralRotation` | volunteer-build-reviewed |
+| M119598 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.MeasurableWhittakerIdeleDiagTorusMul` | volunteer-build-reviewed |
+| M119602 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.NormThetaSeriesSiegelSetLeExp` | volunteer-build-reviewed |
+| M119603 | P1849 | `Development.AutomorphicArithmetic.WhittakerHecke.OneParameterSubgroupNormOne` | volunteer-build-reviewed |
+| M119604 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.PowerSeriesCompleteHomogeneousTwoMulEqOne` | volunteer-build-reviewed |
+| M119612 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.RankinSelbergLocalGeneratingSeriesIdentity` | volunteer-build-reviewed |
+| M119613 | P2608 | `Development.AutomorphicArithmetic.WhittakerHecke.RatIdeleAbsRealIdeleNatIdeleUnitIdeles` | volunteer-build-reviewed |
+| M119615 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.RealIdeleMulAbsContinuousAndUnitAbsEqOne` | volunteer-build-reviewed |
+| M119617 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.RightInvariantBaseChangeUnipotentOfPlacesAboveFi` | volunteer-build-reviewed |
 | M119623 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.StandardAddCharNegArchimedeanRat` | volunteer-build-reviewed |
 | M119624 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.SumRangeRatAdeleCharIotaMulOneSubEqIte` | volunteer-build-reviewed |
 | M119625 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.SummableTsumInvOneAddHeightPowLe` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M120180 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependence` | volunteer-build-reviewed |
 | M120181 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependenceStatement` | volunteer-build-reviewed |
 | M120182 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeft` | build-observed |
-| M120183 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeftStatement` | build-observed |
-| M120186 | P2141 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependent` | volunteer-build-reviewed |
-| M120187 | P2151 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependentStatement` | volunteer-build-reviewed |
-| M120189 | P2130 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelValueIndependentStatement` | volunteer-build-reviewed |
-| M120194 | P0493 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalBilinearTermProduct` | wave-reused |
-| M120195 | P0528 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalBilinearTermProductStatement` | wave-reused |
-| M120196 | P0743 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalDataBaseChange` | wave-reused |
-| M120197 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalDataBaseChangeStatement` | wave-reused |
-| M120198 | P0743 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalGroupActionRingHom` | wave-reused |

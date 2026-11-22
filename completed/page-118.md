@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082398 | P2355 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthToFunNonneg` | volunteer-build-reviewed |
+| M082401 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarLabEvalZOfEqOne` | build-observed |
+| M082405 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionBarycentreCellNextStageStatement` | build-observed |
+| M082407 | P2467 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionCellMemStarConeOrCentrelessStatement` | build-observed |
+| M082411 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionDepthHostFixingAutInvariantStatement` | build-observed |
+| M082413 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionEstimateOffCentreCellStatement` | volunteer-build-reviewed |
+| M082415 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionFunctionLinearOnCellsStatement` | volunteer-build-reviewed |
+| M082417 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionNewCellMultiplicityLtStatement` | volunteer-build-reviewed |
+| M082419 | P2603 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionNoNewCellOfMaximalMultiplicityFanStatement` | volunteer-build-reviewed |
 | M082421 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionOldCellMultiplicityLeStatement` | volunteer-build-reviewed |
 | M082422 | P2380 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionSubordinateToFan` | build-observed |
 | M082424 | P2750 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StartStateUntwistedEmptyLocal` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M083471 | P0819 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetPropertiesStatement` | wave-reused |
 | M083476 | P0901 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonNCongr` | build-observed |
 | M083477 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfCongrJet` | volunteer-build-reviewed |
-| M083478 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfProdLinear` | volunteer-build-reviewed |
-| M083479 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfSubMem` | volunteer-build-reviewed |
-| M083480 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffShiftS` | volunteer-build-reviewed |
-| M083481 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffSubstEq` | volunteer-build-reviewed |
-| M083482 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ContDiffOnIffLocalExtension` | volunteer-build-reviewed |
-| M083483 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ContinuousOfIsPolyDeg` | volunteer-build-reviewed |
-| M083487 | P0126 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConvergentSubstOneVariableAndFormalAgreement` | volunteer-build-reviewed |
-| M083488 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConvergentSubstOneVariableAndFormalAgreementStatement` | volunteer-build-reviewed |
-| M083490 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CovariantDerivativeValueCharacterGerms` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162996 | P0334 | `GroundTheory.FunctionField.Divisor` | wave-reused |
+| M162997 | P0380 | `GroundTheory.FunctionField.DivisorDegree` | wave-reused |
+| M162998 | P0465 | `GroundTheory.FunctionField.ExistsBoundDegSubFinrankL` | wave-reused |
+| M162999 | P0225 | `GroundTheory.FunctionField.PlaceAbove` | wave-reused |
+| M163000 | P0160 | `GroundTheory.FunctionField.PlaceBasic` | wave-reused |
+| M163001 | P0334 | `GroundTheory.FunctionField.PlaceBridge` | wave-reused |
+| M163002 | P0081 | `GroundTheory.FunctionField.PlaceDefs` | wave-reused |
+| M163003 | P0282 | `GroundTheory.FunctionField.PlaceSum` | wave-reused |
+| M163004 | P0425 | `GroundTheory.FunctionField.Repartition` | wave-reused |
 | M163005 | P0282 | `GroundTheory.FunctionField.ValuationAevalSubCoeffZeroLe` | wave-reused |
 | M163007 | P0160 | `GroundTheory.GlobalFields.Adele.Approximation` | wave-reused |
 | M163008 | P0507 | `GroundTheory.GlobalFields.Adele.BaseChange` | wave-reused |
@@ -393,12 +402,3 @@
 | M163434 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassStepB` | wave-reused |
 | M163435 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassZero` | wave-reused |
 | M163436 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PHyperplaneDivisible` | wave-reused |
-| M163437 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PIndicatorSmooth` | wave-reused |
-| M163438 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PKaehlerBound` | wave-reused |
-| M163439 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaEEnergy` | wave-reused |
-| M163440 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaEScale` | wave-reused |
-| M163441 | P0698 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETailLog` | wave-reused |
-| M163442 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETailMass` | wave-reused |
-| M163443 | P0833 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETrunc` | wave-reused |
-| M163444 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncMass` | wave-reused |
-| M163445 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncSmooth` | wave-reused |

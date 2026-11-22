@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085781 | P1597 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyCmModuliOfDeeperLevelStatement` | build-observed |
+| M085782 | P1844 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyFamilyUnifIffUnifAt` | build-observed |
+| M085783 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyHeckeCorrespondenceScheme` | build-observed |
+| M085784 | P2058 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyHeckeCorrespondenceSchemeStatement` | build-observed |
+| M085785 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyLevelQuot` | volunteer-build-reviewed |
+| M085787 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyModuliOfLevelDvd` | volunteer-build-reviewed |
+| M085792 | P1985 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptySiegelFamilyOverArithmeticBase` | build-observed |
+| M085793 | P2004 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptySiegelFamilyOverArithmeticBaseStatement` | build-observed |
+| M085800 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyZOnOfComponents` | volunteer-build-reviewed |
 | M085801 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NormCardQuotientSpan` | volunteer-build-reviewed |
 | M085804 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NormalisedPolarisation` | volunteer-build-reviewed |
 | M085806 | P0194 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NotInjOnOfFderivEqZero` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M086672 | P2696 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypotheses` | volunteer-build-reviewed |
 | M086673 | P2703 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypothesesStatement` | volunteer-build-reviewed |
 | M086674 | P2707 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReci` | volunteer-build-reviewed |
-| M086675 | P2712 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReciStatement` | volunteer-build-reviewed |
-| M086677 | P0257 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement` | volunteer-build-reviewed |
-| M086678 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelProdSummandNilpotentOrBijective` | volunteer-build-reviewed |
-| M086680 | P0987 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CapLe` | build-observed |
-| M086681 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CapLeWidth` | build-observed |
-| M086697 | P0794 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CardTargetJumpsEqRank` | volunteer-build-reviewed |
-| M086698 | P1867 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CarriedPartEigensystemPassageOfType` | volunteer-build-reviewed |
-| M086707 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechAbPullApp` | volunteer-build-reviewed |
-| M086708 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechAcyclic` | wave-reused |

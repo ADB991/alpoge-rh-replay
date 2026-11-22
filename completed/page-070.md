@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047605 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIffStatement` | volunteer-build-reviewed |
+| M047606 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinates` | volunteer-build-reviewed |
+| M047607 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinatesStatement` | volunteer-build-reviewed |
+| M047608 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointFinitePartIsotropicPairing` | volunteer-build-reviewed |
+| M047612 | P1088 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsDenseInWall` | build-observed |
+| M047613 | P1119 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsDenseInWallStatement` | build-observed |
 | M047615 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsSelfAnnihilatorSymplecticStandardC` | volunteer-build-reviewed |
 | M047616 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsSelfAnnihilatorSymplecticStandardCStatement` | volunteer-build-reviewed |
 | M047622 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalSectionDivisorComparisonStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M048332 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartz` | volunteer-build-reviewed |
 | M048333 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartzStatement` | volunteer-build-reviewed |
 | M048337 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionSubmoduleFunctionalInjectiveStatement` | volunteer-build-reviewed |
-| M048339 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticPowOfRestrictsToQuadraticSig` | volunteer-build-reviewed |
-| M048342 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowIdelicRestrictionStatement` | volunteer-build-reviewed |
-| M048343 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowOfRestrictsToQuadrati` | volunteer-build-reviewed |
-| M048344 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowOfRestrictsToQuadratiStatement` | volunteer-build-reviewed |
-| M048346 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResultantFactorsProd` | volunteer-build-reviewed |
-| M048348 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResultantNeZeroOfSeparableMulStatement` | volunteer-build-reviewed |

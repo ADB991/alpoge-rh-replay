@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159645 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubCoeffP` | build-observed |
+| M159646 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYDPsiMonomial` | build-observed |
+| M159647 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYGenCoefHom` | build-observed |
+| M159648 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TaIntOfRename` | build-observed |
+| M159649 | P1711 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TauP` | build-observed |
+| M159650 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TheoremIOfTwoLetterClausesContraction` | build-observed |
+| M159651 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TieDefs` | build-observed |
+| M159652 | P1664 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TopLinePOf` | build-observed |
+| M159653 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TwoLetterLatticeGaussInverse` | build-observed |
 | M159654 | P0669 | `Formalism.SharpRestriction.GrowthBounds.Imports` | build-observed |
 | M159655 | P1417 | `Formalism.SharpRestriction.GrowthBounds.InitialMinorTransposeMemHighestWeight` | build-observed |
 | M159669 | P0750 | `Formalism.SharpRestriction.GrowthBounds.IsResidueClassZero` | wave-reused |
@@ -393,12 +402,3 @@
 | M160056 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorLinftyBound` | wave-reused |
 | M160057 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionDenominatorBound` | wave-reused |
 | M160058 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionExtremalFormula` | wave-reused |
-| M160059 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionKillsNonzeroWeight` | wave-reused |
-| M160060 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionRangeTrivial` | wave-reused |
-| M160061 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IrreducibleStableContainsEqTop` | wave-reused |
-| M160062 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicComponentLeLowerWeights` | wave-reused |
-| M160063 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicLatticeCorollary` | wave-reused |
-| M160064 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectionCommutesOperators` | wave-reused |
-| M160065 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorFixedMem` | wave-reused |
-| M160066 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorLatticeScaling` | wave-reused |
-| M160067 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorSelfAdjoint` | wave-reused |

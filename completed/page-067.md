@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045558 | P2348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerValMulWedgeCoord` | build-observed |
+| M045559 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectPairingDualSymplectic` | volunteer-build-reviewed |
+| M045562 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectProjectionNaturalIdempotentReduced` | build-observed |
+| M045563 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectProjectionNaturalIdempotentReducedStatement` | build-observed |
+| M045564 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectionExistsUniqueSubMatrixFrobeniusEq` | volunteer-build-reviewed |
+| M045565 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectionExistsUniqueSubMatrixFrobeniusEqStatement` | volunteer-build-reviewed |
 | M045566 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectionIsUnitOfCoeffZero` | volunteer-build-reviewed |
 | M045572 | P0301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodCharacterBoundedAwayOne` | build-observed |
 | M045573 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeriodCharacterBoundedAwayOneStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M046246 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefRealGramPairHermitianFormsStatement` | volunteer-build-reviewed |
 | M046248 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosHomApply` | volunteer-build-reviewed |
 | M046249 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosLowerBoundOnFinset` | wave-reused |
-| M046251 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosOfPosMulInnerOnJointEigenvectorsStatement` | volunteer-build-reviewed |
-| M046253 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosSemidefQuadraticAdjointPairBoundStatement` | volunteer-build-reviewed |
-| M046262 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDefiniteLeadingMinorInverseBound` | volunteer-build-reviewed |
-| M046263 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDefiniteLeadingMinorInverseBoundStatement` | volunteer-build-reviewed |
-| M046264 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDegreeClassesDieOnEtaleCover` | wave-reused |
-| M046265 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDegreeClassesDieOnEtaleCoverStatement` | wave-reused |

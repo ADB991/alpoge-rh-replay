@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146748 | P1107 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCSplit` | build-observed |
+| M146749 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStep` | build-observed |
+| M146750 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStmt` | build-observed |
+| M146751 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCutInside` | volunteer-build-reviewed |
+| M146753 | P1468 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVnice` | volunteer-build-reviewed |
+| M146756 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBFVstep` | build-observed |
+| M146757 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGCongr` | volunteer-build-reviewed |
+| M146761 | P1048 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGHead` | build-observed |
+| M146764 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLet` | volunteer-build-reviewed |
 | M146765 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGLift` | volunteer-build-reviewed |
 | M146767 | P1497 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBGWave` | volunteer-build-reviewed |
 | M146769 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBJoint` | build-observed |
@@ -393,12 +402,3 @@
 | M147347 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCoker` | wave-reused |
 | M147348 | P0148 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCokerEq` | wave-reused |
 | M147349 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LemmaDJoint` | wave-reused |
-| M147350 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LenSplit` | wave-reused |
-| M147351 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PdFacts` | wave-reused |
-| M147352 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PowBinom` | wave-reused |
-| M147353 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RelZero` | wave-reused |
-| M147354 | P0375 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RowDJoint` | wave-reused |
-| M147355 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RowDegreeBound` | wave-reused |
-| M147356 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ThickA` | wave-reused |
-| M147357 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ThickB` | wave-reused |
-| M147358 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.TorsKer` | wave-reused |

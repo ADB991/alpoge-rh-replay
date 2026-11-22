@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133698 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameLUMinorValue` | build-observed |
+| M133700 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormula` | build-observed |
+| M133701 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormulaStatement` | build-observed |
+| M133702 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmooth` | wave-reused |
+| M133703 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmoothStatement` | build-observed |
+| M133708 | P0208 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GapEqWeightSubNext` | volunteer-build-reviewed |
+| M133710 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenUIsGenFam` | volunteer-build-reviewed |
+| M133711 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeEqGeometricDegree` | volunteer-build-reviewed |
+| M133713 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfArithSystem` | build-observed |
 | M133714 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfArithSystemStatement` | build-observed |
 | M133715 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfProjectionAndFibreDim` | build-observed |
 | M133716 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfProjectionAndFibreDimStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M134349 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonStatement` | build-observed |
 | M134350 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentity` | build-observed |
 | M134351 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentityStatement` | build-observed |
-| M134352 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivative` | build-observed |
-| M134353 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivativeStatement` | build-observed |
-| M134354 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SameOrbitRefl` | volunteer-build-reviewed |
-| M134356 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ScaledCoordinatesValueAtPoint` | build-observed |
-| M134357 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ScaledCoordinatesValueAtPointStatement` | build-observed |
-| M134358 | P0371 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SectionBoundaryClosedAndCodense` | build-observed |
-| M134359 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SectionBoundaryClosedAndCodenseStatement` | build-observed |
-| M134363 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SelM` | volunteer-build-reviewed |
-| M134364 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SemicharacterThetaCharacteristic` | volunteer-build-reviewed |

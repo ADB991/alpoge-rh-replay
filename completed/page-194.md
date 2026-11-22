@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128722 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValZpowIff` | volunteer-build-reviewed |
+| M128724 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationLeIffNormEmbeddingStatement` | volunteer-build-reviewed |
+| M128729 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationOfLocalDichotomy` | wave-reused |
+| M128730 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationOfLocalDichotomyStatement` | wave-reused |
+| M128731 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationPowerIff` | wave-reused |
+| M128732 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationPowerIffStatement` | wave-reused |
+| M128733 | P2009 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationVectorHomomorphism` | build-observed |
+| M128734 | P2029 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationVectorHomomorphismStatement` | build-observed |
+| M128735 | P1185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VanIdealHomog` | wave-reused |
 | M128736 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VandermondeSeparation` | volunteer-build-reviewed |
 | M128737 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VandermondeSquares` | volunteer-build-reviewed |
 | M128738 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VandermondeSquaresStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M129511 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientOfPowerFns` | volunteer-build-reviewed |
 | M129515 | P1610 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjective` | volunteer-build-reviewed |
 | M129516 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjectiveStatement` | volunteer-build-reviewed |
-| M129519 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeSpreadsOutFiniteTypeSubring` | volunteer-build-reviewed |
-| M129520 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeSpreadsOutFiniteTypeSubringStatement` | volunteer-build-reviewed |
-| M129521 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianTripleSpreadsOut` | volunteer-build-reviewed |
-| M129522 | P2318 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdaptedAtlasSncSection` | volunteer-build-reviewed |
-| M129523 | P2336 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdaptedAtlasSncSectionStatement` | volunteer-build-reviewed |
-| M129532 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdaptedSpan` | build-observed |
-| M129533 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AddJFintype` | volunteer-build-reviewed |
-| M129534 | P1017 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdjoinCoordsArithVar` | build-observed |
-| M129535 | P1045 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AdjoinCoordsArithVarStatement` | build-observed |

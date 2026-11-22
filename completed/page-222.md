@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148242 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSym` | build-observed |
+| M148243 | P0830 | `Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice` | build-observed |
+| M148244 | P1136 | `Formalism.LocalToGlobal.Columns.SliceIntegralDeltaNeBot` | build-observed |
+| M148245 | P0858 | `Formalism.LocalToGlobal.Columns.SmulMemTrpSet` | build-observed |
+| M148246 | P1468 | `Formalism.LocalToGlobal.Columns.StabMapRLInjective` | build-observed |
+| M148247 | P1556 | `Formalism.LocalToGlobal.Columns.StabilizerMapMaximalIndex` | build-observed |
+| M148248 | P1614 | `Formalism.LocalToGlobal.Columns.StabilizerMapTopIndexAlt` | build-observed |
+| M148249 | P1583 | `Formalism.LocalToGlobal.Columns.StabilizerMapTopIndexAltAlt` | build-observed |
+| M148250 | P1211 | `Formalism.LocalToGlobal.Columns.StandardDeltaIntegralCoeffs` | build-observed |
 | M148251 | P1468 | `Formalism.LocalToGlobal.Columns.StdBasisFlagSubmoduleOfBlockTriangular` | build-observed |
 | M148252 | P0666 | `Formalism.LocalToGlobal.Columns.StdLatUnimodular` | build-observed |
 | M148253 | P0911 | `Formalism.LocalToGlobal.Columns.SummandSlopeAtDecoratedLattice` | build-observed |
@@ -393,12 +402,3 @@
 | M148805 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.IntegralTensorBasisLinIndep` | build-observed |
 | M148806 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionFamilyOf` | build-observed |
 | M148807 | P1107 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfDecompGlob` | build-observed |
-| M148808 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfSubIntegral` | build-observed |
-| M148809 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LinearIndependentProdRenameOfCard` | build-observed |
-| M148810 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LocalBasisChangeDecompCompatible` | build-observed |
-| M148811 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.MetricDisjointSupportOrthogonal` | build-observed |
-| M148812 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwDecomp` | build-observed |
-| M148813 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt` | build-observed |
-| M148814 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases` | build-observed |
-| M148815 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocElim` | build-observed |
-| M148816 | P0967 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGen` | build-observed |

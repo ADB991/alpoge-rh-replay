@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139502 | P0569 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CommGroupMulMulEqMulInvMulMulMul` | wave-reused |
+| M139503 | P2416 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ComponentDataHeightIdentity` | volunteer-build-reviewed |
+| M139506 | P1106 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContDiffAtSmoothOnProj` | build-observed |
+| M139507 | P1075 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContinuousAtOfHolo` | build-observed |
+| M139508 | P0856 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CuspsLocallyFiniteFamily` | wave-reused |
+| M139509 | P2444 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.DetLatticeTensorIsDegOnMuTwDeg` | volunteer-build-reviewed |
+| M139512 | P0601 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.EigenProjectionConjugateInner` | wave-reused |
+| M139513 | P0569 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.EmbEquivSymmApply` | wave-reused |
+| M139515 | P0909 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsConjInvariantMollifier` | build-observed |
 | M139516 | P0664 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsCoordLattice` | build-observed |
 | M139520 | P1020 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsPhiNormSq` | build-observed |
 | M139521 | P1106 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsPotentialCharts` | build-observed |
@@ -393,12 +402,3 @@
 | M140449 | P2445 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelMem` | volunteer-build-reviewed |
 | M140450 | P0145 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankAlgebraicBound` | volunteer-build-reviewed |
 | M140452 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankNormBound` | volunteer-build-reviewed |
-| M140454 | P0145 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.LatticeSectionAlgebra` | volunteer-build-reviewed |
-| M140455 | P2633 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.LineFunctionModelRatio` | volunteer-build-reviewed |
-| M140457 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.LineLatticeGeneratorCodimOne` | volunteer-build-reviewed |
-| M140459 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.LineLatticeSpread` | volunteer-build-reviewed |
-| M140463 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.MemOfFixedByAutomorphisms` | volunteer-build-reviewed |
-| M140466 | P0774 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ModelPushforwardFibreDegree` | build-observed |
-| M140473 | P0633 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.NonvanishingPointsDense` | wave-reused |
-| M140474 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.NormalLatticeRange` | volunteer-build-reviewed |
-| M140475 | P0569 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.NormalProperLineOrder` | build-observed |

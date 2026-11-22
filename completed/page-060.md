@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040582 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisation` | wave-reused |
+| M040583 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisationStatement` | wave-reused |
+| M040584 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkReducedClosedGenericPointEqRank` | wave-reused |
+| M040585 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkReducedClosedGenericPointEqRankStatement` | wave-reused |
+| M040586 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthSumHeightOneDisjointDivisors` | volunteer-build-reviewed |
 | M040587 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthSumHeightOneDisjointDivisorsStatement` | volunteer-build-reviewed |
 | M040589 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthUnitSizeBoundsStatement` | volunteer-build-reviewed |
 | M040590 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeraySimplicialCocycleCoboundaryOfAcyclicLevels` | wave-reused |
@@ -397,8 +402,3 @@
 | M041389 | P1793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslateStatement` | volunteer-build-reviewed |
 | M041390 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomial` | volunteer-build-reviewed |
 | M041391 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomialStatement` | volunteer-build-reviewed |
-| M041392 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormula` | volunteer-build-reviewed |
-| M041393 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormulaStatement` | volunteer-build-reviewed |
-| M041394 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureFormula` | volunteer-build-reviewed |
-| M041395 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureFormulaStatement` | volunteer-build-reviewed |
-| M041397 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineLatticeBaseChangeStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
+| M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
+| M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
+| M124608 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOutStatement` | volunteer-build-reviewed |
+| M124609 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine` | volunteer-build-reviewed |
+| M124612 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSup` | wave-reused |
+| M124613 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackOfKernelSupStatement` | build-observed |
+| M124614 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullbackSecondCohomologyOfEq` | volunteer-build-reviewed |
+| M124615 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuasicoherentOfSecsImage` | wave-reused |
 | M124616 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsQuotNormaliserIndicator` | volunteer-build-reviewed |
 | M124619 | P1952 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsReps` | build-observed |
 | M124621 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsSat2InvTConj` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
 | M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
 | M125398 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerSmooth` | volunteer-build-reviewed |
-| M125405 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReduction` | volunteer-build-reviewed |
-| M125406 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReductionStatement` | volunteer-build-reviewed |
-| M125407 | P1263 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentative` | build-observed |
-| M125408 | P1290 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentativeStatement` | build-observed |
-| M125409 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishing` | build-observed |
-| M125410 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedVanishingStatement` | build-observed |
-| M125411 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGramFibrationDisintegration` | volunteer-build-reviewed |
-| M125412 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGramFibrationDisintegrationStatement` | volunteer-build-reviewed |
-| M125414 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGramFibrationUniqueStatement` | volunteer-build-reviewed |

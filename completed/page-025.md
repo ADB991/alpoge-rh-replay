@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M016623 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingNormBound` | volunteer-build-reviewed |
+| M016625 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotential` | volunteer-build-reviewed |
+| M016626 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotentialStatement` | volunteer-build-reviewed |
+| M016629 | P0551 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySmoothBoundPotential` | build-observed |
 | M016630 | P0583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySmoothBoundPotentialStatement` | build-observed |
 | M016633 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedAdelesModGlobalElements` | volunteer-build-reviewed |
 | M016635 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedAdelesSubring` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M017423 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantTwelfth` | volunteer-build-reviewed |
 | M017425 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasis` | volunteer-build-reviewed |
 | M017426 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasisStatement` | volunteer-build-reviewed |
-| M017427 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlaces` | volunteer-build-reviewed |
-| M017428 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlacesStatement` | volunteer-build-reviewed |
-| M017432 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterValueMemLocalUnitsMulSubfieldStatement` | volunteer-build-reviewed |
-| M017433 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterValuesGaloisFixedOfIdempotentTorsion` | volunteer-build-reviewed |

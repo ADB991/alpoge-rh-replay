@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011989 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerSiegelUnipotentAction` | volunteer-build-reviewed |
+| M011990 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerSiegelUnipotentActionStatement` | volunteer-build-reviewed |
+| M011991 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerStandardLeviAction` | volunteer-build-reviewed |
+| M011992 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerStandardLeviActionStatement` | volunteer-build-reviewed |
 | M011994 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionInvariantPairFunctionalResidueStatement` | volunteer-build-reviewed |
 | M011996 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionIsUnitaryAdelicStatement` | volunteer-build-reviewed |
 | M011997 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionLemmaOfWittCoreDescent` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M012775 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivMemOfForallPowSuccDivPowMem` | volunteer-build-reviewed |
 | M012776 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EEContainsStableWeightZero` | build-observed |
 | M012783 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq` | wave-reused |
-| M012784 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfWeightEq` | wave-reused |
-| M012785 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOnPoints` | volunteer-build-reviewed |
-| M012790 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EvalTwistTxEqZeroOfAevalArcTx` | volunteer-build-reviewed |
-| M012792 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianFibreIsoOfMatchedTorsionThetaStatement` | volunteer-build-reviewed |

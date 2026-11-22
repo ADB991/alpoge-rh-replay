@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145172 | P0421 | `Formalism.GradedWeylDivisibility.DualWeylDominanceOf` | wave-reused |
+| M145173 | P0536 | `Formalism.GradedWeylDivisibility.FinalB` | wave-reused |
+| M145174 | P0570 | `Formalism.GradedWeylDivisibility.FinalC` | wave-reused |
+| M145175 | P0721 | `Formalism.GradedWeylDivisibility.FinalD` | wave-reused |
+| M145176 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BideterminantDominance` | wave-reused |
+| M145177 | P0374 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BideterminantMem` | wave-reused |
+| M145178 | P0634 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.BlockActTensor` | wave-reused |
+| M145179 | P0502 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ClosedEqNabla` | wave-reused |
+| M145180 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColLexInitMinor` | wave-reused |
 | M145181 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColSums` | wave-reused |
 | M145182 | P0326 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.ColumnLexBideterminant` | wave-reused |
 | M145183 | P0374 | `Formalism.GradedWeylDivisibility.FockSpaceTableaux.CompDeg` | wave-reused |
@@ -393,12 +402,3 @@
 | M145741 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeVLem` | wave-reused |
 | M145765 | P1831 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHB2` | volunteer-build-reviewed |
 | M145770 | P1831 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHL2` | volunteer-build-reviewed |
-| M145780 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJA` | volunteer-build-reviewed |
-| M145781 | P1784 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAAdjDone` | volunteer-build-reviewed |
-| M145782 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAAsm` | volunteer-build-reviewed |
-| M145783 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABStar` | build-observed |
-| M145786 | P1661 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddKap` | volunteer-build-reviewed |
-| M145790 | P1784 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddKapShared` | volunteer-build-reviewed |
-| M145792 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddOp` | build-observed |
-| M145793 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJABddSSn` | build-observed |
-| M145803 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJAFFStable2` | volunteer-build-reviewed |

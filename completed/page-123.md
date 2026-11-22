@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086675 | P2712 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReciStatement` | volunteer-build-reviewed |
+| M086677 | P0257 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement` | volunteer-build-reviewed |
+| M086678 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelProdSummandNilpotentOrBijective` | volunteer-build-reviewed |
+| M086680 | P0987 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CapLe` | build-observed |
+| M086681 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CapLeWidth` | build-observed |
+| M086697 | P0794 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CardTargetJumpsEqRank` | volunteer-build-reviewed |
+| M086698 | P1867 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CarriedPartEigensystemPassageOfType` | volunteer-build-reviewed |
+| M086707 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechAbPullApp` | volunteer-build-reviewed |
+| M086708 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechAcyclic` | wave-reused |
 | M086709 | P2678 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechComparisonDegreeZeroAlternatingPullback` | volunteer-build-reviewed |
 | M086710 | P2684 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechComparisonDegreeZeroAlternatingPullbackStatement` | volunteer-build-reviewed |
 | M086711 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CechHomologyEquivFam` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M087824 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisLogTeichmullerRatioEqAddKummerStatement` | build-observed |
 | M087834 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermChartInterIntegralCoordinateRatios` | volunteer-build-reviewed |
 | M087835 | P2684 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermChartInterIntegralCoordinateRatiosStatement` | volunteer-build-reviewed |
-| M087836 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormPullbackDominant` | volunteer-build-reviewed |
-| M087837 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormPullbackDominantStatement` | volunteer-build-reviewed |
-| M087838 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormRestrictAffineOpen` | volunteer-build-reviewed |
-| M087839 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormRestrictAffineOpenStatement` | volunteer-build-reviewed |
-| M087841 | P2834 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericModelComplexSmooth` | volunteer-build-reviewed |
-| M087843 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GeometricLemmaCellOneBlockSwapEquiv` | volunteer-build-reviewed |
-| M087845 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermCompatId` | volunteer-build-reviewed |
-| M087846 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermImageSmooth` | volunteer-build-reviewed |
-| M087847 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermSecRestrictGlobalAlgebraMap` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158756 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer` | wave-reused |
+| M158757 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermCut` | wave-reused |
+| M158758 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet` | wave-reused |
+| M158759 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDPf` | wave-reused |
+| M158760 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDVal` | wave-reused |
+| M158761 | P0605 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFun` | wave-reused |
+| M158762 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf` | wave-reused |
+| M158765 | P1052 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GramSpace` | build-observed |
+| M158766 | P1241 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.H1algDefStatement` | volunteer-build-reviewed |
 | M158767 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.H1algStatement` | build-observed |
 | M158771 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.HarmInvPf` | build-observed |
 | M158773 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.IntChartCut` | wave-reused |
@@ -393,12 +402,3 @@
 | M159208 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountDefs` | build-observed |
 | M159209 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountLow` | build-observed |
 | M159210 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountUp` | build-observed |
-| M159211 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualFlatOf` | build-observed |
-| M159212 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualLat` | build-observed |
-| M159213 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ExtendedStatementOfParts` | build-observed |
-| M159214 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FactorsOfPerturb` | build-observed |
-| M159215 | P1024 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FamilyFourthBound` | build-observed |
-| M159216 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinalTheorems` | build-observed |
-| M159217 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinrankTensor` | build-observed |
-| M159218 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FirstCoefficientFacts` | build-observed |
-| M159219 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FockZeroRight` | build-observed |

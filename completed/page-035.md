@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M023679 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisAdaptedToCartanInvolution` | volunteer-build-reviewed |
+| M023680 | P0103 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisAdaptedToCartanInvolutionStatement` | volunteer-build-reviewed |
+| M023683 | P2596 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisIntKQ` | volunteer-build-reviewed |
+| M023685 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisLineBundleSectionsProjectiveOverDvr` | volunteer-build-reviewed |
+| M023687 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisModN` | volunteer-build-reviewed |
 | M023689 | P0103 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisOfBlockLowerTriangularInvStatement` | volunteer-build-reviewed |
 | M023690 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisOfDiscreteOfSpanEqTopComplexPi` | volunteer-build-reviewed |
 | M023691 | P0179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisOfLatticeSpan` | wave-reused |
@@ -397,8 +402,3 @@
 | M024333 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjDiagonal` | volunteer-build-reviewed |
 | M024335 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjEisensteinPolynomialLevelOneStatement` | build-observed |
 | M024340 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjHalfCosetRepsScalarDilation` | volunteer-build-reviewed |
-| M024344 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjIntegralGaloisRep` | volunteer-build-reviewed |
-| M024345 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjIntegralGaloisRepStatement` | volunteer-build-reviewed |
-| M024347 | P1739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantApproxIdentityRealLieSmoothinStatement` | volunteer-build-reviewed |
-| M024348 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantTraceGeneratorLocal` | volunteer-build-reviewed |
-| M024349 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantTraceGeneratorLocalStatement` | volunteer-build-reviewed |

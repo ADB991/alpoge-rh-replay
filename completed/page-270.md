@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173918 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.MulMulSubMulMulEqAdd` | wave-reused |
+| M173919 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.RhoEqRhoCAddRhoN` | wave-reused |
+| M173920 | P0473 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ByParts` | wave-reused |
+| M173921 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CBinet` | wave-reused |
+| M173923 | P0474 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChain` | wave-reused |
+| M173924 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChainA` | wave-reused |
+| M173925 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasChainB` | wave-reused |
+| M173926 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasLPsM` | wave-reused |
+| M173927 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasPsA` | wave-reused |
 | M173928 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.CasPsB` | wave-reused |
 | M173930 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousConjProjection` | wave-reused |
 | M173931 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ContinuousOnFderivPhiM` | wave-reused |
@@ -393,12 +402,3 @@
 | M174326 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KTypeIntDomStatement` | wave-reused |
 | M174327 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KtintExpApplyOfEig` | wave-reused |
 | M174328 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.LowComp` | wave-reused |
-| M174329 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PPlusPWtInjective` | wave-reused |
-| M174330 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PrhoEntryHasDerivAt` | wave-reused |
-| M174331 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.StTest` | wave-reused |
-| M174332 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.StdExpEntryHasDerivAt` | wave-reused |
-| M174333 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensHW` | wave-reused |
-| M174334 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensRepA` | wave-reused |
-| M174335 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensRepB` | wave-reused |
-| M174336 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylPos` | wave-reused |
-| M174337 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylRatio` | wave-reused |

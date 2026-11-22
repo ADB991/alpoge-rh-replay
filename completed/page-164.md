@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111948 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PInjSplit` | volunteer-build-reviewed |
+| M111950 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PLiftP` | volunteer-build-reviewed |
+| M111951 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PLinFactor` | volunteer-build-reviewed |
+| M111952 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatRep` | volunteer-build-reviewed |
+| M111953 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatchPart` | volunteer-build-reviewed |
+| M111955 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatchVal` | volunteer-build-reviewed |
+| M111956 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PMatching` | volunteer-build-reviewed |
+| M111957 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilAnn` | volunteer-build-reviewed |
+| M111958 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilEmb` | volunteer-build-reviewed |
 | M111959 | P2027 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilRho` | volunteer-build-reviewed |
 | M111960 | P0203 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilSubq` | volunteer-build-reviewed |
 | M111961 | P2027 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PNilWeil` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M112418 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PLacBridge` | volunteer-build-reviewed |
 | M112419 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PLacConj` | volunteer-build-reviewed |
 | M112420 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PLocConj` | volunteer-build-reviewed |
-| M112421 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PLocIso` | volunteer-build-reviewed |
-| M112422 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PLocSum` | volunteer-build-reviewed |
-| M112423 | P2673 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PPhiSeed` | volunteer-build-reviewed |
-| M112426 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PSameOr` | volunteer-build-reviewed |
-| M112427 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PSatCent` | volunteer-build-reviewed |
-| M112428 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PSatConj` | volunteer-build-reviewed |
-| M112429 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PSchurU` | volunteer-build-reviewed |
-| M112431 | P2525 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PSmall` | volunteer-build-reviewed |
-| M112434 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PTyConj` | volunteer-build-reviewed |

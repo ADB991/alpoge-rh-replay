@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157369 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.QuotSetUOf` | build-observed |
+| M157370 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SBasic` | wave-reused |
+| M157371 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SsetGroup` | wave-reused |
+| M157372 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.UnipotentRadicalContracting` | build-observed |
+| M157373 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.UnitaryWeylCompact` | build-observed |
+| M157374 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitarySecondCountable.Assembly` | volunteer-build-reviewed |
+| M157381 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.VacuumEntire.AnalyticAtHfLeft` | volunteer-build-reviewed |
+| M157382 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationGluing.ValbLeOfCoeffEqZero` | wave-reused |
+| M157383 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.AbsVDetBigL` | build-observed |
 | M157388 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.CardAndAdd` | volunteer-build-reviewed |
 | M157391 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.CountGen` | volunteer-build-reviewed |
 | M157400 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.FfHSelfOfSnd` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M157849 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PieriGenerated` | wave-reused |
 | M157850 | P0669 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ProdInitialMinorsMemDetSpan` | wave-reused |
 | M157851 | P0723 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealLocalDeltaNabla` | wave-reused |
-| M157852 | P0969 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealOfSkeleton` | wave-reused |
-| M157853 | P1080 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RecursionInclusionExceptional` | wave-reused |
-| M157854 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RegularCuspidalTrace` | wave-reused |
-| M157855 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RowGenDerivative` | wave-reused |
-| M157856 | P0697 | `Formalism.PieriBlockIdeals.PieriColumnMinors.SL2BinomialLattices` | wave-reused |
-| M157857 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.SharperSizeNeedsMleKFalse` | wave-reused |
-| M157858 | P0379 | `Formalism.PieriBlockIdeals.PieriColumnMinors.Symmetrization` | wave-reused |
-| M157859 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.UnitNormBounds` | wave-reused |
-| M157860 | P0860 | `Formalism.PieriBlockIdeals.PieriColumnMinors.WeightBounds` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103838 | P0451 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TorsBoundPow` | build-observed |
+| M103839 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TupleChainBoundaryFormula` | volunteer-build-reviewed |
+| M103852 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianChartScalarInvariance` | volunteer-build-reviewed |
+| M103854 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianPointEmbeddingInjective` | volunteer-build-reviewed |
+| M103856 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianSpaceGradientEstimate` | volunteer-build-reviewed |
+| M103860 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianTraceFormEntryEstimate` | volunteer-build-reviewed |
+| M103871 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.RealLieGroupChartsSmooth` | volunteer-build-reviewed |
+| M103877 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.TraceFormPosDefOfTotallyReal` | volunteer-build-reviewed |
+| M103882 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.ContinuousTorusCharacter` | volunteer-build-reviewed |
 | M103883 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.CtrlDefs` | volunteer-build-reviewed |
 | M103884 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.Distinct` | volunteer-build-reviewed |
 | M103885 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.HeckeCommRing` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M104415 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AbsMain` | volunteer-build-reviewed |
 | M104416 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.Acyclic` | volunteer-build-reviewed |
 | M104417 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltAddRadial` | volunteer-build-reviewed |
-| M104418 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltSmooth` | volunteer-build-reviewed |
-| M104419 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltSym` | volunteer-build-reviewed |
-| M104420 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.ApplySmooth` | volunteer-build-reviewed |
-| M104421 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.Average` | volunteer-build-reviewed |
-| M104422 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AvgMem` | volunteer-build-reviewed |
-| M104423 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.BasicDeriv` | volunteer-build-reviewed |
-| M104428 | P1679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.ConePos` | volunteer-build-reviewed |
-| M104433 | P1679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.CorrInv` | volunteer-build-reviewed |
-| M104436 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.Cutoff` | volunteer-build-reviewed |

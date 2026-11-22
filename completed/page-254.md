@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164650 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpenPoly` | volunteer-build-reviewed |
+| M164651 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCount` | volunteer-build-reviewed |
+| M164652 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCountPrime` | volunteer-build-reviewed |
+| M164653 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StJacobianPrimeDerivations` | volunteer-build-reviewed |
+| M164655 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLeadIdealDim` | wave-reused |
+| M164656 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimit` | wave-reused |
+| M164657 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitAtBranches` | volunteer-build-reviewed |
+| M164659 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOffZero` | wave-reused |
+| M164660 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOnZero` | wave-reused |
 | M164662 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongRegularise` | wave-reused |
 | M164663 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLengthCutGlobal` | volunteer-build-reviewed |
 | M164664 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLengthCutLocalizedModule` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M165157 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAddFirstField` | wave-reused |
 | M165158 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAssoc` | wave-reused |
 | M165159 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumIsFieldIntersection` | pilot-reused |
-| M165160 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumOfFiltration` | wave-reused |
-| M165161 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumPoint` | pilot-reused |
-| M165162 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumRatSection` | pilot-reused |
-| M165163 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumVanish` | wave-reused |
-| M165167 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PJoinPointIdeal` | volunteer-build-reviewed |
-| M165181 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMaximalIdealHeightFG` | wave-reused |
-| M165182 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMinimalPrimeMultiHomog` | wave-reused |
-| M165184 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMixedDiffLinear` | wave-reused |
-| M165185 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultAtOfSaturated` | wave-reused |

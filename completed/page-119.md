@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083478 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfProdLinear` | volunteer-build-reviewed |
+| M083479 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfSubMem` | volunteer-build-reviewed |
+| M083480 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffShiftS` | volunteer-build-reviewed |
+| M083481 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffSubstEq` | volunteer-build-reviewed |
+| M083482 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ContDiffOnIffLocalExtension` | volunteer-build-reviewed |
+| M083483 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ContinuousOfIsPolyDeg` | volunteer-build-reviewed |
+| M083487 | P0126 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConvergentSubstOneVariableAndFormalAgreement` | volunteer-build-reviewed |
+| M083488 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConvergentSubstOneVariableAndFormalAgreementStatement` | volunteer-build-reviewed |
+| M083490 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CovariantDerivativeValueCharacterGerms` | build-observed |
 | M083491 | P0590 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CovariantDerivativeValueCharacterGermsStatement` | build-observed |
 | M083493 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CpBinomialPowerSubOneSeriesIntegralityCompositio` | volunteer-build-reviewed |
 | M083494 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CpBinomialPowerSubOneSeriesIntegralityCompositioStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M084333 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMap` | wave-reused |
 | M084334 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMapStatement` | volunteer-build-reviewed |
 | M084335 | P0793 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEq` | wave-reused |
-| M084336 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEqStatement` | volunteer-build-reviewed |
-| M084337 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctional` | wave-reused |
-| M084338 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctionalStatement` | wave-reused |
-| M084339 | P1487 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorSumPolynomialOperator` | volunteer-build-reviewed |
-| M084340 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorSumPolynomialOperatorStatement` | volunteer-build-reviewed |
-| M084341 | P0902 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureAeMemAndMeasurableBesselModel` | wave-reused |
-| M084342 | P0930 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureAeMemAndMeasurableBesselModelStatement` | wave-reused |
-| M084343 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureIntegralRmulBesselGroup` | build-observed |
-| M084344 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureIntegralRmulBesselGroupStatement` | build-observed |

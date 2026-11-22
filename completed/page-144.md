@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100607 | P0130 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.AlgebraMapNormOfBasisOneSqrt` | wave-reused |
+| M100608 | P0259 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteOrthogonalLengths` | build-observed |
+| M100609 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteRepresentatives` | build-observed |
+| M100610 | P0363 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteUnitaryClassesOfDualEqSmul` | build-observed |
+| M100611 | P0197 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsIntMulIsIntegralOfTrace` | build-observed |
+| M100612 | P0130 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsShortOfTraceDet` | build-observed |
+| M100613 | P0197 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ThreeNeSqAddSq` | volunteer-build-reviewed |
+| M100614 | P0878 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AbsPowOneNotIsAlgRat` | volunteer-build-reviewed |
+| M100615 | P1931 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AdmissibleBaseChartRing` | volunteer-build-reviewed |
 | M100616 | P2356 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AntisymmFibrePointThree` | build-observed |
 | M100618 | P1435 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ArBirational` | build-observed |
 | M100619 | P1462 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ChernDegreePoint` | build-observed |
@@ -393,12 +402,3 @@
 | M101267 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarQuotientSubgroup` | build-observed |
 | M101268 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarUnimodularCriterion` | build-observed |
 | M101270 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.InfinitePartFiniteOfAdelicBound` | build-observed |
-| M101271 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InnerProductIntegralFundamentalDomainOfCompact` | volunteer-build-reviewed |
-| M101272 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InvariantSesquilinearFormEqSmulOfIrreducible` | volunteer-build-reviewed |
-| M101273 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.IrreducibleHermitianFormUnique` | volunteer-build-reviewed |
-| M101274 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.IsOpenEmbeddingUnitsValGeneralLinearPi` | volunteer-build-reviewed |
-| M101275 | P2061 | `Development.AutomorphicArithmetic.AdelicQuotients.LatticeOrderExistsInverseOneAddUniformizerSmul` | volunteer-build-reviewed |
-| M101276 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.LocalUnimodularOfExistsHaarMeasure` | build-observed |
-| M101277 | P2116 | `Development.AutomorphicArithmetic.AdelicQuotients.MatrixCoefficientBoundedByValueAtOne` | volunteer-build-reviewed |
-| M101278 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.MaximalCompactNormOfUnitCriterion` | build-observed |
-| M101279 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.MeasurableOfSeparatingFunctionals` | volunteer-build-reviewed |

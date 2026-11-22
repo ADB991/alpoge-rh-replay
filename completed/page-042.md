@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M028007 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInNeighbourhoodStatement` | volunteer-build-reviewed |
+| M028008 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariant` | volunteer-build-reviewed |
+| M028009 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariantStatement` | volunteer-build-reviewed |
+| M028010 | P0350 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupPeriodic` | volunteer-build-reviewed |
+| M028011 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupPeriodicStatement` | volunteer-build-reviewed |
 | M028016 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupsSchroedingerFixContinuousChar` | volunteer-build-reviewed |
 | M028017 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupsSchroedingerFixContinuousCharStatement` | volunteer-build-reviewed |
 | M028018 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupsSchroedingerFixStandardChar` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M028619 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankNormalFormMatrixFieldStatement` | volunteer-build-reviewed |
 | M028621 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankOneChangeImprovesImageRealPrimeStatement` | volunteer-build-reviewed |
 | M028622 | P0584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankTwoBasisModN` | build-observed |
-| M028624 | P1196 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRapidSuperpositionCharacters` | build-observed |
-| M028625 | P1221 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRapidSuperpositionCharactersStatement` | build-observed |
-| M028628 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatRepr` | volunteer-build-reviewed |
-| M028629 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatSecDetDualTensorSupport` | volunteer-build-reviewed |
-| M028633 | P1838 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatUOfForm` | volunteer-build-reviewed |

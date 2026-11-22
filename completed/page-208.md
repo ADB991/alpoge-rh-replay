@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138596 | P2386 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HodgeCompactPullback` | volunteer-build-reviewed |
+| M138597 | P0993 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HtExists` | build-observed |
+| M138598 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IAlgebra` | build-observed |
+| M138599 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ICycle` | build-observed |
+| M138600 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IDefect` | build-observed |
+| M138602 | P0500 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.Imports` | build-observed |
+| M138603 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IsOpenHoloPreimage` | build-observed |
+| M138604 | P0800 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.JNormal` | build-observed |
+| M138605 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.JPull` | build-observed |
 | M138607 | P0372 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.LGenflagFld` | volunteer-build-reviewed |
 | M138608 | P0323 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.LGenflagLU` | volunteer-build-reviewed |
 | M138610 | P2357 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.LatticeIntegrallyClosedTorsion` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M139496 | P1162 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.AdaptedChartsRegularization` | build-observed |
 | M139500 | P2444 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CentreIdent` | volunteer-build-reviewed |
 | M139501 | P2501 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ChartCentre` | volunteer-build-reviewed |
-| M139502 | P0569 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CommGroupMulMulEqMulInvMulMulMul` | wave-reused |
-| M139503 | P2416 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ComponentDataHeightIdentity` | volunteer-build-reviewed |
-| M139506 | P1106 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContDiffAtSmoothOnProj` | build-observed |
-| M139507 | P1075 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContinuousAtOfHolo` | build-observed |
-| M139508 | P0856 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CuspsLocallyFiniteFamily` | wave-reused |
-| M139509 | P2444 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.DetLatticeTensorIsDegOnMuTwDeg` | volunteer-build-reviewed |
-| M139512 | P0601 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.EigenProjectionConjugateInner` | wave-reused |
-| M139513 | P0569 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.EmbEquivSymmApply` | wave-reused |
-| M139515 | P0909 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ExistsConjInvariantMollifier` | build-observed |

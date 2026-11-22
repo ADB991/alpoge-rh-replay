@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070384 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScalingStatement` | volunteer-build-reviewed |
+| M070385 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomia` | volunteer-build-reviewed |
+| M070386 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomiaStatement` | volunteer-build-reviewed |
+| M070387 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockTargetGlActionCompactPreservesJointHarmonics` | volunteer-build-reviewed |
+| M070389 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockTargetMatrixUnitCompactTotalDegreeLe` | volunteer-build-reviewed |
+| M070391 | P2098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockVacOmFin` | volunteer-build-reviewed |
 | M070392 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockVacuumPairingPolynomialTranslatesScalar` | volunteer-build-reviewed |
 | M070393 | P2085 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockVacuumPairingPolynomialTranslatesScalarStatement` | volunteer-build-reviewed |
 | M070396 | P1226 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FontaineBcrisBasicTheoremsProof` | build-observed |
@@ -396,9 +402,3 @@
 | M071016 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockInvariantsIffIsometryStatement` | volunteer-build-reviewed |
 | M071017 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIff` | volunteer-build-reviewed |
 | M071018 | P0523 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIffStatement` | build-observed |
-| M071022 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianLatticeIsOpenIsCompactTestStatement` | volunteer-build-reviewed |
-| M071035 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HfAlgSmulRight` | volunteer-build-reviewed |
-| M071036 | P0846 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HighPowCoeffMemSpanPow` | build-observed |
-| M071037 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HighPowCoeffMemSpanPowStatement` | build-observed |
-| M071040 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Hilbert90MatrixCoboundaryCharPFiniteLevel` | build-observed |
-| M071041 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Hilbert90MatrixCoboundaryCharPFiniteLevelStatement` | build-observed |

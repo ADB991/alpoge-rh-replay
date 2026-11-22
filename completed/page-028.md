@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019019 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesThetaStatement` | volunteer-build-reviewed |
+| M019020 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationThetaEquivariant` | volunteer-build-reviewed |
+| M019022 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBExistsNonzeroCoefficient` | volunteer-build-reviewed |
+| M019023 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBExistsNonzeroCoefficientStatement` | volunteer-build-reviewed |
+| M019026 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBFlipShifted` | volunteer-build-reviewed |
 | M019027 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBHaarStabilizerLeft` | volunteer-build-reviewed |
 | M019028 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBHaarStabilizerLeftStatement` | volunteer-build-reviewed |
 | M019031 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBIntermediateModelEvaluation` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M019721 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOneAddLowRankEmbeddingQuaternionMatrixStatement` | volunteer-build-reviewed |
 | M019722 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPhaseAt` | volunteer-build-reviewed |
 | M019724 | P1351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlace` | build-observed |
-| M019725 | P1374 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlaceStatement` | build-observed |
-| M019727 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousReGLSymm` | volunteer-build-reviewed |
-| M019729 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRestrStatement` | volunteer-build-reviewed |
-| M019730 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApply` | volunteer-build-reviewed |
-| M019731 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRhoApplyStatement` | volunteer-build-reviewed |

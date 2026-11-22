@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163986 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraph` | wave-reused |
+| M163987 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphBound` | wave-reused |
+| M163988 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphPartition` | wave-reused |
+| M163989 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphPiece` | wave-reused |
+| M163990 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaLinear` | wave-reused |
+| M163991 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaMultiplicity` | wave-reused |
+| M163992 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAuslanderBuchsbaumDepthLower` | volunteer-build-reviewed |
+| M163993 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAuslanderBuchsbaumProjDimUpper` | volunteer-build-reviewed |
+| M163994 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PBadSetSmaller` | wave-reused |
 | M163997 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PBranchContainsNormalPoint` | volunteer-build-reviewed |
 | M164005 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PBranchInverseOffHypersurface` | volunteer-build-reviewed |
 | M164014 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PBrouwerFixedPoint` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M164647 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreLocalUnbranched` | volunteer-build-reviewed |
 | M164648 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreNear` | volunteer-build-reviewed |
 | M164649 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpen` | volunteer-build-reviewed |
-| M164650 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpenPoly` | volunteer-build-reviewed |
-| M164651 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCount` | volunteer-build-reviewed |
-| M164652 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCountPrime` | volunteer-build-reviewed |
-| M164653 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StJacobianPrimeDerivations` | volunteer-build-reviewed |
-| M164655 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLeadIdealDim` | wave-reused |
-| M164656 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimit` | wave-reused |
-| M164657 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitAtBranches` | volunteer-build-reviewed |
-| M164659 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOffZero` | wave-reused |
-| M164660 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StLelongLimitOnZero` | wave-reused |

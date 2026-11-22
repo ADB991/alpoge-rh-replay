@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M027382 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrimeStatement` | volunteer-build-reviewed |
+| M027383 | P2480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationCoverOfPoint` | volunteer-build-reviewed |
+| M027384 | P2509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationCoverOfPointStatement` | volunteer-build-reviewed |
+| M027385 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizingWeightEqualOffPlaceMasses` | volunteer-build-reviewed |
+| M027386 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizingWeightEqualOffPlaceMassesStatement` | volunteer-build-reviewed |
 | M027387 | P2636 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocallyClosedRepresentsFixedPullbackHoms` | volunteer-build-reviewed |
 | M027388 | P2646 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocallyClosedRepresentsFixedPullbackHomsStatement` | volunteer-build-reviewed |
 | M027389 | P2612 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocallyClosedUniversalHomMatrixScheme` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M028003 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupCompactInterFinite` | volunteer-build-reviewed |
 | M028004 | P1816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupCompactInterFiniteStatement` | volunteer-build-reviewed |
 | M028005 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupFixingSchwartz` | volunteer-build-reviewed |
-| M028007 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInNeighbourhoodStatement` | volunteer-build-reviewed |
-| M028008 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariant` | volunteer-build-reviewed |
-| M028009 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariantStatement` | volunteer-build-reviewed |
-| M028010 | P0350 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupPeriodic` | volunteer-build-reviewed |
-| M028011 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupPeriodicStatement` | volunteer-build-reviewed |

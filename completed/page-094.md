@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064194 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpanStatement` | volunteer-build-reviewed |
+| M064195 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrime` | volunteer-build-reviewed |
+| M064196 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrimeStatement` | volunteer-build-reviewed |
+| M064197 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLeOneIffIsIntegralOfCompleteDvr` | wave-reused |
+| M064198 | P0252 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLeOneIffIsIntegralOfCompleteDvrStatement` | wave-reused |
+| M064199 | P0763 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLtOneIff` | build-observed |
 | M064200 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationMapAlgEquivEqOfLeOneIffIsIntegral` | wave-reused |
 | M064201 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationMapAlgEquivEqOfLeOneIffIsIntegralStatement` | wave-reused |
 | M064203 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationPowApplyDivSubOneLt` | build-observed |
@@ -396,9 +402,3 @@
 | M064986 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HalfPeriodDiffThetaFourthOfSigmaStarAddition` | volunteer-build-reviewed |
 | M064990 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombined` | volunteer-build-reviewed |
 | M064991 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombinedStatement` | volunteer-build-reviewed |
-| M064992 | P1843 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasComplementOfBasis` | volunteer-build-reviewed |
-| M064993 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasDerivAtOddJacobiThetaZeroEtaCube` | wave-reused |
-| M064998 | P1175 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeckeCharProductFormulaNormOne` | volunteer-build-reviewed |
-| M065003 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeisenbergCocycleFormIntegralSelfDual` | volunteer-build-reviewed |
-| M065004 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeisenbergCocycleFormIntegralSelfDualStatement` | volunteer-build-reviewed |
-| M065006 | P1909 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HermitianClassNumberItemsAllRanksStatement` | volunteer-build-reviewed |

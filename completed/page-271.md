@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174329 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PPlusPWtInjective` | wave-reused |
+| M174330 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PrhoEntryHasDerivAt` | wave-reused |
+| M174331 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.StTest` | wave-reused |
+| M174332 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.StdExpEntryHasDerivAt` | wave-reused |
+| M174333 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensHW` | wave-reused |
+| M174334 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensRepA` | wave-reused |
+| M174335 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.TensRepB` | wave-reused |
+| M174336 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylPos` | wave-reused |
+| M174337 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylRatio` | wave-reused |
 | M174338 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylSum` | wave-reused |
 | M174339 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.WeylVanish` | wave-reused |
 | M174340 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.SingleMulJmComm` | wave-reused |
@@ -393,12 +402,3 @@
 | M174907 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.BlockCombStatement` | volunteer-build-reviewed |
 | M174909 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.Branch` | volunteer-build-reviewed |
 | M174916 | P0171 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SqCharA` | volunteer-build-reviewed |
-| M174920 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.GlobAlgGoodO` | build-observed |
-| M174921 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.ImportsAlt` | wave-reused |
-| M174922 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatClose` | wave-reused |
-| M174923 | P0677 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs` | wave-reused |
-| M174924 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatInv` | wave-reused |
-| M174925 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatIso` | wave-reused |
-| M174926 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatReal` | wave-reused |
-| M174927 | P1192 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CmAllOf` | build-observed |
-| M174928 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffOneSubstOfConstantCoeffEqZero` | build-observed |

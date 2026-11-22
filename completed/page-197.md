@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130954 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeGramBoundNearBoundaryStatement` | volunteer-build-reviewed |
+| M130967 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeIPOfFibreLatVec` | volunteer-build-reviewed |
+| M130973 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductConjugateStatement` | volunteer-build-reviewed |
+| M130974 | P1185 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductMapIff` | build-observed |
+| M130978 | P1209 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductPullbackIff` | build-observed |
+| M130979 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductPullbackIffStatement` | volunteer-build-reviewed |
+| M130983 | P1706 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeDvrDegreeStatement` | volunteer-build-reviewed |
+| M130984 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeEigenDecompositionLocal` | volunteer-build-reviewed |
+| M130986 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeExtendScalars` | volunteer-build-reviewed |
 | M130988 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeGenericAgree` | build-observed |
 | M130989 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeGermEigen` | volunteer-build-reviewed |
 | M130993 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeStableUnderAction` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M131620 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NoetherianIntegralClosedCover` | volunteer-build-reviewed |
 | M131622 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrime` | volunteer-build-reviewed |
 | M131623 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrimeStatement` | volunteer-build-reviewed |
-| M131629 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonzeroSectionGenericFibre` | volunteer-build-reviewed |
-| M131632 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariant` | build-observed |
-| M131633 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariantStatement` | build-observed |
-| M131634 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalAffineChartExists` | volunteer-build-reviewed |
-| M131635 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalAffineChartExistsStatement` | volunteer-build-reviewed |
-| M131638 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalCptIffNormalScheme` | volunteer-build-reviewed |
-| M131639 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalCptIffNormalSchemeStatement` | volunteer-build-reviewed |
-| M131644 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalizedDegreeGramDet` | volunteer-build-reviewed |
-| M131646 | P0456 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalizedMinorExtends` | build-observed |

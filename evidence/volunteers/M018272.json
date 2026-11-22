@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    "M018272"
+  ],
+  "started_utc": "2026-11-22T11:16:06.927348+00:00",
+  "ended_utc": "2026-11-22T11:16:54.077350+00:00",
+  "elapsed_seconds": 47.0,
+  "host": {
+    "cpu_count": 40,
+    "mem_total_kib": 263998632,
+    "peak_child_rss_kib": 9979312
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "f60616610fa7cc5eb8f08ac02b2f0f584ba29df93a6d91e0418044b5745f8e7c",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Divisors.SecJets4",
+    "Development.AbelianVarietyTheory.Definitions.Divisors.TorusExt",
+    "Development.AbelianVarietyTheory.PublishedTheorems.Divisors\u2082.IsThetaMeanSquareNorm"
+  ],
+  "objects": {
+    "M018272": "b1991ab787eca6dd299745d05e6dfdd7eb79e817fa2b052ca29c9087f51aa0ca"
+  },
+  "project_root": "/data/alpoge-rh-replay/vol/lean",
+  "bundle_sha256": "23a734f20701015fe6ea588a5852fec3013d2b5d11ce5daa25336881fdaf5e24",
+  "packet": "M018272",
+  "contributor": "pCwOrM",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/32004#issuecomment-7078339759",
+  "reviewed_utc": "2026-11-22T11:35:44.997185+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

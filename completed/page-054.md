@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036026 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumns` | volunteer-build-reviewed |
+| M036027 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumnsStatement` | volunteer-build-reviewed |
+| M036031 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostIntegerCharacterCompConjEqConjEmbedding` | volunteer-build-reviewed |
+| M036032 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostIntegerCharacterCompConjEqConjEmbeddingStatement` | volunteer-build-reviewed |
+| M036035 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityFiniteOfUnitary` | volunteer-build-reviewed |
 | M036036 | P2237 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityForClosure` | volunteer-build-reviewed |
 | M036037 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityForLocOps` | volunteer-build-reviewed |
 | M036038 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HoweDualityForTransport` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M036698 | P1942 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizer` | wave-reused |
 | M036699 | P1961 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizerStatement` | wave-reused |
 | M036700 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselian` | volunteer-build-reviewed |
-| M036701 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselianStatement` | volunteer-build-reviewed |
-| M036702 | P1905 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiser` | wave-reused |
-| M036703 | P1923 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiserStatement` | wave-reused |
-| M036704 | P1327 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixesComplexFibrePureEndomorphismTorsion` | build-observed |
-| M036705 | P1353 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixesComplexFibrePureEndomorphismTorsionStatement` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174920 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.GlobAlgGoodO` | build-observed |
+| M174921 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.ImportsAlt` | wave-reused |
+| M174922 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatClose` | wave-reused |
+| M174923 | P0677 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatDefs` | wave-reused |
+| M174924 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatInv` | wave-reused |
+| M174925 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatIso` | wave-reused |
+| M174926 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatReal` | wave-reused |
+| M174927 | P1192 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CmAllOf` | build-observed |
+| M174928 | P0514 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffOneSubstOfConstantCoeffEqZero` | build-observed |
 | M174929 | P0292 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.CoeffRescaleExpandOfNotDvd` | wave-reused |
 | M174930 | P0614 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.DivByPartialYAtZeroSubstAtXAtY` | build-observed |
 | M174931 | P1083 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.EndIntegral` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167010 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomNormPIntegral` | build-observed |
+| M167012 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDoubleComplexVanish` | volunteer-build-reviewed |
+| M167013 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingPieces` | build-observed |
+| M167014 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingWeight` | build-observed |
+| M167015 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEuclideanSections` | wave-reused |
+| M167016 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEuclideanSectionsPower` | wave-reused |
+| M167018 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEventualPolyLine` | volunteer-build-reviewed |
+| M167019 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEventualPolynomial` | wave-reused |
+| M167020 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFSGeomDegPos` | build-observed |
 | M167021 | P0753 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreNormBadPrimesFinite` | build-observed |
 | M167022 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreNormBound` | build-observed |
 | M167023 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFibreNormCharpoly` | build-observed |
@@ -393,12 +402,3 @@
 | M167675 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadLocal` | wave-reused |
 | M167676 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadNbhd` | wave-reused |
 | M167677 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadStep` | wave-reused |
-| M167678 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsZLocDenominators` | volunteer-build-reviewed |
-| M167680 | P0861 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AevalNeZeroOfNotMem` | build-observed |
-| M167681 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AnalyticResolutionHypothesesProjectiveLine` | wave-reused |
-| M167683 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ArithVarZero` | build-observed |
-| M167685 | P0230 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing` | wave-reused |
-| M167686 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.CardLeRingKrullDim` | build-observed |
-| M167687 | P0085 | `GroundTheory.HeightsAndTheta.Heights.Intersections.CardLength` | wave-reused |
-| M167690 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ConservationDegreeFormOfExistence` | wave-reused |
-| M167694 | P0643 | `GroundTheory.HeightsAndTheta.Heights.Intersections.EqZeroOfEventuallyEval` | build-observed |

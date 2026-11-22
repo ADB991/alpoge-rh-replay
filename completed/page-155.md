@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107019 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ThmS6CoreS` | volunteer-build-reviewed |
+| M107020 | P2762 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ToTL` | volunteer-build-reviewed |
+| M107022 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwistConjugateSelfDual` | volunteer-build-reviewed |
+| M107023 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwistInvarianceAutomorphic` | volunteer-build-reviewed |
+| M107024 | P2708 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwistNewform` | volunteer-build-reviewed |
+| M107025 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwistRealSelfDual` | volunteer-build-reviewed |
+| M107026 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwoRuns` | volunteer-build-reviewed |
+| M107027 | P2762 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypeData` | volunteer-build-reviewed |
+| M107028 | P2686 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypeDataOfSTy` | volunteer-build-reviewed |
 | M107029 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypeForUp` | volunteer-build-reviewed |
 | M107030 | P2713 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypeIIOfBlochKatoLocalPoint` | volunteer-build-reviewed |
 | M107031 | P2680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TypePS2` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M107494 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrUnipChar` | volunteer-build-reviewed |
 | M107495 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrystallinePeriodMatrixMemFilZeroOfWeightZero` | build-observed |
 | M107499 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DeRhamRationalOfConj` | volunteer-build-reviewed |
-| M107502 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecEmb` | volunteer-build-reviewed |
-| M107503 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecJFacts` | volunteer-build-reviewed |
-| M107507 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DualInclUnit` | volunteer-build-reviewed |
-| M107508 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.EpsArt` | volunteer-build-reviewed |
-| M107509 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.EqZeroOfHomogeneousAevalMemMaximalIdealPowSucc` | volunteer-build-reviewed |
-| M107511 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsAlgebraicElementOfAlgebraicVectorSubspace` | volunteer-build-reviewed |
-| M107513 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsCocycleExtensionOfConjugationInvariantRest` | volunteer-build-reviewed |
-| M107516 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsContinuousIsGamOfTorusCocycle` | volunteer-build-reviewed |
-| M107517 | P1364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsCrystallinePeriodMatrixBcrisOfIsCrys` | build-observed |

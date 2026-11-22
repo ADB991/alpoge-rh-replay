@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012784 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfWeightEq` | wave-reused |
+| M012785 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOnPoints` | volunteer-build-reviewed |
+| M012790 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EvalTwistTxEqZeroOfAevalArcTx` | volunteer-build-reviewed |
+| M012792 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianFibreIsoOfMatchedTorsionThetaStatement` | volunteer-build-reviewed |
 | M012794 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianPartIsoThetaSectionScaleStatement` | volunteer-build-reviewed |
 | M012795 | P1504 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasis` | build-observed |
 | M012796 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasisStatement` | build-observed |
@@ -398,7 +402,3 @@
 | M013446 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFTTNeZero` | volunteer-build-reviewed |
 | M013447 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespond` | build-observed |
 | M013448 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespondStatement` | volunteer-build-reviewed |
-| M013449 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibre` | volunteer-build-reviewed |
-| M013450 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibreStatement` | volunteer-build-reviewed |
-| M013451 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FeOfPhiTriv` | build-observed |
-| M013452 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FfDivFfMemOfSpecializes` | volunteer-build-reviewed |

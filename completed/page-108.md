@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073887 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConjStatement` | build-observed |
+| M073888 | P1568 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPair` | build-observed |
+| M073889 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPairStatement` | volunteer-build-reviewed |
+| M073890 | P1624 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocyclesBetweenBlochKatoAndContinuous` | build-observed |
+| M073891 | P1650 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocyclesBetweenBlochKatoAndContinuousStatement` | build-observed |
+| M073892 | P1429 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableDieudonneModuleSpansTensorPeriodRing` | build-observed |
+| M073893 | P1454 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableDieudonneModuleSpansTensorPeriodRingStatement` | build-observed |
+| M073902 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableLinearFormOnConstants` | build-observed |
 | M073903 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableLinearFormOnConstantsStatement` | build-observed |
 | M073920 | P1381 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistablePeriodRingGaloisInvariantsIffConst` | build-observed |
 | M073921 | P1405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistablePeriodRingGaloisInvariantsIffConstStatement` | build-observed |
@@ -394,11 +402,3 @@
 | M074595 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishesSingleCoefficientOfKernelKillsStatement` | volunteer-build-reviewed |
 | M074596 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivative` | volunteer-build-reviewed |
 | M074597 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivativeStatement` | volunteer-build-reviewed |
-| M074598 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModel` | volunteer-build-reviewed |
-| M074599 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModelStatement` | volunteer-build-reviewed |
-| M074600 | P1543 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorSchroedingerImageAtLevelPrime` | volunteer-build-reviewed |
-| M074604 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfPow` | build-observed |
-| M074605 | P1177 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfTiltCompatibleSequence` | build-observed |
-| M074606 | P1201 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfTiltCompatibleSequenceStatement` | build-observed |
-| M074610 | P2616 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesBaseTwistedUniversalRationalStatement` | volunteer-build-reviewed |
-| M074611 | P2628 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralCoreSupLatticeCombination` | volunteer-build-reviewed |

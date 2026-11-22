@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110476 | P0878 | `Development.AutomorphicArithmetic.ExponentialBounds.BadShareWin` | wave-reused |
+| M110477 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.BaseChangeNB` | volunteer-build-reviewed |
+| M110478 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.DefiniteNHolds` | volunteer-build-reviewed |
+| M110480 | P2693 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.FrameRead` | volunteer-build-reviewed |
+| M110481 | P2667 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.GReadOf` | volunteer-build-reviewed |
+| M110482 | P2667 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.IdentOf` | volunteer-build-reviewed |
+| M110483 | P2499 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.InfMatchOf` | volunteer-build-reviewed |
+| M110484 | P2525 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.PDerVal` | volunteer-build-reviewed |
+| M110485 | P2525 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.PInfMatch` | volunteer-build-reviewed |
 | M110486 | P2693 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.HeckeEigenvalueFiniteness.CandOf` | volunteer-build-reviewed |
 | M110487 | P2673 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.HeckeEigenvalueFiniteness.ClsFin` | volunteer-build-reviewed |
 | M110488 | P2673 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.HeckeEigenvalueFiniteness.EigFin` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M111010 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PieceAdd` | volunteer-build-reviewed |
 | M111012 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Points` | volunteer-build-reviewed |
 | M111014 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PowSym` | volunteer-build-reviewed |
-| M111015 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Reduce` | volunteer-build-reviewed |
-| M111020 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.TwoNode` | volunteer-build-reviewed |
-| M111021 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CharIndep` | volunteer-build-reviewed |
-| M111022 | P1550 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CuspTrBand` | volunteer-build-reviewed |
-| M111023 | P1463 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CuspidalMultiplicityOneTotallyComplex` | wave-reused |
-| M111026 | P1913 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.EigAdm` | volunteer-build-reviewed |
-| M111029 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.ExistsPowerSums` | volunteer-build-reviewed |
-| M111030 | P1893 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.FixLev` | volunteer-build-reviewed |
-| M111032 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.HopOloc` | volunteer-build-reviewed |

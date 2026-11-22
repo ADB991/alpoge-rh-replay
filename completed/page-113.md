@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077872 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualLatticeVectorStatement` | volunteer-build-reviewed |
+| M077873 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrix` | volunteer-build-reviewed |
+| M077874 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrixStatement` | volunteer-build-reviewed |
+| M077875 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIwasawaDecompositionUpperUnitriangularInte` | volunteer-build-reviewed |
+| M077876 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIwasawaDecompositionUpperUnitriangularInteStatement` | volunteer-build-reviewed |
+| M077877 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsJW` | volunteer-build-reviewed |
+| M077880 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsK1PointCongruent` | volunteer-build-reviewed |
+| M077881 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsK1PointCongruentStatement` | volunteer-build-reviewed |
 | M077885 | P2283 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsKeyInputAtChartPoint` | build-observed |
 | M077887 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsKeySectionUnifStatement` | volunteer-build-reviewed |
 | M077888 | P0901 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsKurOfActStFixed` | build-observed |
@@ -394,11 +402,3 @@
 | M078621 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueSectionCompatibleSquareThickening` | volunteer-build-reviewed |
 | M078632 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueUnitaryTwoStepPairMeasureStatement` | volunteer-build-reviewed |
 | M078633 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAt` | volunteer-build-reviewed |
-| M078634 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAtStatement` | volunteer-build-reviewed |
-| M078635 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitCoefOpen` | volunteer-build-reviewed |
-| M078647 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicLiftTypePrimeReductions` | volunteer-build-reviewed |
-| M078648 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicLiftTypePrimeReductionsStatement` | volunteer-build-reviewed |
-| M078649 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicSupportedAtBadPrimePlace` | volunteer-build-reviewed |
-| M078650 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicSupportedAtBadPrimePlaceStatement` | volunteer-build-reviewed |
-| M078651 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicTwistDiagonalAtPrimes` | volunteer-build-reviewed |
-| M078652 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicTwistDiagonalAtPrimesStatement` | volunteer-build-reviewed |

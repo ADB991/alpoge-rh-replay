@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015830 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBoundStatement` | volunteer-build-reviewed |
+| M015831 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithReciprocityNoCommonDivisorProjective` | volunteer-build-reviewed |
+| M015837 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSelfIntersectionMonoOfIsNef` | volunteer-build-reviewed |
+| M015838 | P2794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSelfIntersectionMonoOfIsNefStatement` | volunteer-build-reviewed |
 | M015839 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevel` | build-observed |
 | M015840 | P1644 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevelStatement` | build-observed |
 | M015843 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarComplexPointsCompact` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M016617 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightComparison` | volunteer-build-reviewed |
 | M016619 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightLower` | volunteer-build-reviewed |
 | M016621 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightUpper` | volunteer-build-reviewed |
-| M016623 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingNormBound` | volunteer-build-reviewed |
-| M016625 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotential` | volunteer-build-reviewed |
-| M016626 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotentialStatement` | volunteer-build-reviewed |
-| M016629 | P0551 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySmoothBoundPotential` | build-observed |

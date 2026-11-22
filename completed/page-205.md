@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136346 | P0417 | `Development.EtaleCohomology.TateTwists.PrimitiveRootsOfUnityBasicIdentities` | wave-reused |
+| M136347 | P0417 | `Development.EtaleCohomology.TateTwists.PrismAlexanderWhitneySwapChainHomotopy` | wave-reused |
+| M136348 | P0499 | `Development.EtaleCohomology.TateTwists.PrismBoundaryMapSquareZeroHolds` | wave-reused |
+| M136349 | P0499 | `Development.EtaleCohomology.TateTwists.SteenrodPrismChainDifferentialSquaredEqZeroOfEta` | wave-reused |
+| M136350 | P0600 | `Development.EtaleCohomology.TateTwists.StepPf` | wave-reused |
+| M136353 | P0458 | `Development.EtaleCohomology.TateTwists.SubdivisionComposition` | wave-reused |
+| M136354 | P0499 | `Development.EtaleCohomology.TateTwists.TAwAssoc0Of` | wave-reused |
+| M136355 | P0534 | `Development.EtaleCohomology.TateTwists.TPaCpushHtpyPf` | wave-reused |
+| M136356 | P0534 | `Development.EtaleCohomology.TateTwists.TPaCpushIdPf` | wave-reused |
 | M136357 | P0534 | `Development.EtaleCohomology.TateTwists.TPaPrecompPf` | wave-reused |
 | M136358 | P0534 | `Development.EtaleCohomology.TateTwists.TPaTensExPf` | wave-reused |
 | M136359 | P0534 | `Development.EtaleCohomology.TateTwists.TPaTensUnivPf` | wave-reused |
@@ -393,12 +402,3 @@
 | M136766 | P0322 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceProduct` | wave-reused |
 | M136767 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceZeroSection` | wave-reused |
 | M136768 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BasicOpenClosedEmbedding` | wave-reused |
-| M136769 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupFlatDescent` | wave-reused |
-| M136770 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceDescentDatum` | wave-reused |
-| M136771 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceFlatBaseChange` | wave-reused |
-| M136772 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceFlatDescent` | wave-reused |
-| M136773 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ChartFlatBaseChange` | wave-reused |
-| M136774 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ChartPushforward` | wave-reused |
-| M136775 | P0372 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ClosedEmbeddingIntoAffineSpace` | wave-reused |
-| M136776 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.DetachedCenterFlatBaseChange` | wave-reused |
-| M136777 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.DetachedLocusFlatBaseChange` | wave-reused |

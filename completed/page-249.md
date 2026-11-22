@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162103 | P0080 | `Formalism.WachModuleLifts.Statement` | wave-reused |
+| M162104 | P0080 | `Formalism.WachModuleLifts.StatementW` | wave-reused |
+| M162105 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCLower` | wave-reused |
+| M162106 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharp` | wave-reused |
+| M162107 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpG` | wave-reused |
+| M162108 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddG` | wave-reused |
+| M162109 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddUnitInvHolds` | wave-reused |
+| M162110 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaHLift` | wave-reused |
+| M162111 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.WachModuleStatementHolds` | wave-reused |
 | M162112 | P0224 | `Formalism.WeaklyAdmissibleFiltrations.CocyclesFunctorial` | wave-reused |
 | M162113 | P0333 | `Formalism.WeaklyAdmissibleFiltrations.CrystallineStableLifts.DPotCrisStableAndExistsPotentiallyCrystallineDat` | wave-reused |
 | M162114 | P0281 | `Formalism.WeaklyAdmissibleFiltrations.CrystallineStableLifts.ExLattice` | wave-reused |
@@ -393,12 +402,3 @@
 | M162546 | P0574 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reconstruction` | wave-reused |
 | M162547 | P0080 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reduction` | wave-reused |
 | M162548 | P0380 | `GroundTheory.AutomorphicForms.DiscreteDecomposition` | build-observed |
-| M162549 | P0282 | `GroundTheory.AutomorphicForms.DiscreteSpectrumAbstract` | wave-reused |
-| M162550 | P0380 | `GroundTheory.AutomorphicForms.DixmierMalliavin` | build-observed |
-| M162551 | P0159 | `GroundTheory.AutomorphicForms.DixmierMalliavinBasic` | wave-reused |
-| M162552 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaar` | wave-reused |
-| M162553 | P0224 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaarCoord` | wave-reused |
-| M162554 | P0333 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaarDensity` | wave-reused |
-| M162555 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinLine` | volunteer-build-reviewed |
-| M162557 | P0080 | `GroundTheory.AutomorphicForms.DixmierMalliavinLineKernel` | volunteer-build-reviewed |
-| M162558 | P0080 | `GroundTheory.AutomorphicForms.DixmierMalliavinLineLimit` | volunteer-build-reviewed |

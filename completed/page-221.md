@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147790 | P0748 | `Formalism.LocalToGlobal.CharacterGerms.GeOfPowEqOne` | wave-reused |
+| M147791 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.GeneralGermZero` | wave-reused |
+| M147792 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.GermEvalOneStandardPointSelf` | build-observed |
+| M147793 | P1077 | `Formalism.LocalToGlobal.CharacterGerms.GermLiftSelfSt` | wave-reused |
+| M147794 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.GramMatrixMulRight` | build-observed |
+| M147795 | P0722 | `Formalism.LocalToGlobal.CharacterGerms.HostTraceIdentity` | wave-reused |
+| M147796 | P0635 | `Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw` | build-observed |
+| M147797 | P1021 | `Formalism.LocalToGlobal.CharacterGerms.IndexRaiseFirst` | build-observed |
+| M147798 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.IntSProd` | wave-reused |
 | M147799 | P0502 | `Formalism.LocalToGlobal.CharacterGerms.IntSubst` | wave-reused |
 | M147800 | P0376 | `Formalism.LocalToGlobal.CharacterGerms.Interface` | wave-reused |
 | M147801 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.IsWHLetterMinorK` | build-observed |
@@ -393,12 +402,3 @@
 | M148235 | P0070 | `Formalism.LocalToGlobal.Columns.RowFormsNZp` | volunteer-build-reviewed |
 | M148239 | P1136 | `Formalism.LocalToGlobal.Columns.RowFormsRat` | build-observed |
 | M148240 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSel` | build-observed |
-| M148242 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSym` | build-observed |
-| M148243 | P0830 | `Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice` | build-observed |
-| M148244 | P1136 | `Formalism.LocalToGlobal.Columns.SliceIntegralDeltaNeBot` | build-observed |
-| M148245 | P0858 | `Formalism.LocalToGlobal.Columns.SmulMemTrpSet` | build-observed |
-| M148246 | P1468 | `Formalism.LocalToGlobal.Columns.StabMapRLInjective` | build-observed |
-| M148247 | P1556 | `Formalism.LocalToGlobal.Columns.StabilizerMapMaximalIndex` | build-observed |
-| M148248 | P1614 | `Formalism.LocalToGlobal.Columns.StabilizerMapTopIndexAlt` | build-observed |
-| M148249 | P1583 | `Formalism.LocalToGlobal.Columns.StabilizerMapTopIndexAltAlt` | build-observed |
-| M148250 | P1211 | `Formalism.LocalToGlobal.Columns.StandardDeltaIntegralCoeffs` | build-observed |

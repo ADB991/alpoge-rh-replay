@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051874 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChains` | volunteer-build-reviewed |
+| M051875 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChainsStatement` | volunteer-build-reviewed |
+| M051876 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SzJetConj` | volunteer-build-reviewed |
+| M051879 | P1540 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.T2SpaceFiniteAdeleRing` | volunteer-build-reviewed |
+| M051881 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.T2SpaceTensorRatFiniteAlgebraModuleTopology` | volunteer-build-reviewed |
+| M051882 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TC` | volunteer-build-reviewed |
 | M051883 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TCAlt` | volunteer-build-reviewed |
 | M051886 | P0022 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TailLogIntegralBoundOfDistribution` | volunteer-build-reviewed |
 | M051887 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TailLogIntegralBoundOfDistributionStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M052676 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRank` | volunteer-build-reviewed |
 | M052677 | P2021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRankStatement` | volunteer-build-reviewed |
 | M052679 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridSquareRankInequalitiesStatement` | volunteer-build-reviewed |
-| M052683 | P2542 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGroupActionPullbackThetaSectionsGaloisTwistStatement` | volunteer-build-reviewed |
-| M052696 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntNeZero` | volunteer-build-reviewed |
-| M052699 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralCompactInvariant` | volunteer-build-reviewed |
-| M052700 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralFiniteRelation` | volunteer-build-reviewed |
-| M052701 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralFiniteRelationStatement` | volunteer-build-reviewed |
-| M052702 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralInvariantFirstGroup` | volunteer-build-reviewed |

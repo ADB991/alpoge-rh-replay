@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090674 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTranspose` | wave-reused |
+| M090675 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTransposeStatement` | wave-reused |
+| M090677 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRigidTranslatePrincipalPolarisationOrderTw` | build-observed |
+| M090679 | P1043 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionBoxProductDivGenerator` | wave-reused |
+| M090680 | P1071 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionBoxProductDivGeneratorStatement` | wave-reused |
+| M090681 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionOfTransversal` | volunteer-build-reviewed |
+| M090682 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSeparatingPairs` | build-observed |
+| M090684 | P2042 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSiegelFamilyOverNumberFieldStatement` | volunteer-build-reviewed |
+| M090687 | P1130 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSquareDeterminantComparisonIsAlgClosed` | wave-reused |
 | M090688 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSquareDeterminantComparisonIsAlgClosedStatement` | wave-reused |
 | M090689 | P1336 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSymmetricLinearisationSquareDiagonalBundle` | build-observed |
 | M090690 | P1361 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSymmetricLinearisationSquareDiagonalBundleStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M091364 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPoints` | build-observed |
 | M091365 | P1232 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPointsStatement` | build-observed |
 | M091366 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibre` | build-observed |
-| M091367 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibreStatement` | build-observed |
-| M091370 | P0822 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.WeilIsGrpPullbackIff` | wave-reused |
-| M091371 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ZeroFLeftExt` | wave-reused |
-| M091372 | P0362 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AdditionLevelTwoMul` | build-observed |
-| M091373 | P0795 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AlgebraMapZeroSurjective` | build-observed |
-| M091374 | P0623 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AppellHumbertDataOfIsoCube` | build-observed |
-| M091375 | P0039 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AppellHumbertNormalFormOfLinearExponent` | volunteer-build-reviewed |
-| M091376 | P0039 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AutomorphyFactorExpLinearOfCube` | volunteer-build-reviewed |
-| M091377 | P0040 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.BilinFormBijectiveOfNondegenerateMod` | volunteer-build-reviewed |

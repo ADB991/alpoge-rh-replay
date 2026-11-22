@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M021762 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeThetaStatement` | volunteer-build-reviewed |
+| M021763 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLocalIntegral` | volunteer-build-reviewed |
+| M021765 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairStabiliserIntegral` | volunteer-build-reviewed |
+| M021766 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairStabiliserIntegralStatement` | volunteer-build-reviewed |
+| M021767 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairUnfoldingLattice` | volunteer-build-reviewed |
 | M021768 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairUnfoldingLatticeStatement` | volunteer-build-reviewed |
 | M021769 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairUnfoldingMeasure` | volunteer-build-reviewed |
 | M021770 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairUnfoldingMeasureStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M022410 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntireEqOfEqOnHalfPlane` | wave-reused |
 | M022411 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntryMemSubringOfTraceGramUnit` | volunteer-build-reviewed |
 | M022416 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EnvelopingAlgebraLineWords` | build-observed |
-| M022422 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpiPowOfIsAbelianScheme` | volunteer-build-reviewed |
-| M022423 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsMulOfCondExp` | volunteer-build-reviewed |
-| M022424 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartCocycleCoboundaryOfHodgeDeRham` | volunteer-build-reviewed |
-| M022425 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartCocycleCoboundaryOfHodgeDeRhamStatement` | volunteer-build-reviewed |
-| M022427 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartValueTranslateProdTangentsStatement` | volunteer-build-reviewed |

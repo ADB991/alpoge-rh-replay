@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059710 | P2158 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2Positive` | volunteer-build-reviewed |
+| M059711 | P2169 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2PositiveStatement` | volunteer-build-reviewed |
+| M059713 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductModulesTypeUniformisersEqPowerStatement` | volunteer-build-reviewed |
+| M059716 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProjAbsHolds` | build-observed |
+| M059719 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProperIdealsOfHenselian` | wave-reused |
+| M059720 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PsiComplexifiedKEquivariance` | build-observed |
 | M059721 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PsiComplexifiedKEquivarianceStatement` | build-observed |
 | M059722 | P1006 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PsiEntriesCentreEigenfunctionsDiscreteSeries` | build-observed |
 | M059724 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PsiEntriesRealAnalytic` | build-observed |
@@ -396,9 +402,3 @@
 | M060423 | P2227 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBessel` | volunteer-build-reviewed |
 | M060424 | P2239 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBesselStatement` | volunteer-build-reviewed |
 | M060425 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UEmbMulPEl` | build-observed |
-| M060426 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UMatMulLoc` | volunteer-build-reviewed |
-| M060427 | P1983 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMass` | volunteer-build-reviewed |
-| M060428 | P2002 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMassStatement` | volunteer-build-reviewed |
-| M060430 | P2158 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingIdentityMatchedFamilyClosedTermsStatement` | volunteer-build-reviewed |
-| M060431 | P2201 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformAmplitudeBoundWideRangeLargeGap` | volunteer-build-reviewed |
-| M060432 | P2214 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformAmplitudeBoundWideRangeLargeGapStatement` | volunteer-build-reviewed |

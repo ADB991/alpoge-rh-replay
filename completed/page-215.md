@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144365 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsChain` | build-observed |
+| M144366 | P0420 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsChainOfAddOneLe` | build-observed |
+| M144367 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsLengthSum` | build-observed |
+| M144368 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.LinearIndependentOfIsBaseChange` | build-observed |
+| M144369 | P0501 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepClosed` | build-observed |
+| M144370 | P0460 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepClosedOf` | build-observed |
+| M144371 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepDescent` | build-observed |
+| M144372 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepExtOf` | build-observed |
+| M144373 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.MemSpanBasisFun` | build-observed |
 | M144374 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.MinimumChainBounds` | wave-reused |
 | M144375 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.ReductionQuotient` | build-observed |
 | M144376 | P0068 | `Formalism.FilteredPoleLength.ReducedBasisBounds.AlternatingBinomial` | wave-reused |
@@ -393,12 +402,3 @@
 | M144764 | P0461 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardSumNormFibres` | wave-reused |
 | M144765 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardUnitaryFin` | wave-reused |
 | M144766 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardUnitaryReduction` | wave-reused |
-| M144767 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CntIOneOfNotMem` | wave-reused |
-| M144768 | P0938 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeCmbSingle` | wave-reused |
-| M144769 | P1211 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeMemOfMemSmulTop` | wave-reused |
-| M144770 | P1136 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CongrPIffInI` | wave-reused |
-| M144771 | P1344 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjMemAutSub` | wave-reused |
-| M144772 | P0747 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjOMemConjIdeal` | wave-reused |
-| M144773 | P0634 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjOMemHcompl` | wave-reused |
-| M144774 | P1020 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjTransposeEqOfSymm` | wave-reused |
-| M144775 | P0993 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ConjTransposeMapMk` | wave-reused |

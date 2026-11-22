@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156943 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HformSmulRight` | wave-reused |
+| M156944 | P1734 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.InVolumesAtOfSWS` | build-observed |
+| M156945 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.InvInvSt` | wave-reused |
+| M156946 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.InvariantStabilizerAssembly` | wave-reused |
+| M156947 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.KapIntegral` | wave-reused |
+| M156948 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LBSubm` | wave-reused |
+| M156949 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LintFibre` | wave-reused |
+| M156950 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensChLift` | wave-reused |
+| M156951 | P1557 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensCnt` | wave-reused |
 | M156952 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensCntD` | wave-reused |
 | M156953 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensCntL` | wave-reused |
 | M156954 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.LocDensCntQ` | wave-reused |
@@ -393,12 +402,3 @@
 | M157366 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModCore` | build-observed |
 | M157367 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MulVecBvecApply` | wave-reused |
 | M157368 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.NilpotentSubgroup` | wave-reused |
-| M157369 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.QuotSetUOf` | build-observed |
-| M157370 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SBasic` | wave-reused |
-| M157371 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SsetGroup` | wave-reused |
-| M157372 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.UnipotentRadicalContracting` | build-observed |
-| M157373 | P0424 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.UnitaryWeylCompact` | build-observed |
-| M157374 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitarySecondCountable.Assembly` | volunteer-build-reviewed |
-| M157381 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.VacuumEntire.AnalyticAtHfLeft` | volunteer-build-reviewed |
-| M157382 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationGluing.ValbLeOfCoeffEqZero` | wave-reused |
-| M157383 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationLocalVolumes.AbsVDetBigL` | build-observed |

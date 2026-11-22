@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147350 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LenSplit` | wave-reused |
+| M147351 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PdFacts` | wave-reused |
+| M147352 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PowBinom` | wave-reused |
+| M147353 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RelZero` | wave-reused |
+| M147354 | P0375 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RowDJoint` | wave-reused |
+| M147355 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.RowDegreeBound` | wave-reused |
+| M147356 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ThickA` | wave-reused |
+| M147357 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ThickB` | wave-reused |
+| M147358 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.TorsKer` | wave-reused |
 | M147359 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.TorsKerSum` | wave-reused |
 | M147360 | P0069 | `Formalism.JumpKernelCokernel.KerCokerEq` | wave-reused |
 | M147361 | P0273 | `Formalism.JumpKernelCokernel.LemmaDJoint` | wave-reused |
@@ -393,12 +402,3 @@
 | M147787 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.FrobSerSt` | build-observed |
 | M147788 | P1136 | `Formalism.LocalToGlobal.CharacterGerms.FunEqCoreHolds` | build-observed |
 | M147789 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.GeNatCast` | wave-reused |
-| M147790 | P0748 | `Formalism.LocalToGlobal.CharacterGerms.GeOfPowEqOne` | wave-reused |
-| M147791 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.GeneralGermZero` | wave-reused |
-| M147792 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.GermEvalOneStandardPointSelf` | build-observed |
-| M147793 | P1077 | `Formalism.LocalToGlobal.CharacterGerms.GermLiftSelfSt` | wave-reused |
-| M147794 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.GramMatrixMulRight` | build-observed |
-| M147795 | P0722 | `Formalism.LocalToGlobal.CharacterGerms.HostTraceIdentity` | wave-reused |
-| M147796 | P0635 | `Formalism.LocalToGlobal.CharacterGerms.IndependenceBoundRaw` | build-observed |
-| M147797 | P1021 | `Formalism.LocalToGlobal.CharacterGerms.IndexRaiseFirst` | build-observed |
-| M147798 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.IntSProd` | wave-reused |

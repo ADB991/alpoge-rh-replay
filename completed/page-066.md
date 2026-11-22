@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044911 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPrintsStatement` | volunteer-build-reviewed |
+| M044912 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPublished` | volunteer-build-reviewed |
+| M044913 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemBand` | volunteer-build-reviewed |
+| M044914 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemFinPt` | volunteer-build-reviewed |
+| M044915 | P1670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAt` | volunteer-build-reviewed |
+| M044916 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAtAlt` | volunteer-build-reviewed |
 | M044920 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneParamSubgroupFockOrbitFiniteDimensionalStatement` | volunteer-build-reviewed |
 | M044923 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneParameterSkewHermitian` | volunteer-build-reviewed |
 | M044924 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneParameterSkewHermitianStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M045548 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionTateStatement` | volunteer-build-reviewed |
 | M045550 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisiblePropertiesExtendStatement` | volunteer-build-reviewed |
 | M045555 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PencilOptionEquivLeftRenameSome` | volunteer-build-reviewed |
-| M045558 | P2348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerValMulWedgeCoord` | build-observed |
-| M045559 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectPairingDualSymplectic` | volunteer-build-reviewed |
-| M045562 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectProjectionNaturalIdempotentReduced` | build-observed |
-| M045563 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectProjectionNaturalIdempotentReducedStatement` | build-observed |
-| M045564 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectionExistsUniqueSubMatrixFrobeniusEq` | volunteer-build-reviewed |
-| M045565 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectionExistsUniqueSubMatrixFrobeniusEqStatement` | volunteer-build-reviewed |

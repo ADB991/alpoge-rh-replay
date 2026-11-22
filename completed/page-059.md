@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039861 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalSmoothBumpStatement` | volunteer-build-reviewed |
+| M039865 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltAtAddSmulOfLcAtStatement` | volunteer-build-reviewed |
+| M039867 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltAtLcAtOfLeCoeffStatement` | volunteer-build-reviewed |
+| M039869 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltOfAdjunctionKltLocalModelStatement` | volunteer-build-reviewed |
+| M039870 | P2733 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltOfKltRestrict` | volunteer-build-reviewed |
 | M039872 | P2794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KnownOfLieSlope` | volunteer-build-reviewed |
 | M039873 | P2795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KnownOfPublishedInputs` | volunteer-build-reviewed |
 | M039875 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KodairaSpencerCanonicalDivisorStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M040578 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthGeFinrankOfSemilinearSurjectiveStatement` | volunteer-build-reviewed |
 | M040579 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwap` | volunteer-build-reviewed |
 | M040580 | P0110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwapStatement` | volunteer-build-reviewed |
-| M040582 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisation` | wave-reused |
-| M040583 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisationStatement` | wave-reused |
-| M040584 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkReducedClosedGenericPointEqRank` | wave-reused |
-| M040585 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkReducedClosedGenericPointEqRankStatement` | wave-reused |
-| M040586 | P0246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthSumHeightOneDisjointDivisors` | volunteer-build-reviewed |

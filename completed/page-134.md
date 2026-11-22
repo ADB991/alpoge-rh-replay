@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094958 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifferenceStatement` | volunteer-build-reviewed |
+| M094959 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactor` | volunteer-build-reviewed |
+| M094960 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactorStatement` | volunteer-build-reviewed |
+| M094961 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjKOfSeparates` | volunteer-build-reviewed |
+| M094962 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjKOfSeparatesLinB` | volunteer-build-reviewed |
+| M094963 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveOfIndep` | volunteer-build-reviewed |
+| M094964 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveSumOfLinIndepIntertwiners` | volunteer-build-reviewed |
+| M094965 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveSumOfLinIndepIntertwinersStatement` | volunteer-build-reviewed |
+| M094966 | P0988 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InnerCoeffEqOfIsometricAnalyticModules` | build-observed |
 | M094967 | P1016 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InnerCoeffEqOfIsometricAnalyticModulesStatement` | volunteer-build-reviewed |
 | M094968 | P0988 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InnerEqOfIrreducible` | build-observed |
 | M094969 | P1016 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InnerEqOfIrreducibleStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M095429 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjectiveStatement` | volunteer-build-reviewed |
 | M095431 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetWordMultiplicityAdditiveJordanHolderStatement` | volunteer-build-reviewed |
 | M095432 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetKapIff` | volunteer-build-reviewed |
-| M095442 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulus` | volunteer-build-reviewed |
-| M095443 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulusStatement` | volunteer-build-reviewed |
-| M095444 | P2547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetsOfOrthogonalSum` | volunteer-build-reviewed |
-| M095445 | P2568 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetsOfOrthogonalSumStatement` | volunteer-build-reviewed |
-| M095446 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JhMultSubAddQuot` | build-observed |
-| M095447 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultNormalisedInductionExact` | volunteer-build-reviewed |
-| M095448 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultNormalisedInductionExactStatement` | volunteer-build-reviewed |
-| M095449 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityJacquetEqBorelJacquetOfS` | volunteer-build-reviewed |
-| M095450 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityJacquetEqBorelJacquetOfSStatement` | volunteer-build-reviewed |

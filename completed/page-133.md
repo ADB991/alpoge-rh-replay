@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094473 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominatedStatement` | volunteer-build-reviewed |
+| M094474 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramAtConjTranspose` | volunteer-build-reviewed |
+| M094475 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormula` | volunteer-build-reviewed |
+| M094476 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormulaStatement` | volunteer-build-reviewed |
+| M094477 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramRootDeterminantErase` | volunteer-build-reviewed |
+| M094478 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramRootDeterminantEraseStatement` | volunteer-build-reviewed |
+| M094479 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointCarriesLatticeToMovedLattice` | volunteer-build-reviewed |
+| M094480 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointCarriesLatticeToMovedLatticeStatement` | volunteer-build-reviewed |
+| M094481 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointTrivialOffTensorPlaces` | volunteer-build-reviewed |
 | M094482 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointTrivialOffTensorPlacesStatement` | volunteer-build-reviewed |
 | M094483 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBottomLevelLeFormLevelLargeDepth` | volunteer-build-reviewed |
 | M094484 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBottomLevelLeFormLevelLargeDepthStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M094955 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPow` | volunteer-build-reviewed |
 | M094956 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPowStatement` | volunteer-build-reviewed |
 | M094957 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifference` | volunteer-build-reviewed |
-| M094958 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifferenceStatement` | volunteer-build-reviewed |
-| M094959 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactor` | volunteer-build-reviewed |
-| M094960 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactorStatement` | volunteer-build-reviewed |
-| M094961 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjKOfSeparates` | volunteer-build-reviewed |
-| M094962 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjKOfSeparatesLinB` | volunteer-build-reviewed |
-| M094963 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveOfIndep` | volunteer-build-reviewed |
-| M094964 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveSumOfLinIndepIntertwiners` | volunteer-build-reviewed |
-| M094965 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InjectiveSumOfLinIndepIntertwinersStatement` | volunteer-build-reviewed |
-| M094966 | P0988 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InnerCoeffEqOfIsometricAnalyticModules` | build-observed |

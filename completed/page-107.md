@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073216 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPowStatement` | build-observed |
+| M073217 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNested` | volunteer-build-reviewed |
+| M073218 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNestedStatement` | volunteer-build-reviewed |
+| M073221 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceInUnique` | volunteer-build-reviewed |
+| M073222 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceInvariantFormKillsVanishingSchwartzBruhat` | volunteer-build-reviewed |
+| M073224 | P1910 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceModelIndicatorEqMean` | volunteer-build-reviewed |
+| M073227 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceOverTransportRingIsoSymm` | volunteer-build-reviewed |
 | M073229 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlaceUnderIsPlaceOver` | volunteer-build-reviewed |
 | M073230 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PlacesOkOfModEqOne` | volunteer-build-reviewed |
 | M073233 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PointGaloisRepsConjugateOverFractionField` | build-observed |
@@ -88,6 +95,7 @@
 | M073357 | P1255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdGammaSubJumpUnitsAnnihilatesQuotient` | build-observed |
 | M073358 | P1282 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdGammaSubJumpUnitsAnnihilatesQuotientStatement` | build-observed |
 | M073361 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdOneSubBoundedBelowOfSummable` | volunteer-build-reviewed |
+| M073362 | P0123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdOneSubBoundedBelowOfSummableStatement` | volunteer-build-reviewed |
 | M073363 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdOtherRootFactorsActionFirstCoordinate` | build-observed |
 | M073364 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdOtherRootFactorsActionFirstCoordinateStatement` | build-observed |
 | M073365 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdPrimePowDvd` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M073884 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquiv` | build-observed |
 | M073885 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquivStatement` | build-observed |
 | M073886 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConj` | build-observed |
-| M073887 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConjStatement` | build-observed |
-| M073888 | P1568 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPair` | build-observed |
-| M073889 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPairStatement` | volunteer-build-reviewed |
-| M073890 | P1624 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocyclesBetweenBlochKatoAndContinuous` | build-observed |
-| M073891 | P1650 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocyclesBetweenBlochKatoAndContinuousStatement` | build-observed |
-| M073892 | P1429 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableDieudonneModuleSpansTensorPeriodRing` | build-observed |
-| M073893 | P1454 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableDieudonneModuleSpansTensorPeriodRingStatement` | build-observed |
-| M073902 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableLinearFormOnConstants` | build-observed |

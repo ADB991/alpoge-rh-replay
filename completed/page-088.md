@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060426 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UMatMulLoc` | volunteer-build-reviewed |
+| M060427 | P1983 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMass` | volunteer-build-reviewed |
+| M060428 | P2002 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMassStatement` | volunteer-build-reviewed |
+| M060430 | P2158 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingIdentityMatchedFamilyClosedTermsStatement` | volunteer-build-reviewed |
+| M060431 | P2201 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformAmplitudeBoundWideRangeLargeGap` | volunteer-build-reviewed |
+| M060432 | P2214 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformAmplitudeBoundWideRangeLargeGapStatement` | volunteer-build-reviewed |
 | M060435 | P0788 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformiserProductTypePrimes` | build-observed |
 | M060436 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UniformiserProductTypePrimesStatement` | build-observed |
 | M060437 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnimodularBesselSubgroupsUWN` | build-observed |
@@ -396,9 +402,3 @@
 | M061056 | P1034 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaLatticePointMemThetaLatticeOfAdelic` | volunteer-build-reviewed |
 | M061062 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugate` | build-observed |
 | M061063 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugateStatement` | build-observed |
-| M061065 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTorsionTranslateIntegralSeriesStatement` | volunteer-build-reviewed |
-| M061067 | P1909 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaValuesVanishAtOddSplitPrimeStatement` | volunteer-build-reviewed |
-| M061068 | P2703 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuationNewformCongruence` | volunteer-build-reviewed |
-| M061069 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuesExponentLogSumLe` | volunteer-build-reviewed |
-| M061071 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuesMinPadicValBound` | volunteer-build-reviewed |
-| M061073 | P0444 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmpProps` | wave-reused |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036701 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselianStatement` | volunteer-build-reviewed |
+| M036702 | P1905 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiser` | wave-reused |
+| M036703 | P1923 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiserStatement` | wave-reused |
+| M036704 | P1327 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixesComplexFibrePureEndomorphismTorsion` | build-observed |
+| M036705 | P1353 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixesComplexFibrePureEndomorphismTorsionStatement` | build-observed |
 | M036712 | P2018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfCountAtOf` | volunteer-build-reviewed |
 | M036716 | P2037 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfPartAlgebraMapLiftV` | volunteer-build-reviewed |
 | M036720 | P0015 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InfSupPowEqOfTorsionArtinRees` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M037505 | P1861 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterGoodIdempotentCuspidalProducStatement` | volunteer-build-reviewed |
 | M037506 | P0812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterOfProduct` | build-observed |
 | M037507 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterOfProductStatement` | build-observed |
-| M037516 | P0015 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleDvdOfDvdCharpolyOfAevalMatrix` | volunteer-build-reviewed |
-| M037517 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleOfOrdOne` | volunteer-build-reviewed |
-| M037521 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleRestrictionMirabolicRight` | volunteer-build-reviewed |
-| M037523 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleRestrictionMirabolicStatement` | volunteer-build-reviewed |
-| M037525 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleSpaceFibreSemiAbelianFieldPointStatement` | volunteer-build-reviewed |

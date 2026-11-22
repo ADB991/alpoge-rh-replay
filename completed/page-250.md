@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162549 | P0282 | `GroundTheory.AutomorphicForms.DiscreteSpectrumAbstract` | wave-reused |
+| M162550 | P0380 | `GroundTheory.AutomorphicForms.DixmierMalliavin` | build-observed |
+| M162551 | P0159 | `GroundTheory.AutomorphicForms.DixmierMalliavinBasic` | wave-reused |
+| M162552 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaar` | wave-reused |
+| M162553 | P0224 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaarCoord` | wave-reused |
+| M162554 | P0333 | `GroundTheory.AutomorphicForms.DixmierMalliavinHaarDensity` | wave-reused |
+| M162555 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinLine` | volunteer-build-reviewed |
+| M162557 | P0080 | `GroundTheory.AutomorphicForms.DixmierMalliavinLineKernel` | volunteer-build-reviewed |
+| M162558 | P0080 | `GroundTheory.AutomorphicForms.DixmierMalliavinLineLimit` | volunteer-build-reviewed |
 | M162560 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinProducts` | wave-reused |
 | M162561 | P0282 | `GroundTheory.AutomorphicForms.DixmierMalliavinSeries` | build-observed |
 | M162562 | P0080 | `GroundTheory.AutomorphicForms.FinePartition` | wave-reused |
@@ -393,12 +402,3 @@
 | M162973 | P0282 | `GroundTheory.AutomorphicForms.WhittakerOrbit` | wave-reused |
 | M162974 | P0081 | `GroundTheory.AutomorphicForms.WhittakerRelevance` | wave-reused |
 | M162995 | P0225 | `GroundTheory.FunctionField.Approximation` | wave-reused |
-| M162996 | P0334 | `GroundTheory.FunctionField.Divisor` | wave-reused |
-| M162997 | P0380 | `GroundTheory.FunctionField.DivisorDegree` | wave-reused |
-| M162998 | P0465 | `GroundTheory.FunctionField.ExistsBoundDegSubFinrankL` | wave-reused |
-| M162999 | P0225 | `GroundTheory.FunctionField.PlaceAbove` | wave-reused |
-| M163000 | P0160 | `GroundTheory.FunctionField.PlaceBasic` | wave-reused |
-| M163001 | P0334 | `GroundTheory.FunctionField.PlaceBridge` | wave-reused |
-| M163002 | P0081 | `GroundTheory.FunctionField.PlaceDefs` | wave-reused |
-| M163003 | P0282 | `GroundTheory.FunctionField.PlaceSum` | wave-reused |
-| M163004 | P0425 | `GroundTheory.FunctionField.Repartition` | wave-reused |

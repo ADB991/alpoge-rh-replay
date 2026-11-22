@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069100 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwist` | volunteer-build-reviewed |
+| M069101 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwistStatement` | volunteer-build-reviewed |
+| M069104 | P2696 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisSide` | volunteer-build-reviewed |
+| M069105 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisSideStatement` | volunteer-build-reviewed |
+| M069106 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGamGamKTorsion` | build-observed |
+| M069107 | P0899 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGammaLayerPadicCoordinates` | build-observed |
 | M069108 | P0927 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGammaLayerPadicCoordinatesStatement` | build-observed |
 | M069109 | P1010 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaussNormAinfDisc` | build-observed |
 | M069110 | P1038 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaussNormAinfDiscStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M069715 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetract` | wave-reused |
 | M069716 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetractStatement` | wave-reused |
 | M069717 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRightInverseCentralProjectorUnitElement` | volunteer-build-reviewed |
-| M069720 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMap` | wave-reused |
-| M069721 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMapStatement` | wave-reused |
-| M069722 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingSqZeroNilpotentAugmented` | volunteer-build-reviewed |
-| M069723 | P0955 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingSqZeroNilpotentAugmentedStatement` | build-observed |
-| M069724 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootMulPowApprox` | volunteer-build-reviewed |
-| M069725 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootOfUnityCoverFunctionReferenceTuple` | volunteer-build-reviewed |

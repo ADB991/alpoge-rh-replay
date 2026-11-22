@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134352 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivative` | build-observed |
+| M134353 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivativeStatement` | build-observed |
+| M134354 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SameOrbitRefl` | volunteer-build-reviewed |
+| M134356 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ScaledCoordinatesValueAtPoint` | build-observed |
+| M134357 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ScaledCoordinatesValueAtPointStatement` | build-observed |
+| M134358 | P0371 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SectionBoundaryClosedAndCodense` | build-observed |
+| M134359 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SectionBoundaryClosedAndCodenseStatement` | build-observed |
+| M134363 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SelM` | volunteer-build-reviewed |
+| M134364 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SemicharacterThetaCharacteristic` | volunteer-build-reviewed |
 | M134373 | P2444 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SheetIsOpenEmbeddingRange` | volunteer-build-reviewed |
 | M134374 | P2472 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SheetIsOpenEmbeddingRangeStatement` | volunteer-build-reviewed |
 | M134378 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SiegelOfRiemann` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M135094 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenPf` | build-observed |
 | M135095 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenRingPf` | build-observed |
 | M135096 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafGeoPf` | build-observed |
-| M135097 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGoodPf` | build-observed |
-| M135098 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafGysinPf` | build-observed |
-| M135099 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHKSplitPf` | build-observed |
-| M135100 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHKSumPf` | build-observed |
-| M135101 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensCut` | build-observed |
-| M135102 | P0064 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensCutDef` | volunteer-build-reviewed |
-| M135103 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHensHPf` | build-observed |
-| M135104 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafHomLocPf` | build-observed |
-| M135105 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafHsContPf` | wave-reused |

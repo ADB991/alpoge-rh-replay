@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159211 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualFlatOf` | build-observed |
+| M159212 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualLat` | build-observed |
+| M159213 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ExtendedStatementOfParts` | build-observed |
+| M159214 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FactorsOfPerturb` | build-observed |
+| M159215 | P1024 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FamilyFourthBound` | build-observed |
+| M159216 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinalTheorems` | build-observed |
+| M159217 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FinrankTensor` | build-observed |
+| M159218 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FirstCoefficientFacts` | build-observed |
+| M159219 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.FockZeroRight` | build-observed |
 | M159220 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.KLettersDegEven` | build-observed |
 | M159221 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.KapCore` | build-observed |
 | M159222 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.KeptBlocksHolds` | build-observed |
@@ -393,12 +402,3 @@
 | M159642 | P0669 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovDet` | build-observed |
 | M159643 | P0750 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovWeyl` | build-observed |
 | M159644 | P0638 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.StatementY` | build-observed |
-| M159645 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubCoeffP` | build-observed |
-| M159646 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYDPsiMonomial` | build-observed |
-| M159647 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYGenCoefHom` | build-observed |
-| M159648 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TaIntOfRename` | build-observed |
-| M159649 | P1711 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TauP` | build-observed |
-| M159650 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TheoremIOfTwoLetterClausesContraction` | build-observed |
-| M159651 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TieDefs` | build-observed |
-| M159652 | P1664 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TopLinePOf` | build-observed |
-| M159653 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.TwoLetterLatticeGaussInverse` | build-observed |

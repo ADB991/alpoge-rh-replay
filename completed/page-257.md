@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166178 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTermBound` | volunteer-build-reviewed |
+| M166179 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTop` | volunteer-build-reviewed |
+| M166181 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassArithVar` | volunteer-build-reviewed |
+| M166184 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassHeightBound` | volunteer-build-reviewed |
+| M166185 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassLeRoot` | volunteer-build-reviewed |
+| M166187 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PHadamardPSD` | volunteer-build-reviewed |
+| M166188 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PHermFormCompare` | volunteer-build-reviewed |
+| M166201 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexDet` | volunteer-build-reviewed |
+| M166204 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexTrans` | volunteer-build-reviewed |
 | M166212 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesIsLattice` | volunteer-build-reviewed |
 | M166213 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesLatticeBasis` | volunteer-build-reviewed |
 | M166214 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesLineDegree` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M167007 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegLTGrowth` | wave-reused |
 | M167008 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegreePositive` | wave-reused |
 | M167009 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomCharpolyForms` | build-observed |
-| M167010 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomNormPIntegral` | build-observed |
-| M167012 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDoubleComplexVanish` | volunteer-build-reviewed |
-| M167013 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingPieces` | build-observed |
-| M167014 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingWeight` | build-observed |
-| M167015 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEuclideanSections` | wave-reused |
-| M167016 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEuclideanSectionsPower` | wave-reused |
-| M167018 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEventualPolyLine` | volunteer-build-reviewed |
-| M167019 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEventualPolynomial` | wave-reused |
-| M167020 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsFSGeomDegPos` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038298 | P0351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalizationStatement` | wave-reused |
+| M038306 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsInvertibleUnitaryAdelicMatrixOfRationalUnitary` | volunteer-build-reviewed |
+| M038308 | P1118 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrrRepHarishChandraDistinctCuspidalLabels` | build-observed |
+| M038309 | P1147 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrrRepHarishChandraDistinctCuspidalLabelsStatement` | build-observed |
+| M038310 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrreducible` | volunteer-build-reviewed |
 | M038311 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrreducibleAlt` | volunteer-build-reviewed |
 | M038313 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrreducibleFibreFst` | volunteer-build-reviewed |
 | M038315 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIsoBaseChangeOverBasicOpenOfTensorBijective` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M039084 | P2037 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOMul` | volunteer-build-reviewed |
 | M039086 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOOfMatchedSquareBigRouteStatement` | volunteer-build-reviewed |
 | M039087 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOfSmoothRealHeisenbergLevel` | volunteer-build-reviewed |
-| M039088 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOfSmoothRealHeisenbergLevelStatement` | volunteer-build-reviewed |
-| M039089 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionDoublingThetaTensorCM` | volunteer-build-reviewed |
-| M039092 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalCoordsCMStatement` | volunteer-build-reviewed |
-| M039093 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalDarboux` | volunteer-build-reviewed |
-| M039094 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalDarbouxStatement` | volunteer-build-reviewed |

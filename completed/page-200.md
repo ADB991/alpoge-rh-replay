@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133083 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverseStatement` | volunteer-build-reviewed |
+| M133084 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticGroupLawBoundedCommutator` | volunteer-build-reviewed |
+| M133086 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticLiftToLogResolution` | build-observed |
+| M133090 | P1161 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSquareRegularizedConvergence` | build-observed |
+| M133091 | P1185 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSquareRegularizedConvergenceStatement` | build-observed |
+| M133092 | P0530 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSystemRegularityProperties` | build-observed |
+| M133094 | P1637 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.Antisymmetry` | volunteer-build-reviewed |
+| M133097 | P2644 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchIntToZEq` | volunteer-build-reviewed |
+| M133098 | P2653 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchIntToZEqStatement` | volunteer-build-reviewed |
 | M133100 | P2633 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchIntegrableIffOverIntegersStatement` | volunteer-build-reviewed |
 | M133101 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchimedeanActionOnLatticeVectors` | volunteer-build-reviewed |
 | M133102 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchimedeanActionOnLatticeVectorsStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M133684 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMap` | wave-reused |
 | M133685 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMapStatement` | wave-reused |
 | M133688 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameDataLocalDegreeEstimate` | volunteer-build-reviewed |
-| M133698 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameLUMinorValue` | build-observed |
-| M133700 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormula` | build-observed |
-| M133701 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormulaStatement` | build-observed |
-| M133702 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmooth` | wave-reused |
-| M133703 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FubiniStudyMetricSmoothStatement` | build-observed |
-| M133708 | P0208 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GapEqWeightSubNext` | volunteer-build-reviewed |
-| M133710 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenUIsGenFam` | volunteer-build-reviewed |
-| M133711 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeEqGeometricDegree` | volunteer-build-reviewed |
-| M133713 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.GenericDegreeOfArithSystem` | build-observed |

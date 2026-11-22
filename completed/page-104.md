@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071022 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianLatticeIsOpenIsCompactTestStatement` | volunteer-build-reviewed |
+| M071035 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HfAlgSmulRight` | volunteer-build-reviewed |
+| M071036 | P0846 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HighPowCoeffMemSpanPow` | build-observed |
+| M071037 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HighPowCoeffMemSpanPowStatement` | build-observed |
+| M071040 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Hilbert90MatrixCoboundaryCharPFiniteLevel` | build-observed |
+| M071041 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Hilbert90MatrixCoboundaryCharPFiniteLevelStatement` | build-observed |
 | M071044 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HkFrobOfAttached` | build-observed |
 | M071045 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HkFrobOfAttachedStatement` | build-observed |
 | M071047 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HkSSOfSides` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M071749 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponents` | wave-reused |
 | M071750 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponentsStatement` | wave-reused |
 | M071751 | P1255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAway` | wave-reused |
-| M071752 | P1282 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAwayStatement` | wave-reused |
-| M071754 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStandardAdelicAddCharGlobalAdelicCharStatement` | volunteer-build-reviewed |
-| M071755 | P1454 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStratifiedPhiModuleHomOfGaloisEquivariant` | build-observed |
-| M071756 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStratifiedPhiModuleHomOfGaloisEquivariantStatement` | build-observed |
-| M071757 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientComp` | volunteer-build-reviewed |
-| M071758 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientJacquetModuleRefineTensor` | volunteer-build-reviewed |

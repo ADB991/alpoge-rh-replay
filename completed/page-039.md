@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M026099 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundleStatement` | volunteer-build-reviewed |
+| M026101 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeUNuInv` | volunteer-build-reviewed |
+| M026103 | P0243 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeightOneValuationsControlSubgroupStatement` | volunteer-build-reviewed |
+| M026104 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeisenbergCoords` | volunteer-build-reviewed |
+| M026107 | P1997 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeisenbergInvariantThetaMeanSquareForm` | volunteer-build-reviewed |
 | M026108 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeisenbergInvariantThetaMeanSquareFormStatement` | volunteer-build-reviewed |
 | M026109 | P0920 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHenselisation` | wave-reused |
 | M026110 | P0948 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHenselisationStatement` | wave-reused |
@@ -397,8 +402,3 @@
 | M026705 | P2509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisedGroupsSameSiegelFibreStatement` | volunteer-build-reviewed |
 | M026706 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegree` | volunteer-build-reviewed |
 | M026707 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegreeStatement` | volunteer-build-reviewed |
-| M026708 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsolatedLcCentreOfZeroLcThreshold` | volunteer-build-reviewed |
-| M026713 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryExtendingIsotropicShear` | volunteer-build-reviewed |
-| M026715 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryInGam` | volunteer-build-reviewed |
-| M026716 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryKernelCoisotropicMod` | volunteer-build-reviewed |
-| M026717 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryKernelCoisotropicModStatement` | volunteer-build-reviewed |

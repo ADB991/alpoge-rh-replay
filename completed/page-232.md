@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154217 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.NatSmulMulEq` | build-observed |
+| M154218 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.SmulEqAlgebraMapMul` | build-observed |
+| M154219 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.HformEntry` | wave-reused |
+| M154220 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.InclRAlgebraMap` | wave-reused |
+| M154221 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.LocalSum` | wave-reused |
+| M154222 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.QuadFiniteDimensional` | wave-reused |
+| M154223 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.StFix` | wave-reused |
+| M154224 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.StLamOf` | wave-reused |
+| M154225 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.UnitChoice` | wave-reused |
 | M154226 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity.ExistsNatLocal` | wave-reused |
 | M154227 | P0216 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicFiniteOrder.Assembly` | build-observed |
 | M154228 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact.IsCompactAdicCompletionIntegers` | build-observed |
@@ -393,12 +402,3 @@
 | M154728 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.GGEq` | wave-reused |
 | M154729 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.QnCovHat2OfLin` | wave-reused |
 | M154730 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SkipTwoOfGe` | wave-reused |
-| M154731 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SumSgnLProdCol` | wave-reused |
-| M154732 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantLinearProduct.OfFnProdSmul` | wave-reused |
-| M154733 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.MoveOperatorCovariance` | wave-reused |
-| M154734 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.SumPermEqSumFirstColumnSplit` | wave-reused |
-| M154735 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.SumPermsSignSquared` | wave-reused |
-| M154736 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CoveringRadius.CoverRad` | build-observed |
-| M154737 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.InVolumesAtOfSWW` | build-observed |
-| M154738 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.StepFrameStd` | build-observed |
-| M154739 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.StepGramH` | build-observed |

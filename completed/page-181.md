@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120183 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeftStatement` | build-observed |
+| M120186 | P2141 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependent` | volunteer-build-reviewed |
+| M120187 | P2151 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependentStatement` | volunteer-build-reviewed |
+| M120189 | P2130 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelValueIndependentStatement` | volunteer-build-reviewed |
+| M120194 | P0493 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalBilinearTermProduct` | wave-reused |
+| M120195 | P0528 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalBilinearTermProductStatement` | wave-reused |
+| M120196 | P0743 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalDataBaseChange` | wave-reused |
+| M120197 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalDataBaseChangeStatement` | wave-reused |
+| M120198 | P0743 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalGroupActionRingHom` | wave-reused |
 | M120199 | P0770 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalGroupActionRingHomStatement` | wave-reused |
 | M120200 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalGroupChartFamily` | volunteer-build-reviewed |
 | M120202 | P0627 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FormalHermitianActionPairing` | wave-reused |
@@ -393,12 +402,3 @@
 | M120872 | P0264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlternativeLocalComputationOfComponentsStatement` | volunteer-build-reviewed |
 | M120873 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheaf` | wave-reused |
 | M120874 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheafStatement` | wave-reused |
-| M120875 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximation` | wave-reused |
-| M120876 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximationStatement` | wave-reused |
-| M120877 | P0204 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticGermFiniteProjection` | volunteer-build-reviewed |
-| M120878 | P0264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticGermFiniteProjectionStatement` | volunteer-build-reviewed |
-| M120879 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticOrthogonalVanishing` | volunteer-build-reviewed |
-| M120880 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticOrthogonalVanishingStatement` | volunteer-build-reviewed |
-| M120881 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropicQuaternionNormOneCompact` | build-observed |
-| M120882 | P1234 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropicQuaternionNormOneCompactStatement` | build-observed |
-| M120885 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropyOfRange` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044196 | P2055 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleNumericalTheoremsProofStatement` | wave-reused |
+| M044197 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleWeightGap` | volunteer-build-reviewed |
+| M044199 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefNumericsOfRiemannRoch` | wave-reused |
+| M044201 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOfSemipositiveFibrewiseStatement` | volunteer-build-reviewed |
+| M044204 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnFiniteFieldFibresPowTens` | volunteer-build-reviewed |
+| M044205 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnFiniteFieldFibresPowTensStatement` | volunteer-build-reviewed |
 | M044206 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnObjects` | volunteer-build-reviewed |
 | M044207 | P2794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnObjectsStatement` | volunteer-build-reviewed |
 | M044209 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOverAntitoneCombStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M044902 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapOfOfExtends` | volunteer-build-reviewed |
 | M044904 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRow0OfRowsSmul` | volunteer-build-reviewed |
 | M044907 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRowOfBaseTupleIdentityRowSpan` | volunteer-build-reviewed |
-| M044911 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPrintsStatement` | volunteer-build-reviewed |
-| M044912 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPublished` | volunteer-build-reviewed |
-| M044913 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemBand` | volunteer-build-reviewed |
-| M044914 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemFinPt` | volunteer-build-reviewed |
-| M044915 | P1670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAt` | volunteer-build-reviewed |
-| M044916 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemKAtAlt` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168880 | P0644 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordFibreDeg` | build-observed |
+| M168881 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordRatioDeg` | build-observed |
+| M168886 | P0578 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ExistsUnique` | build-observed |
+| M168887 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.FibreCurve` | build-observed |
+| M168888 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.FibreMultiHomog` | build-observed |
+| M168890 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GenFibreChartDeg` | build-observed |
+| M168891 | P0578 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GeoNum` | build-observed |
+| M168892 | P0340 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.GraphIdeal` | volunteer-build-reviewed |
+| M168893 | P0702 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ImageArith` | build-observed |
 | M168894 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ImageArithClosed` | build-observed |
 | M168899 | P0544 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.IntNumCompPerm` | wave-reused |
 | M168908 | P0644 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.MoriwakiHS` | wave-reused |
@@ -393,12 +402,3 @@
 | M169589 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFibreDrop` | wave-reused |
 | M169590 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFormsKer` | wave-reused |
 | M169591 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PIncidenceNull` | wave-reused |
-| M169592 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PLengthDecomp` | wave-reused |
-| M169593 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormDvd` | wave-reused |
-| M169594 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormEval` | wave-reused |
-| M169595 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormIrreducible` | wave-reused |
-| M169596 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormLocalization` | wave-reused |
-| M169597 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormIdentity` | wave-reused |
-| M169598 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormLength` | wave-reused |
-| M169599 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.POrdEq` | wave-reused |
-| M169600 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PParAlgIndep` | wave-reused |

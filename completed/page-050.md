@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033006 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallNoContractionUnitaryUpperLevelStatement` | volunteer-build-reviewed |
+| M033007 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSections` | wave-reused |
+| M033008 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSectionsStatement` | wave-reused |
+| M033009 | P0552 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafMapMonoEpiIso` | wave-reused |
+| M033010 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafMapMonoEpiIsoStatement` | wave-reused |
 | M033011 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleSheafBiprodDescIsIsoOfResBijective` | build-observed |
 | M033012 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleSheafBiprodDescIsIsoOfResBijectiveStatement` | build-observed |
 | M033013 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleSheafExcisionShortExact` | build-observed |
@@ -397,8 +402,3 @@
 | M033690 | P2454 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericSubspaceMapExtends` | volunteer-build-reviewed |
 | M033695 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericThetaExpansionScalarNeZeroStatement` | volunteer-build-reviewed |
 | M033696 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericTypeExtendsAffineNormal` | volunteer-build-reviewed |
-| M033701 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericUnitEquationChartStatement` | volunteer-build-reviewed |
-| M033705 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoActMemCusp` | volunteer-build-reviewed |
-| M033707 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoLevelActionIffGeoAct` | volunteer-build-reviewed |
-| M033711 | P0181 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeomRegFibOfIsRegularRingTensorEssFiniteType` | volunteer-build-reviewed |
-| M033712 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeomRegFibOfIsRegularRingTensorEssFiniteTypeStatement` | volunteer-build-reviewed |

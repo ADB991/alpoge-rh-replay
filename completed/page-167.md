@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113626 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PLineBasis` | volunteer-build-reviewed |
+| M113627 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PLocLat` | volunteer-build-reviewed |
+| M113631 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PMemDual` | volunteer-build-reviewed |
+| M113632 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PMinBridge` | volunteer-build-reviewed |
+| M113634 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.POOnto` | volunteer-build-reviewed |
+| M113635 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.POneAt` | volunteer-build-reviewed |
+| M113637 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPLatOf` | volunteer-build-reviewed |
+| M113640 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPerExt` | volunteer-build-reviewed |
+| M113644 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPkEquiv` | volunteer-build-reviewed |
 | M113645 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPkInj` | volunteer-build-reviewed |
 | M113646 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPkLat` | volunteer-build-reviewed |
 | M113647 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PPkOnto` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M114111 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RestrictCoreK` | volunteer-build-reviewed |
 | M114112 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RestrictedEtaPowerCharacter` | volunteer-build-reviewed |
 | M114113 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SWStdLtK` | volunteer-build-reviewed |
-| M114114 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchAFactsK` | volunteer-build-reviewed |
-| M114115 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchrodingerModelIntertwining` | volunteer-build-reviewed |
-| M114116 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchrodingerModelIsomorphism` | volunteer-build-reviewed |
-| M114117 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchurK` | volunteer-build-reviewed |
-| M114118 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchwartzDecayUniform` | volunteer-build-reviewed |
-| M114119 | P2413 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SecUnfOfCLawK` | volunteer-build-reviewed |
-| M114122 | P2229 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SecondOrbitSectionIntegral` | volunteer-build-reviewed |
-| M114123 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelMultK` | volunteer-build-reviewed |
-| M114125 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SiegelMultOfKAlt` | volunteer-build-reviewed |

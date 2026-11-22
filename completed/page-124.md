@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087836 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormPullbackDominant` | volunteer-build-reviewed |
+| M087837 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormPullbackDominantStatement` | volunteer-build-reviewed |
+| M087838 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormRestrictAffineOpen` | volunteer-build-reviewed |
+| M087839 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermDifferentialFormRestrictAffineOpenStatement` | volunteer-build-reviewed |
+| M087841 | P2834 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericModelComplexSmooth` | volunteer-build-reviewed |
+| M087843 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GeometricLemmaCellOneBlockSwapEquiv` | volunteer-build-reviewed |
+| M087845 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermCompatId` | volunteer-build-reviewed |
+| M087846 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermImageSmooth` | volunteer-build-reviewed |
+| M087847 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GermSecRestrictGlobalAlgebraMap` | volunteer-build-reviewed |
 | M087849 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GlHomNnrealTrivialOfScalarTrivial` | volunteer-build-reviewed |
 | M087850 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GlHomNnrealTrivialOfScalarTrivialStatement` | volunteer-build-reviewed |
 | M087851 | P0850 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GlMapDiagUniformizerElementarySublattice` | build-observed |
@@ -393,12 +402,3 @@
 | M088884 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLambdaCharacterNormOneIdeleEqPPow` | volunteer-build-reviewed |
 | M088885 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLambdaCharacterNormOneIdeleEqPPowStatement` | volunteer-build-reviewed |
 | M088887 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOfRecurrenceGrowth` | volunteer-build-reviewed |
-| M088888 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOfRecurrenceGrowthStatement` | volunteer-build-reviewed |
-| M088890 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOneOfTrace` | volunteer-build-reviewed |
-| M088891 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLocalBasisStandardCoordLeOneInert` | volunteer-build-reviewed |
-| M088892 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLocalBasisStandardCoordLeOneInertStatement` | volunteer-build-reviewed |
-| M088895 | P1071 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormPadicEmbeddingLeOneOfMemInverseHalfDifferent` | volunteer-build-reviewed |
-| M088896 | P0987 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormPowDivFactorialLe` | volunteer-build-reviewed |
-| M088899 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormProdCmTypeEmbeddingsNormOneEqOne` | volunteer-build-reviewed |
-| M088900 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormProdCmTypeEmbeddingsNormOneEqOneStatement` | volunteer-build-reviewed |
-| M088901 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormSiteCoordinateScaleEqOne` | volunteer-build-reviewed |

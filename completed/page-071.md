@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048339 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticPowOfRestrictsToQuadraticSig` | volunteer-build-reviewed |
+| M048342 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowIdelicRestrictionStatement` | volunteer-build-reviewed |
+| M048343 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowOfRestrictsToQuadrati` | volunteer-build-reviewed |
+| M048344 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowOfRestrictsToQuadratiStatement` | volunteer-build-reviewed |
+| M048346 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResultantFactorsProd` | volunteer-build-reviewed |
+| M048348 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ResultantNeZeroOfSeparableMulStatement` | volunteer-build-reviewed |
 | M048353 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RhoInvariantFormConstMulInner` | volunteer-build-reviewed |
 | M048354 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RhoInvariantFormConstMulInnerStatement` | volunteer-build-reviewed |
 | M048355 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RhoIsCoc` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M049002 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBoundStatement` | volunteer-build-reviewed |
 | M049003 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximation` | volunteer-build-reviewed |
 | M049004 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximationStatement` | volunteer-build-reviewed |
-| M049005 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStable` | volunteer-build-reviewed |
-| M049006 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStableStatement` | volunteer-build-reviewed |
-| M049007 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFockVacuumLineUniqueOfHeisenbergDerivati` | volunteer-build-reviewed |
-| M049009 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierRepresentation` | volunteer-build-reviewed |
-| M049010 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierRepresentationStatement` | volunteer-build-reviewed |
-| M049012 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSecondVariableRapidDecayStatement` | volunteer-build-reviewed |

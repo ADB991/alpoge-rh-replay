@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059036 | P0979 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralFintypeProd` | volunteer-build-reviewed |
+| M059041 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDeriv` | build-observed |
+| M059042 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDerivStatement` | build-observed |
+| M059043 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianNormFibreDilation` | build-observed |
+| M059044 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianNormFibreDilationStatement` | build-observed |
+| M059046 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianOrbitSumFixedLengthLtTopStatement` | volunteer-build-reviewed |
 | M059049 | P1149 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHsNormSqDoubleCosetLeFatou` | build-observed |
 | M059050 | P1174 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHsNormSqDoubleCosetLeFatouStatement` | build-observed |
 | M059051 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHsNormSqMatrixCoeffLeFormalDegree` | build-observed |
@@ -396,9 +402,3 @@
 | M059705 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow` | build-observed |
 | M059708 | P1174 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdShiftedCyclicWordExpansionStatement` | build-observed |
 | M059709 | P1330 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdSubEqProdFactorial` | volunteer-build-reviewed |
-| M059710 | P2158 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2Positive` | volunteer-build-reviewed |
-| M059711 | P2169 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2PositiveStatement` | volunteer-build-reviewed |
-| M059713 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductModulesTypeUniformisersEqPowerStatement` | volunteer-build-reviewed |
-| M059716 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProjAbsHolds` | build-observed |
-| M059719 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProperIdealsOfHenselian` | wave-reused |
-| M059720 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PsiComplexifiedKEquivariance` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165160 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumOfFiltration` | wave-reused |
+| M165161 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumPoint` | pilot-reused |
+| M165162 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumRatSection` | pilot-reused |
+| M165163 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumVanish` | wave-reused |
+| M165167 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PJoinPointIdeal` | volunteer-build-reviewed |
+| M165181 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMaximalIdealHeightFG` | wave-reused |
+| M165182 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMinimalPrimeMultiHomog` | wave-reused |
+| M165184 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMixedDiffLinear` | wave-reused |
+| M165185 | P0285 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultAtOfSaturated` | wave-reused |
 | M165186 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultAtPrimeAtMinimal` | wave-reused |
 | M165187 | P0671 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultiHomogPrimeAvoid` | build-observed |
 | M165188 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultiHomogPrimeCriterion` | wave-reused |
@@ -393,12 +402,3 @@
 | M165690 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLength` | wave-reused |
 | M165691 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLengthSum` | wave-reused |
 | M165692 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalMaxIdeals` | wave-reused |
-| M165693 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalResidueLength` | wave-reused |
-| M165694 | P0338 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSplitRelDeg` | pilot-reused |
-| M165695 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PValuativeCentre` | wave-reused |
-| M165696 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PfContractedHypothesesExample` | pilot-reused |
-| M165697 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.Statements` | pilot-reused |
-| M165698 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsAddBlock` | pilot-reused |
-| M165699 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeLocalFlat` | wave-reused |
-| M165700 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeLocalLength` | wave-reused |
-| M165701 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConePolyLocalization` | wave-reused |

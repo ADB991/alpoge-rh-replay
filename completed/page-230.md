@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153341 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisTwo` | build-observed |
+| M153342 | P0328 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShortIndependentVectorsOfDualMinimum` | build-observed |
+| M153343 | P0376 | `Formalism.NormUnitaryBounds.NormUnitary` | build-observed |
+| M153344 | P0072 | `Formalism.NormUnitaryBounds.Statement` | build-observed |
+| M153345 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.ArchimedeanComponents` | volunteer-build-reviewed |
+| M153346 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.CentralIdempotentIntegral` | build-observed |
+| M153347 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots` | wave-reused |
+| M153348 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.FactorOverLocalSubalgebraMonic` | build-observed |
+| M153349 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.GL2UnipotentBruhatDecomposition` | volunteer-build-reviewed |
 | M153350 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.GaloisConjCentralIdempotent` | wave-reused |
 | M153351 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.GaloisIrreducibility` | wave-reused |
 | M153352 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.HCDisjointO` | wave-reused |
@@ -393,12 +402,3 @@
 | M153771 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.Hensel` | build-observed |
 | M153772 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermDefON` | build-observed |
 | M153773 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermLatFin` | build-observed |
-| M153774 | P0722 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HookBound` | build-observed |
-| M153777 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred` | wave-reused |
-| M153778 | P0995 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdCellInS` | build-observed |
-| M153779 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdealLattice` | build-observed |
-| M153780 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdeleUnitsOpen` | build-observed |
-| M153781 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InHHClassFin` | build-observed |
-| M153782 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSClassConst` | build-observed |
-| M153783 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSRelevant` | build-observed |
-| M153785 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InertPrime` | build-observed |

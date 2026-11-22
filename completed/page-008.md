@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004977 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction` | build-observed |
+| M004978 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MemConfTOfDetNeZero` | build-observed |
+| M004980 | P0946 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NCoords` | build-observed |
+| M004981 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NcardImageOfLe` | wave-reused |
 | M004982 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NoLeak` | wave-reused |
 | M004983 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NormalFormDualOrthogonalLast` | build-observed |
 | M004984 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OfRoots` | build-observed |
@@ -398,7 +402,3 @@
 | M005488 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectors` | volunteer-build-reviewed |
 | M005489 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectorsStatement` | volunteer-build-reviewed |
 | M005491 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCoset` | volunteer-build-reviewed |
-| M005492 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCosetStatement` | volunteer-build-reviewed |
-| M005493 | P0759 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftTranslationReynoldsOperator` | build-observed |
-| M005494 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftTranslationReynoldsOperatorStatement` | build-observed |
-| M005495 | P0347 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletion` | wave-reused |

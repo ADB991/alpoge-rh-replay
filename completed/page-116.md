@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080356 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLattice` | volunteer-build-reviewed |
+| M080357 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLatticeStatement` | volunteer-build-reviewed |
+| M080358 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsAll` | volunteer-build-reviewed |
+| M080359 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsJEnl` | volunteer-build-reviewed |
+| M080360 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsOfOk` | volunteer-build-reviewed |
+| M080364 | P1984 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LayeredAutomorphicDataExistsOfTwoPassesStatement` | volunteer-build-reviewed |
+| M080365 | P2616 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Lb1OfRestagingBound` | volunteer-build-reviewed |
+| M080366 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Lb1OfRestagingBoundStatement` | volunteer-build-reviewed |
 | M080370 | P0765 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LbIsoOfDisjointCover` | volunteer-build-reviewed |
 | M080380 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LeastSplitAuxiliaryPrimeLtScaleBound` | volunteer-build-reviewed |
 | M080381 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LeastSplitAuxiliaryPrimePosAllStates` | volunteer-build-reviewed |
@@ -245,6 +253,7 @@
 | M080962 | P0406 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Mono0OfLpDimEqOne` | volunteer-build-reviewed |
 | M080963 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MonoCharOfMulPolyDivPow` | volunteer-build-reviewed |
 | M080964 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MonoCharOfMulPolyDivPowStatement` | volunteer-build-reviewed |
+| M080966 | P2251 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MonoSpMapRingOfIntegersAlt` | volunteer-build-reviewed |
 | M080967 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MonodromyFreeSumIrreducibles` | volunteer-build-reviewed |
 | M080972 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MonomialLevelFormDvrPoint` | volunteer-build-reviewed |
 | M080978 | P2672 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MotiveBoundOfSeries` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M081306 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixBoundaryExtensionMonodromyPosSemidef` | volunteer-build-reviewed |
 | M081308 | P2354 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixPolynomialGrowthPuncturedPolydisc` | build-observed |
 | M081314 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNorm` | volunteer-build-reviewed |
-| M081315 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNormStatement` | volunteer-build-reviewed |
-| M081316 | P0792 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRingsGaloisActionLawsFrobeniusComm` | wave-reused |
-| M081322 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodicLeftHalfPlaneShiftNonnegOfImPos` | volunteer-build-reviewed |
-| M081323 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodicLeftHalfPlaneShiftNonnegOfImPosStatement` | volunteer-build-reviewed |
-| M081326 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodsPolyGrowthOfBoundedCoisotropic` | volunteer-build-reviewed |
-| M081328 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PetIntOfCuspRapidDecay` | volunteer-build-reviewed |
-| M081331 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDeXExpand` | volunteer-build-reviewed |
-| M081339 | P2684 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorIntegralHolds` | volunteer-build-reviewed |
-| M081340 | P2691 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PhiDivisorIntegralHoldsStatement` | volunteer-build-reviewed |

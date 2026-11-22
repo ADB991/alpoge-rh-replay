@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063545 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibility` | wave-reused |
+| M063546 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibilityStatement` | wave-reused |
+| M063547 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring` | wave-reused |
+| M063548 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelDatumIdempotentEqOfSameShape` | wave-reused |
+| M063549 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelDatumIdempotentEqOfSameShapeStatement` | wave-reused |
+| M063550 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelIdempotentLowerBoundGeneric` | wave-reused |
 | M063551 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelIdempotentLowerBoundGenericStatement` | wave-reused |
 | M063553 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankinConvolutionCoeff` | wave-reused |
 | M063554 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankinConvolutionCoeffStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M064190 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationAddPowSubLeStatement` | volunteer-build-reviewed |
 | M064192 | P0306 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfMemInvMem` | build-observed |
 | M064193 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpan` | volunteer-build-reviewed |
-| M064194 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpanStatement` | volunteer-build-reviewed |
-| M064195 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrime` | volunteer-build-reviewed |
-| M064196 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrimeStatement` | volunteer-build-reviewed |
-| M064197 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLeOneIffIsIntegralOfCompleteDvr` | wave-reused |
-| M064198 | P0252 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLeOneIffIsIntegralOfCompleteDvrStatement` | wave-reused |
-| M064199 | P0763 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationLtOneIff` | build-observed |

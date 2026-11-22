@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M026708 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsolatedLcCentreOfZeroLcThreshold` | volunteer-build-reviewed |
+| M026713 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryExtendingIsotropicShear` | volunteer-build-reviewed |
+| M026715 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryInGam` | volunteer-build-reviewed |
+| M026716 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryKernelCoisotropicMod` | volunteer-build-reviewed |
+| M026717 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryKernelCoisotropicModStatement` | volunteer-build-reviewed |
 | M026718 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryPosDefHermitianSameRank` | volunteer-build-reviewed |
 | M026719 | P2036 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryPosDefHermitianSameRankStatement` | volunteer-build-reviewed |
 | M026720 | P1447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsotropicDualPartnerSelfDualHermitianLatti` | build-observed |
@@ -397,8 +402,3 @@
 | M027378 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasis` | volunteer-build-reviewed |
 | M027379 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasisStatement` | volunteer-build-reviewed |
 | M027381 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrime` | volunteer-build-reviewed |
-| M027382 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrimeStatement` | volunteer-build-reviewed |
-| M027383 | P2480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationCoverOfPoint` | volunteer-build-reviewed |
-| M027384 | P2509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationCoverOfPointStatement` | volunteer-build-reviewed |
-| M027385 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizingWeightEqualOffPlaceMasses` | volunteer-build-reviewed |
-| M027386 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizingWeightEqualOffPlaceMassesStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128013 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInducedStatement` | volunteer-build-reviewed |
+| M128016 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittaker` | volunteer-build-reviewed |
+| M128017 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittakerStatement` | volunteer-build-reviewed |
+| M128018 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedLanglandsFactorsSquareIntegrable` | volunteer-build-reviewed |
+| M128020 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestriction` | volunteer-build-reviewed |
+| M128021 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedRestrictionStatement` | volunteer-build-reviewed |
+| M128022 | P2142 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoAbsoluteCharacterOne` | volunteer-build-reviewed |
+| M128023 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoAbsoluteCharacterOneStatement` | volunteer-build-reviewed |
+| M128024 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoExpMulPoly` | volunteer-build-reviewed |
 | M128025 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TendstoOfAsymptoticBounds` | volunteer-build-reviewed |
 | M128029 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TensTransfer` | build-observed |
 | M128030 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TensTransportSymm` | build-observed |
@@ -393,12 +402,3 @@
 | M128719 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValMeasurableEmbedding` | volunteer-build-reviewed |
 | M128720 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValSuccAbove` | volunteer-build-reviewed |
 | M128721 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValThree` | volunteer-build-reviewed |
-| M128722 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValZpowIff` | volunteer-build-reviewed |
-| M128724 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationLeIffNormEmbeddingStatement` | volunteer-build-reviewed |
-| M128729 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationOfLocalDichotomy` | wave-reused |
-| M128730 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationOfLocalDichotomyStatement` | wave-reused |
-| M128731 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationPowerIff` | wave-reused |
-| M128732 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationPowerIffStatement` | wave-reused |
-| M128733 | P2009 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationVectorHomomorphism` | build-observed |
-| M128734 | P2029 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationVectorHomomorphismStatement` | build-observed |
-| M128735 | P1185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VanIdealHomog` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089758 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnTupleKernelsRational` | volunteer-build-reviewed |
+| M089760 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnsGoodChartsMiddleSteps` | volunteer-build-reviewed |
+| M089762 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueKernelJetsMulDetCharactersMemCoefficientFiel` | volunteer-build-reviewed |
+| M089766 | P2684 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsAtConstructedPointOverTrueC` | volunteer-build-reviewed |
+| M089767 | P2691 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsAtConstructedPointOverTrueCStatement` | volunteer-build-reviewed |
+| M089768 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsOfStandardColumnObjects` | volunteer-build-reviewed |
+| M089769 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsOfStandardColumnObjectsStatement` | volunteer-build-reviewed |
+| M089777 | P0794 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwistedDualJumpsMemWindows` | volunteer-build-reviewed |
+| M089817 | P1312 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwistedShiftFixedRatioConstDomain` | build-observed |
 | M089818 | P1336 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwistedShiftFixedRatioConstDomainStatement` | build-observed |
 | M089823 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwoUnitsAtPlaceUniformizingIdeleStatement` | volunteer-build-reviewed |
 | M089824 | P1043 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwoWLeFirstRow` | build-observed |
@@ -393,12 +402,3 @@
 | M090667 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrimeDimensionLEOneAvoiding` | volunteer-build-reviewed |
 | M090670 | P1545 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRoot` | build-observed |
 | M090671 | P1573 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRootStatement` | build-observed |
-| M090674 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTranspose` | wave-reused |
-| M090675 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTransposeStatement` | wave-reused |
-| M090677 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRigidTranslatePrincipalPolarisationOrderTw` | build-observed |
-| M090679 | P1043 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionBoxProductDivGenerator` | wave-reused |
-| M090680 | P1071 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionBoxProductDivGeneratorStatement` | wave-reused |
-| M090681 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSectionOfTransversal` | volunteer-build-reviewed |
-| M090682 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSeparatingPairs` | build-observed |
-| M090684 | P2042 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSiegelFamilyOverNumberFieldStatement` | volunteer-build-reviewed |
-| M090687 | P1130 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsSquareDeterminantComparisonIsAlgClosed` | wave-reused |

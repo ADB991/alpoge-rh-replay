@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046251 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosOfPosMulInnerOnJointEigenvectorsStatement` | volunteer-build-reviewed |
+| M046253 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosSemidefQuadraticAdjointPairBoundStatement` | volunteer-build-reviewed |
+| M046262 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDefiniteLeadingMinorInverseBound` | volunteer-build-reviewed |
+| M046263 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDefiniteLeadingMinorInverseBoundStatement` | volunteer-build-reviewed |
+| M046264 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDegreeClassesDieOnEtaleCover` | wave-reused |
+| M046265 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDegreeClassesDieOnEtaleCoverStatement` | wave-reused |
 | M046266 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDensityExists` | volunteer-build-reviewed |
 | M046267 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDensityExistsStatement` | volunteer-build-reviewed |
 | M046268 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveEigenvectorOfSimilitudeUnique` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M046921 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiTwistedEqPsiMulCharacterOfPoint` | volunteer-build-reviewed |
 | M046923 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBase` | volunteer-build-reviewed |
 | M046924 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBaseStatement` | volunteer-build-reviewed |
-| M046925 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfPsiOn` | volunteer-build-reviewed |
-| M046926 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOn` | volunteer-build-reviewed |
-| M046927 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOnStatement` | volunteer-build-reviewed |
-| M046928 | P2459 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUniv` | volunteer-build-reviewed |
-| M046929 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackGenerating` | volunteer-build-reviewed |
-| M046930 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackGeneratingStatement` | volunteer-build-reviewed |

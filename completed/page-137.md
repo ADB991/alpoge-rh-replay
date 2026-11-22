@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096407 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEqZero` | volunteer-build-reviewed |
+| M096408 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEquivariantAndNeZero` | build-observed |
+| M096409 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingTensor` | volunteer-build-reviewed |
+| M096410 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairwiseDisjointParahoricTorusDoubleCosetAntiton` | volunteer-build-reviewed |
+| M096412 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairwiseFlatMapBand` | volunteer-build-reviewed |
+| M096413 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParIndJacPlacing` | build-observed |
+| M096416 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicDeterminantMultiplicative` | volunteer-build-reviewed |
+| M096417 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicDeterminantMultiplicativeStatement` | volunteer-build-reviewed |
+| M096418 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicHaarVolumeConjIntersectionEqMul` | volunteer-build-reviewed |
 | M096419 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicHaarVolumeConjIntersectionEqMulStatement` | build-observed |
 | M096420 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicInductionDetCharactersRankOneEquiv` | volunteer-build-reviewed |
 | M096421 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParabolicInductionDetCharactersRankOneEquivStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M096935 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirect` | volunteer-build-reviewed |
 | M096936 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirectStatement` | volunteer-build-reviewed |
 | M096937 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPt0InvMemStdLatIff` | volunteer-build-reviewed |
-| M096938 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowReductionSurjectiveLatticeVectorsPlaces` | volunteer-build-reviewed |
-| M096940 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainSteps` | volunteer-build-reviewed |
-| M096941 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainStepsStatement` | volunteer-build-reviewed |
-| M096943 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowShiftEq` | volunteer-build-reviewed |
-| M096944 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowShiftTheta` | volunteer-build-reviewed |
-| M096945 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSizesNR` | volunteer-build-reviewed |
-| M096946 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSupportUniform` | build-observed |
-| M096947 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestAtRealisationOfHilbertModels` | volunteer-build-reviewed |
-| M096949 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowTestCellValueOfStepsLargeDepth` | volunteer-build-reviewed |

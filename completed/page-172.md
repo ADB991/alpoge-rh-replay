@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115842 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.SpanNatCastLeComap` | wave-reused |
+| M115844 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.TruncLogEqOfPowEqZero` | wave-reused |
+| M115845 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.UniformContinuousConstSMulOfIsIsometricSMul` | wave-reused |
+| M115849 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.TransposeInverse.TransposeInv` | volunteer-build-reviewed |
+| M115852 | P2661 | `Development.AutomorphicArithmetic.IwahoriCommensurability.ExistsLevelSubgroupCentralScalarOfPos` | volunteer-build-reviewed |
+| M115853 | P2661 | `Development.AutomorphicArithmetic.IwahoriCommensurability.ExistsPrimePowScalarIntegralOfGoodPrime` | volunteer-build-reviewed |
+| M115855 | P2687 | `Development.AutomorphicArithmetic.IwahoriCommensurability.IsCommensuratedIwahoriSubgroupGlFin` | volunteer-build-reviewed |
+| M115856 | P2643 | `Development.AutomorphicArithmetic.IwahoriCommensurability.IwahoriDoubleCosetTorusMulOfStrictAnti` | volunteer-build-reviewed |
+| M115857 | P0058 | `Development.AutomorphicArithmetic.KaehlerVanishing.DerivationEqOfFormallyEtaleOfEvaluationEq` | volunteer-build-reviewed |
 | M115858 | P0058 | `Development.AutomorphicArithmetic.KaehlerVanishing.KaehlerFunctionalVanishingOfLocalizationAtPrime` | volunteer-build-reviewed |
 | M115859 | P2151 | `Development.AutomorphicArithmetic.LocalEmbeddings.ArchFlip` | volunteer-build-reviewed |
 | M115860 | P0318 | `Development.AutomorphicArithmetic.LocalEmbeddings.ArchSz` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M116432 | P2643 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsSimpleLogPoleAlongBoundary` | volunteer-build-reviewed |
 | M116433 | P2413 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsSplitDeformationLift` | volunteer-build-reviewed |
 | M116434 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsThetaRuleValueLeCoverCharZero` | volunteer-build-reviewed |
-| M116435 | P2632 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsTwistedSectionWithDeepRoot` | volunteer-build-reviewed |
-| M116438 | P2739 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsVanBdSectionNonzeroOfCanonicalTwistNonzero` | volunteer-build-reviewed |
-| M116439 | P2762 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsWeightHodgeBundleGenerated` | volunteer-build-reviewed |
-| M116440 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsWeightIsAmpleLineBundleComp` | volunteer-build-reviewed |
-| M116441 | P2643 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FieldOfDefinitionDescentProp` | volunteer-build-reviewed |
-| M116442 | P2441 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FlagDeformationConstOfKodairaSpencerZero` | volunteer-build-reviewed |
-| M116443 | P2551 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FlagDeformationsEqOfKodairaSpencerEq` | volunteer-build-reviewed |
-| M116444 | P2301 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FlagTangentKodairaSpencerUnique` | volunteer-build-reviewed |
-| M116445 | P2652 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FlatAtOfSplitCovering` | volunteer-build-reviewed |

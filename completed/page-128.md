@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091367 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibreStatement` | build-observed |
+| M091370 | P0822 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.WeilIsGrpPullbackIff` | wave-reused |
+| M091371 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ZeroFLeftExt` | wave-reused |
+| M091372 | P0362 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AdditionLevelTwoMul` | build-observed |
+| M091373 | P0795 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AlgebraMapZeroSurjective` | build-observed |
+| M091374 | P0623 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AppellHumbertDataOfIsoCube` | build-observed |
+| M091375 | P0039 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AppellHumbertNormalFormOfLinearExponent` | volunteer-build-reviewed |
+| M091376 | P0039 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.AutomorphyFactorExpLinearOfCube` | volunteer-build-reviewed |
+| M091377 | P0040 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.BilinFormBijectiveOfNondegenerateMod` | volunteer-build-reviewed |
 | M091378 | P0040 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.CardLePowOfLinearIndependent` | volunteer-build-reviewed |
 | M091379 | P0040 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.CardLePowOfLinearIndependentThetaPrincipal` | volunteer-build-reviewed |
 | M091380 | P0362 | `Development.AbelianVarietyTheory.Proofs.ToricGeometry.ClassicalThetaLevelAndLinearIndependent` | build-observed |
@@ -393,12 +402,3 @@
 | M092096 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLatticeStatement` | volunteer-build-reviewed |
 | M092099 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLattices` | volunteer-build-reviewed |
 | M092100 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
-| M092101 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilators` | volunteer-build-reviewed |
-| M092102 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilatorsStatement` | volunteer-build-reviewed |
-| M092104 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepZeroLineComponentAdjointMemLatticeStatement` | volunteer-build-reviewed |
-| M092113 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselToJacobiBasePointCarriesRowLatticeLines` | volunteer-build-reviewed |
-| M092119 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BiInvariantReplaceSameDoubleCosetSums` | build-observed |
-| M092120 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BiInvariantReplaceSameDoubleCosetSumsStatement` | build-observed |
-| M092121 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BidualityDepthLatticePieceBesselStep` | volunteer-build-reviewed |
-| M092123 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BilinearBoundOfDenseSecondSlot` | volunteer-build-reviewed |
-| M092124 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BilinearBoundOfDenseSecondSlotStatement` | volunteer-build-reviewed |

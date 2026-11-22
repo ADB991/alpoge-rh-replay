@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069720 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMap` | wave-reused |
+| M069721 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMapStatement` | wave-reused |
+| M069722 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingSqZeroNilpotentAugmented` | volunteer-build-reviewed |
+| M069723 | P0955 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingSqZeroNilpotentAugmentedStatement` | build-observed |
+| M069724 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootMulPowApprox` | volunteer-build-reviewed |
+| M069725 | P2227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootOfUnityCoverFunctionReferenceTuple` | volunteer-build-reviewed |
 | M069726 | P2239 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootOfUnityCoverFunctionReferenceTupleStatement` | volunteer-build-reviewed |
 | M069727 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootOfUnityFixedDvdWeilGroupDegree` | volunteer-build-reviewed |
 | M069728 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRootOfUnityFixedDvdWeilGroupDegreeStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M070379 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockPolynomialSubstitutionCommuteTargetGlAction` | volunteer-build-reviewed |
 | M070382 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockReadingTranslatedFormMemComplexFormsStatement` | volunteer-build-reviewed |
 | M070383 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScaling` | volunteer-build-reviewed |
-| M070384 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScalingStatement` | volunteer-build-reviewed |
-| M070385 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomia` | volunteer-build-reviewed |
-| M070386 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomiaStatement` | volunteer-build-reviewed |
-| M070387 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockTargetGlActionCompactPreservesJointHarmonics` | volunteer-build-reviewed |
-| M070389 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockTargetMatrixUnitCompactTotalDegreeLe` | volunteer-build-reviewed |
-| M070391 | P2098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockVacOmFin` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076261 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodup` | volunteer-build-reviewed |
+| M076262 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodupStatement` | volunteer-build-reviewed |
+| M076263 | P0556 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffEqMkRootT` | wave-reused |
+| M076264 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffFieldRootsOfUnityTypePrimesHermitianStages` | volunteer-build-reviewed |
+| M076265 | P0556 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffGaloisTilt` | wave-reused |
+| M076266 | P1382 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffIntegrableContinuous` | build-observed |
+| M076267 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffIntegrableContinuousOf` | build-observed |
+| M076269 | P2585 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffMatrixMulEqOfSameIntCombinationsStatement` | volunteer-build-reviewed |
 | M076271 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffPowLSOfNotDvd` | volunteer-build-reviewed |
 | M076273 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffXMulOfNotMem` | volunteer-build-reviewed |
 | M076275 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoefficientBoundPeriodBasis` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M077058 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineCoverSquarePolarisationSections` | volunteer-build-reviewed |
 | M077060 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDR` | volunteer-build-reviewed |
 | M077061 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDRStatement` | volunteer-build-reviewed |
-| M077062 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormal` | volunteer-build-reviewed |
-| M077063 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormalStatement` | volunteer-build-reviewed |
-| M077064 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainPreimage` | volunteer-build-reviewed |
-| M077065 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainPreimageStatement` | volunteer-build-reviewed |
-| M077066 | P2271 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeFlag` | build-observed |
-| M077068 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearImage` | volunteer-build-reviewed |
-| M077069 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearImageStatement` | volunteer-build-reviewed |
-| M077071 | P2585 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearPointStatement` | volunteer-build-reviewed |

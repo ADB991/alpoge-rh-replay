@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156090 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.IrreducibleOfMinimal` | build-observed |
+| M156091 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.JointEigenvectorExists` | build-observed |
+| M156092 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.MatrixCoefficientEquation` | build-observed |
+| M156093 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.PermRepApply` | volunteer-build-reviewed |
+| M156094 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.ProdFormula` | build-observed |
+| M156095 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.SpectrumPositiveSemidefinite` | build-observed |
+| M156096 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MaximalCompactConjugacy.Assembly` | build-observed |
+| M156097 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.AdaptedBasisInstance` | build-observed |
+| M156098 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.ContinuousHPart` | build-observed |
 | M156099 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.ContinuousUMatApply` | build-observed |
 | M156100 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.FrameGramInstance` | build-observed |
 | M156101 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MeasureDecomposition.GenSemiOf` | build-observed |
@@ -393,12 +402,3 @@
 | M156525 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowWeightSpan.RowWtSpanOfBideterminant` | build-observed |
 | M156527 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SandwichOfOfCharts` | volunteer-build-reviewed |
 | M156528 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SideAUnrealifyRL` | volunteer-build-reviewed |
-| M156530 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.UnrealifyRL` | volunteer-build-reviewed |
-| M156531 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.AveragingOperatorIdempotent` | build-observed |
-| M156532 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.CardUNeZero` | volunteer-build-reviewed |
-| M156533 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.ConvScalarOfLitOf` | build-observed |
-| M156534 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.IntertwinerRankLeOne` | build-observed |
-| M156535 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.Reindex` | build-observed |
-| M156536 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.RepresentationDimensionPos` | build-observed |
-| M156537 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.SuperdiagSgnConj` | volunteer-build-reviewed |
-| M156538 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarDegree.ScalDegMain` | build-observed |

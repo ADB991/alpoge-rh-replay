@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065809 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ZetaEqSubIntegralFract` | volunteer-build-reviewed |
+| M065811 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AbelianUnramIn` | volunteer-build-reviewed |
+| M065812 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicThetaSeriesComparisonIndepScalarsErrors` | volunteer-build-reviewed |
+| M065813 | P2227 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicThetaSeriesComparisonIndepScalarsErrorsStatement` | volunteer-build-reviewed |
+| M065814 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryActionAtRealPlace` | build-observed |
+| M065815 | P1122 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryActionAtRealPlaceStatement` | build-observed |
 | M065816 | P1281 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryRealPointsStructureRealPlaces` | build-observed |
 | M065817 | P1307 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryRealPointsStructureRealPlacesStatement` | build-observed |
 | M065818 | P0484 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AeEvalCircleMapNeZero` | build-observed |
@@ -396,9 +402,3 @@
 | M066447 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOpenPartialHomeomorphAnalytic` | wave-reused |
 | M066448 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsPolynomialModularJOfHasQExpansion` | wave-reused |
 | M066449 | P0555 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsResEqOfUnitInChart` | wave-reused |
-| M066450 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsRingEquivOfIsTranscendenceBasis` | volunteer-build-reviewed |
-| M066452 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsUniqueBaseChangeEqOfMem` | wave-reused |
-| M066453 | P0252 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsUniqueComapEqVanishingIdeal` | build-observed |
-| M066454 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsUniqueFactorCompletedStalkOfMap` | wave-reused |
-| M066456 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsUniqueLiftSpecOfIsLocalizationAway` | wave-reused |
-| M066457 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsUniqueRealLinearOfEventuallyAddModDiscrete` | wave-reused |

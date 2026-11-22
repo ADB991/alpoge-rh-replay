@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154731 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SumSgnLProdCol` | wave-reused |
+| M154732 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantLinearProduct.OfFnProdSmul` | wave-reused |
+| M154733 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.MoveOperatorCovariance` | wave-reused |
+| M154734 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.SumPermEqSumFirstColumnSplit` | wave-reused |
+| M154735 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.SumPermsSignSquared` | wave-reused |
+| M154736 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CoveringRadius.CoverRad` | build-observed |
+| M154737 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.InVolumesAtOfSWW` | build-observed |
+| M154738 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.StepFrameStd` | build-observed |
+| M154739 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.StepGramH` | build-observed |
 | M154740 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovolumeFrames.StepSize` | build-observed |
 | M154745 | P1584 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CrossDiagonalMatching.DualSigmaApply` | build-observed |
 | M154748 | P0152 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CubeFormalIdentities.CoeffPowMulPowEqZero` | build-observed |
@@ -393,12 +402,3 @@
 | M155185 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.SupportExistsOf` | build-observed |
 | M155186 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseDerivativeFiltration.HasseMemHfr` | build-observed |
 | M155187 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseJacobsonPowers.SfrMulMemJHfr` | build-observed |
-| M155188 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.AddPreservesExpCongruence` | build-observed |
-| M155189 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.CompositionalInverseSymm` | build-observed |
-| M155190 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.Development` | build-observed |
-| M155191 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.OrthogonalSplitPolarizationVanishes` | build-observed |
-| M155194 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HenselOpenValuation.IsOpenLeVal` | build-observed |
-| M155201 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.CTFromBlocks` | build-observed |
-| M155202 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.ClassSetFinIdx` | build-observed |
-| M155203 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.Development` | build-observed |
-| M155204 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.FrHformSumLeft` | build-observed |

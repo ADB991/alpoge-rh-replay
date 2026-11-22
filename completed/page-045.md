@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029779 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupPrimePowerLevelRegularChart` | volunteer-build-reviewed |
+| M029780 | P2690 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupPrimePowerLevelRegularChartStatement` | volunteer-build-reviewed |
+| M029781 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupRegularOverModuliPoint` | volunteer-build-reviewed |
+| M029783 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupTowerBaseChangeMember` | volunteer-build-reviewed |
+| M029785 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupTowerLargeRatio` | volunteer-build-reviewed |
 | M029787 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSymmetricFunctionValuesInGroundField` | volunteer-build-reviewed |
 | M029788 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSymmetricFunctionValuesInGroundFieldStatement` | volunteer-build-reviewed |
 | M029790 | P2558 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSystemMovedToAffineOpen` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M030386 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPairPartnerCmExtensionStatement` | volunteer-build-reviewed |
 | M030387 | P1941 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPart` | volunteer-build-reviewed |
 | M030388 | P1563 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPieceBoundedWeightsOfQuadratic` | volunteer-build-reviewed |
-| M030390 | P2053 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShifts` | volunteer-build-reviewed |
-| M030391 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShiftsStatement` | volunteer-build-reviewed |
-| M030394 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryStabilizerTransitionSelfDualFrames` | volunteer-build-reviewed |
-| M030395 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSetupIdealOverComponent` | volunteer-build-reviewed |
-| M030396 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSetupIdealOverComponentStatement` | volunteer-build-reviewed |

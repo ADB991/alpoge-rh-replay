@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004263 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.KaehlerOneFormsToExtensionDeRhamMulSelf` | build-observed |
+| M004269 | P1193 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot` | volunteer-build-reviewed |
+| M004271 | P1324 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MZmix` | build-observed |
+| M004276 | P1056 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ModelsOK` | volunteer-build-reviewed |
 | M004278 | P0946 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MtType` | volunteer-build-reviewed |
 | M004280 | P0173 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NegOnePowBoundaryTermsCancel` | build-observed |
 | M004282 | P1272 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NormalFam` | build-observed |
@@ -398,7 +402,3 @@
 | M004970 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LayerProd` | build-observed |
 | M004971 | P1218 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LevelMatchIff` | volunteer-build-reviewed |
 | M004974 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocClosed` | volunteer-build-reviewed |
-| M004977 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction` | build-observed |
-| M004978 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MemConfTOfDetNeZero` | build-observed |
-| M004980 | P0946 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NCoords` | build-observed |
-| M004981 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NcardImageOfLe` | wave-reused |

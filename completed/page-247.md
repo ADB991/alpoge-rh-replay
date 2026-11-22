@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161290 | P0079 | `Formalism.SizeWindowBrackets.CutFailsForRSubmodule` | build-observed |
+| M161291 | P0669 | `Formalism.SizeWindowBrackets.ErrorFormsEventualPowerBound` | build-observed |
+| M161292 | P0638 | `Formalism.SizeWindowBrackets.ErrorFormsWeakWindowsFalse` | build-observed |
+| M161293 | P0573 | `Formalism.SizeWindowBrackets.FirstPrimeNeSecondPrime` | build-observed |
+| M161294 | P0778 | `Formalism.SizeWindowBrackets.FixedEpsilonConcreteGrowthBound` | build-observed |
+| M161295 | P0464 | `Formalism.SizeWindowBrackets.FrameTraceRatioFinEquiv` | build-observed |
+| M161296 | P0606 | `Formalism.SizeWindowBrackets.GaloisToProductIsIso` | build-observed |
+| M161297 | P0606 | `Formalism.SizeWindowBrackets.GrowthBoundGivesRiemannHypothesis` | build-observed |
+| M161298 | P0669 | `Formalism.SizeWindowBrackets.GrowthBracketBoundOfSizeWindows` | build-observed |
 | M161299 | P0724 | `Formalism.SizeWindowBrackets.JointCSlopeExists` | build-observed |
 | M161300 | P0506 | `Formalism.SizeWindowBrackets.JointDPublishedSizes` | build-observed |
 | M161301 | P0464 | `Formalism.SizeWindowBrackets.LcvBaseChange` | build-observed |
@@ -393,12 +402,3 @@
 | M161691 | P0888 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KernelFromKOne` | build-observed |
 | M161693 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.OddLogRelation` | wave-reused |
 | M161694 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.PlacesAddClass` | build-observed |
-| M161695 | P0425 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementAB` | wave-reused |
-| M161696 | P0158 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementC` | build-observed |
-| M161697 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementE` | wave-reused |
-| M161698 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementG` | wave-reused |
-| M161699 | P0669 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementGK` | wave-reused |
-| M161700 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementH` | wave-reused |
-| M161701 | P0639 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementJ` | wave-reused |
-| M161702 | P0425 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementM` | wave-reused |
-| M161703 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementN` | volunteer-build-reviewed |

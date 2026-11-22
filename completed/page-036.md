@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M024344 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjIntegralGaloisRep` | volunteer-build-reviewed |
+| M024345 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjIntegralGaloisRepStatement` | volunteer-build-reviewed |
+| M024347 | P1739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantApproxIdentityRealLieSmoothinStatement` | volunteer-build-reviewed |
+| M024348 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantTraceGeneratorLocal` | volunteer-build-reviewed |
+| M024349 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjInvariantTraceGeneratorLocalStatement` | volunteer-build-reviewed |
 | M024350 | P1146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjKernelMul` | build-observed |
 | M024351 | P1172 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjKernelMulStatement` | build-observed |
 | M024352 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjMemStandardLeviOfReducibleCharpoly` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M024903 | P2422 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveQDivisorOffPointAmpleClassStatement` | volunteer-build-reviewed |
 | M024904 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveWeightSection` | volunteer-build-reviewed |
 | M024906 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenBasisSameVec` | volunteer-build-reviewed |
-| M024909 | P2533 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenCoordinatesIdempotentRangeQuotient` | volunteer-build-reviewed |
-| M024910 | P2557 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenCoordinatesIdempotentRangeQuotientStatement` | volunteer-build-reviewed |
-| M024911 | P2450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenFrameAlongArcFlagSpaceChart` | volunteer-build-reviewed |
-| M024912 | P2478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenFrameAlongArcFlagSpaceChartStatement` | volunteer-build-reviewed |
-| M024913 | P2393 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenFrameChartVectorsCompactFlagSpaceAffi` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130267 | P1018 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsHodgeTateFunctional` | build-observed |
+| M130268 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsHodgeTateFunctionalStatement` | build-observed |
+| M130269 | P2527 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsHolomorphicSectionOfAnalytic` | volunteer-build-reviewed |
+| M130270 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsHomAdjoinInv` | volunteer-build-reviewed |
+| M130271 | P0320 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsIntegralAdeleLimitCompatibleIntSystem` | volunteer-build-reviewed |
+| M130274 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsIsGlobal` | volunteer-build-reviewed |
+| M130277 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsJoinModelDominates` | build-observed |
+| M130278 | P0596 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsJoinModelDominatesStatement` | volunteer-build-reviewed |
+| M130279 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieMetric` | volunteer-build-reviewed |
 | M130281 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModel` | wave-reused |
 | M130282 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModelBaseChange` | build-observed |
 | M130283 | P1105 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsLieModelBaseChangeStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M130943 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeEigenProjectorExistsStatement` | build-observed |
 | M130945 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeFlagCmTypeDegreeStatement` | volunteer-build-reviewed |
 | M130953 | P2385 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeGramBoundNearBoundary` | volunteer-build-reviewed |
-| M130954 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeGramBoundNearBoundaryStatement` | volunteer-build-reviewed |
-| M130967 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeIPOfFibreLatVec` | volunteer-build-reviewed |
-| M130973 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductConjugateStatement` | volunteer-build-reviewed |
-| M130974 | P1185 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductMapIff` | build-observed |
-| M130978 | P1209 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductPullbackIff` | build-observed |
-| M130979 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductPullbackIffStatement` | volunteer-build-reviewed |
-| M130983 | P1706 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeDvrDegreeStatement` | volunteer-build-reviewed |
-| M130984 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeEigenDecompositionLocal` | volunteer-build-reviewed |
-| M130986 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeLatticeExtendScalars` | volunteer-build-reviewed |

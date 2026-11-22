@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115415 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InnerProductFormulaField` | wave-reused |
+| M115416 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntMvPderiv` | build-observed |
+| M115417 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntRing` | volunteer-build-reviewed |
+| M115418 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegerDenominator` | build-observed |
+| M115421 | P0715 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralClosureCriterionSecond` | build-observed |
+| M115422 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralCompContinuousLinearEquiv` | volunteer-build-reviewed |
+| M115423 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralExtensionAlgClosed` | volunteer-build-reviewed |
+| M115425 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralImagQuadraticHalfInt` | build-observed |
+| M115426 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralMv` | build-observed |
 | M115427 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralOfNormBounded` | volunteer-build-reviewed |
 | M115428 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialFifth` | build-observed |
 | M115429 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralPolynomialFirst` | build-observed |
@@ -393,12 +402,3 @@
 | M115839 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Period` | wave-reused |
 | M115840 | P0264 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Residue` | wave-reused |
 | M115841 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Section` | wave-reused |
-| M115842 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.SpanNatCastLeComap` | wave-reused |
-| M115844 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.TruncLogEqOfPowEqZero` | wave-reused |
-| M115845 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.UniformContinuousConstSMulOfIsIsometricSMul` | wave-reused |
-| M115849 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.TransposeInverse.TransposeInv` | volunteer-build-reviewed |
-| M115852 | P2661 | `Development.AutomorphicArithmetic.IwahoriCommensurability.ExistsLevelSubgroupCentralScalarOfPos` | volunteer-build-reviewed |
-| M115853 | P2661 | `Development.AutomorphicArithmetic.IwahoriCommensurability.ExistsPrimePowScalarIntegralOfGoodPrime` | volunteer-build-reviewed |
-| M115855 | P2687 | `Development.AutomorphicArithmetic.IwahoriCommensurability.IsCommensuratedIwahoriSubgroupGlFin` | volunteer-build-reviewed |
-| M115856 | P2643 | `Development.AutomorphicArithmetic.IwahoriCommensurability.IwahoriDoubleCosetTorusMulOfStrictAnti` | volunteer-build-reviewed |
-| M115857 | P0058 | `Development.AutomorphicArithmetic.KaehlerVanishing.DerivationEqOfFormallyEtaleOfEvaluationEq` | volunteer-build-reviewed |

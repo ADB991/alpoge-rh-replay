@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114982 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockDiagonalLeviEmbedding` | volunteer-build-reviewed |
+| M114983 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockFourMatrices` | volunteer-build-reviewed |
+| M114984 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockHomomorphism` | volunteer-build-reviewed |
+| M114985 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BorelApproximation` | volunteer-build-reviewed |
+| M114986 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BoundedSums` | wave-reused |
+| M114987 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BoxBounds` | volunteer-build-reviewed |
+| M114988 | P2470 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BranchingSmooth` | volunteer-build-reviewed |
+| M114989 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BurnsideEnd` | volunteer-build-reviewed |
+| M114990 | P0714 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CanonicalTranslateJets` | build-observed |
 | M114991 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.EqIdOfFixed` | build-observed |
 | M114992 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.FirstLemmaA` | wave-reused |
 | M114993 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CapelliComplements.FirstLemmaB` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M115412 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneElements` | volunteer-build-reviewed |
 | M115413 | P2173 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneField` | volunteer-build-reviewed |
 | M115414 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteTraceAlgebraMap` | wave-reused |
-| M115415 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InnerProductFormulaField` | wave-reused |
-| M115416 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntMvPderiv` | build-observed |
-| M115417 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntRing` | volunteer-build-reviewed |
-| M115418 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegerDenominator` | build-observed |
-| M115421 | P0715 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralClosureCriterionSecond` | build-observed |
-| M115422 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralCompContinuousLinearEquiv` | volunteer-build-reviewed |
-| M115423 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralExtensionAlgClosed` | volunteer-build-reviewed |
-| M115425 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralImagQuadraticHalfInt` | build-observed |
-| M115426 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntegralMv` | build-observed |

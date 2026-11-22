@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088888 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOfRecurrenceGrowthStatement` | volunteer-build-reviewed |
+| M088890 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOneOfTrace` | volunteer-build-reviewed |
+| M088891 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLocalBasisStandardCoordLeOneInert` | volunteer-build-reviewed |
+| M088892 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLocalBasisStandardCoordLeOneInertStatement` | volunteer-build-reviewed |
+| M088895 | P1071 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormPadicEmbeddingLeOneOfMemInverseHalfDifferent` | volunteer-build-reviewed |
+| M088896 | P0987 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormPowDivFactorialLe` | volunteer-build-reviewed |
+| M088899 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormProdCmTypeEmbeddingsNormOneEqOne` | volunteer-build-reviewed |
+| M088900 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormProdCmTypeEmbeddingsNormOneEqOneStatement` | volunteer-build-reviewed |
+| M088901 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormSiteCoordinateScaleEqOne` | volunteer-build-reviewed |
 | M088902 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormSiteCoordinateScaleEqOneStatement` | volunteer-build-reviewed |
 | M088903 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormSumLt` | volunteer-build-reviewed |
 | M088905 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormTensorProductMapLeft` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M089753 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnJointsHoldAllTuplesStatement` | volunteer-build-reviewed |
 | M089754 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnOrthonormalCoordsEqGiven` | volunteer-build-reviewed |
 | M089756 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnPeriodLatticeVacuumSmooth` | volunteer-build-reviewed |
-| M089758 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnTupleKernelsRational` | volunteer-build-reviewed |
-| M089760 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnsGoodChartsMiddleSteps` | volunteer-build-reviewed |
-| M089762 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueKernelJetsMulDetCharactersMemCoefficientFiel` | volunteer-build-reviewed |
-| M089766 | P2684 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsAtConstructedPointOverTrueC` | volunteer-build-reviewed |
-| M089767 | P2691 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsAtConstructedPointOverTrueCStatement` | volunteer-build-reviewed |
-| M089768 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsOfStandardColumnObjects` | volunteer-build-reviewed |
-| M089769 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TuplesHaveLocalModelsOfStandardColumnObjectsStatement` | volunteer-build-reviewed |
-| M089777 | P0794 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwistedDualJumpsMemWindows` | volunteer-build-reviewed |
-| M089817 | P1312 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TwistedShiftFixedRatioConstDomain` | build-observed |

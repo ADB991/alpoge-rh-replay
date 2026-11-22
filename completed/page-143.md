@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099989 | P1800 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordOfIsPullDegId` | volunteer-build-reviewed |
+| M099991 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RatioSqEqDetJAut` | volunteer-build-reviewed |
+| M099992 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RationalPointsAdelicUnitaryEqUnitary` | build-observed |
+| M099998 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RealAdelesCmFieldEquivComplexCmType` | build-observed |
+| M100002 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ReducedFiniteTypeIffTestRing` | wave-reused |
+| M100008 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RelabelEmbeddingsGoodBijectiveConjCompat` | build-observed |
+| M100010 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RingHomFlatCodescendsAlongFaithfullyFlat` | wave-reused |
+| M100011 | P0768 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.SabGroupIsoOfGeneric` | build-observed |
+| M100012 | P0877 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.SabMapOfIsoOfExtendGen` | build-observed |
 | M100013 | P2102 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.SameSpaceOfLawsJ` | volunteer-build-reviewed |
 | M100014 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ScaledBaseChangeFibreSectionCalculus` | wave-reused |
 | M100015 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ScaledBaseChangeFibreSectionCalculusStatement` | wave-reused |
@@ -393,12 +402,3 @@
 | M100603 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystem` | wave-reused |
 | M100604 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystemStatement` | wave-reused |
 | M100606 | P0624 | `Development.AbelianVarietyTheory.PublishedTheorems.AbelianLaws.PrincipalPolarisationOneSection` | volunteer-build-reviewed |
-| M100607 | P0130 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.AlgebraMapNormOfBasisOneSqrt` | wave-reused |
-| M100608 | P0259 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteOrthogonalLengths` | build-observed |
-| M100609 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteRepresentatives` | build-observed |
-| M100610 | P0363 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteUnitaryClassesOfDualEqSmul` | build-observed |
-| M100611 | P0197 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsIntMulIsIntegralOfTrace` | build-observed |
-| M100612 | P0130 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsShortOfTraceDet` | build-observed |
-| M100613 | P0197 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ThreeNeSqAddSq` | volunteer-build-reviewed |
-| M100614 | P0878 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AbsPowOneNotIsAlgRat` | volunteer-build-reviewed |
-| M100615 | P1931 | `Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AdmissibleBaseChartRing` | volunteer-build-reviewed |

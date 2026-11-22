@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M013449 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibre` | volunteer-build-reviewed |
+| M013450 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibreStatement` | volunteer-build-reviewed |
+| M013451 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FeOfPhiTriv` | build-observed |
+| M013452 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FfDivFfMemOfSpecializes` | volunteer-build-reviewed |
 | M013453 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibLieOfLaws` | volunteer-build-reviewed |
 | M013454 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreEqSpecialFibreOfReductionIndep` | volunteer-build-reviewed |
 | M013456 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreLawOfTestCartesian` | build-observed |
@@ -398,7 +402,3 @@
 | M014111 | P1301 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtensionStatement` | build-observed |
 | M014113 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TripleStOfLaws` | build-observed |
 | M014116 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTerms` | build-observed |
-| M014120 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTxEvEqMapArc` | volunteer-build-reviewed |
-| M014129 | P1445 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedLabelsMatchOfLevelGeFourStatement` | volunteer-build-reviewed |
-| M014130 | P1059 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedPowerSectionBasisBaseChange` | build-observed |
-| M014131 | P1086 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedPowerSectionBasisBaseChangeStatement` | build-observed |

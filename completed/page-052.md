@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034573 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExp` | volunteer-build-reviewed |
+| M034574 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExpStatement` | volunteer-build-reviewed |
+| M034575 | P1478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasBlocksOfSystemOccursInBlockPart` | volunteer-build-reviewed |
+| M034576 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasBlocksOfSystemOccursInBlockPartStatement` | volunteer-build-reviewed |
+| M034584 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportFinprodSchwartzBruhatFiniteAdel` | volunteer-build-reviewed |
 | M034585 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportFinprodSchwartzBruhatFiniteAdelStatement` | volunteer-build-reviewed |
 | M034586 | P0350 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportFlatIntegrand` | volunteer-build-reviewed |
 | M034587 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportHfun` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |
 | M035239 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLine` | volunteer-build-reviewed |
 | M035240 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLineStatement` | volunteer-build-reviewed |
-| M035241 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSmoothOfWeakDerivativeClosedSet` | volunteer-build-reviewed |
-| M035242 | P0182 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSmoothOfWeakDerivativeClosedSetStatement` | volunteer-build-reviewed |
-| M035243 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergStableRelationOfVacua` | volunteer-build-reviewed |
-| M035244 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergStableRelationOfVacuaStatement` | volunteer-build-reviewed |
-| M035245 | P2054 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergTranslateFixesThetaDeepLevel` | volunteer-build-reviewed |

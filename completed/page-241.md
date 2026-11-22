@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158264 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellMono` | build-observed |
+| M158265 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellPt` | build-observed |
+| M158266 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellSchur` | build-observed |
+| M158267 | P1023 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CfgTopFalseIff` | build-observed |
+| M158268 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.ClauseAOfIdentityFlag` | build-observed |
+| M158269 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CriticalLevelLowOfRefined` | build-observed |
+| M158270 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.DecayHypothesisOfLargeConstants` | build-observed |
+| M158271 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.DegreeRatioFormulaStatement` | build-observed |
+| M158272 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyCriticalLevelLowerBound` | build-observed |
 | M158273 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyExponentOfFormalDegree` | build-observed |
 | M158274 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyFormalDegreeLowerBound` | build-observed |
 | M158275 | P1023 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyPacketOfEquivalentStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M158753 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBGen` | wave-reused |
 | M158754 | P0860 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPf` | volunteer-build-reviewed |
 | M158755 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPrim` | wave-reused |
-| M158756 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer` | wave-reused |
-| M158757 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermCut` | wave-reused |
-| M158758 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet` | wave-reused |
-| M158759 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDPf` | wave-reused |
-| M158760 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDVal` | wave-reused |
-| M158761 | P0605 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFun` | wave-reused |
-| M158762 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermFunPf` | wave-reused |
-| M158765 | P1052 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GramSpace` | build-observed |
-| M158766 | P1241 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.H1algDefStatement` | volunteer-build-reviewed |

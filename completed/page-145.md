@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101271 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InnerProductIntegralFundamentalDomainOfCompact` | volunteer-build-reviewed |
+| M101272 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InvariantSesquilinearFormEqSmulOfIrreducible` | volunteer-build-reviewed |
+| M101273 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.IrreducibleHermitianFormUnique` | volunteer-build-reviewed |
+| M101274 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.IsOpenEmbeddingUnitsValGeneralLinearPi` | volunteer-build-reviewed |
+| M101275 | P2061 | `Development.AutomorphicArithmetic.AdelicQuotients.LatticeOrderExistsInverseOneAddUniformizerSmul` | volunteer-build-reviewed |
+| M101276 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.LocalUnimodularOfExistsHaarMeasure` | build-observed |
+| M101277 | P2116 | `Development.AutomorphicArithmetic.AdelicQuotients.MatrixCoefficientBoundedByValueAtOne` | volunteer-build-reviewed |
+| M101278 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.MaximalCompactNormOfUnitCriterion` | build-observed |
+| M101279 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.MeasurableOfSeparatingFunctionals` | volunteer-build-reviewed |
 | M101280 | P2089 | `Development.AutomorphicArithmetic.AdelicQuotients.MemNhdsOneOfCongruenceLatticeOrder` | volunteer-build-reviewed |
 | M101289 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.OrbitalIntegralFubini` | build-observed |
 | M101290 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.OrbitalSideBaseFieldOfAbsoluteConvergence` | build-observed |
@@ -393,12 +402,3 @@
 | M101992 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.IsoOfFrob` | volunteer-build-reviewed |
 | M101993 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.JumpsAbove` | volunteer-build-reviewed |
 | M101995 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LevelK` | volunteer-build-reviewed |
-| M101997 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompC` | volunteer-build-reviewed |
-| M101998 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompR` | volunteer-build-reviewed |
-| M101999 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocFixed` | volunteer-build-reviewed |
-| M102006 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PNewform` | volunteer-build-reviewed |
-| M102007 | P2684 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PRepNew` | volunteer-build-reviewed |
-| M102009 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PureK` | volunteer-build-reviewed |
-| M102010 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.RealExistenceFromPublished` | volunteer-build-reviewed |
-| M102011 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SatFrob` | volunteer-build-reviewed |
-| M102013 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SatLoc` | volunteer-build-reviewed |

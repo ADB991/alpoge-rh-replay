@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103297 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.H2RightExactModL` | volunteer-build-reviewed |
+| M103299 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.InflKer` | volunteer-build-reviewed |
+| M103300 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.IsClosedOfClosedFiniteIndex` | volunteer-build-reviewed |
+| M103301 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LevelS` | volunteer-build-reviewed |
+| M103302 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LocEuler` | volunteer-build-reviewed |
+| M103303 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.PhiGam` | volunteer-build-reviewed |
+| M103305 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.PtTail` | volunteer-build-reviewed |
+| M103307 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.StrGen` | volunteer-build-reviewed |
+| M103314 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.BOneSum` | volunteer-build-reviewed |
 | M103315 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.BRaabe` | volunteer-build-reviewed |
 | M103316 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.BTaylor2` | volunteer-build-reviewed |
 | M103317 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.BUltraUnit` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M103827 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LemmaKOfPublished` | volunteer-build-reviewed |
 | M103830 | P0526 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumT` | build-observed |
 | M103834 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ShaZmCard` | volunteer-build-reviewed |
-| M103838 | P0451 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TorsBoundPow` | build-observed |
-| M103839 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TupleChainBoundaryFormula` | volunteer-build-reviewed |
-| M103852 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianChartScalarInvariance` | volunteer-build-reviewed |
-| M103854 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianPointEmbeddingInjective` | volunteer-build-reviewed |
-| M103856 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianSpaceGradientEstimate` | volunteer-build-reviewed |
-| M103860 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianTraceFormEntryEstimate` | volunteer-build-reviewed |
-| M103871 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.RealLieGroupChartsSmooth` | volunteer-build-reviewed |
-| M103877 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.TraceFormPosDefOfTotallyReal` | volunteer-build-reviewed |
-| M103882 | P0133 | `Development.AutomorphicArithmetic.AutomorphicVarieties.HeckeAlgebras.ContinuousTorusCharacter` | volunteer-build-reviewed |

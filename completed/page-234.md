@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155188 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.AddPreservesExpCongruence` | build-observed |
+| M155189 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.CompositionalInverseSymm` | build-observed |
+| M155190 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.Development` | build-observed |
+| M155191 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.OrthogonalSplitPolarizationVanishes` | build-observed |
+| M155194 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HenselOpenValuation.IsOpenLeVal` | build-observed |
+| M155201 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.CTFromBlocks` | build-observed |
+| M155202 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.ClassSetFinIdx` | build-observed |
+| M155203 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.Development` | build-observed |
+| M155204 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.FrHformSumLeft` | build-observed |
 | M155205 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.HformSumRight` | build-observed |
 | M155206 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.LevelA` | build-observed |
 | M155207 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.LevelB` | build-observed |
@@ -393,12 +402,3 @@
 | M155639 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReindexGl` | build-observed |
 | M155640 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.RowFlagIff` | build-observed |
 | M155641 | P1711 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsAdaptedColumn` | build-observed |
-| M155642 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsCongruentMod` | build-observed |
-| M155643 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsMulGL` | build-observed |
-| M155644 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsMulVec` | build-observed |
-| M155645 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsProjectionOrth` | build-observed |
-| M155646 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsSmulInteger` | build-observed |
-| M155647 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsSub` | build-observed |
-| M155648 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsTensorSmul` | build-observed |
-| M155649 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondEmbeddingAlgebraMap` | build-observed |
-| M155650 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondEmbeddingEqStar` | build-observed |

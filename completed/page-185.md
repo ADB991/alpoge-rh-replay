@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122667 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctionsStatement` | volunteer-build-reviewed |
+| M122670 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAdaptedMajorant` | volunteer-build-reviewed |
+| M122676 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAnalyticIsoOfIsAnalyticUniformization` | volunteer-build-reviewed |
+| M122677 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBaseChangeEquiv` | volunteer-build-reviewed |
+| M122681 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBlocksOfUpper` | volunteer-build-reviewed |
+| M122682 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBoundOfIsBigO` | volunteer-build-reviewed |
+| M122683 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegral` | volunteer-build-reviewed |
+| M122684 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegralStatement` | volunteer-build-reviewed |
+| M122685 | P1551 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue` | build-observed |
 | M122686 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrder` | volunteer-build-reviewed |
 | M122687 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCanonicalSegmentOrderStatement` | volunteer-build-reviewed |
 | M122689 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsChainsOfRange` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M123294 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibres` | volunteer-build-reviewed |
 | M123295 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibresStatement` | volunteer-build-reviewed |
 | M123296 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOnCompactsOrbitMeasure` | volunteer-build-reviewed |
-| M123297 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOnCompactsOrbitMeasureStatement` | volunteer-build-reviewed |
-| M123298 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOutNeZero` | volunteer-build-reviewed |
-| M123299 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePartOpen` | volunteer-build-reviewed |
-| M123300 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePartOpenStatement` | volunteer-build-reviewed |
-| M123301 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupport` | volunteer-build-reviewed |
-| M123302 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceCutoffContinuousCompactSupportStatement` | volunteer-build-reviewed |
-| M123305 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupport` | build-observed |
-| M123306 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePlaceNormOneCompactSupportStatement` | build-observed |
-| M123307 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteProductDifferenceBound` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039088 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOfSmoothRealHeisenbergLevelStatement` | volunteer-build-reviewed |
+| M039089 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionDoublingThetaTensorCM` | volunteer-build-reviewed |
+| M039092 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalCoordsCMStatement` | volunteer-build-reviewed |
+| M039093 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalDarboux` | volunteer-build-reviewed |
+| M039094 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunctionThetaTransformRationalDarbouxStatement` | volunteer-build-reviewed |
 | M039099 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaPtFibreSpreadModelAtFieldPoint` | volunteer-build-reviewed |
 | M039104 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaTermsOfMulIndexZeroTermEqOne` | volunteer-build-reviewed |
 | M039108 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTopFormFrameBaseCoordinatesAddVariablesEtaleStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M039858 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalMirabolicWhittaker` | volunteer-build-reviewed |
 | M039859 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalMirabolicWhittakerStatement` | volunteer-build-reviewed |
 | M039860 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalSmoothBump` | volunteer-build-reviewed |
-| M039861 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalSmoothBumpStatement` | volunteer-build-reviewed |
-| M039865 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltAtAddSmulOfLcAtStatement` | volunteer-build-reviewed |
-| M039867 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltAtLcAtOfLeCoeffStatement` | volunteer-build-reviewed |
-| M039869 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltOfAdjunctionKltLocalModelStatement` | volunteer-build-reviewed |
-| M039870 | P2733 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KltOfKltRestrict` | volunteer-build-reviewed |

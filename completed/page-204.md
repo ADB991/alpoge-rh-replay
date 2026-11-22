@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135736 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafTensFactorPf` | wave-reused |
+| M135737 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafTensMonoPf` | wave-reused |
+| M135738 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafTensQIsoGenPf` | wave-reused |
+| M135739 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafTensQIsoPf` | wave-reused |
+| M135740 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafTensUPPf` | wave-reused |
+| M135745 | P0773 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0GenFreeOf` | wave-reused |
+| M135746 | P0828 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0LocGenOf` | wave-reused |
+| M135747 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0LocSplitOf` | wave-reused |
+| M135748 | P0800 | `Development.EtaleCohomology.EtaleSheaves.LeafTw0TwFreeOf` | wave-reused |
 | M135753 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafTwPairExistsPf` | wave-reused |
 | M135754 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafTwPairExistsPfExt` | build-observed |
 | M135755 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafTwPairHtpyPf` | wave-reused |
@@ -393,12 +402,3 @@
 | M136341 | P0417 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSections` | wave-reused |
 | M136342 | P0458 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSectionsHolds` | wave-reused |
 | M136343 | P0499 | `Development.EtaleCohomology.TateTwists.PpEvBasicPf` | volunteer-build-reviewed |
-| M136346 | P0417 | `Development.EtaleCohomology.TateTwists.PrimitiveRootsOfUnityBasicIdentities` | wave-reused |
-| M136347 | P0417 | `Development.EtaleCohomology.TateTwists.PrismAlexanderWhitneySwapChainHomotopy` | wave-reused |
-| M136348 | P0499 | `Development.EtaleCohomology.TateTwists.PrismBoundaryMapSquareZeroHolds` | wave-reused |
-| M136349 | P0499 | `Development.EtaleCohomology.TateTwists.SteenrodPrismChainDifferentialSquaredEqZeroOfEta` | wave-reused |
-| M136350 | P0600 | `Development.EtaleCohomology.TateTwists.StepPf` | wave-reused |
-| M136353 | P0458 | `Development.EtaleCohomology.TateTwists.SubdivisionComposition` | wave-reused |
-| M136354 | P0499 | `Development.EtaleCohomology.TateTwists.TAwAssoc0Of` | wave-reused |
-| M136355 | P0534 | `Development.EtaleCohomology.TateTwists.TPaCpushHtpyPf` | wave-reused |
-| M136356 | P0534 | `Development.EtaleCohomology.TateTwists.TPaCpushIdPf` | wave-reused |

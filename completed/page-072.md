@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049005 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStable` | volunteer-build-reviewed |
+| M049006 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStableStatement` | volunteer-build-reviewed |
+| M049007 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFockVacuumLineUniqueOfHeisenbergDerivati` | volunteer-build-reviewed |
+| M049009 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierRepresentation` | volunteer-build-reviewed |
+| M049010 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierRepresentationStatement` | volunteer-build-reviewed |
+| M049012 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSecondVariableRapidDecayStatement` | volunteer-build-reviewed |
 | M049013 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSuperposition` | volunteer-build-reviewed |
 | M049014 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFourierSuperpositionStatement` | volunteer-build-reviewed |
 | M049015 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFunctionFactorizesAlmostAll` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M049725 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralCompAut` | volunteer-build-reviewed |
 | M049726 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEq` | volunteer-build-reviewed |
 | M049727 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEqStatement` | volunteer-build-reviewed |
-| M049729 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfFibre` | volunteer-build-reviewed |
-| M049730 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfMulRight` | volunteer-build-reviewed |
-| M049731 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralFderivApplyEqZeroOfPeriodic` | build-observed |
-| M049733 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralLeOfExpanding` | volunteer-build-reviewed |
-| M049734 | P0114 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralLeOfExpandingStatement` | volunteer-build-reviewed |
-| M049737 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralNormProdExpMulLeHaar` | build-observed |

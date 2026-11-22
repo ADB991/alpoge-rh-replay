@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054814 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAddStatement` | volunteer-build-reviewed |
+| M054816 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationsTranslationPeriodMapsCorrespondStatement` | volunteer-build-reviewed |
+| M054819 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedComplexFibreMarkedLatticeClass` | volunteer-build-reviewed |
+| M054825 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedFibreFrameAtOriginEqRigidification` | volunteer-build-reviewed |
+| M054830 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupAbelianWhereTrivialisationsUnitsStatement` | volunteer-build-reviewed |
+| M054831 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupClosedFibreFinsetInAffineOpen` | volunteer-build-reviewed |
 | M054835 | P2638 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupEndomorphismsAdjointPair` | volunteer-build-reviewed |
 | M054838 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupGaloisMapMulStatement` | volunteer-build-reviewed |
 | M054840 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedGroupGaloisMapOneStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M055511 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyClose` | volunteer-build-reviewed |
 | M055512 | P0116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyCloseStatement` | volunteer-build-reviewed |
 | M055513 | P1223 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfIsClosedRange` | build-observed |
-| M055514 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOpenContainingFibreContainsNear` | volunteer-build-reviewed |
-| M055516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramSub` | volunteer-build-reviewed |
-| M055517 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharValueProduct` | volunteer-build-reviewed |
-| M055518 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharValueProductStatement` | volunteer-build-reviewed |
-| M055519 | P1425 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterAtUniformizer` | volunteer-build-reviewed |
-| M055520 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterAtUniformizerStatement` | volunteer-build-reviewed |

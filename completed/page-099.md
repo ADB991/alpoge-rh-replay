@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067725 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwistStatement` | volunteer-build-reviewed |
+| M067727 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstOneMem` | volunteer-build-reviewed |
+| M067728 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffFamilyFrobeniusCongrPow` | build-observed |
+| M067729 | P1151 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffFamilyFrobeniusCongrPowStatement` | build-observed |
+| M067730 | P0404 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffMapEqZero` | build-observed |
+| M067731 | P0191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffTaylor` | volunteer-build-reviewed |
 | M067732 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffTeichSub` | wave-reused |
 | M067733 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ContActionTorsionLevelZModOfIsLocallyConstant` | build-observed |
 | M067734 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ContActionTorsionLevelZModOfIsLocallyConstantStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M068421 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfPowEqOneOfCharpoly` | volunteer-build-reviewed |
 | M068423 | P0405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparabl` | build-observed |
 | M068424 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparablStatement` | build-observed |
-| M068426 | P0764 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqTopOfSpanImage` | volunteer-build-reviewed |
-| M068427 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfAlgHomEqMul` | volunteer-build-reviewed |
-| M068428 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfComm` | build-observed |
-| M068430 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfEvalNatCastAdd` | volunteer-build-reviewed |
-| M068433 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfForallMemFilV` | volunteer-build-reviewed |
-| M068434 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfFrobeniusPeriodicMemDeRhamFilZero` | build-observed |

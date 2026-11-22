@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126019 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProd` | volunteer-build-reviewed |
+| M126020 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProdStatement` | volunteer-build-reviewed |
+| M126022 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectiveChartHolomorphicCoordinatesStatement` | volunteer-build-reviewed |
+| M126023 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectivePointOfNonvanishingCoords` | volunteer-build-reviewed |
+| M126024 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectivePointOfNonvanishingCoordsStatement` | volunteer-build-reviewed |
+| M126025 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectivePrimeEqPointIdeal` | volunteer-build-reviewed |
+| M126026 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultisetAntitoneEnumeration` | volunteer-build-reviewed |
+| M126027 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultisetAntitoneEnumerationStatement` | volunteer-build-reviewed |
+| M126032 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MvFGExact` | volunteer-build-reviewed |
 | M126033 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MvecLeviMulUv` | volunteer-build-reviewed |
 | M126036 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NatCardDualEq` | volunteer-build-reviewed |
 | M126040 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NatOfSimpleLoweringNilpotent` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M126640 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdIrrEquivOfOrdered` | volunteer-build-reviewed |
 | M126641 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeRevEqProdGe` | volunteer-build-reviewed |
 | M126642 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeRevEqProdGeStatement` | volunteer-build-reviewed |
-| M126643 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeftEqRTensor` | volunteer-build-reviewed |
-| M126644 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdMapInjective` | volunteer-build-reviewed |
-| M126646 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdNormPull` | volunteer-build-reviewed |
-| M126649 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdRelIndexNeZero` | volunteer-build-reviewed |
-| M126650 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdRelIndexNeZeroStatement` | volunteer-build-reviewed |
-| M126651 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdZpowSingle` | volunteer-build-reviewed |
-| M126653 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductCharacterNormOneTrivialStatement` | volunteer-build-reviewed |
-| M126654 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductFirstCohomologyComparison` | volunteer-build-reviewed |
-| M126662 | P1970 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProductIntegralUnitShift` | build-observed |

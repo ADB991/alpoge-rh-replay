@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075327 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecialStatement` | volunteer-build-reviewed |
+| M075328 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWild` | volunteer-build-reviewed |
+| M075329 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWildStatement` | volunteer-build-reviewed |
+| M075330 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneInductionPrinciple` | volunteer-build-reviewed |
+| M075332 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneLabelTransportDualInverseRoots` | volunteer-build-reviewed |
+| M075333 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneLabelTransportDualInverseRootsStatement` | volunteer-build-reviewed |
+| M075334 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneOfFiniteImage` | volunteer-build-reviewed |
+| M075343 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilGroupAtPlaceDenseInDecompositionGroupStatement` | volunteer-build-reviewed |
 | M075345 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilGroupDenseInDecompositionStatement` | volunteer-build-reviewed |
 | M075350 | P2181 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilOperatorIdempotentSumVacuumNormalisedSum` | volunteer-build-reviewed |
 | M075351 | P2191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilOperatorIdempotentSumVacuumNormalisedSumStatement` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M076255 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeFnFinsetSumSmul` | volunteer-build-reviewed |
 | M076258 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoefMapNormEquivariantBasisOfPre` | volunteer-build-reviewed |
 | M076259 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffCharpolyRevMemTracePowerProductRealSpan` | volunteer-build-reviewed |
-| M076261 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodup` | volunteer-build-reviewed |
-| M076262 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodupStatement` | volunteer-build-reviewed |
-| M076263 | P0556 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffEqMkRootT` | wave-reused |
-| M076264 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffFieldRootsOfUnityTypePrimesHermitianStages` | volunteer-build-reviewed |
-| M076265 | P0556 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffGaloisTilt` | wave-reused |
-| M076266 | P1382 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffIntegrableContinuous` | build-observed |
-| M076267 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffIntegrableContinuousOf` | build-observed |
-| M076269 | P2585 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffMatrixMulEqOfSameIntCombinationsStatement` | volunteer-build-reviewed |

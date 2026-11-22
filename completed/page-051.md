@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033701 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericUnitEquationChartStatement` | volunteer-build-reviewed |
+| M033705 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoActMemCusp` | volunteer-build-reviewed |
+| M033707 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoLevelActionIffGeoAct` | volunteer-build-reviewed |
+| M033711 | P0181 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeomRegFibOfIsRegularRingTensorEssFiniteType` | volunteer-build-reviewed |
+| M033712 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeomRegFibOfIsRegularRingTensorEssFiniteTypeStatement` | volunteer-build-reviewed |
 | M033720 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeometricDegreePosOfAmpleSemiPositiveStatement` | volunteer-build-reviewed |
 | M033721 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeometricDegreeProjectionFormulaSelfInterPow` | volunteer-build-reviewed |
 | M033723 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeometricDegreePullBirationalModel` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M034565 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable` | volunteer-build-reviewed |
 | M034566 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentableStatement` | volunteer-build-reviewed |
 | M034567 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HartTensorOfFlat` | volunteer-build-reviewed |
-| M034573 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExp` | volunteer-build-reviewed |
-| M034574 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExpStatement` | volunteer-build-reviewed |
-| M034575 | P1478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasBlocksOfSystemOccursInBlockPart` | volunteer-build-reviewed |
-| M034576 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasBlocksOfSystemOccursInBlockPartStatement` | volunteer-build-reviewed |
-| M034584 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportFinprodSchwartzBruhatFiniteAdel` | volunteer-build-reviewed |

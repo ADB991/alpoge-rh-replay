@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041392 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormula` | volunteer-build-reviewed |
+| M041393 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormulaStatement` | volunteer-build-reviewed |
+| M041394 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureFormula` | volunteer-build-reviewed |
+| M041395 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureFormulaStatement` | volunteer-build-reviewed |
+| M041397 | P1250 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineLatticeBaseChangeStatement` | volunteer-build-reviewed |
 | M041398 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinePairExtensionCosSqBound` | volunteer-build-reviewed |
 | M041399 | P2019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinePairExtensionCosSqBoundStatement` | volunteer-build-reviewed |
 | M041400 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineParabolicUnipotentBlocks` | volunteer-build-reviewed |
@@ -245,6 +250,7 @@
 | M041818 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeatOperatorValuesRingOperatorFractionField` | volunteer-build-reviewed |
 | M041819 | P2733 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeatOperatorValuesRingOperatorFractionFieldStatement` | volunteer-build-reviewed |
 | M041823 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightPrimeBoundStatement` | volunteer-build-reviewed |
+| M041824 | P2613 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightPrimeComparison` | volunteer-build-reviewed |
 | M041825 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightPrimeComparisonStatement` | volunteer-build-reviewed |
 | M041826 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightPrimeIntegrality` | volunteer-build-reviewed |
 | M041829 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalHeightPrimeSumStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M042066 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExist` | volunteer-build-reviewed |
 | M042067 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExistStatement` | volunteer-build-reviewed |
 | M042069 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitAbsoluteValueCriterionStatement` | volunteer-build-reviewed |
-| M042070 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZero` | volunteer-build-reviewed |
-| M042071 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZeroStatement` | volunteer-build-reviewed |
-| M042072 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIndicatorIntegralValue` | volunteer-build-reviewed |
-| M042073 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIndicatorIntegralValueStatement` | volunteer-build-reviewed |
-| M042074 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryActionSchwartzInf` | volunteer-build-reviewed |
-| M042076 | P1565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryCentralizerEquivNormOneTorus` | volunteer-build-reviewed |

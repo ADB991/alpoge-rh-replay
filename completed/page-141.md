@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098722 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsPullDegId` | volunteer-build-reviewed |
+| M098723 | P1232 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickenings` | wave-reused |
+| M098724 | P1260 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickeningsStatement` | wave-reused |
+| M098725 | P1072 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRing` | wave-reused |
+| M098726 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingAutOfRelAmple` | build-observed |
+| M098727 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingEquiv` | wave-reused |
+| M098728 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingEquivStatement` | wave-reused |
+| M098731 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLbIsoPullAffineSpace` | build-observed |
+| M098732 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLeOnFinset` | build-observed |
 | M098733 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLevelPoint` | wave-reused |
 | M098735 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLiftOfRetraction` | wave-reused |
 | M098737 | P0042 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLimitOfSuccessiveCorrections` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M099336 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedComplete` | volunteer-build-reviewed |
 | M099337 | P0311 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedCompleteStatement` | volunteer-build-reviewed |
 | M099338 | P0524 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximation` | build-observed |
-| M099339 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximationStatement` | volunteer-build-reviewed |
-| M099340 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLattice` | build-observed |
-| M099341 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLatticeStatement` | build-observed |
-| M099342 | P1286 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicElementLatticeFullAndCompletion` | build-observed |
-| M099343 | P1313 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicElementLatticeFullAndCompletionStatement` | build-observed |
-| M099344 | P0656 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicHermitianFormGaloisMemOfMemCompletion` | build-observed |
-| M099345 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryEqRealMulFiniteSplit` | build-observed |
-| M099346 | P1286 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryEqRealMulFiniteSplitStatement` | build-observed |
-| M099347 | P1206 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicUnitaryExistsWithPrescribedParts` | build-observed |

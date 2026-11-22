@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136769 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupFlatDescent` | wave-reused |
+| M136770 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceDescentDatum` | wave-reused |
+| M136771 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceFlatBaseChange` | wave-reused |
+| M136772 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceFlatDescent` | wave-reused |
+| M136773 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ChartFlatBaseChange` | wave-reused |
+| M136774 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ChartPushforward` | wave-reused |
+| M136775 | P0372 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.ClosedEmbeddingIntoAffineSpace` | wave-reused |
+| M136776 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.DetachedCenterFlatBaseChange` | wave-reused |
+| M136777 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.DetachedLocusFlatBaseChange` | wave-reused |
 | M136778 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.DetachedLocusPushforward` | wave-reused |
 | M136779 | P0322 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.EmbeddedResolutionRule` | wave-reused |
 | M136780 | P0693 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.EmbeddedResolutionRuleLocality` | wave-reused |
@@ -393,12 +402,3 @@
 | M137568 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IntegrableRexpLin` | volunteer-build-reviewed |
 | M137570 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivPolyRealZero` | volunteer-build-reviewed |
 | M137571 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivScale` | volunteer-build-reviewed |
-| M137572 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.PolyGaussOfLines` | volunteer-build-reviewed |
-| M137582 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RationalWeilElements.TtSmul` | volunteer-build-reviewed |
-| M137583 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.ExpAlg` | volunteer-build-reviewed |
-| M137586 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.FinRealAdSmulAlt` | volunteer-build-reviewed |
-| M137590 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.KFinPolyOf` | volunteer-build-reviewed |
-| M137591 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.LineData` | volunteer-build-reviewed |
-| M137592 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.LrhoPf` | volunteer-build-reviewed |
-| M137593 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.MemFockOf` | volunteer-build-reviewed |
-| M137595 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.NormAddSmulSq` | volunteer-build-reviewed |

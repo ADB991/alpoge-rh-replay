@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M021125 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDetStatement` | volunteer-build-reviewed |
+| M021129 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPairInducedNontrivialStatement` | volunteer-build-reviewed |
+| M021130 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPowSectionRationalGenericPoint` | volunteer-build-reviewed |
+| M021131 | P1997 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetPowSectionRationalGenericPointStatement` | volunteer-build-reviewed |
+| M021133 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetProductDepthInChartEqSumFactorDepthsStatement` | volunteer-build-reviewed |
 | M021134 | P2477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetQuotGramRe` | volunteer-build-reviewed |
 | M021135 | P1739 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetRationalSectionsEqPowProductLinearForms` | volunteer-build-reviewed |
 | M021137 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetReLePowMulDetRe` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M021757 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairGlobalIntegral` | volunteer-build-reviewed |
 | M021758 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairGlobalIntegralStatement` | volunteer-build-reviewed |
 | M021759 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeMeasure` | volunteer-build-reviewed |
-| M021762 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeThetaStatement` | volunteer-build-reviewed |
-| M021763 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLocalIntegral` | volunteer-build-reviewed |
-| M021765 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairStabiliserIntegral` | volunteer-build-reviewed |
-| M021766 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairStabiliserIntegralStatement` | volunteer-build-reviewed |
-| M021767 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairUnfoldingLattice` | volunteer-build-reviewed |

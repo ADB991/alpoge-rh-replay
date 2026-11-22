@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110016 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetDeg` | volunteer-build-reviewed |
+| M110017 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetInt` | volunteer-build-reviewed |
+| M110018 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetOpMulTab` | volunteer-build-reviewed |
+| M110019 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.KerLe` | volunteer-build-reviewed |
+| M110020 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.KerStd` | volunteer-build-reviewed |
+| M110021 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatCoordA` | volunteer-build-reviewed |
+| M110022 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatCoordB` | volunteer-build-reviewed |
+| M110023 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatMove` | volunteer-build-reviewed |
+| M110024 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LogSum` | volunteer-build-reviewed |
 | M110025 | P2129 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LossOne` | volunteer-build-reviewed |
 | M110026 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.MatLat` | volunteer-build-reviewed |
 | M110027 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.MoveRow` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M110472 | P1314 | `Development.AutomorphicArithmetic.EtaleIdempotents.IntegersResidueEqZeroOfNotIsUnit` | volunteer-build-reviewed |
 | M110473 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.LinearCombinationTransferOfProjectorRelations` | build-observed |
 | M110474 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.NatCastPrimeNeZeroAndNotIsUnitIntegers` | build-observed |
-| M110476 | P0878 | `Development.AutomorphicArithmetic.ExponentialBounds.BadShareWin` | wave-reused |
-| M110477 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.BaseChangeNB` | volunteer-build-reviewed |
-| M110478 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.DefiniteNHolds` | volunteer-build-reviewed |
-| M110480 | P2693 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.FrameRead` | volunteer-build-reviewed |
-| M110481 | P2667 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.GReadOf` | volunteer-build-reviewed |
-| M110482 | P2667 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.IdentOf` | volunteer-build-reviewed |
-| M110483 | P2499 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.InfMatchOf` | volunteer-build-reviewed |
-| M110484 | P2525 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.PDerVal` | volunteer-build-reviewed |
-| M110485 | P2525 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.FrameMatching.GelfandReading.PInfMatch` | volunteer-build-reviewed |

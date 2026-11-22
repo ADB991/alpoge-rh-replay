@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043448 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDual` | volunteer-build-reviewed |
+| M043449 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDualStatement` | volunteer-build-reviewed |
+| M043450 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticRepresentationHolds` | build-observed |
+| M043451 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticTransfer` | volunteer-build-reviewed |
+| M043452 | P0399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricBundleIsomorphismFlat` | build-observed |
+| M043453 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricBundleIsomorphismFlatStatement` | build-observed |
 | M043454 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricDescendsSameValue` | volunteer-build-reviewed |
 | M043456 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricDeterminedByCurvatureZeroSection` | build-observed |
 | M043457 | P0399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricDeterminedByCurvatureZeroSectionStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M044189 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedBundleRestrictionToCurves` | volunteer-build-reviewed |
 | M044192 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedModelDominantWeightStatement` | volunteer-build-reviewed |
 | M044195 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefIsPsEffAndBigTensNef` | wave-reused |
-| M044196 | P2055 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleNumericalTheoremsProofStatement` | wave-reused |
-| M044197 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleWeightGap` | volunteer-build-reviewed |
-| M044199 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefNumericsOfRiemannRoch` | wave-reused |
-| M044201 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOfSemipositiveFibrewiseStatement` | volunteer-build-reviewed |
-| M044204 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnFiniteFieldFibresPowTens` | volunteer-build-reviewed |
-| M044205 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefOnFiniteFieldFibresPowTensStatement` | volunteer-build-reviewed |

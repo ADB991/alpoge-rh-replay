@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137572 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.PolyGaussOfLines` | volunteer-build-reviewed |
+| M137582 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RationalWeilElements.TtSmul` | volunteer-build-reviewed |
+| M137583 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.ExpAlg` | volunteer-build-reviewed |
+| M137586 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.FinRealAdSmulAlt` | volunteer-build-reviewed |
+| M137590 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.KFinPolyOf` | volunteer-build-reviewed |
+| M137591 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.LineData` | volunteer-build-reviewed |
+| M137592 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.LrhoPf` | volunteer-build-reviewed |
+| M137593 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.MemFockOf` | volunteer-build-reviewed |
+| M137595 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.NormAddSmulSq` | volunteer-build-reviewed |
 | M137596 | P0268 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.PolyGaussOfLines` | volunteer-build-reviewed |
 | M137601 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealGaussianTraces.ExistsBumpFourier` | volunteer-build-reviewed |
 | M137606 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealGaussianTraces.SecondCountableTens` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M138590 | P0065 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GermVanishesOfGenericVanishing` | volunteer-build-reviewed |
 | M138591 | P1265 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GramMatrixTwistedLieModels` | build-observed |
 | M138594 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HeightBoundOfHyp` | volunteer-build-reviewed |
-| M138596 | P2386 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HodgeCompactPullback` | volunteer-build-reviewed |
-| M138597 | P0993 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HtExists` | build-observed |
-| M138598 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IAlgebra` | build-observed |
-| M138599 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ICycle` | build-observed |
-| M138600 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IDefect` | build-observed |
-| M138602 | P0500 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.Imports` | build-observed |
-| M138603 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IsOpenHoloPreimage` | build-observed |
-| M138604 | P0800 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.JNormal` | build-observed |
-| M138605 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.JPull` | build-observed |

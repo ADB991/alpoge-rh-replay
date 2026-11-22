@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092101 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilators` | volunteer-build-reviewed |
+| M092102 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilatorsStatement` | volunteer-build-reviewed |
+| M092104 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepZeroLineComponentAdjointMemLatticeStatement` | volunteer-build-reviewed |
+| M092113 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselToJacobiBasePointCarriesRowLatticeLines` | volunteer-build-reviewed |
+| M092119 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BiInvariantReplaceSameDoubleCosetSums` | build-observed |
+| M092120 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BiInvariantReplaceSameDoubleCosetSumsStatement` | build-observed |
+| M092121 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BidualityDepthLatticePieceBesselStep` | volunteer-build-reviewed |
+| M092123 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BilinearBoundOfDenseSecondSlot` | volunteer-build-reviewed |
+| M092124 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BilinearBoundOfDenseSecondSlotStatement` | volunteer-build-reviewed |
 | M092125 | P1460 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BlkGLMem` | volunteer-build-reviewed |
 | M092128 | P1205 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BlockDetSingleBlockSecondEqOneOfLe` | build-observed |
 | M092129 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BlockFrameConjugationIdentity` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M092845 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DomainFrameEqRealTranslateMulBorelStatement` | volunteer-build-reviewed |
 | M092846 | P2228 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCosetProjectionVolumeConstMul` | volunteer-build-reviewed |
 | M092848 | P1102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExp` | build-observed |
-| M092849 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExpStatement` | build-observed |
-| M092850 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacua` | volunteer-build-reviewed |
-| M092851 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacuaStatement` | volunteer-build-reviewed |
-| M092854 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleNegSpaceUnitaryElementHeq` | volunteer-build-reviewed |
-| M092855 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledFirstFactorMemDoubledLatticeStabilizer` | volunteer-build-reviewed |
-| M092856 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledFirstFactorMemDoubledLatticeStabilizerStatement` | volunteer-build-reviewed |
-| M092857 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledLatticePrimitiveIsotropicFrameCompletion` | build-observed |
-| M092858 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledLatticePrimitiveIsotropicFrameCompletionStatement` | build-observed |
-| M092859 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledStabilizerGeneratedDiagAntidiagSplitPlace` | volunteer-build-reviewed |

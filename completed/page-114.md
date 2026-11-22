@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078634 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAtStatement` | volunteer-build-reviewed |
+| M078635 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitCoefOpen` | volunteer-build-reviewed |
+| M078647 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicLiftTypePrimeReductions` | volunteer-build-reviewed |
+| M078648 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicLiftTypePrimeReductionsStatement` | volunteer-build-reviewed |
+| M078649 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicSupportedAtBadPrimePlace` | volunteer-build-reviewed |
+| M078650 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicSupportedAtBadPrimePlaceStatement` | volunteer-build-reviewed |
+| M078651 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicTwistDiagonalAtPrimes` | volunteer-build-reviewed |
+| M078652 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicTwistDiagonalAtPrimesStatement` | volunteer-build-reviewed |
 | M078653 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryCharOfOpenSubgroupAndHom` | volunteer-build-reviewed |
 | M078654 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryDiagonalBasePointLevelPrime` | volunteer-build-reviewed |
 | M078655 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryDiagonalBasePointLevelPrimeStatement` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M079487 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterInfinityExponentGroupLaws` | volunteer-build-reviewed |
 | M079490 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterSplitPlaceComponentUniqueStatement` | volunteer-build-reviewed |
 | M079493 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeComparisonUnitAtFrobeniusEqDelta` | volunteer-build-reviewed |
-| M079499 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigenspaceNeBotEveryLocalisationPoint` | volunteer-build-reviewed |
-| M079501 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigensystemMultiplicities` | volunteer-build-reviewed |
-| M079506 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeElementUniformizerRatioDeterminantStatement` | volunteer-build-reviewed |
-| M079513 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeGeometricAllStatesStatement` | volunteer-build-reviewed |
-| M079518 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeLAdicCharacterAndPrincipalIdealSt` | volunteer-build-reviewed |
-| M079519 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeMultiplicityEqFinrankJointEigenspace` | volunteer-build-reviewed |
-| M079520 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeMultiplicityEqFinrankJointEigenspaceStatement` | volunteer-build-reviewed |
-| M079521 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeOperatorIntegralOnLatticeAtTwistedPlaces` | volunteer-build-reviewed |

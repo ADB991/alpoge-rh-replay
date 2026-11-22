@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053355 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMap` | volunteer-build-reviewed |
+| M053356 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMapStatement` | volunteer-build-reviewed |
+| M053357 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricValueHeightBoundOfDenominatorsMeans` | volunteer-build-reviewed |
+| M053358 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricValueHeightBoundOfDenominatorsMeansStatement` | volunteer-build-reviewed |
+| M053359 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalBoundaryLocalEquation` | volunteer-build-reviewed |
+| M053360 | P2703 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalBoundaryLocalEquationStatement` | volunteer-build-reviewed |
 | M053361 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalChartAbelianFibre` | volunteer-build-reviewed |
 | M053362 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalChartAbelianFibreStatement` | volunteer-build-reviewed |
 | M053364 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalChartBoundaryRegularStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M054078 | P2491 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullbackStatement` | build-observed |
 | M054080 | P1944 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatesIntoHoldsStatement` | build-observed |
 | M054082 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationCarriesRatioDatumRemainderStatement` | volunteer-build-reviewed |
-| M054085 | P1006 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationChartCoboundaryOnChartsFirstOrder` | build-observed |
-| M054088 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElement` | build-observed |
-| M054089 | P0353 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElementStatement` | build-observed |
-| M054090 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationExponentOfFrameExponent` | volunteer-build-reviewed |
-| M054091 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationExponentOfFrameExponentStatement` | volunteer-build-reviewed |
-| M054092 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationHorizontalOfCommutingHeatOperators` | volunteer-build-reviewed |

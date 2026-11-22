@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084336 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEqStatement` | volunteer-build-reviewed |
+| M084337 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctional` | wave-reused |
+| M084338 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctionalStatement` | wave-reused |
+| M084339 | P1487 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorSumPolynomialOperator` | volunteer-build-reviewed |
+| M084340 | P1516 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorSumPolynomialOperatorStatement` | volunteer-build-reviewed |
+| M084341 | P0902 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureAeMemAndMeasurableBesselModel` | wave-reused |
+| M084342 | P0930 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureAeMemAndMeasurableBesselModelStatement` | wave-reused |
+| M084343 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureIntegralRmulBesselGroup` | build-observed |
+| M084344 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureIntegralRmulBesselGroupStatement` | build-observed |
 | M084345 | P0902 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureRightInvariant` | build-observed |
 | M084346 | P0930 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuotientMeasureRightInvariantStatement` | build-observed |
 | M084347 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.R0MemNfSpanOfHatHyp` | build-observed |
@@ -393,12 +402,3 @@
 | M085058 | P1258 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsOpenImmersionQuotient` | volunteer-build-reviewed |
 | M085060 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsPELTripleOfDenseFibres` | volunteer-build-reviewed |
 | M085062 | P1229 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsProjOverIsPullbackOfIsLocalization` | build-observed |
-| M085064 | P1359 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSharpAndPrim` | build-observed |
-| M085065 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSymmOfSquare` | volunteer-build-reviewed |
-| M085068 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoOfProjectiveCoordinateRepresentation` | volunteer-build-reviewed |
-| M085069 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoOfProjectiveCoordinateRepresentationStatement` | volunteer-build-reviewed |
-| M085072 | P1890 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoQuotientsSameKernelReducedBase` | build-observed |
-| M085073 | P1911 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoQuotientsSameKernelReducedBaseStatement` | build-observed |
-| M085074 | P1179 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsogenyPullbackHeckeModuliObject` | build-observed |
-| M085075 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsogenyPullbackHeckeModuliObjectStatement` | build-observed |
-| M085076 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsometryLift` | volunteer-build-reviewed |

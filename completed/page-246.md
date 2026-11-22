@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160511 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBA` | build-observed |
+| M160512 | P1167 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBeta` | build-observed |
+| M160513 | P1215 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfDat` | build-observed |
+| M160514 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfDict` | build-observed |
+| M160515 | P1167 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfEqv` | build-observed |
+| M160516 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfHH` | build-observed |
+| M160517 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfHyp` | build-observed |
+| M160518 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfL` | build-observed |
+| M160519 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfLoc` | build-observed |
 | M160520 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfLocC` | build-observed |
 | M160522 | P1141 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfNat` | build-observed |
 | M160523 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfPhi` | build-observed |
@@ -393,12 +402,3 @@
 | M161287 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedMeanLemmaNeedsDegree` | build-observed |
 | M161288 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedSlopeExcessDecomposition` | build-observed |
 | M161289 | P0079 | `Formalism.SizeWindowBrackets.ClaimGaFree` | build-observed |
-| M161290 | P0079 | `Formalism.SizeWindowBrackets.CutFailsForRSubmodule` | build-observed |
-| M161291 | P0669 | `Formalism.SizeWindowBrackets.ErrorFormsEventualPowerBound` | build-observed |
-| M161292 | P0638 | `Formalism.SizeWindowBrackets.ErrorFormsWeakWindowsFalse` | build-observed |
-| M161293 | P0573 | `Formalism.SizeWindowBrackets.FirstPrimeNeSecondPrime` | build-observed |
-| M161294 | P0778 | `Formalism.SizeWindowBrackets.FixedEpsilonConcreteGrowthBound` | build-observed |
-| M161295 | P0464 | `Formalism.SizeWindowBrackets.FrameTraceRatioFinEquiv` | build-observed |
-| M161296 | P0606 | `Formalism.SizeWindowBrackets.GaloisToProductIsIso` | build-observed |
-| M161297 | P0606 | `Formalism.SizeWindowBrackets.GrowthBoundGivesRiemannHypothesis` | build-observed |
-| M161298 | P0669 | `Formalism.SizeWindowBrackets.GrowthBracketBoundOfSizeWindows` | build-observed |

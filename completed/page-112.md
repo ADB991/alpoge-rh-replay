@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077062 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormal` | volunteer-build-reviewed |
+| M077063 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormalStatement` | volunteer-build-reviewed |
+| M077064 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainPreimage` | volunteer-build-reviewed |
+| M077065 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainPreimageStatement` | volunteer-build-reviewed |
+| M077066 | P2271 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeFlag` | build-observed |
+| M077068 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearImage` | volunteer-build-reviewed |
+| M077069 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearImageStatement` | volunteer-build-reviewed |
+| M077071 | P2585 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEigenframeNearPointStatement` | volunteer-build-reviewed |
 | M077072 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEquationHolomorphicLimit` | volunteer-build-reviewed |
 | M077073 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineEquationHolomorphicLimitStatement` | volunteer-build-reviewed |
 | M077080 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffinePeriodCoordinateConjStatement` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M077867 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsoPolarisedOfCompatibleThickeningsSquare` | volunteer-build-reviewed |
 | M077869 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsomVec` | volunteer-build-reviewed |
 | M077870 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsometryOfConjSplit` | volunteer-build-reviewed |
-| M077872 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualLatticeVectorStatement` | volunteer-build-reviewed |
-| M077873 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrix` | volunteer-build-reviewed |
-| M077874 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrixStatement` | volunteer-build-reviewed |
-| M077875 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIwasawaDecompositionUpperUnitriangularInte` | volunteer-build-reviewed |
-| M077876 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIwasawaDecompositionUpperUnitriangularInteStatement` | volunteer-build-reviewed |
-| M077877 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsJW` | volunteer-build-reviewed |
-| M077880 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsK1PointCongruent` | volunteer-build-reviewed |
-| M077881 | P1964 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsK1PointCongruentStatement` | volunteer-build-reviewed |

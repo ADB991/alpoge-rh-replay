@@ -131,6 +131,7 @@
 | M003037 | P0891 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AssembleLattice` | build-observed |
 | M003038 | P0838 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BaseDataEmbeddingConj` | build-observed |
 | M003040 | P1028 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlocksUnique` | build-observed |
+| M003041 | P2289 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt` | volunteer-build-reviewed |
 | M003043 | P1712 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BrgStdR` | build-observed |
 | M003044 | P1472 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CGTrue` | volunteer-build-reviewed |
 | M003045 | P2093 | `Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CardLiesOverEqIndex` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M003604 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect` | volunteer-build-reviewed |
 | M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
-| M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108931 | P2619 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.PhiEx` | volunteer-build-reviewed |
+| M108932 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.PowOneInj` | volunteer-build-reviewed |
+| M108933 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ProModOfCtx2OfKPairOfStar` | volunteer-build-reviewed |
+| M108934 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.PtOver` | volunteer-build-reviewed |
+| M108937 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.PureDet` | volunteer-build-reviewed |
+| M108939 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.RedTan` | volunteer-build-reviewed |
+| M108940 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.RestrQ` | volunteer-build-reviewed |
+| M108942 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.RootSystemLinearProgramCases` | volunteer-build-reviewed |
+| M108943 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.SmallCo` | volunteer-build-reviewed |
 | M108944 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.SmallCont` | volunteer-build-reviewed |
 | M108945 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.SmallExt` | volunteer-build-reviewed |
 | M108947 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.SuppMono` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M109437 | P0317 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleProperBaseChange` | volunteer-build-reviewed |
 | M109438 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleTopology` | volunteer-build-reviewed |
 | M109439 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EvalExact` | volunteer-build-reviewed |
-| M109440 | P2116 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsGlRep` | volunteer-build-reviewed |
-| M109441 | P2811 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsLin` | volunteer-build-reviewed |
-| M109442 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceRes` | build-observed |
-| M109443 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceSnocCastSucc` | build-observed |
-| M109444 | P2075 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FinAllOf` | volunteer-build-reviewed |
-| M109445 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.Final` | volunteer-build-reviewed |
-| M109446 | P2525 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FlatOfDvr` | volunteer-build-reviewed |
-| M109447 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GFaceSnGCastSucc` | build-observed |
-| M109448 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GalAwayCongr` | volunteer-build-reviewed |

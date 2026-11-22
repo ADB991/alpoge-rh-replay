@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
 | M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
 | M003611 | P2736 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidCoords` | volunteer-build-reviewed |
 | M003612 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasSumZeroOfTwoLe` | build-observed |
@@ -89,6 +90,7 @@
 | M003731 | P0946 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsTaylorExpansionOrderOne` | build-observed |
 | M003735 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsTorsionFreeOfForallExists` | wave-reused |
 | M003736 | P0810 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsTrSelf` | build-observed |
+| M003738 | P2289 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsUnimodMod` | volunteer-build-reviewed |
 | M003739 | P1114 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsUnitMkOfFormallyUnramified` | wave-reused |
 | M003744 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsoRows` | build-observed |
 | M003750 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.KerIdealCompOfSurjective` | wave-reused |
@@ -150,6 +152,7 @@
 | M003858 | P1938 | `Development.AbelianVarietyTheory.Definitions.Divisors.PointShiftSt` | volunteer-build-reviewed |
 | M003859 | P1323 | `Development.AbelianVarietyTheory.Definitions.Divisors.PointSide` | build-observed |
 | M003860 | P1372 | `Development.AbelianVarietyTheory.Definitions.Divisors.PointsNonemptyUnitaryRankOne` | volunteer-build-reviewed |
+| M003861 | P2210 | `Development.AbelianVarietyTheory.Definitions.Divisors.PolyBetween` | volunteer-build-reviewed |
 | M003862 | P0865 | `Development.AbelianVarietyTheory.Definitions.Divisors.PreUMono` | build-observed |
 | M003864 | P0974 | `Development.AbelianVarietyTheory.Definitions.Divisors.PrimitiveCrystalHodgeLiftClasses` | wave-reused |
 | M003865 | P1029 | `Development.AbelianVarietyTheory.Definitions.Divisors.PrimitiveStructureSheafDegTwoVanish` | wave-reused |
@@ -177,6 +180,7 @@
 | M003899 | P1298 | `Development.AbelianVarietyTheory.Definitions.Divisors.SecondCountableTopologyOfIsProjOver` | wave-reused |
 | M003904 | P1271 | `Development.AbelianVarietyTheory.Definitions.Divisors.SimpleTwistedTraceFormulaStable` | build-observed |
 | M003905 | P1056 | `Development.AbelianVarietyTheory.Definitions.Divisors.SlopeTestRemainingChoices` | build-observed |
+| M003907 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.SmallFam` | volunteer-build-reviewed |
 | M003908 | P1271 | `Development.AbelianVarietyTheory.Definitions.Divisors.SmoothOfRelativeDimensionPspace` | wave-reused |
 | M003909 | P1143 | `Development.AbelianVarietyTheory.Definitions.Divisors.SmoothSpanLeMspan` | build-observed |
 | M003911 | P0784 | `Development.AbelianVarietyTheory.Definitions.Divisors.SplitDoublingNBlock` | wave-reused |
@@ -398,7 +402,3 @@
 | M004256 | P2662 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IwahoriAdmissibleSet` | volunteer-build-reviewed |
 | M004258 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetSplitAmb` | volunteer-build-reviewed |
 | M004262 | P0731 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JumpWindow` | volunteer-build-reviewed |
-| M004263 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.KaehlerOneFormsToExtensionDeRhamMulSelf` | build-observed |
-| M004269 | P1193 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot` | volunteer-build-reviewed |
-| M004271 | P1324 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MZmix` | build-observed |
-| M004276 | P1056 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ModelsOK` | volunteer-build-reviewed |

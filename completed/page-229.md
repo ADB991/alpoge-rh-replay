@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152809 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SubstZeroOfConstantCoeff` | wave-reused |
+| M152811 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TilInvariantLOf` | wave-reused |
+| M152813 | P1138 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TwoPlaces` | build-observed |
+| M152815 | P0636 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.LetterShift` | wave-reused |
+| M152816 | P0831 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.OneLetterGaussEvery` | build-observed |
+| M152821 | P1213 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation` | build-observed |
+| M152822 | P0603 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementA` | wave-reused |
+| M152823 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementB` | wave-reused |
+| M152824 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementC` | volunteer-build-reviewed |
 | M152828 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementK` | volunteer-build-reviewed |
 | M152831 | P0571 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.TrDual` | wave-reused |
 | M152833 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.TwoPlaces` | build-observed |
@@ -393,12 +402,3 @@
 | M153338 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NormUnitary` | build-observed |
 | M153339 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearCoefficients` | build-observed |
 | M153340 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisOneHolds` | build-observed |
-| M153341 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisTwo` | build-observed |
-| M153342 | P0328 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShortIndependentVectorsOfDualMinimum` | build-observed |
-| M153343 | P0376 | `Formalism.NormUnitaryBounds.NormUnitary` | build-observed |
-| M153344 | P0072 | `Formalism.NormUnitaryBounds.Statement` | build-observed |
-| M153345 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.ArchimedeanComponents` | volunteer-build-reviewed |
-| M153346 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.CentralIdempotentIntegral` | build-observed |
-| M153347 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.EigenbasisOfDistinctRoots` | wave-reused |
-| M153348 | P0151 | `Formalism.PadicSubsetSums.CentralIdempotents.FactorOverLocalSubalgebraMonic` | build-observed |
-| M153349 | P0215 | `Formalism.PadicSubsetSums.CentralIdempotents.GL2UnipotentBruhatDecomposition` | volunteer-build-reviewed |

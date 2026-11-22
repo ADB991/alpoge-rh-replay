@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142938 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.NilpotentHypotheses.PiZLin` | volunteer-build-reviewed |
+| M142940 | P0210 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.CbExistsChainOfGen` | volunteer-build-reviewed |
+| M142941 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.CbIsChainApply` | volunteer-build-reviewed |
+| M142942 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.ChainA` | volunteer-build-reviewed |
+| M142943 | P0270 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.ChainB` | volunteer-build-reviewed |
+| M142944 | P0373 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.DexBlockFrame` | volunteer-build-reviewed |
+| M142945 | P0420 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.DexGlobal` | volunteer-build-reviewed |
+| M142946 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.ExistsEquivLs` | volunteer-build-reviewed |
+| M142947 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.GradeColMatMulVec` | volunteer-build-reviewed |
 | M142948 | P0460 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.Imports` | volunteer-build-reviewed |
 | M142949 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.ImportsAlt` | volunteer-build-reviewed |
 | M142950 | P0067 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.IsChain` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M143961 | P1076 | `Formalism.AdicCompletionExports.AdicCompleteRingEquiv.IsAdicCompleteOfRingEquiv` | build-observed |
 | M143962 | P0966 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Imports` | build-observed |
 | M143963 | P0938 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Statement` | build-observed |
-| M143964 | P0801 | `Formalism.AdmissibleDesigns.AdmG5OfAdm51AdmG5` | build-observed |
-| M143965 | P1583 | `Formalism.AdmissibleDesigns.BKaClause` | build-observed |
-| M143966 | P1368 | `Formalism.AdmissibleDesigns.BkLocCol` | build-observed |
-| M143967 | P1344 | `Formalism.AdmissibleDesigns.BlockTwistedCyclotomic` | build-observed |
-| M143968 | P1344 | `Formalism.AdmissibleDesigns.CharacterTrivialWhereLattice` | build-observed |
-| M143969 | P1344 | `Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses` | build-observed |
-| M143970 | P1368 | `Formalism.AdmissibleDesigns.CocZeroOfUnr` | build-observed |
-| M143971 | P1440 | `Formalism.AdmissibleDesigns.CoefChangeRec` | build-observed |
-| M143972 | P1344 | `Formalism.AdmissibleDesigns.CohomZeroEquivContinuous` | build-observed |

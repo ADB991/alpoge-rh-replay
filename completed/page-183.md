@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121456 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedStOfTwoFormCohSt` | volunteer-build-reviewed |
+| M121457 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSubsetSupportProper` | wave-reused |
+| M121458 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemOpenIdealContainment` | wave-reused |
+| M121459 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemOpenIdealContainmentStatement` | wave-reused |
+| M121460 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemPullback` | wave-reused |
+| M121461 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemPullbackStatement` | wave-reused |
+| M121462 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionOpen` | wave-reused |
+| M121463 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionOpenStatement` | wave-reused |
+| M121464 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionSubobject` | wave-reused |
 | M121465 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionSubobjectStatement` | wave-reused |
 | M121466 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedUnipotentCompactExhaustion` | volunteer-build-reviewed |
 | M121467 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosureConjugationInvariant` | build-observed |
@@ -393,12 +402,3 @@
 | M122024 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirReal` | build-observed |
 | M122025 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirRealStatement` | build-observed |
 | M122026 | P0879 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolution` | build-observed |
-| M122027 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolutionStatement` | build-observed |
-| M122028 | P1464 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompat` | wave-reused |
-| M122029 | P1492 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompatStatement` | wave-reused |
-| M122036 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CotangentLocalOpenChartExists` | volunteer-build-reviewed |
-| M122037 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CotangentLocalOpenChartExistsStatement` | volunteer-build-reviewed |
-| M122038 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountIsInvInvariant` | volunteer-build-reviewed |
-| M122039 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountLeOfDvd` | volunteer-build-reviewed |
-| M122040 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountableMatricesAndCosets` | volunteer-build-reviewed |
-| M122042 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountableOfNumberField` | volunteer-build-reviewed |

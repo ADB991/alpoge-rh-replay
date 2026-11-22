@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114537 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCountEx` | wave-reused |
+| M114538 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCountWt` | wave-reused |
+| M114539 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCoverOne` | wave-reused |
+| M114540 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCycComp` | wave-reused |
+| M114541 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PDSLoc` | wave-reused |
+| M114542 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PDSOne` | wave-reused |
+| M114543 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PExtRes` | wave-reused |
+| M114544 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PFamBC` | wave-reused |
+| M114545 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PFamComp` | wave-reused |
 | M114546 | P0561 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PFamHom` | wave-reused |
 | M114547 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PFamLin` | wave-reused |
 | M114548 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PFamPush` | wave-reused |
@@ -393,12 +402,3 @@
 | M114979 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlkB` | volunteer-build-reviewed |
 | M114980 | P0627 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlochKatoDuality` | wave-reused |
 | M114981 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockConjugation` | volunteer-build-reviewed |
-| M114982 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockDiagonalLeviEmbedding` | volunteer-build-reviewed |
-| M114983 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockFourMatrices` | volunteer-build-reviewed |
-| M114984 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockHomomorphism` | volunteer-build-reviewed |
-| M114985 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BorelApproximation` | volunteer-build-reviewed |
-| M114986 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BoundedSums` | wave-reused |
-| M114987 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BoxBounds` | volunteer-build-reviewed |
-| M114988 | P2470 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BranchingSmooth` | volunteer-build-reviewed |
-| M114989 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BurnsideEnd` | volunteer-build-reviewed |
-| M114990 | P0714 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.CanonicalTranslateJets` | build-observed |

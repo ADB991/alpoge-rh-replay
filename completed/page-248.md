@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161695 | P0425 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementAB` | wave-reused |
+| M161696 | P0158 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementC` | build-observed |
+| M161697 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementE` | wave-reused |
+| M161698 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementG` | wave-reused |
+| M161699 | P0669 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementGK` | wave-reused |
+| M161700 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementH` | wave-reused |
+| M161701 | P0639 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementJ` | wave-reused |
+| M161702 | P0425 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementM` | wave-reused |
+| M161703 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementN` | volunteer-build-reviewed |
 | M161704 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementW` | wave-reused |
 | M161706 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.ThmSUniform` | wave-reused |
 | M161707 | P0606 | `Formalism.ThetaSupremumBounds.DivIneqExplicit6` | build-observed |
@@ -393,12 +402,3 @@
 | M162100 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.SaturationIntersectionHolds` | wave-reused |
 | M162101 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ToWachModuleHolds` | wave-reused |
 | M162102 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.WachTopStatementHolds` | wave-reused |
-| M162103 | P0080 | `Formalism.WachModuleLifts.Statement` | wave-reused |
-| M162104 | P0080 | `Formalism.WachModuleLifts.StatementW` | wave-reused |
-| M162105 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCLower` | wave-reused |
-| M162106 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharp` | wave-reused |
-| M162107 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpG` | wave-reused |
-| M162108 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddG` | wave-reused |
-| M162109 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCSharpOddUnitInvHolds` | wave-reused |
-| M162110 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaHLift` | wave-reused |
-| M162111 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.WachModuleStatementHolds` | wave-reused |

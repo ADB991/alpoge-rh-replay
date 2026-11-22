@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046925 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfPsiOn` | volunteer-build-reviewed |
+| M046926 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOn` | volunteer-build-reviewed |
+| M046927 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOnStatement` | volunteer-build-reviewed |
+| M046928 | P2459 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUniv` | volunteer-build-reviewed |
+| M046929 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackGenerating` | volunteer-build-reviewed |
+| M046930 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackGeneratingStatement` | volunteer-build-reviewed |
 | M046931 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackReadTop` | volunteer-build-reviewed |
 | M046932 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnUnivOfPullbackReadTopStatement` | volunteer-build-reviewed |
 | M046933 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnramifiedAlmostAllPlaces` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M047601 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMap` | volunteer-build-reviewed |
 | M047602 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMapStatement` | volunteer-build-reviewed |
 | M047604 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIff` | volunteer-build-reviewed |
-| M047605 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIffStatement` | volunteer-build-reviewed |
-| M047606 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinates` | volunteer-build-reviewed |
-| M047607 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinatesStatement` | volunteer-build-reviewed |
-| M047608 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointFinitePartIsotropicPairing` | volunteer-build-reviewed |
-| M047612 | P1088 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsDenseInWall` | build-observed |
-| M047613 | P1119 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalPointsDenseInWallStatement` | build-observed |

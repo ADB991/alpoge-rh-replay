@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102580 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrNoeth` | wave-reused |
+| M102581 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Graded` | wave-reused |
+| M102613 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GradedModulesLength.MainCotSpan` | worker-kernel-checked |
+| M102626 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GradedModulesLength.ToDegInjective` | volunteer-build-reviewed |
+| M102632 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhGroup` | volunteer-build-reviewed |
+| M102633 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhSection` | volunteer-build-reviewed |
+| M102634 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhSmall` | volunteer-build-reviewed |
+| M102635 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HomogOfStable` | wave-reused |
+| M102636 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HomogSpan` | volunteer-build-reviewed |
 | M102638 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.KerCoef` | volunteer-build-reviewed |
 | M102639 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.KerGen` | volunteer-build-reviewed |
 | M102640 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.KerPow` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M103283 | P0450 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZeroOfNeg` | wave-reused |
 | M103284 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZpowWNe` | wave-reused |
 | M103291 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GLinkQuot` | volunteer-build-reviewed |
-| M103297 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.H2RightExactModL` | volunteer-build-reviewed |
-| M103299 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.InflKer` | volunteer-build-reviewed |
-| M103300 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.IsClosedOfClosedFiniteIndex` | volunteer-build-reviewed |
-| M103301 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LevelS` | volunteer-build-reviewed |
-| M103302 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.LocEuler` | volunteer-build-reviewed |
-| M103303 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.PhiGam` | volunteer-build-reviewed |
-| M103305 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.PtTail` | volunteer-build-reviewed |
-| M103307 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.StrGen` | volunteer-build-reviewed |
-| M103314 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.BernoulliNumbers.BOneSum` | volunteer-build-reviewed |

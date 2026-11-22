@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051151 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOne` | volunteer-build-reviewed |
+| M051152 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOneStatement` | volunteer-build-reviewed |
+| M051154 | P1304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharFiniteSuperDiagonalSumIntegralStatement` | volunteer-build-reviewed |
+| M051155 | P1401 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacter` | volunteer-build-reviewed |
+| M051156 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacterNontrivialAtPlaces` | volunteer-build-reviewed |
+| M051157 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharacterNontrivialAtPlacesStatement` | volunteer-build-reviewed |
 | M051158 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAffineOpenRingPolynomialEquiv` | build-observed |
 | M051159 | P0520 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAffineOpenRingPolynomialEquivStatement` | build-observed |
 | M051160 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardCharContinuousNontrivial` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M051871 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExists` | volunteer-build-reviewed |
 | M051872 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExistsStatement` | volunteer-build-reviewed |
 | M051873 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticZmodLift` | volunteer-build-reviewed |
-| M051874 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChains` | volunteer-build-reviewed |
-| M051875 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChainsStatement` | volunteer-build-reviewed |
-| M051876 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SzJetConj` | volunteer-build-reviewed |
-| M051879 | P1540 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.T2SpaceFiniteAdeleRing` | volunteer-build-reviewed |
-| M051881 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.T2SpaceTensorRatFiniteAlgebraModuleTopology` | volunteer-build-reviewed |
-| M051882 | P0115 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TC` | volunteer-build-reviewed |

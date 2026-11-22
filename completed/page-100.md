@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068426 | P0764 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqTopOfSpanImage` | volunteer-build-reviewed |
+| M068427 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfAlgHomEqMul` | volunteer-build-reviewed |
+| M068428 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfComm` | build-observed |
+| M068430 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfEvalNatCastAdd` | volunteer-build-reviewed |
+| M068433 | P0307 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfForallMemFilV` | volunteer-build-reviewed |
+| M068434 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfFrobeniusPeriodicMemDeRhamFilZero` | build-observed |
 | M068435 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfFrobeniusPeriodicMemDeRhamFilZeroStatement` | build-observed |
 | M068436 | P1124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfInAMul` | build-observed |
 | M068440 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfSumMulEmbeddingsEqZero` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M069096 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPrescribedUnramifiedKummer` | wave-reused |
 | M069098 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChange` | volunteer-build-reviewed |
 | M069099 | P1672 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeStatement` | volunteer-build-reviewed |
-| M069100 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwist` | volunteer-build-reviewed |
-| M069101 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwistStatement` | volunteer-build-reviewed |
-| M069104 | P2696 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisSide` | volunteer-build-reviewed |
-| M069105 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisSideStatement` | volunteer-build-reviewed |
-| M069106 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGamGamKTorsion` | build-observed |
-| M069107 | P0899 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGammaLayerPadicCoordinates` | build-observed |

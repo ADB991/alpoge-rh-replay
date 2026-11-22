@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092849 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExpStatement` | build-observed |
+| M092850 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacua` | volunteer-build-reviewed |
+| M092851 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacuaStatement` | volunteer-build-reviewed |
+| M092854 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleNegSpaceUnitaryElementHeq` | volunteer-build-reviewed |
+| M092855 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledFirstFactorMemDoubledLatticeStabilizer` | volunteer-build-reviewed |
+| M092856 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledFirstFactorMemDoubledLatticeStabilizerStatement` | volunteer-build-reviewed |
+| M092857 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledLatticePrimitiveIsotropicFrameCompletion` | build-observed |
+| M092858 | P0739 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledLatticePrimitiveIsotropicFrameCompletionStatement` | build-observed |
+| M092859 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledStabilizerGeneratedDiagAntidiagSplitPlace` | volunteer-build-reviewed |
 | M092860 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledStabilizerGeneratedDiagAntidiagSplitPlaceStatement` | volunteer-build-reviewed |
 | M092861 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledVacuumEigenvalueEqOneSplitPlace` | volunteer-build-reviewed |
 | M092862 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubledVacuumEigenvalueEqOneSplitPlaceStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M093414 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteA` | volunteer-build-reviewed |
 | M093415 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteAStatement` | volunteer-build-reviewed |
 | M093417 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixed` | volunteer-build-reviewed |
-| M093418 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixedStatement` | volunteer-build-reviewed |
-| M093420 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsAdelicGlueVectorOfGlueBaseDataStatement` | volunteer-build-reviewed |
-| M093421 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsBorelSphRevInv` | volunteer-build-reviewed |
-| M093423 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsCharFnExt` | volunteer-build-reviewed |
-| M093425 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsGridFr` | volunteer-build-reviewed |
-| M093426 | P0195 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApply` | volunteer-build-reviewed |
-| M093427 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApplyStatement` | volunteer-build-reviewed |
-| M093428 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsKActOfStable` | volunteer-build-reviewed |
-| M093429 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsLocalLevelAtPrimeOfLevelDatum` | volunteer-build-reviewed |

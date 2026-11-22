@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M018289 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientModelTopClassesMap` | volunteer-build-reviewed |
+| M018290 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientModelTopClassesMapStatement` | volunteer-build-reviewed |
+| M018292 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientReductionFirstChernClassTateTwistAltI` | volunteer-build-reviewed |
+| M018302 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealOfPowerSeriesIffImage` | build-observed |
+| M018303 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealOfPowerSeriesIffImageStatement` | build-observed |
 | M018304 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealSolutionOfUnipotentSeriesMatrix` | build-observed |
 | M018305 | P0948 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealSolutionOfUnipotentSeriesMatrixStatement` | build-observed |
 | M018306 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoequifiberedGeneratedSubalgebraQuasiCoherent` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M019016 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePart` | volunteer-build-reviewed |
 | M019017 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePartStatement` | volunteer-build-reviewed |
 | M019018 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesTheta` | volunteer-build-reviewed |
-| M019019 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesThetaStatement` | volunteer-build-reviewed |
-| M019020 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationThetaEquivariant` | volunteer-build-reviewed |
-| M019022 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBExistsNonzeroCoefficient` | volunteer-build-reviewed |
-| M019023 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBExistsNonzeroCoefficientStatement` | volunteer-build-reviewed |
-| M019026 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBFlipShifted` | volunteer-build-reviewed |

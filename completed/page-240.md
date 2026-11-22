@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157852 | P0969 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealOfSkeleton` | wave-reused |
+| M157853 | P1080 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RecursionInclusionExceptional` | wave-reused |
+| M157854 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RegularCuspidalTrace` | wave-reused |
+| M157855 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RowGenDerivative` | wave-reused |
+| M157856 | P0697 | `Formalism.PieriBlockIdeals.PieriColumnMinors.SL2BinomialLattices` | wave-reused |
+| M157857 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.SharperSizeNeedsMleKFalse` | wave-reused |
+| M157858 | P0379 | `Formalism.PieriBlockIdeals.PieriColumnMinors.Symmetrization` | wave-reused |
+| M157859 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.UnitNormBounds` | wave-reused |
+| M157860 | P0860 | `Formalism.PieriBlockIdeals.PieriColumnMinors.WeightBounds` | wave-reused |
 | M157861 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.WeightExchangeBoundHolds` | wave-reused |
 | M157862 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.WeightExchangeChainHolds` | wave-reused |
 | M157863 | P0379 | `Formalism.PieriBlockIdeals.PieriColumnMinors.WorkedExample` | wave-reused |
@@ -393,12 +402,3 @@
 | M158261 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellFin` | build-observed |
 | M158262 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellGeo` | build-observed |
 | M158263 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellInv` | build-observed |
-| M158264 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellMono` | build-observed |
-| M158265 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellPt` | build-observed |
-| M158266 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellSchur` | build-observed |
-| M158267 | P1023 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CfgTopFalseIff` | build-observed |
-| M158268 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.ClauseAOfIdentityFlag` | build-observed |
-| M158269 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CriticalLevelLowOfRefined` | build-observed |
-| M158270 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.DecayHypothesisOfLargeConstants` | build-observed |
-| M158271 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.DegreeRatioFormulaStatement` | build-observed |
-| M158272 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.FamilyCriticalLevelLowerBound` | build-observed |

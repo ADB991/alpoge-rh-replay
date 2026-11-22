@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131629 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonzeroSectionGenericFibre` | volunteer-build-reviewed |
+| M131632 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariant` | build-observed |
+| M131633 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariantStatement` | build-observed |
+| M131634 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalAffineChartExists` | volunteer-build-reviewed |
+| M131635 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalAffineChartExistsStatement` | volunteer-build-reviewed |
+| M131638 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalCptIffNormalScheme` | volunteer-build-reviewed |
+| M131639 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalCptIffNormalSchemeStatement` | volunteer-build-reviewed |
+| M131644 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalizedDegreeGramDet` | volunteer-build-reviewed |
+| M131646 | P0456 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalizedMinorExtends` | build-observed |
 | M131647 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormalizedMinorExtendsStatement` | build-observed |
 | M131648 | P0415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NotInFibreOfIsUnit` | volunteer-build-reviewed |
 | M131649 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NumberFieldEmbeddingsIntoCpIntegral` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M132311 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFargues` | volunteer-build-reviewed |
 | M132312 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFarguesStatement` | volunteer-build-reviewed |
 | M132315 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeff` | volunteer-build-reviewed |
-| M132316 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeffStatement` | volunteer-build-reviewed |
-| M132317 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHolds` | volunteer-build-reviewed |
-| M132318 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHoldsStatement` | volunteer-build-reviewed |
-| M132319 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistInverseIso` | volunteer-build-reviewed |
-| M132320 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistInverseIsoStatement` | volunteer-build-reviewed |
-| M132321 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistIsoNonempty` | build-observed |
-| M132322 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistIsoNonemptyStatement` | build-observed |
-| M132323 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistModelsCommonPoint` | volunteer-build-reviewed |
-| M132324 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistModelsCommonPointStatement` | volunteer-build-reviewed |

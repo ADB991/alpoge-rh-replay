@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109440 | P2116 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsGlRep` | volunteer-build-reviewed |
+| M109441 | P2811 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsLin` | volunteer-build-reviewed |
+| M109442 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceRes` | build-observed |
+| M109443 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceSnocCastSucc` | build-observed |
+| M109444 | P2075 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FinAllOf` | volunteer-build-reviewed |
+| M109445 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.Final` | volunteer-build-reviewed |
+| M109446 | P2525 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FlatOfDvr` | volunteer-build-reviewed |
+| M109447 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GFaceSnGCastSucc` | build-observed |
+| M109448 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GalAwayCongr` | volunteer-build-reviewed |
 | M109449 | P0045 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.GoodRoot` | wave-reused |
 | M109451 | P0490 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.IsChart` | wave-reused |
 | M109452 | P0262 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.LiftIntegral` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M110013 | P2150 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsAlt` | volunteer-build-reviewed |
 | M110014 | P2140 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsBis` | volunteer-build-reviewed |
 | M110015 | P2129 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsTer` | volunteer-build-reviewed |
-| M110016 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetDeg` | volunteer-build-reviewed |
-| M110017 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetInt` | volunteer-build-reviewed |
-| M110018 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetOpMulTab` | volunteer-build-reviewed |
-| M110019 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.KerLe` | volunteer-build-reviewed |
-| M110020 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.KerStd` | volunteer-build-reviewed |
-| M110021 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatCoordA` | volunteer-build-reviewed |
-| M110022 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatCoordB` | volunteer-build-reviewed |
-| M110023 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LatMove` | volunteer-build-reviewed |
-| M110024 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.LogSum` | volunteer-build-reviewed |

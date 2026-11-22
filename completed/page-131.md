@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093418 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixedStatement` | volunteer-build-reviewed |
+| M093420 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsAdelicGlueVectorOfGlueBaseDataStatement` | volunteer-build-reviewed |
+| M093421 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsBorelSphRevInv` | volunteer-build-reviewed |
+| M093423 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsCharFnExt` | volunteer-build-reviewed |
+| M093425 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsGridFr` | volunteer-build-reviewed |
+| M093426 | P0195 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApply` | volunteer-build-reviewed |
+| M093427 | P0257 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApplyStatement` | volunteer-build-reviewed |
+| M093428 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsKActOfStable` | volunteer-build-reviewed |
+| M093429 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsLocalLevelAtPrimeOfLevelDatum` | volunteer-build-reviewed |
 | M093431 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsRepsOfFg` | volunteer-build-reviewed |
 | M093433 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsRigIsoOfBaseChangeStatement` | volunteer-build-reviewed |
 | M093434 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsRigIsoOfIsGen` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M093957 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLaw` | volunteer-build-reviewed |
 | M093958 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLawStatement` | volunteer-build-reviewed |
 | M093959 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinear` | volunteer-build-reviewed |
-| M093960 | P2139 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinearStatement` | volunteer-build-reviewed |
-| M093961 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalCoeffSpan` | volunteer-build-reviewed |
-| M093962 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalInvariantSubspace` | volunteer-build-reviewed |
-| M093963 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalInvariantSubspaceStatement` | volunteer-build-reviewed |
-| M093964 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalModel` | volunteer-build-reviewed |
-| M093966 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingIdempotentPatchInFrameStatement` | volunteer-build-reviewed |
-| M093967 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingMemStabilizerAuxiliaryLattice` | volunteer-build-reviewed |
-| M093968 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingMemStabilizerAuxiliaryLatticeStatement` | volunteer-build-reviewed |
-| M093969 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupActionPreservesPrincipalFlagMultiplic` | volunteer-build-reviewed |

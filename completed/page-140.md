@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098139 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitarySatakeTransformStarParameterEqOfUnitarisa` | volunteer-build-reviewed |
+| M098143 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusCompactQuotientFiniteVolume` | volunteer-build-reviewed |
+| M098145 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusEllipticElementsOfLocalLatticeIsomet` | volunteer-build-reviewed |
+| M098151 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitriangularMapInduction` | volunteer-build-reviewed |
+| M098152 | P1363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnrOffOne` | volunteer-build-reviewed |
+| M098153 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedCharSumsStrictConeVanishEach` | volunteer-build-reviewed |
+| M098155 | P0904 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedDoublingIntegralInertPlace` | build-observed |
+| M098157 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedDoublingSumGLConvergentLValue` | volunteer-build-reviewed |
+| M098160 | P2658 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedPlacesFiniteSetStatement` | volunteer-build-reviewed |
 | M098161 | P2629 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedPlacesInvariant` | volunteer-build-reviewed |
 | M098162 | P2640 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedPlacesInvariantStatement` | volunteer-build-reviewed |
 | M098164 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedPlacesSphericalStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M098719 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsAffineOpen` | build-observed |
 | M098720 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsMonHomSplitTorusOfSqEqBot` | build-observed |
 | M098721 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsProdB` | volunteer-build-reviewed |
-| M098722 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsPullDegId` | volunteer-build-reviewed |
-| M098723 | P1232 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickenings` | wave-reused |
-| M098724 | P1260 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickeningsStatement` | wave-reused |
-| M098725 | P1072 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRing` | wave-reused |
-| M098726 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingAutOfRelAmple` | build-observed |
-| M098727 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingEquiv` | wave-reused |
-| M098728 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfSectionRingEquivStatement` | wave-reused |
-| M098731 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLbIsoPullAffineSpace` | build-observed |
-| M098732 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsLeOnFinset` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M030390 | P2053 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShifts` | volunteer-build-reviewed |
+| M030391 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShiftsStatement` | volunteer-build-reviewed |
+| M030394 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryStabilizerTransitionSelfDualFrames` | volunteer-build-reviewed |
+| M030395 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSetupIdealOverComponent` | volunteer-build-reviewed |
+| M030396 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSetupIdealOverComponentStatement` | volunteer-build-reviewed |
 | M030397 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSystemClassicalTraitsClosedPoi` | volunteer-build-reviewed |
 | M030398 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryThetaSystemClassicalTraitsClosedPoiStatement` | volunteer-build-reviewed |
 | M030399 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryTraitCentredClosedPoint` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M031021 | P1590 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPtHomApply` | volunteer-build-reviewed |
 | M031022 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRel` | volunteer-build-reviewed |
 | M031024 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelG` | volunteer-build-reviewed |
-| M031025 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelOfEv` | volunteer-build-reviewed |
-| M031026 | P1276 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRepApply` | build-observed |
-| M031027 | P0920 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinSumSmoothSectionDbarEnergyLe` | wave-reused |
-| M031028 | P0949 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinSumSmoothSectionDbarEnergyLeStatement` | wave-reused |
-| M031034 | P0518 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitaryOfLocallyBijectiveFromFilteredFunctor` | wave-reused |

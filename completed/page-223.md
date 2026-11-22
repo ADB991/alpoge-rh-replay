@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148808 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfSubIntegral` | build-observed |
+| M148809 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LinearIndependentProdRenameOfCard` | build-observed |
+| M148810 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LocalBasisChangeDecompCompatible` | build-observed |
+| M148811 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.MetricDisjointSupportOrthogonal` | build-observed |
+| M148812 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwDecomp` | build-observed |
+| M148813 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLcInt` | build-observed |
+| M148814 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocBases` | build-observed |
+| M148815 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocElim` | build-observed |
+| M148816 | P0967 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGen` | build-observed |
 | M148817 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocGlob` | build-observed |
 | M148818 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PBwLocInd` | build-observed |
 | M148819 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.PDnDil` | build-observed |
@@ -393,12 +402,3 @@
 | M149404 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket` | build-observed |
 | M149405 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistGOfFramesExist` | build-observed |
 | M149406 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistOfDiagonalTypePlaces` | build-observed |
-| M149407 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FrmCase` | build-observed |
-| M149408 | P1390 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.InitialDataUntwistedOfModelChoice` | build-observed |
-| M149409 | P1415 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalFrameClauses` | build-observed |
-| M149410 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalisedAdaptedVectorZero` | build-observed |
-| M149411 | P1294 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.SelfDualFramesExistOfDiagonal` | build-observed |
-| M149412 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.GramCEqTranspose` | build-observed |
-| M149414 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.MinfUnique` | build-observed |
-| M149415 | P0327 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.MinfUniqueP` | build-observed |
-| M149417 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.HaarTransfer.SobLeafP` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M023032 | P1031 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstant` | build-observed |
+| M023033 | P1059 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstantStatement` | build-observed |
+| M023034 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvTEqTerm` | volunteer-build-reviewed |
+| M023035 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalAtFnEqValAt` | build-observed |
+| M023037 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalAtNatural` | build-observed |
 | M023042 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalInvarianceSecondOfHyp` | volunteer-build-reviewed |
 | M023043 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalInvarianceSecondOfPrintsStatement` | volunteer-build-reviewed |
 | M023044 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalMapExistsScalarFactor` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M023668 | P2035 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenKodairaSpencerLeftInverseStatement` | volunteer-build-reviewed |
 | M023673 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSectionsDistinctInFibres` | volunteer-build-reviewed |
 | M023675 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSmoothOfRelativeDimensionOfGeneri` | volunteer-build-reviewed |
-| M023679 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisAdaptedToCartanInvolution` | volunteer-build-reviewed |
-| M023680 | P0103 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisAdaptedToCartanInvolutionStatement` | volunteer-build-reviewed |
-| M023683 | P2596 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisIntKQ` | volunteer-build-reviewed |
-| M023685 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisLineBundleSectionsProjectiveOverDvr` | volunteer-build-reviewed |
-| M023687 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisModN` | volunteer-build-reviewed |

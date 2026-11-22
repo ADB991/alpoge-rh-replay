@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M031025 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelOfEv` | volunteer-build-reviewed |
+| M031026 | P1276 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRepApply` | build-observed |
+| M031027 | P0920 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinSumSmoothSectionDbarEnergyLe` | wave-reused |
+| M031028 | P0949 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinSumSmoothSectionDbarEnergyLeStatement` | wave-reused |
+| M031034 | P0518 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitaryOfLocallyBijectiveFromFilteredFunctor` | wave-reused |
 | M031035 | P0552 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitaryOfLocallyBijectiveFromFilteredFunctorStatement` | wave-reused |
 | M031036 | P1172 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitarySheafContinuousBaseChangeLevelwiseQcqs` | build-observed |
 | M031037 | P1196 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitarySheafContinuousBaseChangeLevelwiseQcqsStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M031675 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMul` | volunteer-build-reviewed |
 | M031676 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMulStatement` | volunteer-build-reviewed |
 | M031677 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrder` | volunteer-build-reviewed |
-| M031678 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrderStatement` | volunteer-build-reviewed |
-| M031682 | P2511 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfNotDominantCharts` | volunteer-build-reviewed |
-| M031684 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfVolumeImageEqZero` | volunteer-build-reviewed |
-| M031687 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMapIdempotentEqRankAtStalk` | volunteer-build-reviewed |
-| M031688 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeMapIdempotentEqRankAtStalkStatement` | volunteer-build-reviewed |

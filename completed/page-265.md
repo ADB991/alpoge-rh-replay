@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171439 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt` | wave-reused |
+| M171442 | P0755 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts` | wave-reused |
+| M171443 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLinePartitionContinuousCoe` | wave-reused |
+| M171444 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PshShift` | wave-reused |
+| M171445 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftA` | wave-reused |
+| M171446 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PshShiftB` | wave-reused |
+| M171447 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Pullback` | wave-reused |
+| M171448 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PushAFinsumInter` | wave-reused |
+| M171449 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PushBForward` | wave-reused |
 | M171450 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PushLocalStatement` | wave-reused |
 | M171451 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.SNCAtlas` | wave-reused |
 | M171452 | P0612 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Stokes` | wave-reused |
@@ -393,12 +402,3 @@
 | M171910 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStA` | wave-reused |
 | M171911 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStB` | wave-reused |
 | M171912 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidSt` | wave-reused |
-| M171913 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidStA` | wave-reused |
-| M171914 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.GramSt` | volunteer-build-reviewed |
-| M171917 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.HadZStA` | volunteer-build-reviewed |
-| M171918 | P0343 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.InhabSt` | wave-reused |
-| M171919 | P0389 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.PosSemidefOfForallCombination` | volunteer-build-reviewed |
-| M171920 | P0090 | `ReciprocityTheory.GeometryOfNumbers.MatrixArithmetic.WeakMatSt` | volunteer-build-reviewed |
-| M171921 | P0090 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.BergmanDefs` | pilot-reused |
-| M171922 | P0233 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.BergmanDerivSt` | pilot-reused |
-| M171923 | P0168 | `ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.BergmanSt` | pilot-reused |

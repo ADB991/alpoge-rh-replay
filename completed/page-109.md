@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074598 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModel` | volunteer-build-reviewed |
+| M074599 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModelStatement` | volunteer-build-reviewed |
+| M074600 | P1543 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorSchroedingerImageAtLevelPrime` | volunteer-build-reviewed |
+| M074604 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfPow` | build-observed |
+| M074605 | P1177 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfTiltCompatibleSequence` | build-observed |
+| M074606 | P1201 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaOfTiltCompatibleSequenceStatement` | build-observed |
+| M074610 | P2616 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesBaseTwistedUniversalRationalStatement` | volunteer-build-reviewed |
+| M074611 | P2628 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralCoreSupLatticeCombination` | volunteer-build-reviewed |
 | M074613 | P2521 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralFormsEqSpanDedekindCoefRing` | volunteer-build-reviewed |
 | M074615 | P2003 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralSourceTranslationRightMul` | volunteer-build-reviewed |
 | M074616 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralSourceTranslationRightMulStatement` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M075323 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevelsStatement` | volunteer-build-reviewed |
 | M075325 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneAboveStatement` | volunteer-build-reviewed |
 | M075326 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecial` | build-observed |
-| M075327 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecialStatement` | volunteer-build-reviewed |
-| M075328 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWild` | volunteer-build-reviewed |
-| M075329 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWildStatement` | volunteer-build-reviewed |
-| M075330 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneInductionPrinciple` | volunteer-build-reviewed |
-| M075332 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneLabelTransportDualInverseRoots` | volunteer-build-reviewed |
-| M075333 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneLabelTransportDualInverseRootsStatement` | volunteer-build-reviewed |
-| M075334 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneOfFiniteImage` | volunteer-build-reviewed |
-| M075343 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilGroupAtPlaceDenseInDecompositionGroupStatement` | volunteer-build-reviewed |

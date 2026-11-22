@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095442 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulus` | volunteer-build-reviewed |
+| M095443 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulusStatement` | volunteer-build-reviewed |
+| M095444 | P2547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetsOfOrthogonalSum` | volunteer-build-reviewed |
+| M095445 | P2568 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetsOfOrthogonalSumStatement` | volunteer-build-reviewed |
+| M095446 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JhMultSubAddQuot` | build-observed |
+| M095447 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultNormalisedInductionExact` | volunteer-build-reviewed |
+| M095448 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultNormalisedInductionExactStatement` | volunteer-build-reviewed |
+| M095449 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityJacquetEqBorelJacquetOfS` | volunteer-build-reviewed |
+| M095450 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityJacquetEqBorelJacquetOfSStatement` | volunteer-build-reviewed |
 | M095452 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityLeviCharGeometricLemmaCeStatement` | volunteer-build-reviewed |
 | M095453 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityNormalizedBorelJacquetUn` | volunteer-build-reviewed |
 | M095454 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JordanHolderMultiplicityNormalizedBorelJacquetUnStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M095896 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSum` | volunteer-build-reviewed |
 | M095897 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSumStatement` | volunteer-build-reviewed |
 | M095898 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentity` | volunteer-build-reviewed |
-| M095899 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentityStatement` | volunteer-build-reviewed |
-| M095901 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalSumStatement` | volunteer-build-reviewed |
-| M095902 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitIdentity` | volunteer-build-reviewed |
-| M095903 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitIdentityStatement` | volunteer-build-reviewed |
-| M095904 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitKernel` | volunteer-build-reviewed |
-| M095905 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitKernelStatement` | volunteer-build-reviewed |
-| M095906 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitSum` | volunteer-build-reviewed |
-| M095907 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitSumStatement` | volunteer-build-reviewed |
-| M095909 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsRealFiniteStatement` | volunteer-build-reviewed |

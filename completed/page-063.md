@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042773 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedScalarStatement` | volunteer-build-reviewed |
+| M042778 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterCondition` | volunteer-build-reviewed |
+| M042779 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterConditionStatement` | volunteer-build-reviewed |
+| M042781 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleCasimirCompatibleStatement` | volunteer-build-reviewed |
+| M042784 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleFiniteMapsForallPlaces` | volunteer-build-reviewed |
+| M042785 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleFiniteMapsForallPlacesStatement` | volunteer-build-reviewed |
 | M042790 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleGlobalProductFormula` | volunteer-build-reviewed |
 | M042791 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleGlobalProductFormulaStatement` | volunteer-build-reviewed |
 | M042792 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleGlobalStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M043445 | P0734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticCoverWeilRepresentationStatement` | build-observed |
 | M043446 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalised` | build-observed |
 | M043447 | P0681 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalisedStatement` | build-observed |
-| M043448 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDual` | volunteer-build-reviewed |
-| M043449 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDualStatement` | volunteer-build-reviewed |
-| M043450 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticRepresentationHolds` | build-observed |
-| M043451 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticTransfer` | volunteer-build-reviewed |
-| M043452 | P0399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricBundleIsomorphismFlat` | build-observed |
-| M043453 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetricBundleIsomorphismFlatStatement` | build-observed |

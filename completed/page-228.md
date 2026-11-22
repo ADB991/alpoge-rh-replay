@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152244 | P0570 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.GoodRecipPf` | build-observed |
+| M152247 | P2186 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.HaarMeasureTransportInvariant` | build-observed |
+| M152248 | P2165 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.HaarTrHolds` | build-observed |
+| M152250 | P0968 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.HostUnram` | build-observed |
+| M152251 | P1855 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.HsNormSqEqHilbertSchmidtSq` | build-observed |
+| M152253 | P1529 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.IotaKerCore` | build-observed |
+| M152254 | P1811 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.IotaKerHolds` | build-observed |
+| M152256 | P2119 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.IsLowUnitHBaseVector` | build-observed |
+| M152257 | P1710 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.JointAmplitudePoints` | build-observed |
 | M152258 | P2265 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.KFinDensePf` | volunteer-build-reviewed |
 | M152259 | P1442 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.KerSideCut` | build-observed |
 | M152260 | P1189 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.KernelOfEmbedding` | build-observed |
@@ -393,12 +402,3 @@
 | M152803 | P1189 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.OneLetterGaussEveryOf` | build-observed |
 | M152804 | P1165 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.OneLetterGaussFinalOf` | build-observed |
 | M152808 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SubstFirstCoboundaryThree` | wave-reused |
-| M152809 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SubstZeroOfConstantCoeff` | wave-reused |
-| M152811 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TilInvariantLOf` | wave-reused |
-| M152813 | P1138 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TwoPlaces` | build-observed |
-| M152815 | P0636 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.LetterShift` | wave-reused |
-| M152816 | P0831 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.OneLetterGaussEvery` | build-observed |
-| M152821 | P1213 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.SingleLetterBiextensionRelation` | build-observed |
-| M152822 | P0603 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementA` | wave-reused |
-| M152823 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementB` | wave-reused |
-| M152824 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.StatementC` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M037516 | P0015 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleDvdOfDvdCharpolyOfAevalMatrix` | volunteer-build-reviewed |
+| M037517 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleOfOrdOne` | volunteer-build-reviewed |
+| M037521 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleRestrictionMirabolicRight` | volunteer-build-reviewed |
+| M037523 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleRestrictionMirabolicStatement` | volunteer-build-reviewed |
+| M037525 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleSpaceFibreSemiAbelianFieldPointStatement` | volunteer-build-reviewed |
 | M037526 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleSpaceOfSmoothFieldOfConnectedSpace` | volunteer-build-reviewed |
 | M037527 | P0479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleSpaceOfSmoothFieldOfConnectedSpaceStatement` | build-observed |
 | M037530 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleSpacePullbackAffineOpenOfIsDomainTens` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M038295 | P0299 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassTorsionQCoefficientsStatement` | volunteer-build-reviewed |
 | M038296 | P0016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedAdjoin` | volunteer-build-reviewed |
 | M038297 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalization` | volunteer-build-reviewed |
-| M038298 | P0351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalizationStatement` | wave-reused |
-| M038306 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsInvertibleUnitaryAdelicMatrixOfRationalUnitary` | volunteer-build-reviewed |
-| M038308 | P1118 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrrRepHarishChandraDistinctCuspidalLabels` | build-observed |
-| M038309 | P1147 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrrRepHarishChandraDistinctCuspidalLabelsStatement` | build-observed |
-| M038310 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrreducible` | volunteer-build-reviewed |

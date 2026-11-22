@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101997 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompC` | volunteer-build-reviewed |
+| M101998 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompR` | volunteer-build-reviewed |
+| M101999 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocFixed` | volunteer-build-reviewed |
+| M102006 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PNewform` | volunteer-build-reviewed |
+| M102007 | P2684 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PRepNew` | volunteer-build-reviewed |
+| M102009 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.PureK` | volunteer-build-reviewed |
+| M102010 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.RealExistenceFromPublished` | volunteer-build-reviewed |
+| M102011 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SatFrob` | volunteer-build-reviewed |
+| M102013 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SatLoc` | volunteer-build-reviewed |
 | M102015 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SelfDualC` | volunteer-build-reviewed |
 | M102017 | P2568 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SelfDualR` | volunteer-build-reviewed |
 | M102018 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SolDescent` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M102577 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Gordan` | wave-reused |
 | M102578 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrGen` | wave-reused |
 | M102579 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrInternal` | wave-reused |
-| M102580 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrNoeth` | wave-reused |
-| M102581 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Graded` | wave-reused |
-| M102613 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GradedModulesLength.MainCotSpan` | worker-kernel-checked |
-| M102626 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GradedModulesLength.ToDegInjective` | volunteer-build-reviewed |
-| M102632 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhGroup` | volunteer-build-reviewed |
-| M102633 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhSection` | volunteer-build-reviewed |
-| M102634 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HhSmall` | volunteer-build-reviewed |
-| M102635 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HomogOfStable` | wave-reused |
-| M102636 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.HomogSpan` | volunteer-build-reviewed |

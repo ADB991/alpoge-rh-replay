@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058408 | P0682 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetInFamilyMovedOfNotLeak` | wave-reused |
+| M058409 | P0709 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetInFamilyMovedOfNotLeakStatement` | wave-reused |
+| M058410 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetKernelBoundByWeight` | wave-reused |
+| M058411 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetKernelBoundByWeightStatement` | wave-reused |
+| M058412 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetKernelRowSumNearOne` | wave-reused |
+| M058413 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetKernelRowSumNearOneStatement` | wave-reused |
 | M058414 | P0682 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetMassLeAndFinite` | wave-reused |
 | M058415 | P0709 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetMassLeAndFiniteStatement` | wave-reused |
 | M058416 | P0682 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetMoveTermWeightCharacter` | wave-reused |
@@ -396,9 +402,3 @@
 | M059033 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBessel` | build-observed |
 | M059034 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBesselStatement` | build-observed |
 | M059035 | P0843 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralEquivariantLeftInvariant` | build-observed |
-| M059036 | P0979 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralFintypeProd` | volunteer-build-reviewed |
-| M059041 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDeriv` | build-observed |
-| M059042 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDerivStatement` | build-observed |
-| M059043 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianNormFibreDilation` | build-observed |
-| M059044 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianNormFibreDilationStatement` | build-observed |
-| M059046 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralHermitianOrbitSumFixedLengthLtTopStatement` | volunteer-build-reviewed |

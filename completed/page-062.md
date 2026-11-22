@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042070 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZero` | volunteer-build-reviewed |
+| M042071 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZeroStatement` | volunteer-build-reviewed |
+| M042072 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIndicatorIntegralValue` | volunteer-build-reviewed |
+| M042073 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIndicatorIntegralValueStatement` | volunteer-build-reviewed |
+| M042074 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryActionSchwartzInf` | volunteer-build-reviewed |
+| M042076 | P1565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryCentralizerEquivNormOneTorus` | volunteer-build-reviewed |
 | M042077 | P1591 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryCentralizerEquivNormOneTorusStatement` | volunteer-build-reviewed |
 | M042080 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryDeterminedBySplitImage` | volunteer-build-reviewed |
 | M042082 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitaryGroupIsoGL` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M042768 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedIntegral` | volunteer-build-reviewed |
 | M042770 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestriction` | volunteer-build-reviewed |
 | M042771 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestrictionStatement` | volunteer-build-reviewed |
-| M042773 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedScalarStatement` | volunteer-build-reviewed |
-| M042778 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterCondition` | volunteer-build-reviewed |
-| M042779 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterConditionStatement` | volunteer-build-reviewed |
-| M042781 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleCasimirCompatibleStatement` | volunteer-build-reviewed |
-| M042784 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleFiniteMapsForallPlaces` | volunteer-build-reviewed |
-| M042785 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleFiniteMapsForallPlacesStatement` | volunteer-build-reviewed |

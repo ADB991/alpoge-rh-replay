@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160059 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionKillsNonzeroWeight` | wave-reused |
+| M160060 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionRangeTrivial` | wave-reused |
+| M160061 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IrreducibleStableContainsEqTop` | wave-reused |
+| M160062 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicComponentLeLowerWeights` | wave-reused |
+| M160063 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicLatticeCorollary` | wave-reused |
+| M160064 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectionCommutesOperators` | wave-reused |
+| M160065 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorFixedMem` | wave-reused |
+| M160066 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorLatticeScaling` | wave-reused |
+| M160067 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorSelfAdjoint` | wave-reused |
 | M160068 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IsotypicProjectorTraceFormula` | wave-reused |
 | M160069 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.LagrangeProjectorPreservesStable` | wave-reused |
 | M160070 | P1296 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.LatticeTheoremOfAdmitted` | wave-reused |
@@ -393,12 +402,3 @@
 | M160508 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAB` | build-observed |
 | M160509 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAlpha` | build-observed |
 | M160510 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAsm` | build-observed |
-| M160511 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBA` | build-observed |
-| M160512 | P1167 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBeta` | build-observed |
-| M160513 | P1215 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfDat` | build-observed |
-| M160514 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfDict` | build-observed |
-| M160515 | P1167 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfEqv` | build-observed |
-| M160516 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfHH` | build-observed |
-| M160517 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfHyp` | build-observed |
-| M160518 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfL` | build-observed |
-| M160519 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfLoc` | build-observed |

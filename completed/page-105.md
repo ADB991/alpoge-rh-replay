@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071752 | P1282 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAwayStatement` | wave-reused |
+| M071754 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStandardAdelicAddCharGlobalAdelicCharStatement` | volunteer-build-reviewed |
+| M071755 | P1454 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStratifiedPhiModuleHomOfGaloisEquivariant` | build-observed |
+| M071756 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStratifiedPhiModuleHomOfGaloisEquivariantStatement` | build-observed |
+| M071757 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientComp` | volunteer-build-reviewed |
+| M071758 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientJacquetModuleRefineTensor` | volunteer-build-reviewed |
 | M071759 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientJacquetModuleRefineTensorStatement` | volunteer-build-reviewed |
 | M071760 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientJacquetModuleSingleBlockSelf` | volunteer-build-reviewed |
 | M071761 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSubquotientJacquetModuleSingleBlockSelfStatement` | volunteer-build-reviewed |
@@ -36,6 +42,7 @@
 | M071803 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitDiagOfLower` | volunteer-build-reviewed |
 | M071806 | P1152 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfFrobeniusDvdEisensteinPowMul` | wave-reused |
 | M071807 | P1176 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfFrobeniusDvdEisensteinPowMulStatement` | wave-reused |
+| M071808 | P0123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfNotDvd` | volunteer-build-reviewed |
 | M071809 | P1039 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfOneTmul` | build-observed |
 | M071810 | P1227 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitOfSaturated` | wave-reused |
 | M071812 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsUnitPrimeProductOfTwistedPlaceTuple` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M072538 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeepStatement` | volunteer-build-reviewed |
 | M072539 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixOneAddPowSubEntryLe` | volunteer-build-reviewed |
 | M072541 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquation` | build-observed |
-| M072542 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquationStatement` | build-observed |
-| M072543 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapField` | volunteer-build-reviewed |
-| M072544 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapFieldStatement` | build-observed |
-| M072545 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRegular` | volunteer-build-reviewed |
-| M072547 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxCompactUnitaryConjRelIndexEqStatement` | volunteer-build-reviewed |
-| M072550 | P0033 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxIdealExactPowDvdSpanPrime` | volunteer-build-reviewed |
-| M072553 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MaxLengthLocalInvariantsTwistedFractionModIntegeStatement` | volunteer-build-reviewed |

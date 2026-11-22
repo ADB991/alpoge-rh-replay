@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055514 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOpenContainingFibreContainsNear` | volunteer-build-reviewed |
+| M055516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramSub` | volunteer-build-reviewed |
+| M055517 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharValueProduct` | volunteer-build-reviewed |
+| M055518 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharValueProductStatement` | volunteer-build-reviewed |
+| M055519 | P1425 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterAtUniformizer` | volunteer-build-reviewed |
+| M055520 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterAtUniformizerStatement` | volunteer-build-reviewed |
 | M055522 | P2407 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterBasePlaceLiftStatement` | volunteer-build-reviewed |
 | M055523 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterLocalGL` | volunteer-build-reviewed |
 | M055526 | P1863 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharacterNormalizedEquivariantFunctionStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M056159 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetCh` | volunteer-build-reviewed |
 | M056160 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetChStatement` | volunteer-build-reviewed |
 | M056161 | P2227 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBounds` | volunteer-build-reviewed |
-| M056162 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBoundsStatement` | volunteer-build-reviewed |
-| M056163 | P2137 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmExtensionIsUnitaryOn` | volunteer-build-reviewed |
-| M056165 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmPreservesAdmissibleForms` | volunteer-build-reviewed |
-| M056166 | P2169 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmPreservesAdmissibleFormsStatement` | volunteer-build-reviewed |
-| M056167 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTwistByHeckeCharactersTrivialBase` | volunteer-build-reviewed |
-| M056169 | P1592 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumUniqueOnThetaFunctions` | build-observed |

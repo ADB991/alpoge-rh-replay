@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167678 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsZLocDenominators` | volunteer-build-reviewed |
+| M167680 | P0861 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AevalNeZeroOfNotMem` | build-observed |
+| M167681 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AnalyticResolutionHypothesesProjectiveLine` | wave-reused |
+| M167683 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ArithVarZero` | build-observed |
+| M167685 | P0230 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AvoidRing` | wave-reused |
+| M167686 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.CardLeRingKrullDim` | build-observed |
+| M167687 | P0085 | `GroundTheory.HeightsAndTheta.Heights.Intersections.CardLength` | wave-reused |
+| M167690 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ConservationDegreeFormOfExistence` | wave-reused |
+| M167694 | P0643 | `GroundTheory.HeightsAndTheta.Heights.Intersections.EqZeroOfEventuallyEval` | build-observed |
 | M167695 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ExMap` | build-observed |
 | M167696 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ExMapAlt` | build-observed |
 | M167697 | P0511 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ExistsFunFieldMulEq` | build-observed |
@@ -393,12 +402,3 @@
 | M168329 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleVanish` | wave-reused |
 | M168330 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PBundlePair` | wave-reused |
 | M168331 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechCone` | wave-reused |
-| M168332 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDSq` | wave-reused |
-| M168333 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDouble` | wave-reused |
-| M168334 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDoubleStair` | wave-reused |
-| M168335 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechExact` | wave-reused |
-| M168336 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechFlat` | wave-reused |
-| M168337 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechHdegOfSub` | wave-reused |
-| M168338 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechPartition` | wave-reused |
-| M168339 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechTop` | wave-reused |
-| M168340 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechTransport` | wave-reused |

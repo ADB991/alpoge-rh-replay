@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143964 | P0801 | `Formalism.AdmissibleDesigns.AdmG5OfAdm51AdmG5` | build-observed |
+| M143965 | P1583 | `Formalism.AdmissibleDesigns.BKaClause` | build-observed |
+| M143966 | P1368 | `Formalism.AdmissibleDesigns.BkLocCol` | build-observed |
+| M143967 | P1344 | `Formalism.AdmissibleDesigns.BlockTwistedCyclotomic` | build-observed |
+| M143968 | P1344 | `Formalism.AdmissibleDesigns.CharacterTrivialWhereLattice` | build-observed |
+| M143969 | P1344 | `Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses` | build-observed |
+| M143970 | P1368 | `Formalism.AdmissibleDesigns.CocZeroOfUnr` | build-observed |
+| M143971 | P1440 | `Formalism.AdmissibleDesigns.CoefChangeRec` | build-observed |
+| M143972 | P1344 | `Formalism.AdmissibleDesigns.CohomZeroEquivContinuous` | build-observed |
 | M143973 | P1613 | `Formalism.AdmissibleDesigns.ColLx` | build-observed |
 | M143974 | P1583 | `Formalism.AdmissibleDesigns.ColumnUnramifiedCharacter` | build-observed |
 | M143975 | P1390 | `Formalism.AdmissibleDesigns.ContOfInjY` | build-observed |
@@ -393,12 +402,3 @@
 | M144362 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LeadingTermLength` | build-observed |
 | M144363 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.LengthBaseChange` | build-observed |
 | M144364 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LengthResidueFieldBase` | build-observed |
-| M144365 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsChain` | build-observed |
-| M144366 | P0420 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsChainOfAddOneLe` | build-observed |
-| M144367 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LevelsLengthSum` | build-observed |
-| M144368 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.LinearIndependentOfIsBaseChange` | build-observed |
-| M144369 | P0501 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepClosed` | build-observed |
-| M144370 | P0460 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepClosedOf` | build-observed |
-| M144371 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepDescent` | build-observed |
-| M144372 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LocalStepExtOf` | build-observed |
-| M144373 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.MemSpanBasisFun` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122027 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolutionStatement` | build-observed |
+| M122028 | P1464 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompat` | wave-reused |
+| M122029 | P1492 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompatStatement` | wave-reused |
+| M122036 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CotangentLocalOpenChartExists` | volunteer-build-reviewed |
+| M122037 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CotangentLocalOpenChartExistsStatement` | volunteer-build-reviewed |
+| M122038 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountIsInvInvariant` | volunteer-build-reviewed |
+| M122039 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountLeOfDvd` | volunteer-build-reviewed |
+| M122040 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountableMatricesAndCosets` | volunteer-build-reviewed |
+| M122042 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountableOfNumberField` | volunteer-build-reviewed |
 | M122045 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountingFormulaOfComponents` | volunteer-build-reviewed |
 | M122046 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CountingFormulaOfComponentsStatement` | volunteer-build-reviewed |
 | M122048 | P1802 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CovGlue` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M122662 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExactOfSpan` | volunteer-build-reviewed |
 | M122663 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExceptionalIdealLeSpanPosDegree` | build-observed |
 | M122666 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctions` | volunteer-build-reviewed |
-| M122667 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctionsStatement` | volunteer-build-reviewed |
-| M122670 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAdaptedMajorant` | volunteer-build-reviewed |
-| M122676 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAnalyticIsoOfIsAnalyticUniformization` | volunteer-build-reviewed |
-| M122677 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBaseChangeEquiv` | volunteer-build-reviewed |
-| M122681 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBlocksOfUpper` | volunteer-build-reviewed |
-| M122682 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBoundOfIsBigO` | volunteer-build-reviewed |
-| M122683 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegral` | volunteer-build-reviewed |
-| M122684 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsBumpWithNonzeroIntegralStatement` | volunteer-build-reviewed |
-| M122685 | P1551 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCIndValue` | build-observed |

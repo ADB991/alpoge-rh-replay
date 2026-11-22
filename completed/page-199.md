@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132316 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeffStatement` | volunteer-build-reviewed |
+| M132317 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHolds` | volunteer-build-reviewed |
+| M132318 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHoldsStatement` | volunteer-build-reviewed |
+| M132319 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistInverseIso` | volunteer-build-reviewed |
+| M132320 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistInverseIsoStatement` | volunteer-build-reviewed |
+| M132321 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistIsoNonempty` | build-observed |
+| M132322 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistIsoNonemptyStatement` | build-observed |
+| M132323 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistModelsCommonPoint` | volunteer-build-reviewed |
+| M132324 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistModelsCommonPointStatement` | volunteer-build-reviewed |
 | M132329 | P0456 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistedFrameInChart` | build-observed |
 | M132330 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistedFrameInChartStatement` | build-observed |
 | M132331 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistedHodgeCptCompare` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M133080 | P0321 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEq` | build-observed |
 | M133081 | P0371 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEqStatement` | build-observed |
 | M133082 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverse` | volunteer-build-reviewed |
-| M133083 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverseStatement` | volunteer-build-reviewed |
-| M133084 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticGroupLawBoundedCommutator` | volunteer-build-reviewed |
-| M133086 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticLiftToLogResolution` | build-observed |
-| M133090 | P1161 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSquareRegularizedConvergence` | build-observed |
-| M133091 | P1185 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSquareRegularizedConvergenceStatement` | build-observed |
-| M133092 | P0530 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticSystemRegularityProperties` | build-observed |
-| M133094 | P1637 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.Antisymmetry` | volunteer-build-reviewed |
-| M133097 | P2644 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchIntToZEq` | volunteer-build-reviewed |
-| M133098 | P2653 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.ArchIntToZEqStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097484 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SupLatticeLocalisationOfUnitBall` | volunteer-build-reviewed |
+| M097489 | P1181 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SuppInd` | volunteer-build-reviewed |
+| M097493 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SurjectiveReductionOntoFiniteLevelGroupStatement` | volunteer-build-reviewed |
+| M097495 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetricPositionLevelShapeOnParabolic` | build-observed |
+| M097496 | P0487 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetricPositionLevelShapeOnParabolicStatement` | build-observed |
+| M097497 | P1016 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymmetrisationEquivariant` | volunteer-build-reviewed |
+| M097500 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplOSmulAddSmulAdd` | volunteer-build-reviewed |
+| M097502 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplOZeroRight` | volunteer-build-reviewed |
+| M097504 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplecticFormFockMatrixEqNegSumImRealPlacesStatement` | volunteer-build-reviewed |
 | M097505 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplecticFormIsotropicPartAddMiddlePart` | volunteer-build-reviewed |
 | M097507 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplecticFormOffIdempotentPartOrthogonalHalf` | volunteer-build-reviewed |
 | M097508 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SymplecticFormOffIdempotentPartOrthogonalHalfStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M098135 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPoints` | build-observed |
 | M098136 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPointsStatement` | build-observed |
 | M098137 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRationalDiagonalHomBijective` | volunteer-build-reviewed |
-| M098139 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitarySatakeTransformStarParameterEqOfUnitarisa` | volunteer-build-reviewed |
-| M098143 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusCompactQuotientFiniteVolume` | volunteer-build-reviewed |
-| M098145 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusEllipticElementsOfLocalLatticeIsomet` | volunteer-build-reviewed |
-| M098151 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitriangularMapInduction` | volunteer-build-reviewed |
-| M098152 | P1363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnrOffOne` | volunteer-build-reviewed |
-| M098153 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedCharSumsStrictConeVanishEach` | volunteer-build-reviewed |
-| M098155 | P0904 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedDoublingIntegralInertPlace` | build-observed |
-| M098157 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedDoublingSumGLConvergentLValue` | volunteer-build-reviewed |
-| M098160 | P2658 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnramifiedPlacesFiniteSetStatement` | volunteer-build-reviewed |

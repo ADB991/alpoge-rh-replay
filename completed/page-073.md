@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049729 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfFibre` | volunteer-build-reviewed |
+| M049730 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfMulRight` | volunteer-build-reviewed |
+| M049731 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralFderivApplyEqZeroOfPeriodic` | build-observed |
+| M049733 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralLeOfExpanding` | volunteer-build-reviewed |
+| M049734 | P0114 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralLeOfExpandingStatement` | volunteer-build-reviewed |
+| M049737 | P0481 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralNormProdExpMulLeHaar` | build-observed |
 | M049738 | P0520 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralNormProdExpMulLeHaarStatement` | build-observed |
 | M049740 | P2583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetLIntegralFlagCellFibreDensityEqBaseStatement` | volunteer-build-reviewed |
 | M049743 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SevenMulHeightBoundLeHalfOfParameters` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M050401 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInCharts` | wave-reused |
 | M050402 | P0951 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInChartsStatement` | wave-reused |
 | M050405 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunction` | volunteer-build-reviewed |
-| M050406 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunctionStatement` | volunteer-build-reviewed |
-| M050407 | P0652 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFibreRegularLocalRing` | volunteer-build-reviewed |
-| M050409 | P2614 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFormsCalculusHolomorphicAtlas` | volunteer-build-reviewed |
-| M050410 | P2627 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFormsCalculusHolomorphicAtlasStatement` | volunteer-build-reviewed |
-| M050411 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundFirst` | volunteer-build-reviewed |
-| M050412 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFunctionGreenBoundFirstStatement` | volunteer-build-reviewed |

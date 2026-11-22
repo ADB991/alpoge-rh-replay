@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009480 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroTargetSlice` | volunteer-build-reviewed |
+| M009481 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroTargetSliceStatement` | volunteer-build-reviewed |
+| M009482 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationTwoVariableModelAndLineExte` | volunteer-build-reviewed |
+| M009483 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationTwoVariableModelAndLineExteStatement` | volunteer-build-reviewed |
 | M009484 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationsDistinctSplitPlacesCollect` | volunteer-build-reviewed |
 | M009485 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationsDistinctSplitPlacesCollectStatement` | volunteer-build-reviewed |
 | M009486 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergDerivWeilTranslateContinuousCombinatio` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M010002 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwistedStatement` | volunteer-build-reviewed |
 | M010003 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KleinFormTorsionUnit` | volunteer-build-reviewed |
 | M010004 | P1420 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapEq` | volunteer-build-reviewed |
-| M010005 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapMemValCTrue` | volunteer-build-reviewed |
-| M010006 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexField` | volunteer-build-reviewed |
-| M010007 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexFieldStatement` | volunteer-build-reviewed |
-| M010008 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LamEqOfRed` | volunteer-build-reviewed |

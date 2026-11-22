@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111015 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Reduce` | volunteer-build-reviewed |
+| M111020 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.TwoNode` | volunteer-build-reviewed |
+| M111021 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CharIndep` | volunteer-build-reviewed |
+| M111022 | P1550 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CuspTrBand` | volunteer-build-reviewed |
+| M111023 | P1463 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CuspidalMultiplicityOneTotallyComplex` | wave-reused |
+| M111026 | P1913 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.EigAdm` | volunteer-build-reviewed |
+| M111029 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.ExistsPowerSums` | volunteer-build-reviewed |
+| M111030 | P1893 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.FixLev` | volunteer-build-reviewed |
+| M111032 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.HopOloc` | volunteer-build-reviewed |
 | M111034 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.LocGalEx` | volunteer-build-reviewed |
 | M111035 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.LocUApply` | volunteer-build-reviewed |
 | M111036 | P1606 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.NearFinite` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M111469 | P2705 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.DescAt` | volunteer-build-reviewed |
 | M111470 | P2786 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.Imports` | volunteer-build-reviewed |
 | M111471 | P2783 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftAll` | volunteer-build-reviewed |
-| M111472 | P2693 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftAt` | volunteer-build-reviewed |
-| M111473 | P2790 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftUnr` | volunteer-build-reviewed |
-| M111474 | P2686 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormRam` | volunteer-build-reviewed |
-| M111475 | P2773 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.NormUnr` | volunteer-build-reviewed |
-| M111476 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.PowSat` | volunteer-build-reviewed |
-| M111477 | P2793 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.QuadLift` | volunteer-build-reviewed |
-| M111479 | P2791 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.QuadLiftUnr` | volunteer-build-reviewed |
-| M111480 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.RamDefs` | volunteer-build-reviewed |
-| M111482 | P2785 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.SameSat` | volunteer-build-reviewed |

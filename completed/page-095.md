@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064992 | P1843 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasComplementOfBasis` | volunteer-build-reviewed |
+| M064993 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasDerivAtOddJacobiThetaZeroEtaCube` | wave-reused |
+| M064998 | P1175 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeckeCharProductFormulaNormOne` | volunteer-build-reviewed |
+| M065003 | P1092 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeisenbergCocycleFormIntegralSelfDual` | volunteer-build-reviewed |
+| M065004 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeisenbergCocycleFormIntegralSelfDualStatement` | volunteer-build-reviewed |
+| M065006 | P1909 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HermitianClassNumberItemsAllRanksStatement` | volunteer-build-reviewed |
 | M065009 | P0189 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HermitianFormFiniteZerosOnLineCmExt` | wave-reused |
 | M065010 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HermitianFormFiniteZerosOnLineCmExtStatement` | build-observed |
 | M065013 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HermitianNormFibreMeasureEqPolarCoordinates` | build-observed |
@@ -396,9 +402,3 @@
 | M065804 | P1037 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WtBoundsOfNonneg` | build-observed |
 | M065805 | P1356 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiEntryInvariant` | volunteer-build-reviewed |
 | M065806 | P1093 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiIndEqInter` | build-observed |
-| M065809 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ZetaEqSubIntegralFract` | volunteer-build-reviewed |
-| M065811 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AbelianUnramIn` | volunteer-build-reviewed |
-| M065812 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicThetaSeriesComparisonIndepScalarsErrors` | volunteer-build-reviewed |
-| M065813 | P2227 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicThetaSeriesComparisonIndepScalarsErrorsStatement` | volunteer-build-reviewed |
-| M065814 | P1093 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryActionAtRealPlace` | build-observed |
-| M065815 | P1122 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryActionAtRealPlaceStatement` | build-observed |

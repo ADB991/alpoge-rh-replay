@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085064 | P1359 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSharpAndPrim` | build-observed |
+| M085065 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSymmOfSquare` | volunteer-build-reviewed |
+| M085068 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoOfProjectiveCoordinateRepresentation` | volunteer-build-reviewed |
+| M085069 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoOfProjectiveCoordinateRepresentationStatement` | volunteer-build-reviewed |
+| M085072 | P1890 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoQuotientsSameKernelReducedBase` | build-observed |
+| M085073 | P1911 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoQuotientsSameKernelReducedBaseStatement` | build-observed |
+| M085074 | P1179 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsogenyPullbackHeckeModuliObject` | build-observed |
+| M085075 | P1203 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsogenyPullbackHeckeModuliObjectStatement` | build-observed |
+| M085076 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsometryLift` | volunteer-build-reviewed |
 | M085077 | P1258 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsJoinNormalProjectiveModels` | volunteer-build-reviewed |
 | M085081 | P1229 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsKsMatrixStatement` | volunteer-build-reviewed |
 | M085082 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsLatticeAutOfIsomorphicThetaObjects` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M085773 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPolynomialMapMaximalIdealIsPrime` | volunteer-build-reviewed |
 | M085774 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPowerSeriesVariablesSyzygySocle` | volunteer-build-reviewed |
 | M085777 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NearCOfPolFamOfKTriv` | volunteer-build-reviewed |
-| M085781 | P1597 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyCmModuliOfDeeperLevelStatement` | build-observed |
-| M085782 | P1844 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyFamilyUnifIffUnifAt` | build-observed |
-| M085783 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyHeckeCorrespondenceScheme` | build-observed |
-| M085784 | P2058 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyHeckeCorrespondenceSchemeStatement` | build-observed |
-| M085785 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyLevelQuot` | volunteer-build-reviewed |
-| M085787 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyModuliOfLevelDvd` | volunteer-build-reviewed |
-| M085792 | P1985 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptySiegelFamilyOverArithmeticBase` | build-observed |
-| M085793 | P2004 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptySiegelFamilyOverArithmeticBaseStatement` | build-observed |
-| M085800 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyZOnOfComponents` | volunteer-build-reviewed |

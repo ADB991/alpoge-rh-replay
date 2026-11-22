@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029223 | P0707 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelSetDiagNormOne` | volunteer-build-reviewed |
+| M029226 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoords` | volunteer-build-reviewed |
+| M029227 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoordsStatement` | volunteer-build-reviewed |
+| M029228 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSignatureBasisMaxCompact` | volunteer-build-reviewed |
+| M029230 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSignatureDiagonalisingBasis` | volunteer-build-reviewed |
 | M029231 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSignatureDiagonalisingBasisStatement` | volunteer-build-reviewed |
 | M029234 | P2366 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSimSys` | volunteer-build-reviewed |
 | M029237 | P0618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSimplicialCochainRepresentingClassAcyclicL` | wave-reused |
@@ -397,8 +402,3 @@
 | M029774 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraitsStatement` | volunteer-build-reviewed |
 | M029776 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupIdealOverClopenComponentStatement` | volunteer-build-reviewed |
 | M029777 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupLevelCoverEveryPoint` | volunteer-build-reviewed |
-| M029779 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupPrimePowerLevelRegularChart` | volunteer-build-reviewed |
-| M029780 | P2690 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupPrimePowerLevelRegularChartStatement` | volunteer-build-reviewed |
-| M029781 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupRegularOverModuliPoint` | volunteer-build-reviewed |
-| M029783 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupTowerBaseChangeMember` | volunteer-build-reviewed |
-| M029785 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupTowerLargeRatio` | volunteer-build-reviewed |

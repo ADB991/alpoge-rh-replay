@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120875 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximation` | wave-reused |
+| M120876 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximationStatement` | wave-reused |
+| M120877 | P0204 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticGermFiniteProjection` | volunteer-build-reviewed |
+| M120878 | P0264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticGermFiniteProjectionStatement` | volunteer-build-reviewed |
+| M120879 | P0059 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticOrthogonalVanishing` | volunteer-build-reviewed |
+| M120880 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticOrthogonalVanishingStatement` | volunteer-build-reviewed |
+| M120881 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropicQuaternionNormOneCompact` | build-observed |
+| M120882 | P1234 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropicQuaternionNormOneCompactStatement` | build-observed |
+| M120885 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnisotropyOfRange` | volunteer-build-reviewed |
 | M120887 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnEqZeroOfDegreeZero` | volunteer-build-reviewed |
 | M120888 | P1522 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnSubsetOfMemNhds` | build-observed |
 | M120889 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnihilatorAdelicLatticeCompact` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M121453 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedOfFunctor` | volunteer-build-reviewed |
 | M121454 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplex` | volunteer-build-reviewed |
 | M121455 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplexStatement` | volunteer-build-reviewed |
-| M121456 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedStOfTwoFormCohSt` | volunteer-build-reviewed |
-| M121457 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSubsetSupportProper` | wave-reused |
-| M121458 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemOpenIdealContainment` | wave-reused |
-| M121459 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemOpenIdealContainmentStatement` | wave-reused |
-| M121460 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemPullback` | wave-reused |
-| M121461 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemPullbackStatement` | wave-reused |
-| M121462 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionOpen` | wave-reused |
-| M121463 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionOpenStatement` | wave-reused |
-| M121464 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemRestrictionSubobject` | wave-reused |

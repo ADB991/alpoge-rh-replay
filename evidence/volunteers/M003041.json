@@ -1,0 +1,37 @@
+{
+  "tasks": [
+    "M003041"
+  ],
+  "started_utc": "2026-11-22T11:08:23.155834+00:00",
+  "ended_utc": "2026-11-22T11:09:23.474769+00:00",
+  "elapsed_seconds": 60.2,
+  "host": {
+    "cpu_count": 40,
+    "mem_total_kib": 263998632,
+    "peak_child_rss_kib": 9878244
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.BlowPolSt:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "d09aadabe2433d28bf717e95a72f7466eb84eb5e14d6b95abc75025e88fb3d4d",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.EqZeroOfApplySelf",
+    "Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SumMulEqZeroOfSumToReal"
+  ],
+  "objects": {
+    "M003041": "bd92c764e4575674315bfd742dc944c2faefa715e9b916183d0c40428f20b12f"
+  },
+  "project_root": "/data/alpoge-rh-replay/vol/lean",
+  "bundle_sha256": "1ae361df1c78f4836fb78e5a0135c883a2d25a1bd62345b425ed3567486135c8",
+  "packet": "M003041",
+  "contributor": "pCwOrM",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31964#issuecomment-7078257447",
+  "reviewed_utc": "2026-11-22T11:35:50.025832+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

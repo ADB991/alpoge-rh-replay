@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061065 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTorsionTranslateIntegralSeriesStatement` | volunteer-build-reviewed |
+| M061067 | P1909 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaValuesVanishAtOddSplitPrimeStatement` | volunteer-build-reviewed |
+| M061068 | P2703 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuationNewformCongruence` | volunteer-build-reviewed |
+| M061069 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuesExponentLogSumLe` | volunteer-build-reviewed |
+| M061071 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuesMinPadicValBound` | volunteer-build-reviewed |
+| M061073 | P0444 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmpProps` | wave-reused |
 | M061074 | P0482 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmpPropsStatement` | wave-reused |
 | M061078 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CoboundaryOfOrthogonalDualCharacterModPrimePow` | volunteer-build-reviewed |
 | M061080 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CoboundaryOfPadicAlgClUniformApprox` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M061710 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHomStatement` | wave-reused |
 | M061712 | P1330 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHalfOfBasePins` | volunteer-build-reviewed |
 | M061713 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalDepletedEisensteinNeZe` | wave-reused |
-| M061714 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalDepletedEisensteinNeZeStatement` | wave-reused |
-| M061715 | P0925 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalOfDepletedEigenform` | wave-reused |
-| M061716 | P0953 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalOfDepletedEigenformStatement` | wave-reused |
-| M061717 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHermitianLogUnitaryBlockDiagonal` | build-observed |
-| M061718 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHermitianLogUnitaryBlockDiagonalStatement` | build-observed |
-| M061719 | P1007 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHighestWeightVectorOfKStable` | build-observed |

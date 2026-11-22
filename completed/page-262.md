@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169592 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PLengthDecomp` | wave-reused |
+| M169593 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormDvd` | wave-reused |
+| M169594 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormEval` | wave-reused |
+| M169595 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormIrreducible` | wave-reused |
+| M169596 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormLocalization` | wave-reused |
+| M169597 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormIdentity` | wave-reused |
+| M169598 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormLength` | wave-reused |
+| M169599 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.POrdEq` | wave-reused |
+| M169600 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PParAlgIndep` | wave-reused |
 | M169601 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PParDVRIsDVR` | wave-reused |
 | M169602 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PParFracIsFractionRing` | wave-reused |
 | M169603 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PPrimitiveScale` | wave-reused |
@@ -393,12 +402,3 @@
 | M170080 | P0645 | `GroundTheory.PAdicHodge.FieldOfNormsUpper` | build-observed |
 | M170081 | P0086 | `GroundTheory.PAdicHodge.FiniteFlat` | volunteer-build-reviewed |
 | M170082 | P0612 | `GroundTheory.PAdicHodge.FontaineLemma` | build-observed |
-| M170083 | P0342 | `GroundTheory.PAdicHodge.FontaineLemmaAInf` | build-observed |
-| M170084 | P0676 | `GroundTheory.PAdicHodge.FontaineLemmaInvariants` | build-observed |
-| M170085 | P0431 | `GroundTheory.PAdicHodge.FontaineLemmaPeriod` | build-observed |
-| M170086 | P0579 | `GroundTheory.PAdicHodge.FontaineLemmaPhi` | build-observed |
-| M170087 | P0676 | `GroundTheory.PAdicHodge.FontaineWintenberger` | build-observed |
-| M170088 | P0807 | `GroundTheory.PAdicHodge.FundamentalSeq` | build-observed |
-| M170089 | P0781 | `GroundTheory.PAdicHodge.FundamentalSeqBCris` | build-observed |
-| M170090 | P0755 | `GroundTheory.PAdicHodge.FundamentalSeqFixed` | build-observed |
-| M170091 | P0471 | `GroundTheory.PAdicHodge.FundamentalSeqLog` | build-observed |

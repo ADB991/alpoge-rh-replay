@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165693 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalResidueLength` | wave-reused |
+| M165694 | P0338 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSplitRelDeg` | pilot-reused |
+| M165695 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PValuativeCentre` | wave-reused |
+| M165696 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PfContractedHypothesesExample` | pilot-reused |
+| M165697 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.Statements` | pilot-reused |
+| M165698 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsAddBlock` | pilot-reused |
+| M165699 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeLocalFlat` | wave-reused |
+| M165700 | P0575 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeLocalLength` | wave-reused |
+| M165701 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConePolyLocalization` | wave-reused |
 | M165702 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeVarInj` | wave-reused |
 | M165703 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeVarNumerator` | wave-reused |
 | M165704 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsConeVarSurj` | wave-reused |
@@ -393,12 +402,3 @@
 | M166175 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShell` | volunteer-build-reviewed |
 | M166176 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShellSum` | volunteer-build-reviewed |
 | M166177 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussSqrt` | volunteer-build-reviewed |
-| M166178 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTermBound` | volunteer-build-reviewed |
-| M166179 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTop` | volunteer-build-reviewed |
-| M166181 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassArithVar` | volunteer-build-reviewed |
-| M166184 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassHeightBound` | volunteer-build-reviewed |
-| M166185 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassLeRoot` | volunteer-build-reviewed |
-| M166187 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PHadamardPSD` | volunteer-build-reviewed |
-| M166188 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PHermFormCompare` | volunteer-build-reviewed |
-| M166201 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexDet` | volunteer-build-reviewed |
-| M166204 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PLinesGenIndexTrans` | volunteer-build-reviewed |

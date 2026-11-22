@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163437 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PIndicatorSmooth` | wave-reused |
+| M163438 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PKaehlerBound` | wave-reused |
+| M163439 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaEEnergy` | wave-reused |
+| M163440 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaEScale` | wave-reused |
+| M163441 | P0698 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETailLog` | wave-reused |
+| M163442 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETailMass` | wave-reused |
+| M163443 | P0833 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETrunc` | wave-reused |
+| M163444 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncMass` | wave-reused |
+| M163445 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncSmooth` | wave-reused |
 | M163446 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaETruncTail` | wave-reused |
 | M163447 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PLemmaEWeight` | wave-reused |
 | M163448 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PListMono` | wave-reused |
@@ -393,12 +402,3 @@
 | M163982 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticGermsNoetherian` | volunteer-build-reviewed |
 | M163983 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticImplicitChart` | volunteer-build-reviewed |
 | M163985 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticSimpleRootBranch` | volunteer-build-reviewed |
-| M163986 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraph` | wave-reused |
-| M163987 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphBound` | wave-reused |
-| M163988 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphPartition` | wave-reused |
-| M163989 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphPiece` | wave-reused |
-| M163990 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaLinear` | wave-reused |
-| M163991 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaMultiplicity` | wave-reused |
-| M163992 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAuslanderBuchsbaumDepthLower` | volunteer-build-reviewed |
-| M163993 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAuslanderBuchsbaumProjDimUpper` | volunteer-build-reviewed |
-| M163994 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PBadSetSmaller` | wave-reused |

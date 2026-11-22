@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062969 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFiniteStatement` | wave-reused |
+| M062970 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfDetMemNonZeroDivisors` | volunteer-build-reviewed |
+| M062971 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfJointEigenvectors` | volunteer-build-reviewed |
+| M062972 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentVecMulOfSpanRat` | volunteer-build-reviewed |
+| M062973 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentVecMulOfSpanRatStatement` | volunteer-build-reviewed |
+| M062974 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LintegralExpNegMulSumNorm` | build-observed |
 | M062975 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LintegralExpNegMulSumNormStatement` | build-observed |
 | M062976 | P1379 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LintegralFintypeProdEqProd` | volunteer-build-reviewed |
 | M062977 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LipschitzFormulaPeriodicWeight` | wave-reused |
@@ -396,9 +402,3 @@
 | M063541 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphicStatement` | wave-reused |
 | M063542 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbedding` | wave-reused |
 | M063543 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbeddingStatement` | wave-reused |
-| M063545 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibility` | wave-reused |
-| M063546 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibilityStatement` | wave-reused |
-| M063547 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring` | wave-reused |
-| M063548 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelDatumIdempotentEqOfSameShape` | wave-reused |
-| M063549 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelDatumIdempotentEqOfSameShapeStatement` | wave-reused |
-| M063550 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RankLevelIdempotentLowerBoundGeneric` | wave-reused |

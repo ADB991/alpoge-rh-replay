@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M022422 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpiPowOfIsAbelianScheme` | volunteer-build-reviewed |
+| M022423 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsMulOfCondExp` | volunteer-build-reviewed |
+| M022424 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartCocycleCoboundaryOfHodgeDeRham` | volunteer-build-reviewed |
+| M022425 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartCocycleCoboundaryOfHodgeDeRhamStatement` | volunteer-build-reviewed |
+| M022427 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartValueTranslateProdTangentsStatement` | volunteer-build-reviewed |
 | M022428 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsZeroPtEpsScalePt` | volunteer-build-reviewed |
 | M022432 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqAdeleSupportedAtFinitePlaceOfSupportedAtStatement` | volunteer-build-reviewed |
 | M022433 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqAdjointApplyOfWeightedQuadraticSumPolar` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M023029 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvResCounitCompatStatement` | build-observed |
 | M023030 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvRhoUnipShift` | volunteer-build-reviewed |
 | M023031 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvShiftIntegral` | volunteer-build-reviewed |
-| M023032 | P1031 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstant` | build-observed |
-| M023033 | P1059 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstantStatement` | build-observed |
-| M023034 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvTEqTerm` | volunteer-build-reviewed |
-| M023035 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalAtFnEqValAt` | build-observed |
-| M023037 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvalAtNatural` | build-observed |

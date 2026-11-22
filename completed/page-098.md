@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067112 | P1199 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeExponentsAinfComparisonStatement` | build-observed |
+| M067113 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeFrameCocyclesLinked` | wave-reused |
+| M067114 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeFrameCocyclesLinkedStatement` | wave-reused |
+| M067123 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinMuPowSmulFrobeniusMemAinf` | build-observed |
+| M067124 | P1199 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinMuPowSmulFrobeniusMemAinfStatement` | build-observed |
+| M067125 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinNormEisensteinLeRadius` | build-observed |
 | M067126 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinNormEisensteinLeRadiusStatement` | build-observed |
 | M067127 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinOEModPrimeLaurentField` | wave-reused |
 | M067128 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinOEModPrimeLaurentFieldStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M067721 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspaceStatement` | volunteer-build-reviewed |
 | M067723 | P0522 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizerStatement` | volunteer-build-reviewed |
 | M067724 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwist` | volunteer-build-reviewed |
-| M067725 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwistStatement` | volunteer-build-reviewed |
-| M067727 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstOneMem` | volunteer-build-reviewed |
-| M067728 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffFamilyFrobeniusCongrPow` | build-observed |
-| M067729 | P1151 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffFamilyFrobeniusCongrPowStatement` | build-observed |
-| M067730 | P0404 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffMapEqZero` | build-observed |
-| M067731 | P0191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffTaylor` | volunteer-build-reviewed |

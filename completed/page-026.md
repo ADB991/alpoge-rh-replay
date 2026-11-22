@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M017427 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlaces` | volunteer-build-reviewed |
+| M017428 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlacesStatement` | volunteer-build-reviewed |
+| M017432 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterValueMemLocalUnitsMulSubfieldStatement` | volunteer-build-reviewed |
+| M017433 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterValuesGaloisFixedOfIdempotentTorsion` | volunteer-build-reviewed |
 | M017435 | P1667 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharactersAgreeInertUnramified` | volunteer-build-reviewed |
 | M017436 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharactersEightfoldProductEqEighthPower` | volunteer-build-reviewed |
 | M017438 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharactersEighthPowerElementaryMatrices` | volunteer-build-reviewed |
@@ -390,6 +394,7 @@
 | M018269 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumElimPowerSeriesSwapVariableGroupsStatement` | wave-reused |
 | M018270 | P0297 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorial` | volunteer-build-reviewed |
 | M018271 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffSumPowMulFactorialStatement` | volunteer-build-reviewed |
+| M018272 | P2277 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffTopMonEqZero` | volunteer-build-reviewed |
 | M018275 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossFinsetSumAndInvPowStatement` | volunteer-build-reviewed |
 | M018276 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhase` | volunteer-build-reviewed |
 | M018277 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhaseStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M018279 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfPublishedInputsStatement` | volunteer-build-reviewed |
 | M018282 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientConjugateThetaForm` | volunteer-build-reviewed |
 | M018283 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientFieldIsFieldOfDefinitionChainSteps` | volunteer-build-reviewed |
-| M018289 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientModelTopClassesMap` | volunteer-build-reviewed |
-| M018290 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientModelTopClassesMapStatement` | volunteer-build-reviewed |
-| M018292 | P0349 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientReductionFirstChernClassTateTwistAltI` | volunteer-build-reviewed |
-| M018302 | P0919 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealOfPowerSeriesIffImage` | build-observed |
-| M018303 | P0947 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffsInIdealOfPowerSeriesIffImageStatement` | build-observed |

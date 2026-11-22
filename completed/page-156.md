@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107502 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecEmb` | volunteer-build-reviewed |
+| M107503 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecJFacts` | volunteer-build-reviewed |
+| M107507 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DualInclUnit` | volunteer-build-reviewed |
+| M107508 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.EpsArt` | volunteer-build-reviewed |
+| M107509 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.EqZeroOfHomogeneousAevalMemMaximalIdealPowSucc` | volunteer-build-reviewed |
+| M107511 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsAlgebraicElementOfAlgebraicVectorSubspace` | volunteer-build-reviewed |
+| M107513 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsCocycleExtensionOfConjugationInvariantRest` | volunteer-build-reviewed |
+| M107516 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsContinuousIsGamOfTorusCocycle` | volunteer-build-reviewed |
+| M107517 | P1364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsCrystallinePeriodMatrixBcrisOfIsCrys` | build-observed |
 | M107519 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsDerivationsDualToCotangentParameters` | volunteer-build-reviewed |
 | M107520 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsDpstFrobeniusEigenvectorOfCharacter` | volunteer-build-reviewed |
 | M107524 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ExistsFrobeniusFixedPeriod` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M108365 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.PolNorm` | volunteer-build-reviewed |
 | M108366 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.RedBChiComap` | volunteer-build-reviewed |
 | M108367 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.ContinuousSubActions.ContActionSub` | volunteer-build-reviewed |
-| M108368 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.BorCard` | volunteer-build-reviewed |
-| M108369 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.CountFix` | volunteer-build-reviewed |
-| M108370 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.DOSmall` | volunteer-build-reviewed |
-| M108371 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.DescendO` | volunteer-build-reviewed |
-| M108373 | P2550 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.DualPair` | volunteer-build-reviewed |
-| M108374 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.DualZ` | volunteer-build-reviewed |
-| M108375 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.ExistsCyc` | volunteer-build-reviewed |
-| M108376 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.FinTwO` | volunteer-build-reviewed |
-| M108377 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.FinZK` | volunteer-build-reviewed |

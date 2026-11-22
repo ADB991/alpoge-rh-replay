@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M028624 | P1196 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRapidSuperpositionCharacters` | build-observed |
+| M028625 | P1221 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRapidSuperpositionCharactersStatement` | build-observed |
+| M028628 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatRepr` | volunteer-build-reviewed |
+| M028629 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatSecDetDualTensorSupport` | volunteer-build-reviewed |
+| M028633 | P1838 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatUOfForm` | volunteer-build-reviewed |
 | M028636 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatioOfExpansionsProportionalAtTrait` | volunteer-build-reviewed |
 | M028638 | P2343 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatioUnitOfLineBundleGeneratorsOnOpens` | volunteer-build-reviewed |
 | M028639 | P2366 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRatioUnitOfLineBundleGeneratorsOnOpensStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M029216 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectOfGaloisDescendedDataStatement` | volunteer-build-reviewed |
 | M029219 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTranspose` | volunteer-build-reviewed |
 | M029220 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTransposeStatement` | volunteer-build-reviewed |
-| M029223 | P0707 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelSetDiagNormOne` | volunteer-build-reviewed |
-| M029226 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoords` | volunteer-build-reviewed |
-| M029227 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoordsStatement` | volunteer-build-reviewed |
-| M029228 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSignatureBasisMaxCompact` | volunteer-build-reviewed |
-| M029230 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSignatureDiagonalisingBasis` | volunteer-build-reviewed |

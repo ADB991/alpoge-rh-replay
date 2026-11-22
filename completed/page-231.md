@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153774 | P0722 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HookBound` | build-observed |
+| M153777 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred` | wave-reused |
+| M153778 | P0995 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdCellInS` | build-observed |
+| M153779 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdealLattice` | build-observed |
+| M153780 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdeleUnitsOpen` | build-observed |
+| M153781 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InHHClassFin` | build-observed |
+| M153782 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSClassConst` | build-observed |
+| M153783 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InSRelevant` | build-observed |
+| M153785 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.InertPrime` | build-observed |
 | M153786 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IntAdCpctOpen` | build-observed |
 | M153788 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IsoDerivB` | build-observed |
 | M153789 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IsoDualPair` | build-observed |
@@ -393,12 +402,3 @@
 | M154214 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.KCountable` | build-observed |
 | M154215 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.LamAfLeOhatL` | build-observed |
 | M154216 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.MulVecMemLf` | build-observed |
-| M154217 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.NatSmulMulEq` | build-observed |
-| M154218 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.SmulEqAlgebraMapMul` | build-observed |
-| M154219 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.HformEntry` | wave-reused |
-| M154220 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.InclRAlgebraMap` | wave-reused |
-| M154221 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.LocalSum` | wave-reused |
-| M154222 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.QuadFiniteDimensional` | wave-reused |
-| M154223 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.StFix` | wave-reused |
-| M154224 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.StLamOf` | wave-reused |
-| M154225 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.UnitChoice` | wave-reused |

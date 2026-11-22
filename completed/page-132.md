@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093960 | P2139 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinearStatement` | volunteer-build-reviewed |
+| M093961 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalCoeffSpan` | volunteer-build-reviewed |
+| M093962 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalInvariantSubspace` | volunteer-build-reviewed |
+| M093963 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalInvariantSubspaceStatement` | volunteer-build-reviewed |
+| M093964 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalModel` | volunteer-build-reviewed |
+| M093966 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingIdempotentPatchInFrameStatement` | volunteer-build-reviewed |
+| M093967 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingMemStabilizerAuxiliaryLattice` | volunteer-build-reviewed |
+| M093968 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteEmbeddingMemStabilizerAuxiliaryLatticeStatement` | volunteer-build-reviewed |
+| M093969 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupActionPreservesPrincipalFlagMultiplic` | volunteer-build-reviewed |
 | M093970 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupActsUnitarily` | volunteer-build-reviewed |
 | M093973 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupLevelActionEqInvSmulTranslate` | volunteer-build-reviewed |
 | M093974 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteGroupLiftsToParahoricLevel` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M094469 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTupleStatement` | volunteer-build-reviewed |
 | M094471 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodVOfGoodL` | volunteer-build-reviewed |
 | M094472 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominated` | volunteer-build-reviewed |
-| M094473 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominatedStatement` | volunteer-build-reviewed |
-| M094474 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramAtConjTranspose` | volunteer-build-reviewed |
-| M094475 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormula` | volunteer-build-reviewed |
-| M094476 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormulaStatement` | volunteer-build-reviewed |
-| M094477 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramRootDeterminantErase` | volunteer-build-reviewed |
-| M094478 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramRootDeterminantEraseStatement` | volunteer-build-reviewed |
-| M094479 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointCarriesLatticeToMovedLattice` | volunteer-build-reviewed |
-| M094480 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointCarriesLatticeToMovedLatticeStatement` | volunteer-build-reviewed |
-| M094481 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GridBasePointTrivialOffTensorPlaces` | volunteer-build-reviewed |

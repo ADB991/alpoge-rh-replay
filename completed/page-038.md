@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M025457 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTorsionPrechartCoverStatement` | volunteer-build-reviewed |
+| M025458 | P2364 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTranslatesCoverGeometricFibre` | volunteer-build-reviewed |
+| M025459 | P2393 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTranslatesCoverGeometricFibreStatement` | volunteer-build-reviewed |
+| M025462 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTypeAwayOfAtPrime` | volunteer-build-reviewed |
+| M025464 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTypeLocalizationSameFractionField` | volunteer-build-reviewed |
 | M025465 | P1536 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTypeLocalizationSameFractionFieldStatement` | volunteer-build-reviewed |
 | M025466 | P2364 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTypeModelSameFibre` | volunteer-build-reviewed |
 | M025467 | P2393 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTypeModelSameFibreStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M026095 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeMapHarrisTaylorIntegralModelsStatement` | volunteer-build-reviewed |
 | M026097 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslateLocallyNoetherianBaseStatement` | volunteer-build-reviewed |
 | M026098 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundle` | volunteer-build-reviewed |
-| M026099 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundleStatement` | volunteer-build-reviewed |
-| M026101 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeUNuInv` | volunteer-build-reviewed |
-| M026103 | P0243 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeightOneValuationsControlSubgroupStatement` | volunteer-build-reviewed |
-| M026104 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeisenbergCoords` | volunteer-build-reviewed |
-| M026107 | P1997 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeisenbergInvariantThetaMeanSquareForm` | volunteer-build-reviewed |
