@@ -7,6 +7,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 (2026-11-22, run c075) alpo.ge, releases.lean-lang.org reachable now. elan's own toolchain download crashes (curl error in elan), so: download github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip (no zstd binary on box; use .zip), unzip, `elan toolchain link`. port_build.py prepare uses ELAN_HOME=WORK/elan, so link there too (ELAN_HOME=WORK/elan elan toolchain link ...) then rerun its remaining steps by hand: `lake update`, `lake exe cache get` in WORK/lean (cache works). gh: GraphQL is blocked, use `gh api` REST (search/issues needs is:issue or is:pr). In the shared checkout, `origin` = upstream: always push to remote `fork`.
 
+(2026-11-22, run 0562) Retested: alpo.ge OK (parts download ~45 MB/s), github.com release zip OK. `elan toolchain install` still fails (CONNECT 403 on its download host): download https://github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip (no zstd on box, so not .tar.zst), unzip, move to WORK/elan/toolchains/leanprover--lean4---v4.36.0, then run the rest of prepare by hand (`lake update`, `lake exe cache get` with ELAN_HOME=WORK/elan XDG_CACHE_HOME=WORK/cache) -- cache get works.
+
 (2026-11-22) Andrea added alpo.ge, releases.lean-lang.org and mathlib4.lean-cache.cloud to the environment's network allowlist after the first run. Retest them before treating any as blocked.
 
 (2026-11-21, run ADB991-claude-20261121-7c3e) Cloud sandbox: 4 vCPU, 15 GB RAM, ~60 GB free disk.
@@ -21,6 +23,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 ## open
 
 - P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 (not pushed yet) | PR: none | last touched 2026-11-22T12:40Z | ready-only (51/64), check running
+
+- P0244 | https://github.com/rohanarun/alpoge-rh-replay/issues/32669 | ADB991-claude-20261122-0562 | claude/port-P0244-0562 (not pushed yet) | PR: none | last touched 2026-11-22T12:41Z | ready-only (48/51), check running
 
 ## runs
 
