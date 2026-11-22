@@ -1,0 +1,7 @@
+{
+ "module": "ReciprocityTheory.SemistableReduction.TorusLex",
+ "source_sha256": "709713138db9f5e506d011e233ba8fd5dace6c1061d39c16479d54d3dbf12294",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
