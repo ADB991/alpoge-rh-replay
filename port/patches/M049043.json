@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzL2EuclideanIdentification",
+  "source_sha256": "d21c0348c0d6e59136e5c01c6ea94b4f4bcecb82742fcceaac7ce489a7e7adad",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0248-lean436-20261122-b/P0248-receipt.json"
+}

@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/TensorIsLocalRingOfUniquePrimeOver.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/TensorIsLocalRingOfUniquePrimeOver.lean
+@@ -74,7 +74,7 @@
+   have key : ∀ 𝔫 : Ideal (TensorProduct P T L), 𝔫.IsMaximal → 𝔫 = RingHom.ker ψ := by
+     intro 𝔫 h𝔫
+     have hLmax : (𝔫.comap (algebraMap L (TensorProduct P T L))).IsMaximal :=
+-      Ideal.isMaximal_comap_of_isIntegral_of_isMaximal (R := L) 𝔫
++      Ideal.isMaximal_under_of_isIntegral_of_isMaximal (R := L) 𝔫
+     have hL : 𝔫.comap (algebraMap L (TensorProduct P T L)) = maximalIdeal L :=
+       IsLocalRing.eq_maximalIdeal hLmax
+     let iT : T →+* TensorProduct P T L := Algebra.TensorProduct.includeLeftRingHom
