@@ -144,9 +144,9 @@ If anyone has some large machines they would be happy to put CI runners on, plea
 | Pilot proof object reused | 150 |
 | Pilot downstream module kernel-checked | 1 |
 | Distributed proof object reused | 16,970 |
-| Volunteer build evidence reviewed | 59,993 |
+| Volunteer build evidence reviewed | 61,150 |
 | Worker target kernel replay reviewed | 72 |
-| **Total with recorded module evidence** | **103,777 / 175,187** |
+| **Total with recorded module evidence** | **104,934 / 175,187** |
 
 [See each completed part and its evidence](completed/README.md) · [Machine-readable ledger](tracker/completed.tsv)
 

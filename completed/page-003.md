@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M001318 | P0293 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitProductClosurePropertiesStatement` | volunteer-build-reviewed |
 | M001319 | P0346 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitaryActionConsTupleMeasurable` | volunteer-build-reviewed |
 | M001320 | P0392 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitaryActionConsTupleMeasurableStatement` | volunteer-build-reviewed |
 | M001321 | P1271 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.UnitaryActionEulerProduct` | build-observed |
@@ -31,8 +32,10 @@
 | M001376 | P2594 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.EqOfOrbitMarkInCellConeStatement` | volunteer-build-reviewed |
 | M001380 | P2417 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsBalancedFormsDominatingStatement` | volunteer-build-reviewed |
 | M001382 | P2474 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsCarrierDimensionLabelStatement` | volunteer-build-reviewed |
+| M001385 | P2695 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsFan` | volunteer-build-reviewed |
 | M001386 | P2662 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsFanLowerMaxMultiplicity` | volunteer-build-reviewed |
 | M001399 | P2662 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsSimplicialLabelledRefinement` | volunteer-build-reviewed |
+| M001403 | P2695 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsSmoothPolyhedralFanRefinementStatement` | volunteer-build-reviewed |
 | M001406 | P2623 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsStarSubdivision` | volunteer-build-reviewed |
 | M001407 | P2635 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsStarSubdivisionStatement` | volunteer-build-reviewed |
 | M001409 | P2623 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.ExistsTwistedCentreSetStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M002132 | P0810 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericMultiplicityOne` | build-observed |
 | M002133 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GeometricComponentEmbedding` | volunteer-build-reviewed |
 | M002135 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodIdempotentBadPlaces` | build-observed |
-| M002136 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading` | build-observed |
-| M002139 | P1349 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HalfLatticeTypes` | volunteer-build-reviewed |
-| M002140 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCompactForm` | volunteer-build-reviewed |

@@ -2,6 +2,20 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M005011 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.AwayLiftCompFromZeroRingHom` | wave-reused |
+| M005012 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAdaptedOfIsLocalRing` | volunteer-build-reviewed |
+| M005013 | P0347 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAffineOpenOfFiniteOpensProj` | build-observed |
+| M005014 | P0295 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsInvariantSectionMemBasicOpenIff` | build-observed |
+| M005015 | P0393 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsLiftAddOfIsReducedEq` | wave-reused |
+| M005016 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.FlatImageOfOverFractionFieldOfValuationRing` | wave-reused |
+| M005017 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.GlActionMemBalFormsOfSemilinear` | volunteer-build-reviewed |
+| M005018 | P0347 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IrrelevantLeMapLinearGradedMap` | wave-reused |
+| M005019 | P0174 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IsDomainAndIsIntegrallyClosedLocalizationOfIsInv` | build-observed |
+| M005020 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IsOpenOfMemIrreducibleComponentsOfFinite` | wave-reused |
+| M005021 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.MemPrimitiveTensorsIffIsPrimitiveElem` | wave-reused |
+| M005022 | P0295 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.MulLeftCompOfPullbackPointEquivMul` | wave-reused |
+| M005023 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.OpensRangeChartYSupOpensRangeChartZ` | wave-reused |
+| M005025 | P0758 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.PowObjGeometricallyConnected` | wave-reused |
 | M005028 | P0347 | `Development.AbelianVarietyTheory.Definitions.SpanningFamilies.FirstCoordinateAdmissible` | wave-reused |
 | M005030 | P0003 | `Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IMemSiegel` | wave-reused |
 | M005031 | P0096 | `Development.AbelianVarietyTheory.Definitions.SpanningFamilies.IntMIffInt` | volunteer-build-reviewed |
@@ -289,6 +303,7 @@
 | M005392 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CompletelyReducibleToMatrixIffIsSemisimpleRepres` | volunteer-build-reviewed |
 | M005393 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CompletelyReducibleToMatrixIffIsSemisimpleRepresStatement` | volunteer-build-reviewed |
 | M005395 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ContinuousBicharacterWeilSetup` | volunteer-build-reviewed |
+| M005396 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ContinuousBicharacterWeilSetupStatement` | volunteer-build-reviewed |
 | M005398 | P1245 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ContinuousCharacterFiniteOrderIntegralUnitsStatement` | build-observed |
 | M005402 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CoordDivisible` | volunteer-build-reviewed |
 | M005403 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CoordsLeftMulMatrixConstBaseChange` | volunteer-build-reviewed |
@@ -326,6 +341,8 @@
 | M005439 | P0705 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsAuxiliaryPlacesSquarePatternsSUnits` | wave-reused |
 | M005440 | P0759 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsCmAdeleTensorEquivMixedFinite` | build-observed |
 | M005441 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsCmAdeleTensorEquivMixedFiniteStatement` | build-observed |
+| M005442 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsCommonDenominatorNilpotentCoboundary` | volunteer-build-reviewed |
+| M005443 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsCommonDenominatorNilpotentCoboundaryStatement` | volunteer-build-reviewed |
 | M005444 | P0678 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsComplexPolyBlockDiagPartOfFibreConst` | build-observed |
 | M005445 | P0705 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsComplexPolyBlockDiagPartOfFibreConstStatement` | build-observed |
 | M005446 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsCongrIffTraceFormsIsometric` | wave-reused |
@@ -353,6 +370,7 @@
 | M005474 | P0550 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsInverseOneAddPreservingAdelicCompletion` | build-observed |
 | M005475 | P0582 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsInverseOneAddPreservingAdelicCompletionStatement` | build-observed |
 | M005476 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsHermitianLogOfPosDefGram` | volunteer-build-reviewed |
+| M005477 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsHermitianLogOfPosDefGramStatement` | volunteer-build-reviewed |
 | M005478 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsKum` | wave-reused |
 | M005479 | P1218 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsOpenIsCompact` | volunteer-build-reviewed |
 | M005483 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquare` | wave-reused |
@@ -360,6 +378,7 @@
 | M005486 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsUnitFormSelfOfNotMem` | wave-reused |
 | M005487 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsometryMatrixRange` | volunteer-build-reviewed |
 | M005488 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectors` | volunteer-build-reviewed |
+| M005489 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectorsStatement` | volunteer-build-reviewed |
 | M005491 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCoset` | volunteer-build-reviewed |
 | M005492 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCosetStatement` | volunteer-build-reviewed |
 | M005493 | P0759 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftTranslationReynoldsOperator` | build-observed |
@@ -367,6 +386,7 @@
 | M005495 | P0347 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletion` | wave-reused |
 | M005496 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletionStatement` | wave-reused |
 | M005497 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbit` | volunteer-build-reviewed |
+| M005498 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbitStatement` | volunteer-build-reviewed |
 | M005501 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNatSmulMem` | build-observed |
 | M005503 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNonzeroIsotropic` | wave-reused |
 | M005505 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormOneReflectionCorrectionAtLevelStatement` | build-observed |
@@ -382,23 +402,3 @@
 | M005519 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMap` | build-observed |
 | M005520 | P0811 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMapStatement` | build-observed |
 | M005521 | P0839 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalRational` | build-observed |
-| M005522 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPosMulNormSqLe` | volunteer-build-reviewed |
-| M005523 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPosNatMulMemRingOfIntegers` | build-observed |
-| M005524 | P0865 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPrimeIdempotentCMField` | build-observed |
-| M005525 | P0891 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPrimeIdempotentCMFieldStatement` | build-observed |
-| M005527 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPushoutPrimitiveRoot` | volunteer-build-reviewed |
-| M005528 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsQuasiReflectionProdMulVecEq` | volunteer-build-reviewed |
-| M005529 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsQuasiReflectionProdMulVecEqStatement` | volunteer-build-reviewed |
-| M005530 | P0515 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsQuaternaryOfCoordinates` | wave-reused |
-| M005531 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatBilinForm` | volunteer-build-reviewed |
-| M005532 | P0475 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatIdempotentBlockDiagPartKillsSpan` | build-observed |
-| M005533 | P0515 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatIdempotentBlockDiagPartKillsSpanStatement` | build-observed |
-| M005534 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatIdempotentOfAutStableSubspace` | build-observed |
-| M005535 | P0436 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatIdempotentOfAutStableSubspaceStatement` | build-observed |
-| M005536 | P0475 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatLinearParamBlockDiagKernel` | build-observed |
-| M005537 | P0516 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatLinearParamBlockDiagKernelStatement` | build-observed |
-| M005538 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatOfForallComplexRingEquivFixed` | build-observed |
-| M005539 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatOfForallComplexRingEquivFixedStatement` | build-observed |
-| M005540 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatPolyEvalEqTensorPowerSumRightAction` | volunteer-build-reviewed |
-| M005541 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatPolyEvalEqTensorPowerSumRightActionStatement` | volunteer-build-reviewed |
-| M005542 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRatProjectorOfAutStableMatrices` | build-observed |

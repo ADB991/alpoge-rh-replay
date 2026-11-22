@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002795 | P0173 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.TwoPrimesOfSplitPl` | volunteer-build-reviewed |
+| M002798 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.ExistsStrictAnti` | volunteer-build-reviewed |
+| M002800 | P0758 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.NotAdmissibleWithAmbientTop` | volunteer-build-reviewed |
+| M002803 | P1323 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.NotVstdOfGramOne` | volunteer-build-reviewed |
+| M002805 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.PremisesModel` | volunteer-build-reviewed |
+| M002811 | P0838 | `Development.AbelianVarietyTheory.Counterexamples.HeckeCharacterExamples.SecondTwistCrystallineSmallOfJumpsOfCrys` | build-observed |
 | M002812 | P1114 | `Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.BesselPeriodPositionOneEqZero` | build-observed |
 | M002813 | P0974 | `Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.BlattnerShiftsSignedParameters` | build-observed |
 | M002815 | P0945 | `Development.AbelianVarietyTheory.Counterexamples.HeightSurvey.EmbRelExistsUnique` | volunteer-build-reviewed |
@@ -301,6 +307,7 @@
 | M003425 | P0648 | `Development.AbelianVarietyTheory.Definitions.Divisors.BlockSphereMeanLinForm` | wave-reused |
 | M003426 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.BplusOfEquivariant` | volunteer-build-reviewed |
 | M003429 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.CTSmallCone` | build-observed |
+| M003430 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.CanExtOfCharts` | volunteer-build-reviewed |
 | M003432 | P0435 | `Development.AbelianVarietyTheory.Definitions.Divisors.CechDeRhamCoefMapOneFormsRestrictAlongFunctor` | wave-reused |
 | M003433 | P0393 | `Development.AbelianVarietyTheory.Definitions.Divisors.CechDeRhamTotalDifferentialOneFunctionPart` | wave-reused |
 | M003434 | P1372 | `Development.AbelianVarietyTheory.Definitions.Divisors.CechFam` | build-observed |
@@ -309,6 +316,7 @@
 | M003438 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.CharZeroFunctionField` | volunteer-build-reviewed |
 | M003439 | P0475 | `Development.AbelianVarietyTheory.Definitions.Divisors.ChartMeasApplyOfSubset` | wave-reused |
 | M003441 | P1394 | `Development.AbelianVarietyTheory.Definitions.Divisors.ChernOn` | volunteer-build-reviewed |
+| M003442 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.CircleAsphGNontrivial` | volunteer-build-reviewed |
 | M003447 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.CommAlgFunctorCoboundaryZeroMemCocyclesOne` | wave-reused |
 | M003448 | P1323 | `Development.AbelianVarietyTheory.Definitions.Divisors.CommGroupMulMulEqMulInvMulMulMul` | wave-reused |
 | M003450 | P0475 | `Development.AbelianVarietyTheory.Definitions.Divisors.CompactBIffCompact` | volunteer-build-reviewed |
@@ -392,13 +400,5 @@
 | M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
+| M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
 | M003612 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasSumZeroOfTwoLe` | build-observed |
-| M003613 | P2747 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasTraitsOnOfHasTraitsP` | volunteer-build-reviewed |
-| M003617 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff` | volunteer-build-reviewed |
-| M003619 | P2654 | `Development.AbelianVarietyTheory.Definitions.Divisors.HolCuspLevDeltaNeBot` | volunteer-build-reviewed |
-| M003620 | P2635 | `Development.AbelianVarietyTheory.Definitions.Divisors.HoloOcc` | volunteer-build-reviewed |
-| M003621 | P2093 | `Development.AbelianVarietyTheory.Definitions.Divisors.HolomorphicSectionSignatureOneOne` | volunteer-build-reviewed |
-| M003622 | P0515 | `Development.AbelianVarietyTheory.Definitions.Divisors.HopfLaurent` | build-observed |
-| M003624 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HxiTZeroComb` | build-observed |
-| M003630 | P0347 | `Development.AbelianVarietyTheory.Definitions.Divisors.IdTower` | volunteer-build-reviewed |
-| M003632 | P1974 | `Development.AbelianVarietyTheory.Definitions.Divisors.Imports` | volunteer-build-reviewed |

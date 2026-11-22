@@ -1,0 +1,72 @@
+{
+  "tasks": [
+    "M116824",
+    "M117372",
+    "M118055",
+    "M119221",
+    "M129379",
+    "M130260",
+    "M130292",
+    "M131975",
+    "M132359",
+    "M137276"
+  ],
+  "started_utc": "2026-11-22T04:02:25.286563+00:00",
+  "ended_utc": "2026-11-22T04:03:17.333059+00:00",
+  "elapsed_seconds": 51.8,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 18429248
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.MultiplicityOneRationalRowsSized:olean",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ConjBaseOfStepsStatement:olean",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.IntegralFramePointStalkCompat:olean",
+    "+Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TwOneOfSteps:olean",
+    "+Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.RootOriginHeightComparisonThreeStatement:olean",
+    "+Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGeometricHeightConstantsStatement:olean",
+    "+Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsNonvanishingOfToroidal:olean",
+    "+Development.AutomorphicSpectrum.Proofs.GeometryProofs.RootTowerUniformHeightBoundStatement:olean",
+    "+Development.AutomorphicSpectrum.Proofs.GeometryProofs.UniformNormSectionCount:olean",
+    "+Development.WeilBound.CoreStatements.AutomorphicKernels.NadelVanishing.TopNadel:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "f5adc276bb4c9e709070a679b07c1682ef07959f2aff75bb52fc2a70be5de142",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConjugateBaseOfReciprocityStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEqAlgebraMapOfIntegralAtHeightOnePrimes",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEqAlgebraMapOfIntegralAtHeightOnePrimesStatement",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsBisAlt",
+    "Development.AutomorphicSpectrum.Proofs.GeometryProofs.DvrPointAnalyticDisc",
+    "Development.AutomorphicSpectrum.Proofs.GeometryProofs.DvrPointAnalyticDiscStatement",
+    "Development.AutomorphicSpectrum.Proofs.GeometryProofs.HolomorphicDiscRatioGrowth",
+    "Development.AutomorphicSpectrum.Proofs.GeometryProofs.HolomorphicDiscRatioGrowthStatement",
+    "Development.WeilBound.CoreStatements.ResolutionCharZero.PrincipalisationClosed",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsHolomorphicDiscAvoidingPole"
+  ],
+  "objects": {
+    "M116824": "b4114ea23f33af001b0c5c8c93fbe538fa0af0b2e5b8b557663379dd59bacb92",
+    "M117372": "31f64be8251abec416a9918ba52a9d3dead58c4848a9721ec6b45e14d21dd187",
+    "M118055": "62d7c5fdea3f9cc0d0091e53b18846547882d954aea3c5dec712da4ad97a9464",
+    "M119221": "c171cfbe76e0c4a1193d21b2628a96d2e2f664662a8af8dcb9e6dec40c110964",
+    "M129379": "b38b231923c038c885ba8fa86a49bf96b1aa0f19d3298caecdf6381a2f5d69bb",
+    "M130260": "c6856e04205e6965ef1f579f53711cf83bad59ab80c9e97d912d25ae632b1d72",
+    "M130292": "28f0d7040134d04c39b66b9f77956203d9a164ed13ae97c827fa78171c895cc1",
+    "M131975": "93206b4377ab146ac259cdc60283758c2c18e797aa45dd879a1f75db620a4c7c",
+    "M132359": "4ceb861650c6b0dca1983527dc9a211a1ed2e2923f770f113d6c8b908501e22a",
+    "M137276": "f8d269931d86854da36921597a4bb7d45d4588a6ae8f4e0cc54fcc23e6757ce4"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "b9b59234cb20f871970c4854536455c1db92084d4604d45ae92a3e549d03c87f",
+  "packet": "P2709",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/29364#issuecomment-7073951423",
+  "reviewed_utc": "2026-11-22T04:13:04.340568+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

@@ -286,6 +286,7 @@
 | M000524 | P0237 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.GoodPI` | volunteer-build-reviewed |
 | M000525 | P0237 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.IwaAll` | volunteer-build-reviewed |
 | M000526 | P0001 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.IwaChol` | volunteer-build-reviewed |
+| M000527 | P0094 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.IwaCore` | volunteer-build-reviewed |
 | M000528 | P0293 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.IwasawaDecompositionSecondModel` | volunteer-build-reviewed |
 | M000529 | P0172 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.MapStdPoly` | volunteer-build-reviewed |
 | M000530 | P0237 | `CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.SmallPI` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M000775 | P1244 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.AdelicHaarInvariantUnitaryActionStatement` | volunteer-build-reviewed |
 | M000776 | P1349 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.AdelicHaarMeasureLinearChange` | build-observed |
 | M000777 | P1372 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.AdelicHaarMeasureLinearChangeStatement` | build-observed |
-| M000778 | P1298 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.AdelicAnalysis.AdelicHaarMeasureScaling` | build-observed |

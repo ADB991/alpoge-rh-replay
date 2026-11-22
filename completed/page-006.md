@@ -2,6 +2,16 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003613 | P2747 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasTraitsOnOfHasTraitsP` | volunteer-build-reviewed |
+| M003617 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff` | volunteer-build-reviewed |
+| M003619 | P2654 | `Development.AbelianVarietyTheory.Definitions.Divisors.HolCuspLevDeltaNeBot` | volunteer-build-reviewed |
+| M003620 | P2635 | `Development.AbelianVarietyTheory.Definitions.Divisors.HoloOcc` | volunteer-build-reviewed |
+| M003621 | P2093 | `Development.AbelianVarietyTheory.Definitions.Divisors.HolomorphicSectionSignatureOneOne` | volunteer-build-reviewed |
+| M003622 | P0515 | `Development.AbelianVarietyTheory.Definitions.Divisors.HopfLaurent` | build-observed |
+| M003624 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HxiTZeroComb` | build-observed |
+| M003627 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HypothesesX` | volunteer-build-reviewed |
+| M003630 | P0347 | `Development.AbelianVarietyTheory.Definitions.Divisors.IdTower` | volunteer-build-reviewed |
+| M003632 | P1974 | `Development.AbelianVarietyTheory.Definitions.Divisors.Imports` | volunteer-build-reviewed |
 | M003634 | P0238 | `Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset` | wave-reused |
 | M003636 | P1271 | `Development.AbelianVarietyTheory.Definitions.Divisors.InstCMHostS` | volunteer-build-reviewed |
 | M003641 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.IotaScalarOne` | wave-reused |
@@ -146,6 +156,7 @@
 | M003880 | P0974 | `Development.AbelianVarietyTheory.Definitions.Divisors.RatBasisLinearIndependentInt` | wave-reused |
 | M003884 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.ReferenceMetricMulDualEqOne` | build-observed |
 | M003885 | P1993 | `Development.AbelianVarietyTheory.Definitions.Divisors.RegConst` | volunteer-build-reviewed |
+| M003886 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.RigidForFan` | volunteer-build-reviewed |
 | M003887 | P0475 | `Development.AbelianVarietyTheory.Definitions.Divisors.Rosati` | volunteer-build-reviewed |
 | M003889 | P0865 | `Development.AbelianVarietyTheory.Definitions.Divisors.SRelOneOneIff` | volunteer-build-reviewed |
 | M003890 | P0238 | `Development.AbelianVarietyTheory.Definitions.Divisors.SameDiv` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M004307 | P0002 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReductionUniformizerPoint` | volunteer-build-reviewed |
 | M004309 | P1901 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RegPolOfRepOf` | volunteer-build-reviewed |
 | M004310 | P2120 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ResidualIrreducibilityFormsEquivalent` | build-observed |
-| M004318 | P2654 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SortSign` | volunteer-build-reviewed |
-| M004321 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SplitRep` | build-observed |
-| M004323 | P0946 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases` | volunteer-build-reviewed |
-| M004324 | P0549 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SurjectiveOfLocallySurjective` | build-observed |
-| M004325 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TcoMem` | build-observed |
-| M004326 | P1531 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaMod` | build-observed |
-| M004327 | P2245 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaSeriesDataHypothesesBelowMaximalLevel` | volunteer-build-reviewed |
-| M004328 | P1114 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaZJetsThree` | volunteer-build-reviewed |
-| M004329 | P0810 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThickLetterWordLatticeSurjectionHypotheses` | volunteer-build-reviewed |
-| M004330 | P0615 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ToPtIdPtBijective` | build-observed |
-| M004331 | P1029 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TrueWtAddSSNonneg` | volunteer-build-reviewed |

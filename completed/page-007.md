@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004318 | P2654 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SortSign` | volunteer-build-reviewed |
+| M004321 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SplitRep` | build-observed |
+| M004323 | P0946 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases` | volunteer-build-reviewed |
+| M004324 | P0549 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SurjectiveOfLocallySurjective` | build-observed |
+| M004325 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TcoMem` | build-observed |
+| M004326 | P1531 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaMod` | build-observed |
+| M004327 | P2245 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaSeriesDataHypothesesBelowMaximalLevel` | volunteer-build-reviewed |
+| M004328 | P1114 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaZJetsThree` | volunteer-build-reviewed |
+| M004329 | P0810 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThickLetterWordLatticeSurjectionHypotheses` | volunteer-build-reviewed |
+| M004330 | P0615 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ToPtIdPtBijective` | build-observed |
+| M004331 | P1029 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.TrueWtAddSSNonneg` | volunteer-build-reviewed |
 | M004335 | P1956 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.UnderTie` | volunteer-build-reviewed |
 | M004337 | P1272 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.VerticalBoundHeightCompare` | build-observed |
 | M004338 | P2198 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.APerTw` | build-observed |
@@ -14,6 +25,8 @@
 | M004352 | P2235 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DRS` | build-observed |
 | M004353 | P1218 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DecayZero` | volunteer-build-reviewed |
 | M004355 | P1029 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DifferentiableAtChart` | volunteer-build-reviewed |
+| M004356 | P2706 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DiscreteSeriesCoefficientsCuspidal` | volunteer-build-reviewed |
+| M004357 | P2706 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DiscreteSeriesCoefficientsCuspidalBis` | volunteer-build-reviewed |
 | M004359 | P1029 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DisjointExceptional` | build-observed |
 | M004360 | P2198 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DivRows3GIff` | build-observed |
 | M004362 | P1736 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.EventuallyAllScaleContextsAndOfBoth` | volunteer-build-reviewed |
@@ -338,6 +351,7 @@
 | M004931 | P0239 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ComplementReferenceCompactSubgroup` | wave-reused |
 | M004934 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DefClassNum` | build-observed |
 | M004935 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DegVand` | volunteer-build-reviewed |
+| M004936 | P0239 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DiagMemCongruencePairs` | volunteer-build-reviewed |
 | M004937 | P1324 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DiscreteSeriesDegreeBound` | volunteer-build-reviewed |
 | M004939 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsIsFolnerUWset` | build-observed |
 | M004940 | P1114 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ExistsIsHaarMeasureSUJ` | volunteer-build-reviewed |
@@ -388,17 +402,3 @@
 | M005005 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ToGlob0` | volunteer-build-reviewed |
 | M005006 | P0475 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.TopfBasis` | volunteer-build-reviewed |
 | M005010 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.UpperOff` | build-observed |
-| M005011 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.AwayLiftCompFromZeroRingHom` | wave-reused |
-| M005012 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAdaptedOfIsLocalRing` | volunteer-build-reviewed |
-| M005013 | P0347 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAffineOpenOfFiniteOpensProj` | build-observed |
-| M005014 | P0295 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsInvariantSectionMemBasicOpenIff` | build-observed |
-| M005015 | P0393 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsLiftAddOfIsReducedEq` | wave-reused |
-| M005016 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.FlatImageOfOverFractionFieldOfValuationRing` | wave-reused |
-| M005017 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.GlActionMemBalFormsOfSemilinear` | volunteer-build-reviewed |
-| M005018 | P0347 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IrrelevantLeMapLinearGradedMap` | wave-reused |
-| M005019 | P0174 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IsDomainAndIsIntegrallyClosedLocalizationOfIsInv` | build-observed |
-| M005020 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.IsOpenOfMemIrreducibleComponentsOfFinite` | wave-reused |
-| M005021 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.MemPrimitiveTensorsIffIsPrimitiveElem` | wave-reused |
-| M005022 | P0295 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.MulLeftCompOfPullbackPointEquivMul` | wave-reused |
-| M005023 | P0096 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.OpensRangeChartYSupOpensRangeChartZ` | wave-reused |
-| M005025 | P0758 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.PowObjGeometricallyConnected` | wave-reused |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002136 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading` | build-observed |
+| M002139 | P1349 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HalfLatticeTypes` | volunteer-build-reviewed |
+| M002140 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCompactForm` | volunteer-build-reviewed |
 | M002141 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCurvatureForms` | volunteer-build-reviewed |
 | M002142 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianInterpolation` | volunteer-build-reviewed |
 | M002143 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HodgeFrameGram` | volunteer-build-reviewed |
@@ -227,6 +230,7 @@
 | M002499 | P0294 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.SmallUnipotentElements` | volunteer-build-reviewed |
 | M002500 | P0549 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.SpanSubtraction` | wave-reused |
 | M002501 | P0095 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.TorusMarkingPhase` | volunteer-build-reviewed |
+| M002502 | P0095 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.TorusThetaNorms` | volunteer-build-reviewed |
 | M002503 | P0515 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.TwoLevelLogarithm` | volunteer-build-reviewed |
 | M002504 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.PoincareCuspForms.UnitriangularCharts` | wave-reused |
 | M002507 | P1472 | `Development.AbelianVarietyTheory.BlockTheory.SiegelEisenstein.ConjugacyTypeUnfolding` | volunteer-build-reviewed |
@@ -288,6 +292,7 @@
 | M002603 | P0705 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FactorSeriesSupport` | build-observed |
 | M002605 | P0002 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FlatZetaIntegral` | volunteer-build-reviewed |
 | M002606 | P0731 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.FockSingularValues` | build-observed |
+| M002607 | P0095 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.GL2CharacterZeros` | volunteer-build-reviewed |
 | M002609 | P1394 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.GraphHeightLattice` | volunteer-build-reviewed |
 | M002610 | P0758 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.HeckeCharacterParameters` | build-observed |
 | M002611 | P0173 | `Development.AbelianVarietyTheory.BlockTheory.TorsionBlocks.HermitianLattices` | wave-reused |
@@ -339,6 +344,7 @@
 | M002685 | P0238 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GodementJacquetZeta` | build-observed |
 | M002686 | P1244 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GoodLiftPhase` | volunteer-build-reviewed |
 | M002687 | P1298 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HalfLinearCocycle` | volunteer-build-reviewed |
+| M002688 | P0173 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HalfPowerSpherical` | volunteer-build-reviewed |
 | M002689 | P1787 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HeckePrimeDetection` | volunteer-build-reviewed |
 | M002690 | P1349 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HeckeSupportLattices` | volunteer-build-reviewed |
 | M002692 | P1787 | `Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.HeckeValueIntegrality` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M002792 | P0810 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.WeilIsUniqueOfLocal` | volunteer-build-reviewed |
 | M002793 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LfacDenominatorNeZero` | volunteer-build-reviewed |
 | M002794 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LocalConditionsOfGlobal` | volunteer-build-reviewed |
-| M002795 | P0173 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.TwoPrimesOfSplitPl` | volunteer-build-reviewed |
-| M002798 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.ExistsStrictAnti` | volunteer-build-reviewed |
-| M002800 | P0758 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.NotAdmissibleWithAmbientTop` | volunteer-build-reviewed |
-| M002803 | P1323 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.NotVstdOfGramOne` | volunteer-build-reviewed |
-| M002805 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.PremisesModel` | volunteer-build-reviewed |
-| M002811 | P0838 | `Development.AbelianVarietyTheory.Counterexamples.HeckeCharacterExamples.SecondTwistCrystallineSmallOfJumpsOfCrys` | build-observed |
