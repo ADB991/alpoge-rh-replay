@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.ConstantCoeffEv",
+  "source_sha256": "9848a6607e49985ec84198103952a03196636215501a90e3187af8f90efca3d0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The target MvPowerSeries.pderiv takes the coefficient ring implicitly, so pderiv k i and pderiv R i become pderiv (R := k) i and pderiv (R := R) i throughout, including in theorem statements. The definition of pderiv is otherwise identical in the pinned and target Mathlib (only `variable (R) in` was dropped), so these are the same terms and the statements are unchanged in meaning. Inside one proof, the removed index-first MvPolynomial.coeff x is written as fun q => q.coeff x, the same coefficient. MvPowerSeries.coeff is unchanged and is not touched."
+}
