@@ -1,0 +1,7 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.TsgPolyVolPolyCoeffEven",
+  "source_sha256": "fec73614c5d973e090174b7f0e3fc599ea077b4605154364043cefeff586fc45",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the renamed Polynomial.finsetSum_coeff. Proof-only change; no statements, definitions or instances changed."
+}
