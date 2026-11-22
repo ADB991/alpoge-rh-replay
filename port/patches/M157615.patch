@@ -1,0 +1,18 @@
+--- a/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/WeilStabilizerVolume/LocDensFFIn.lean
++++ b/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/WeilStabilizerVolume/LocDensFFIn.lean
+@@ -80,13 +80,13 @@
+   have hdm : d ∉ Finset.univ.image (algebraMap k K) := by simpa using H
+   have := card_le_degree_of_subset_roots (p := (X ^ Fintype.card k - X : K[X]))
+     (Z := insert d (Finset.univ.image (algebraMap k K))) (fun x hx => by
+-      rw [mem_roots (FiniteField.X_pow_card_sub_X_ne_zero K hq), IsRoot, eval_sub, eval_pow,
++      rw [mem_roots (Polynomial.X_pow_sub_X_ne_zero (R := K) hq), IsRoot, eval_sub, eval_pow,
+         eval_X, sub_eq_zero]
+       rcases Finset.mem_insert.1 hx with rfl | hx
+       · exact hd
+       · obtain ⟨c, _, rfl⟩ := Finset.mem_image.1 hx
+         rw [← map_pow, FiniteField.pow_card])
+-  rw [FiniteField.X_pow_card_sub_X_natDegree_eq K hq, Finset.card_insert_of_notMem hdm,
++  rw [Polynomial.natDegree_X_pow_sub_X (R := K) hq, Finset.card_insert_of_notMem hdm,
+     Finset.card_image_of_injective _ (algebraMap k K).injective, Finset.card_univ] at this
+   omega
+ 

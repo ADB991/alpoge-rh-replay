@@ -1,0 +1,15 @@
+--- a/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnitaryQuotientCompactness/ModBase.lean
++++ b/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnitaryQuotientCompactness/ModBase.lean
+@@ -25,10 +25,10 @@
+ theorem toM_mem (x : MG G hG) : x.toM ∈ G := x.2
+ 
+ def mk (hG : IsMatGroup G) (g : Matrix (Fin m) (Fin m) ℂ) (h : g ∈ G) : MG G hG :=
+-  ⟨Matrix.of.symm g, by simpa using h⟩
++  ⟨Matrix.of.symm g, by simpa only [Equiv.apply_symm_apply] using h⟩
+ 
+ @[simp] theorem toM_mk (g : Matrix (Fin m) (Fin m) ℂ) (h : g ∈ G) : (mk hG g h).toM = g := by
+-  simp [mk, toM]
++  simp only [mk, toM, Equiv.apply_symm_apply]
+ 
+ theorem toM_injective : Function.Injective (toM : MG G hG → Matrix (Fin m) (Fin m) ℂ) := by
+   intro x y h

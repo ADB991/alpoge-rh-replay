@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.ProductFormula.StatementOCCM",
+  "source_sha256": "4a067bf15eb312c9c575dc12a2b075c7fa0d7eade8b89c0d33ca8cd896e04fc1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}
