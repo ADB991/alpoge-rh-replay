@@ -133,7 +133,7 @@ class ClaimsGraphQLTests(unittest.TestCase):
             requests.append((text, variables))
             if 'issues(states:OPEN' in text:
                 self.assertIn('issues(states:OPEN, first:100, after:$after)', text)
-                self.assertIn('comments(last:30)', text)
+                self.assertIn('comments(last:5)', text)
                 if variables['after'] is None:
                     return page(first, after='issue-100')
                 self.assertEqual(variables['after'], 'issue-100')

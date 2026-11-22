@@ -66,8 +66,8 @@ class ClaimsGraphQL:
             conflict: label(name:"claim-conflict") { id }
             issues(states:OPEN, first:100, after:$after) {
               pageInfo { endCursor hasNextPage }
-              nodes { id number title author { login } labels(first:30) { nodes { name } }
-                      comments(last:30) { pageInfo { startCursor hasPreviousPage }
+              nodes { id number title author { login } labels(first:5) { nodes { name } }
+                      comments(last:5) { pageInfo { startCursor hasPreviousPage }
                                           nodes { %s } } }
             }
           }
