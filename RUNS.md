@@ -22,7 +22,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## open
 
-- P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 (not pushed yet) | PR: none | last touched 2026-11-22T12:40Z | ready-only (51/64), check running
+- P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 (not pushed yet) | PR: none | last touched 2026-11-22T12:48Z | ready-only (51/64): check 48/51 ok, 3 fixed (M073366 M073400 M074311), audits 0 hits, reproduce running
 
 - P0244 | https://github.com/rohanarun/alpoge-rh-replay/issues/32669 | ADB991-claude-20261122-0562 | claude/port-P0244-0562 (not pushed yet) | PR: none | last touched 2026-11-22T12:41Z | ready-only (48/51), check running
 
