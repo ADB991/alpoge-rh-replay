@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.HermitianLattices.HermitianLatticesProofs.IsomAct",
+  "source_sha256": "87c8687f9ef7561f10da61c66f64e11d38b2321d4e906c11871125743e159c2b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: preserve the pinned lattice predicate. Mathlib #44365 renamed the pinned Submodule.IsLattice to IsFullLattice and reused the name IsLattice for a weaker notion, so the unchanged text would silently weaken the statements. In the pinned Mathlib, IsLattice K M is a Prop class with exactly two fields, fg : M.FG and span_eq_top : Submodule.span K M = ⊤. Here R and K are arbitrary (Algebra R K, not a fraction field), so IsFullLattice would not be equivalent; as in the accepted record for StatementLat (M147293), the two pinned conditions are written explicitly as M.FG ∧ Submodule.span K (M : Set V) = ⊤ in the hypothesis and conclusion of isomAct_lattice and in the hlat step of the proof. The proof uses .1/.2 instead of .fg/.span_eq_top. No hypothesis is added or removed."
+}

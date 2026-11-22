@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.HermitianLattices.DefsCS",
+  "source_sha256": "eaa5e819f764b4cbc519bc4d95188bedf07939327c3b9824c31152531ba170a9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: the hypotheses `Submodule.IsLattice K M` inside the Prop definitions TraceReal, GenusCovol and GenusScale become `Submodule.IsFullLattice K M`. The module compiles unchanged, but Mathlib #44365 renamed the pinned `IsLattice` (finitely generated and spanning) to `IsFullLattice` and reused the name `IsLattice` for a weaker notion without `span_eq_top`, so the unchanged text would silently weaken these definitions; the reused-name audit flagged all three. In each, M is a submodule over `𝓞 K` for a number field `K`, the fraction field of `𝓞 K`, so `IsFullLattice K M ↔ M.FG ∧ span K M = ⊤`, which is the pinned definition, because `Submodule.IsLattice.of_fg` supplies the new field. No hypothesis is added or removed."
+}
