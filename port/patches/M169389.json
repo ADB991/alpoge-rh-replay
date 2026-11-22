@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PSchAltPartitionExpansion",
+  "source_sha256": "a0f2e6af4a023fce864bfff5ccf635abb2a1fd2f4d3509645e649a706d303231",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: three `coeff d P` terms inside the proof are respelled `P.coeff d` (MvPolynomial.coeff was replaced by the AddMonoidAlgebra projection).",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}

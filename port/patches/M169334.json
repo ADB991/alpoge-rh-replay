@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PFlagCoeffBlockPermute",
+  "source_sha256": "7eef325627366a6774279549cc0eae5260c71dd31c22521866b5348d70d90ce5",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Finsupp.mapDomain_apply, whose injective form was renamed, becomes Finsupp.mapDomain_apply_of_injective.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}

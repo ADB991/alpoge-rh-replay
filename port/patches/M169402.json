@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PSchNonHookResidues",
+  "source_sha256": "f9af668d28695831243f862f952852c99267d5140e75939c6f8dab12c6985542",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}

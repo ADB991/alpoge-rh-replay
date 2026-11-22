@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PFrobeniusCharacterFormula",
+  "source_sha256": "62ca30a57b4c2d9a37a6b295584ce74f79b72565d39e9f8d644872b3b7542bea",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}
