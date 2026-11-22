@@ -5,6 +5,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## setup notes
 
+(2026-11-22) Andrea added alpo.ge, releases.lean-lang.org and mathlib4.lean-cache.cloud to the environment's network allowlist after the first run. Retest them before treating any as blocked.
+
 (2026-11-21, run ADB991-claude-20261121-7c3e) Cloud sandbox: 4 vCPU, 15 GB RAM, ~60 GB free disk.
 - BLOCKED by proxy (CONNECT 403): alpo.ge (archive parts, the only official source), web.archive.org / archive.org,
   huggingface.co, releases.lean-lang.org (elan's default toolchain origin), mathlib4.lean-cache.cloud.
@@ -24,5 +26,5 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## for Andrea
 
-- 2026-11-21: Porting is blocked in this cloud environment: the network policy denies alpo.ge (and archive.org, releases.lean-lang.org, mathlib4.lean-cache.cloud). To unblock, add alpo.ge (and ideally releases.lean-lang.org + mathlib4.lean-cache.cloud) to the environment's allowed hosts, or provide an official mirror of the 14 parts. Nothing was claimed or posted upstream.
+- [resolved 2026-11-22: hosts added to the allowlist] 2026-11-21: Porting is blocked in this cloud environment: the network policy denies alpo.ge (and archive.org, releases.lean-lang.org, mathlib4.lean-cache.cloud). To unblock, add alpo.ge (and ideally releases.lean-lang.org + mathlib4.lean-cache.cloud) to the environment's allowed hosts, or provide an official mirror of the 14 parts. Nothing was claimed or posted upstream.
 
