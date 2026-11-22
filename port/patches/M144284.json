@@ -3,6 +3,7 @@
   "source_sha256": "02eab37f3d4d4ba211fc3ff70c478ecff9d86e9ecb996209b29be2e4d7be488a",
   "lean": "leanprover/lean4:v4.36.0",
   "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
-  "notes": "unchanged",
-  "evidence": "https://github.com/emsi/alpoge-rh-replay/releases/download/port-P0068-lean436-20261121/packet-result.json"
+  "notes": "Restore the pinned total meaning of BB for arbitrary measures: use the original nested map/join product, expressed through a guarded current bind so the old outer-map zero fallback is preserved. The fixed insertions Prod.mk x are measurable in the canonical product space, so their current Measure.map agrees with the pinned map. No SFinite or other hypotheses are added to BB. Add BB_eq_prod_of_sfinite under its own SFinite second-factor hypothesis for consuming proofs. IntTwoSided already has SFinite for both measures, so its Measure.prod reference retains its pinned meaning. Generated BB equations expose the same restored all-measures definition and are reviewed explicitly. All original declaration headers, other definition bodies, matrix/group/quotient maps, theorem proofs, imports, scopes, instances and resource limits are retained.",
+  "evidence": "https://github.com/rohanarun/alpoge-rh-replay/issues/31785",
+  "previous_evidence": "https://github.com/emsi/alpoge-rh-replay/releases/download/port-P0068-lean436-20261121/packet-result.json"
 }

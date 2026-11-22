@@ -3,6 +3,7 @@
   "source_sha256": "ae2d10bf2597e04149cc3e73337a15861da593cea11f9572509dfef3fa3f9464",
   "lean": "leanprover/lean4:v4.36.0",
   "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
-  "notes": "unchanged",
-  "evidence": "port triage port-triage-d1-v3: compiled unchanged on Google Cloud (port/triage/results.json)"
+  "notes": "Proof-only compatibility adaptation in bbFinite_of: rewrite BB using BB_eq_prod_of_sfinite before the existing integral identity. The proof already has both SFinite hypotheses from BBFinite; no theorem statement, assumption, other proof, map, import, scope, instance or resource limit changes. This is the consuming proof of the coupled M144284 pinned-measure semantic restoration.",
+  "evidence": "https://github.com/rohanarun/alpoge-rh-replay/issues/31786",
+  "previous_evidence": "port triage port-triage-d1-v3: compiled unchanged on Google Cloud (port/triage/results.json)"
 }
