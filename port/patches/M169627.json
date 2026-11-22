@@ -1,0 +1,7 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Statements",
+  "source_sha256": "25e09955dcb6ade974619910cbbe034e68f01421f76313162ac4c00a4a04a8f8",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}
