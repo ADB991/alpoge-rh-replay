@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.AnalyticForms.LeviForms.HomDensA",
+  "source_sha256": "ca567f11a046d4cc24b8fbefc69660f2a2593740b1f8aa26426d42f011253acc",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: renamed `Polynomial.finset_sum_coeff` to its v4.36.0 name `Polynomial.finsetSum_coeff` (same statement) in two `simp only` calls.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0289-lean436-20261122-b/P0289-receipt.json"
+}

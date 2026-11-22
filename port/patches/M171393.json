@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshBasic",
+  "source_sha256": "c62f899e7452fd20c6ef8750df91b886ecef6b7955b44d0805dbca619b1db6c0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: `contDiff_apply` now takes the dependent fibre family `F'` explicitly, so `contDiff_apply ℝ ℂ j` became `contDiff_apply ℝ (fun _ : Fin D => ℂ) j`; the resulting lemma is the same.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0289-lean436-20261122-b/P0289-receipt.json"
+}

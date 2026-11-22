@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.ProfiniteCohomology.LocalEulerCharacteristic.UnitsLattice",
+  "source_sha256": "9a0780ecceb59e4141ffb7ffb7b89a218bc79668ca083509b523eeb3e1bfa6b6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0289-lean436-20261122-b/P0289-receipt.json"
+}

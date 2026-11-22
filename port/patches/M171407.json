@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0",
+  "source_sha256": "9dbc010cb07c5e8be213e0b8e5779c971852618a843346537ba3572a5240e1e3",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: `contDiff_apply ℝ ℂ 0` became `contDiff_apply ℝ (fun _ : Fin 1 => ℂ) 0` (explicit dependent fibre family), and a `positivity` side goal of `ContinuousAt.div` is ascribed its type `(1 : ℝ) + ‖crd1 ∞‖ ^ 2 ≠ 0` so positivity sees a concrete goal.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0289-lean436-20261122-b/P0289-receipt.json"
+}

@@ -1,0 +1,12 @@
+--- a/src/ReciprocityTheory/AnalyticForms/PlurisubharmonicFunctions/PshRegMax.lean
++++ b/src/ReciprocityTheory/AnalyticForms/PlurisubharmonicFunctions/PshRegMax.lean
+@@ -200,7 +200,8 @@
+     funext j
+     exact (ContinuousLinearMap.proj (R := ℝ) (φ := fun _ : ι => ℝ) j).circleAverage_comp_comm hci
+   rw [e, Real.circleAverage_eq_intervalAverage, Real.circleAverage_eq_intervalAverage]
+-  exact (regMax_convex η).map_average_le hF.continuousOn isClosed_univ
++  exact (regMax_convex η).map_average_le (μ := volume.restrict (Ι (0:ℝ) (2 * Real.pi)))
++    (f := fun θ => f (circleMap c R θ)) hF.continuousOn isClosed_univ
+     (Eventually.of_forall fun _ => trivial) hg hFg
+ 
+ end Psh
