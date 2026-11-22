@@ -26,6 +26,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 - P0244 | https://github.com/rohanarun/alpoge-rh-replay/issues/32669 | ADB991-claude-20261122-0562 | claude/port-P0244-0562 (not pushed yet) | PR: none | last touched 2026-11-22T12:41Z | ready-only (48/51), check running
 
+- P0247 | https://github.com/rohanarun/alpoge-rh-replay/issues/32694 | ADB991-claude-20261122-9c49 | claude/port-P0247-9c49 (not pushed yet) | PR: none | last touched 2026-11-22T12:44Z | ready-only (37/40), setting up
+
 ## runs
 
 - 2026-11-21T22:15Z ADB991-claude-20261121-7c3e: no packet, no claim. Hard blocker: alpo.ge blocked by sandbox network policy, archive cannot be fetched. Read docs/queue only (port.py next showed P0165/P0166/P0139... unclaimed partial depth-1 packets).
