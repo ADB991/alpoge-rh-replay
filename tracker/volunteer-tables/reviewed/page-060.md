@@ -4,6 +4,23 @@
 
 | Contributor | Task | Modules | Review |
 |---|---|---:|---|
+| [@amrehan](https://github.com/amrehan) | [M142796](https://github.com/rohanarun/alpoge-rh-replay/issues/18878#issuecomment-7060595252) | 1 | [Build evidence verified](../../../evidence/volunteers/M142796.json) |
+| [@amrehan](https://github.com/amrehan) | [M134515](https://github.com/rohanarun/alpoge-rh-replay/issues/18879#issuecomment-7060590627) | 1 | [Build evidence verified](../../../evidence/volunteers/M134515.json) |
+| [@amrehan](https://github.com/amrehan) | [M155472](https://github.com/rohanarun/alpoge-rh-replay/issues/18880#issuecomment-7060596122) | 1 | [Build evidence verified](../../../evidence/volunteers/M155472.json) |
+| [@gilad12-coder](https://github.com/gilad12-coder) | [M157190](https://github.com/rohanarun/alpoge-rh-replay/issues/18881#issuecomment-7060592832) | 1 | [Build evidence verified](../../../evidence/volunteers/M157190.json) |
+| [@dga471](https://github.com/dga471) | [M101454](https://github.com/rohanarun/alpoge-rh-replay/issues/18884#issuecomment-7060638924) | 1 | [Build evidence verified](../../../evidence/volunteers/M101454.json) |
+| [@dga471](https://github.com/dga471) | [M017254](https://github.com/rohanarun/alpoge-rh-replay/issues/18885#issuecomment-7060640910) | 1 | [Build evidence verified](../../../evidence/volunteers/M017254.json) |
+| [@dga471](https://github.com/dga471) | [M101646](https://github.com/rohanarun/alpoge-rh-replay/issues/18887#issuecomment-7060665013) | 1 | [Build evidence verified](../../../evidence/volunteers/M101646.json) |
+| [@nicu-chiciuc](https://github.com/nicu-chiciuc) | [M005756](https://github.com/rohanarun/alpoge-rh-replay/issues/18895#issuecomment-7060607619) | 1 | [Build evidence verified](../../../evidence/volunteers/M005756.json) |
+| [@sp20262026](https://github.com/sp20262026) | [M102626](https://github.com/rohanarun/alpoge-rh-replay/issues/18912#issuecomment-7060640761) | 1 | [Build evidence verified](../../../evidence/volunteers/M102626.json) |
+| [@amrehan](https://github.com/amrehan) | [M163807](https://github.com/rohanarun/alpoge-rh-replay/issues/18914#issuecomment-7060611364) | 1 | [Build evidence verified](../../../evidence/volunteers/M163807.json) |
+| [@jdenwood](https://github.com/jdenwood) | [M164895](https://github.com/rohanarun/alpoge-rh-replay/issues/18915#issuecomment-7060610925) | 1 | [Build evidence verified](../../../evidence/volunteers/M164895.json) |
+| [@dga471](https://github.com/dga471) | [M168696](https://github.com/rohanarun/alpoge-rh-replay/issues/18917#issuecomment-7060737785) | 1 | [Build evidence verified](../../../evidence/volunteers/M168696.json) |
+| [@amrehan](https://github.com/amrehan) | [M163672](https://github.com/rohanarun/alpoge-rh-replay/issues/18918#issuecomment-7060612030) | 1 | [Build evidence verified](../../../evidence/volunteers/M163672.json) |
+| [@amrehan](https://github.com/amrehan) | [M163750](https://github.com/rohanarun/alpoge-rh-replay/issues/18919#issuecomment-7060612705) | 1 | [Build evidence verified](../../../evidence/volunteers/M163750.json) |
+| [@gilad12-coder](https://github.com/gilad12-coder) | [M082769](https://github.com/rohanarun/alpoge-rh-replay/issues/18920#issuecomment-7060637528) | 1 | [Build evidence verified](../../../evidence/volunteers/M082769.json) |
+| [@gilad12-coder](https://github.com/gilad12-coder) | [M088597](https://github.com/rohanarun/alpoge-rh-replay/issues/18921#issuecomment-7060630362) | 1 | [Build evidence verified](../../../evidence/volunteers/M088597.json) |
+| [@dga471](https://github.com/dga471) | [M020524](https://github.com/rohanarun/alpoge-rh-replay/issues/18923#issuecomment-7060666359) | 1 | [Build evidence verified](../../../evidence/volunteers/M020524.json) |
 | [@dga471](https://github.com/dga471) | [M046272](https://github.com/rohanarun/alpoge-rh-replay/issues/18924#issuecomment-7060667616) | 1 | [Build evidence verified](../../../evidence/volunteers/M046272.json) |
 | [@dga471](https://github.com/dga471) | [M047209](https://github.com/rohanarun/alpoge-rh-replay/issues/18925#issuecomment-7060668860) | 1 | [Build evidence verified](../../../evidence/volunteers/M047209.json) |
 | [@dga471](https://github.com/dga471) | [M102934](https://github.com/rohanarun/alpoge-rh-replay/issues/18927#issuecomment-7060670590) | 1 | [Build evidence verified](../../../evidence/volunteers/M102934.json) |
