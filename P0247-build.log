@@ -1,0 +1,143 @@
+== archive: all 14 parts match parts.sha256
+== sources: all 37 packet and 124 import source hashes match
+== remaining: 3 members wait for unported imports and are not built: M046414 M046803 M046864
+== toolchain: Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release); Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+== patch M003485: patching file src/Development/AbelianVarietyTheory/Definitions/Divisors/EllFamNontrivial.lean
+== patch M003565: patching file src/Development/AbelianVarietyTheory/Definitions/Divisors/ExtFormAdjEqNegSecondForm.lean
+== patch M003762: patching file src/Development/AbelianVarietyTheory/Definitions/Divisors/LeTwoMulOfForallScale.lean
+== patch M003848: patching file src/Development/AbelianVarietyTheory/Definitions/Divisors/OrthSubrepresentation.lean
+== patch M005020: patching file src/Development/AbelianVarietyTheory/Definitions/ShimuraVarieties/IsOpenOfMemIrreducibleComponentsOfFinite.lean
+== patch M005049: patching file src/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsEventuallyNormRiemannThetaTermLe.lean
+== patch M006243: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/ExistsIsRegularQuotSMulTop.lean
+== patch M006314: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/IsRegularOfSupportDimQuotientAddLengthLe.lean
+== patch M006317: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/IsWeaklyRegularIffIsQuasiRegularSeqOfIsLocalRing.lean
+== patch M006336: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/MemRangeOfForallHeightEqOneOfIsReflexive.lean
+== patch M015310: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/AlgebraMapEqMk.lean
+== patch M019579: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ContDiffOnHeckeEisensteinFourierTerm.lean
+== patch M027625: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsMultilinearFormOfPicTorsion.lean
+== patch M027626: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/ExistsMultilinearFormOfPicTorsionStatement.lean
+== patch M039204: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/IsUnitOneAddPiOMul.lean
+== patch M039983: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KummerAlgebraFiniteProjectiveFaithfullyFlat.lean
+== patch M039984: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KummerAlgebraFiniteProjectiveFaithfullyFlatStatement.lean
+== patch M039985: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KummerAlgebraZmodTorsorBijective.lean
+== patch M039986: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/KummerAlgebraZmodTorsorBijectiveStatement.lean
+== patch M046348: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/PowNormMulSeminormSliceRLe.lean
+== patch M066438: patching file src/Development/AbelianVarietyTheory/Proofs/HomogeneousIdeals/ExistsEqTransposeMulDiagonalMul.lean
+== patch M095392: patching file src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/IteratedLineDerivMemWeylAlg.lean
+== patch M101080: patching file src/Development/AbelianVarietyTheory/PublishedTheorems/TwistedTraceFormula/RealMetaplecticRepresentation.lean
+== patch M043800: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/MonoPullbackMapOfFlat.lean
+== patch M044521: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/NormIteratedFDerivProdCoordLeLeibniz.lean
+== patch M045768: patching file src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/PicardTorsionTrivialOfTorsorsHaveSections.lean
+== build: lake --no-cache build +<Module>:olean for each of 37 modules
+M043609 Development.AbelianVarietyTheory.Proofs.DivisorProofs.MobiusChangeOfVariablesStatement exit=0 39.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.MobiusChangeOfVariablesStatement (4.3s)
+    Build completed successfully (18258 jobs).
+M043612 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGEQuotientMapSpanSingleton exit=0 27.9s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGEQuotientMapSpanSingleton (4.4s)
+    Build completed successfully (18262 jobs).
+M043614 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGEThreeOfFreeRegularLocal exit=0 30.9s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGEThreeOfFreeRegularLocal (4.1s)
+    Build completed successfully (18262 jobs).
+M043616 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGETwoOfIsIntegrallyClosedOfIsRegularLoca exit=0 23.5s
+    ⚠ [18264/18264] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGETwoOfIsIntegrallyClosedOfIsRegularLoca (4.8s)
+    Build completed successfully (18264 jobs).
+M043619 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGETwoOfRegularQuotientNoSocleStatement exit=0 14.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGETwoOfRegularQuotientNoSocleStatement (3.5s)
+    Build completed successfully (18256 jobs).
+M043718 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModularGroupRowVecAndConjRightActionsStatement exit=0 22.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModularGroupRowVecAndConjRightActionsStatement (4.2s)
+    Build completed successfully (18256 jobs).
+M043800 Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackMapOfFlat exit=0 103.7s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackMapOfFlat (14s)
+    Build completed successfully (18258 jobs).
+M043879 Development.AbelianVarietyTheory.Proofs.DivisorProofs.MuCoeffZeroNeZero exit=0 25.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.MuCoeffZeroNeZero (3.5s)
+    Build completed successfully (18256 jobs).
+M044117 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NarrowGaussConvolutionDense exit=0 60.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NarrowGaussConvolutionDense (39s)
+    Build completed successfully (18256 jobs).
+M044143 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NatDegreeMulEsymmRootsPowStatement exit=0 22.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NatDegreeMulEsymmRootsPowStatement (4.1s)
+    Build completed successfully (18258 jobs).
+M044302 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyEquivOfCardHomStatement exit=0 21.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyEquivOfCardHomStatement (4.0s)
+    Build completed successfully (18258 jobs).
+M044418 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormApproximationFiltration exit=0 37.9s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormApproximationFiltration (7.2s)
+    Build completed successfully (18262 jobs).
+M044419 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormApproximationFirstLevel exit=0 21.1s
+    ⚠ [18266/18266] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormApproximationFirstLevel (9.8s)
+    Build completed successfully (18266 jobs).
+M044437 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormCoefficientIdealFamilyEqTopOfDisjoint exit=0 29.2s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormCoefficientIdealFamilyEqTopOfDisjoint (3.9s)
+    Build completed successfully (18260 jobs).
+M044488 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFiltrationComplete exit=0 14.5s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFiltrationComplete (7.5s)
+    Build completed successfully (18262 jobs).
+M044490 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFormCoefficientIdealMapLocalizationAway exit=0 12.0s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFormCoefficientIdealMapLocalizationAway (5.2s)
+    Build completed successfully (18260 jobs).
+M044514 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivHeckeFourierFactorLe exit=0 53.2s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivHeckeFourierFactorLe (7.2s)
+    Build completed successfully (18258 jobs).
+M044521 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivProdCoordLeLeibniz exit=0 11.8s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivProdCoordLeLeibniz (5.2s)
+    Build completed successfully (18258 jobs).
+M044528 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormLeLintegralRayIteratedFDerivStatement exit=0 23.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormLeLintegralRayIteratedFDerivStatement (4.2s)
+    Build completed successfully (18256 jobs).
+M044656 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationDvrTensorSeparableFiniteStatement exit=0 28.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationDvrTensorSeparableFiniteStatement (4.1s)
+    Build completed successfully (18256 jobs).
+M044658 Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationMulEqAevalRootStatement exit=0 24.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormalisationMulEqAevalRootStatement (3.4s)
+    Build completed successfully (18256 jobs).
+M044943 Development.AbelianVarietyTheory.Proofs.DivisorProofs.OpNormLeOpNormBlockDiagonal exit=0 42.3s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.OpNormLeOpNormBlockDiagonal (3.9s)
+    Build completed successfully (18258 jobs).
+M045088 Development.AbelianVarietyTheory.Proofs.DivisorProofs.OrthogonalSymplecticFixesSiegelPointI exit=0 118.6s
+    ✔ [18272/18272] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.OrthogonalSymplecticFixesSiegelPointI (4.8s)
+    Build completed successfully (18272 jobs).
+M045265 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicRingHomEqCanonical exit=0 12.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PadicRingHomEqCanonical (5.4s)
+    Build completed successfully (18256 jobs).
+M045441 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterFunctionEqZeroOfComposable exit=0 49.6s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ParameterFunctionEqZeroOfComposable (4.1s)
+    Build completed successfully (18258 jobs).
+M045484 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PartialOperatorSchwartzSeminormBound exit=0 23.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PartialOperatorSchwartzSeminormBound (4.3s)
+    Build completed successfully (18256 jobs).
+M045501 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PartialZetaTotallyRealAtMostSimplePoleStatement exit=0 25.0s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PartialZetaTotallyRealAtMostSimplePoleStatement (4.0s)
+    Build completed successfully (18262 jobs).
+M045758 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PicIsOfFinOrderOfFiniteIntStatement exit=0 25.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PicIsOfFinOrderOfFiniteIntStatement (4.9s)
+    Build completed successfully (18256 jobs).
+M045768 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PicardTorsionTrivialOfTorsorsHaveSections exit=0 36.4s
+    ⚠ [18264/18264] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PicardTorsionTrivialOfTorsorsHaveSections (5.0s)
+    Build completed successfully (18264 jobs).
+M046183 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialEvalBoundOnCircleFamily exit=0 27.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialEvalBoundOnCircleFamily (7.8s)
+    Build completed successfully (18256 jobs).
+M046195 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialGrowthOfPeriodicIntegralSpansStatement exit=0 25.0s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialGrowthOfPeriodicIntegralSpansStatement (3.5s)
+    Build completed successfully (18260 jobs).
+M046344 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowMulMemSubalgebraOfResBasicOpen exit=0 27.1s
+    ⚠ [18264/18264] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowMulMemSubalgebraOfResBasicOpen (4.5s)
+    Build completed successfully (18264 jobs).
+M046471 Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeMapPrimeMap exit=0 28.7s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.PrimeMapPrimeMap (3.8s)
+    Build completed successfully (18260 jobs).
+M046654 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdImIteratedWirtingerDerivWordDifferentiableOn exit=0 14.8s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProdImIteratedWirtingerDerivWordDifferentiableOn (4.7s)
+    Build completed successfully (18258 jobs).
+M047184 Development.AbelianVarietyTheory.Proofs.DivisorProofs.QExpansionsCoeffwiseConjugateRingClosureStatement exit=0 18.1s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.QExpansionsCoeffwiseConjugateRingClosureStatement (3.7s)
+    Build completed successfully (18258 jobs).
+M047480 Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankOneLatticeSpanSingletonStatement exit=0 13.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.RankOneLatticeSpanSingletonStatement (3.7s)
+    Build completed successfully (18256 jobs).
+M047896 Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReductionUniformizerNilpotent exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReductionUniformizerNilpotent (5.4s)
+    Build completed successfully (18256 jobs).
+== done: 37 of 37 modules built
