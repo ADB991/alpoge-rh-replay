@@ -1,0 +1,26 @@
+--- a/src/Development/AutomorphicSpectrum/Definitions/CommutativeAlgebra/OmStable.lean
++++ b/src/Development/AutomorphicSpectrum/Definitions/CommutativeAlgebra/OmStable.lean
+@@ -7,6 +7,14 @@
+ 
+ open Module NumberField
+ 
++/-- The pinned Mathlib `Submodule.IsLattice` (before Mathlib #44365): finitely generated with full
++scalar span. Kept exactly, because here `O` is an arbitrary commutative ring, so the target
++`Submodule.IsFullLattice` would add an independence hypothesis. -/
++class PinnedIsLattice {R : Type*} [CommRing R] (A : Type*) [CommRing A] [Algebra R A] {V : Type*}
++    [AddCommGroup V] [Module R V] [Module A V] [IsScalarTower R A V] (M : Submodule R V) : Prop where
++  fg : M.FG
++  span_eq_top : Submodule.span A (M : Set V) = ⊤
++
+ structure HTPoint (C O : Type) [Field C] [CommRing O] [Algebra O C] {E : Type} [Field E] [NumberField E]
+     (c : E ≃+* E) (κ : O) (N : ℕ)
+     (V Ω : Type) [AddCommGroup V] [Module C V] [Module O V] [IsScalarTower O C V]
+@@ -26,7 +34,7 @@
+   adj : ∀ (a : 𝓞 E) (x y : V), e (ρ a x) y = e x (ρ (RingOfIntegers.mapRingEquiv c a) y)
+ 
+   om : Submodule O Ω
+-  om_lat : om.IsLattice C
++  om_lat : PinnedIsLattice C om
+ 
+   ρΩ : 𝓞 E →+* Module.End C Ω
+   om_stable : ∀ (a : 𝓞 E), ∀ x ∈ om, ρΩ a x ∈ om

@@ -1,0 +1,11 @@
+--- a/src/Development/AutomorphicArithmetic/QuadraticCharacters/MemRealCyclotomicSubgroup.lean
++++ b/src/Development/AutomorphicArithmetic/QuadraticCharacters/MemRealCyclotomicSubgroup.lean
+@@ -22,7 +22,7 @@
+ 
+ def decomp (p : ℕ) : Subgroup E.Gal := E.inertia p ⊔ Subgroup.closure (E.frobCoset p 1)
+ 
+-def primChars : Set PrimChar := prim '' E.chars
++noncomputable def primChars : Set PrimChar := prim '' E.chars
+ 
+ def Sub (E E' : AbField) : Prop := E.primChars ⊆ E'.primChars
+ 
