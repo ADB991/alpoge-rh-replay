@@ -1,0 +1,7 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumPoint",
+  "source_sha256": "95ee6cf4dd38e3fb474b3d8fd82d13638a158f36a0fabc836bf7475bd2048795",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Write the removed index-first MvPolynomial coefficient call coeff m h (inside the proof of dehom_mul_of_isMultiHomog) as h.coeff m, the same coefficient. Proof-only change; no statements, definitions or instances changed."
+}
