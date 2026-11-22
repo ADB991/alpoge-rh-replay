@@ -1,0 +1,179 @@
+== archive: all 14 parts match parts.sha256
+== sources: all 47 packet and 118 import source hashes match
+== remaining: 15 members wait for unported imports and are not built: M086206 M087488 M090322 M091387 M091411 M091450 M092132 M092243 M092279 M093011 M093435 M093731 M093737 M094256 M094300
+== toolchain: Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release); Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+== patch M002678: patching file src/Development/AbelianVarietyTheory/BlockTheory/TwistedDiscreteSeries/FourierJacobiAverage.lean
+== patch M004075: patching file src/Development/AbelianVarietyTheory/Definitions/Foundations/IsHilbertSchmidtOfFiniteDimensional.lean
+== patch M004247: patching file src/Development/AbelianVarietyTheory/Definitions/GaloisGeometry/IsStrictlySemistableAlt.lean
+== patch M005049: patching file src/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/ExistsEventuallyNormRiemannThetaTermLe.lean
+== patch M006243: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/ExistsIsRegularQuotSMulTop.lean
+== patch M006314: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/IsRegularOfSupportDimQuotientAddLengthLe.lean
+== patch M006317: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/IsWeaklyRegularIffIsQuasiRegularSeqOfIsLocalRing.lean
+== patch M006479: patching file src/Development/AbelianVarietyTheory/Proofs/CovolumeBounds/NatCastMulCoeffOfPderivEq.lean
+== patch M063781: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/SplitHeightSummableExpNegAbs.lean
+== patch M066438: patching file src/Development/AbelianVarietyTheory/Proofs/HomogeneousIdeals/ExistsEqTransposeMulDiagonalMul.lean
+== patch M084739: patching file src/Development/AbelianVarietyTheory/Proofs/ModuliProofs/ContDiffAndFderivTsumFourierOfRapid.lean
+== patch M085593: patching file src/Development/AbelianVarietyTheory/Proofs/ModuliProofs/IsNoetherianRingOfIsAdicComplete.lean
+== patch M086729: patching file src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/CharConstOnTranslatesTrivial.lean
+== patch M088242: patching file src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IsNoetherianRingOfDirectedPureUnion.lean
+== patch M090344: patching file src/Development/AbelianVarietyTheory/Proofs/SiegelThetaTransformation/SchwartzBruhatInnerProductSelfNonnegBounds.lean
+== patch M090404: patching file src/Development/AbelianVarietyTheory/Proofs/SiegelThetaTransformation/SummableProdPi.lean
+== patch M090565: patching file src/Development/AbelianVarietyTheory/Proofs/ThetaLawProofs/DiscrEqJacobianOfIntegralPoints.lean
+== patch M090732: patching file src/Development/AbelianVarietyTheory/Proofs/ThetaLawProofs/IsUnitDetOfProductMapNeZero.lean
+== patch M091528: patching file src/Development/AbelianVarietyTheory/Proofs/TorusHaarMeasure/ExistsDetAddEqDetMulDetOneAdd.lean
+== patch M091702: patching file src/Development/AbelianVarietyTheory/Proofs/TorusHaarMeasure/UniformLogExpansionOfPointwise.lean
+== patch M098693: patching file src/Development/AbelianVarietyTheory/Proofs/UniformizationProofs/ExistsGradedRingKernelLift.lean
+== patch M171914: patching file src/ReciprocityTheory/GeometryOfNumbers/LatticeCovolumes/GramSt.lean
+== patch M172651: patching file src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/BirationalGeometry/ToroidalCompactification/CocycleRightZeroThd.lean
+== patch M173276: patching file src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/LaTIsPrime.lean
+== patch M173733: patching file src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/TaylorDiscriminants/ChartChg.lean
+== patch M173735: patching file src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/TaylorDiscriminants/ConnectionKillsSeries.lean
+== patch M173798: patching file src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/TaylorDiscriminants/WickVanishing/DofDApply.lean
+== patch M086136: patching file src/Development/AbelianVarietyTheory/Proofs/ModuliProofs/TorusEllipticSystemSolvable.lean
+== patch M086328: patching file src/Development/AbelianVarietyTheory/Proofs/RingsOfIntegers/GermPointsNoConstantTermFirstZero.lean
+== patch M088129: patching file src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IntegralClosureMaximalResidueOfAlgClosed.lean
+== patch M090000: patching file src/Development/AbelianVarietyTheory/Proofs/SiegelThetaTransformation/CanonicalThetaExponentSymplecticInvariant.lean
+== patch M090566: patching file src/Development/AbelianVarietyTheory/Proofs/ThetaLawProofs/DiscrEqJacobianOfIntegralPointsStatement.lean
+== build: lake --no-cache build +<Module>:olean for each of 47 modules
+M086136 Development.AbelianVarietyTheory.Proofs.ModuliProofs.TorusEllipticSystemSolvable exit=0 40.8s
+    ⚠ [18264/18264] Built Development.AbelianVarietyTheory.Proofs.ModuliProofs.TorusEllipticSystemSolvable (4.7s)
+    Build completed successfully (18264 jobs).
+M086193 Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.BetaHSumSmulRight exit=0 19.4s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.BetaHSumSmulRight (2.0s)
+    Build completed successfully (18258 jobs).
+M086218 Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.DofIterSmulDir exit=0 12.6s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.DofIterSmulDir (3.0s)
+    Build completed successfully (18260 jobs).
+M086328 Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.GermPointsNoConstantTermFirstZero exit=0 9.5s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.GermPointsNoConstantTermFirstZero (4.0s)
+    Build completed successfully (18260 jobs).
+M086677 Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement exit=0 20.2s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement (3.5s)
+    Build completed successfully (18260 jobs).
+M086730 Development.AbelianVarietyTheory.Proofs.SatakeParameters.CharConstOnTranslatesTrivialStatement exit=0 20.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.CharConstOnTranslatesTrivialStatement (2.9s)
+    Build completed successfully (18256 jobs).
+M087231 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsAddHomZmodPrimePowOneOfNotIsUnitStatement exit=0 19.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsAddHomZmodPrimePowOneOfNotIsUnitStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M087303 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsCongruenceKernelTraceCharacterStatement exit=0 10.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsCongruenceKernelTraceCharacterStatement (3.0s)
+    Build completed successfully (18256 jobs).
+M087396 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsIntPolyEsymmEqPowerSumMultisetStatement exit=0 12.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsIntPolyEsymmEqPowerSumMultisetStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M087414 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsIntegralUnitPairingOfIrreducibleReductionAStatement exit=0 13.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsIntegralUnitPairingOfIrreducibleReductionAStatement (2.7s)
+    Build completed successfully (18256 jobs).
+M087463 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsLocalSubringMonicRootsResidue exit=0 129.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsLocalSubringMonicRootsResidue (4.4s)
+    Build completed successfully (18256 jobs).
+M087470 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsMatrixNoInvariantSubspaceFiniteFieldStatement exit=0 12.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsMatrixNoInvariantSubspaceFiniteFieldStatement (2.9s)
+    Build completed successfully (18256 jobs).
+M087519 Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsPolynomialSubringMaximalIntegral exit=0 9.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.ExistsPolynomialSubringMaximalIntegral (4.1s)
+    Build completed successfully (18256 jobs).
+M088129 Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosed exit=0 9.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosed (3.0s)
+    Build completed successfully (18256 jobs).
+M088216 Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsIndEtaleOverEtaleOfIsIndEtaleStatement exit=0 21.0s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsIndEtaleOverEtaleOfIsIndEtaleStatement (3.0s)
+    Build completed successfully (18258 jobs).
+M088243 Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsNoetherianRingOfDirectedPureUnionStatement exit=0 25.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.IsNoetherianRingOfDirectedPureUnionStatement (2.0s)
+    Build completed successfully (18256 jobs).
+M088593 Development.AbelianVarietyTheory.Proofs.SatakeParameters.LengthQuotientSmulLeFinrankOfEmbeddingStatement exit=0 20.3s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.LengthQuotientSmulLeFinrankOfEmbeddingStatement (3.4s)
+    Build completed successfully (18260 jobs).
+M088798 Development.AbelianVarietyTheory.Proofs.SatakeParameters.MemPowHeightOneIdealIffDvdEmbedding exit=0 22.6s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.MemPowHeightOneIdealIffDvdEmbedding (3.5s)
+    Build completed successfully (18258 jobs).
+M089148 Development.AbelianVarietyTheory.Proofs.SatakeParameters.PrincipalCongruencePrimePowTorsionFreeStatement exit=0 12.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.PrincipalCongruencePrimePowTorsionFreeStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M089176 Development.AbelianVarietyTheory.Proofs.SatakeParameters.QBinomialSumCardQuotientSubspaces exit=0 18.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.QBinomialSumCardQuotientSubspaces (2.8s)
+    Build completed successfully (18258 jobs).
+M089561 Development.AbelianVarietyTheory.Proofs.SatakeParameters.SurjectiveAlgebraMapAdicCompletionCompleteDvr exit=0 8.8s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SatakeParameters.SurjectiveAlgebraMapAdicCompletionCompleteDvr (3.7s)
+    Build completed successfully (18258 jobs).
+M090000 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.CanonicalThetaExponentSymplecticInvariant exit=0 24.8s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.CanonicalThetaExponentSymplecticInvariant (8.7s)
+    Build completed successfully (18256 jobs).
+M090017 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ComplexPhaseCalculusRootOfUnityStatement exit=0 15.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.ComplexPhaseCalculusRootOfUnityStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M090058 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.DoubledRowTestFunctionPropertiesStatement exit=0 19.3s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.DoubledRowTestFunctionPropertiesStatement (2.8s)
+    Build completed successfully (18260 jobs).
+M090075 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.EqOfSiegelThetaSeriesRationalEqStatement exit=0 12.0s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.EqOfSiegelThetaSeriesRationalEqStatement (2.0s)
+    Build completed successfully (18260 jobs).
+M090243 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IsCosetQuadraticPhaseTestFunctionConjCharacterMu exit=0 15.7s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IsCosetQuadraticPhaseTestFunctionConjCharacterMu (3.7s)
+    Build completed successfully (18258 jobs).
+M090258 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IsZeroOrPosMulRootOfUnityFiniteGaussSumStatement exit=0 14.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.IsZeroOrPosMulRootOfUnityFiniteGaussSumStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M090303 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.PoissonSummationThetaSeriesRowTermCoset exit=0 75.3s
+    ⚠ [18270/18270] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.PoissonSummationThetaSeriesRowTermCoset (3.4s)
+    Build completed successfully (18270 jobs).
+M090345 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SchwartzBruhatInnerProductSelfNonnegBoundsStatement exit=0 11.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SchwartzBruhatInnerProductSelfNonnegBoundsStatement (3.4s)
+    Build completed successfully (18256 jobs).
+M090347 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SchwartzBruhatIntegralEqSumResidueRepresentativeStatement exit=0 11.3s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SchwartzBruhatIntegralEqSumResidueRepresentativeStatement (2.7s)
+    Build completed successfully (18258 jobs).
+M090379 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SiegelThetaMulConjEqBlockThetaStatement exit=0 11.7s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SiegelThetaMulConjEqBlockThetaStatement (2.6s)
+    Build completed successfully (18258 jobs).
+M090380 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SiegelThetaTransformationLawMul exit=0 9.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.SiegelThetaTransformationLawMul (3.5s)
+    Build completed successfully (18256 jobs).
+M090462 Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.TsumSchwartzBruhatLevelEqSumResidueCosetsStatement exit=0 11.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.TsumSchwartzBruhatLevelEqSumResidueCosetsStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M090561 Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DetNeZeroOfGenericLinearFormsVanish exit=0 30.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DetNeZeroOfGenericLinearFormsVanish (6.2s)
+    Build completed successfully (18256 jobs).
+M090566 Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DiscrEqJacobianOfIntegralPointsStatement exit=0 25.6s
+    ⚠ [18262/18262] Built Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DiscrEqJacobianOfIntegralPointsStatement (2.8s)
+    Build completed successfully (18262 jobs).
+M090728 Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.IsRegularOfFnOfRingKrullDimQuotientAddLe exit=0 24.9s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.IsRegularOfFnOfRingKrullDimQuotientAddLe (2.0s)
+    Build completed successfully (18260 jobs).
+M091419 Development.AbelianVarietyTheory.Proofs.ToricGeometry.ExistsThetaSeriesApplyNeZeroOfLargeFormStatement exit=0 16.6s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.ToricGeometry.ExistsThetaSeriesApplyNeZeroOfLargeFormStatement (2.8s)
+    Build completed successfully (18260 jobs).
+M091532 Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ExistsDvdOfAlgebraic exit=0 32.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.ExistsDvdOfAlgebraic (23s)
+    Build completed successfully (18256 jobs).
+M091590 Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.GramDetInequalitiesClosedFormsStatement exit=0 27.0s
+    ⚠ [18274/18274] Built Development.AbelianVarietyTheory.Proofs.TorusHaarMeasure.GramDetInequalitiesClosedFormsStatement (3.0s)
+    Build completed successfully (18274 jobs).
+M091727 Development.AbelianVarietyTheory.Proofs.TorusSplitting.EqTopOfForallEmbAllMem exit=0 21.9s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.TorusSplitting.EqTopOfForallEmbAllMem (5.1s)
+    Build completed successfully (18258 jobs).
+M091818 Development.AbelianVarietyTheory.Proofs.TorusSplitting.TorusAtExistsOfParts exit=0 11.5s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.TorusSplitting.TorusAtExistsOfParts (5.5s)
+    Build completed successfully (18258 jobs).
+M092290 Development.AbelianVarietyTheory.Proofs.TwistedOperators.ColEInvMulAffPt exit=0 21.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.ColEInvMulAffPt (4.2s)
+    Build completed successfully (18256 jobs).
+M092336 Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactModStabilizer exit=0 17.4s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.CompactModStabilizer (3.2s)
+    Build completed successfully (18258 jobs).
+M092520 Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousMultilinearMapExtHilbertBasisStatement exit=0 26.4s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.ContinuousMultilinearMapExtHilbertBasisStatement (3.7s)
+    Build completed successfully (18258 jobs).
+M093356 Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsHeisenbergSubgroupFourierJacobiCommutator exit=0 14.9s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsHeisenbergSubgroupFourierJacobiCommutator (3.4s)
+    Build completed successfully (18260 jobs).
+M093427 Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApplyStatement exit=0 14.6s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsHilbertSchmidtOrthonormalApplyStatement (3.8s)
+    Build completed successfully (18258 jobs).
+M093776 Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSumSmulOfLocallyConstantCompactSupport exit=0 10.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSumSmulOfLocallyConstantCompactSupport (3.8s)
+    Build completed successfully (18256 jobs).
+== done: 47 of 47 modules built
