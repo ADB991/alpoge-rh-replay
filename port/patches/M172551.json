@@ -1,0 +1,7 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.InhDivCycleOfSuppEmpty",
+  "source_sha256": "1579315eb29aa7b0b309b0b19c73d1c96f68c958d3f9b9907b2b76cb64c3e3b9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.ringKrullDim_of_isNoetherianRing now states the dimension with ENat.card instead of Nat.card; in the proof of inhV_dim, rewrite with ENat.card_eq_coe_natCard (the type is finite) and close the remaining cast by rfl. Proof-only change; no statements, definitions or instances changed."
+}

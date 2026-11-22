@@ -1,0 +1,13 @@
+--- a/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/ArithmeticIntersection/MultihomogeneousIdeals/InhDivCycleOfSuppEmpty.lean
++++ b/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/ArithmeticIntersection/MultihomogeneousIdeals/InhDivCycleOfSuppEmpty.lean
+@@ -206,7 +206,9 @@
+ theorem inhV_dim [Finite σ] :
+     ringKrullDim (MvPolynomial σ F ⧸ inhV F S) = (Nat.card {s // s ∉ S} : WithBot ℕ∞) := by
+   rw [ringKrullDim_eq_of_ringEquiv (inhQuotEquiv F S).toRingEquiv,
+-    MvPolynomial.ringKrullDim_of_isNoetherianRing, ringKrullDim_eq_zero_of_field, zero_add]
++    MvPolynomial.ringKrullDim_of_isNoetherianRing, ringKrullDim_eq_zero_of_field, zero_add,
++    ENat.card_eq_coe_natCard]
++  rfl
+ 
+ theorem inhV_insert (p : σ) : inhV F S ⊔ Ideal.span {X p} = inhV F (insert p S) := by
+   simp only [inhV, Finset.coe_insert, Set.image_insert_eq, Ideal.span_insert]
