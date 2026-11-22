@@ -1,5 +1,5 @@
 # Active claims awaiting evidence
 
-85 entries.
+97 entries.
 
-- [Entries 1–85](page-001.md)
+- [Entries 1–97](page-001.md)
