@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TestFunctionLocallyInvariant",
+  "source_sha256": "385e05e38257613a8b134e144b4a0d2bc1f0068ef23824c76c1d48f2448cdcfe",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/852a83b78cb3f4830095c4bef34197c4dd760b21/port/transcripts/P0255-ready.receipt.json"
+}

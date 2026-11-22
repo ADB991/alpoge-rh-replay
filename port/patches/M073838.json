@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelfDualHermitianLatticeBasisExists",
+  "source_sha256": "cd8dc6468ac23fa992f47f8edbf5757b2eb4143fbad2040630c5bfa0fb2e6882",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/852a83b78cb3f4830095c4bef34197c4dd760b21/port/transcripts/P0255-ready.receipt.json"
+}

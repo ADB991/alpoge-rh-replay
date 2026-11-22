@@ -1,0 +1,10 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuadraticGaussIntegralStableOfDualLattice.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuadraticGaussIntegralStableOfDualLattice.lean
+@@ -49,6 +49,7 @@
+     have c2 : Continuous (fun m : A.L => Algebra.trace F A.K (t * x * Algebra.trace A.K A.L (star y * m))) :=
+       (IsModuleTopology.continuous_of_linearMap (Algebra.trace F A.K)).comp (continuous_const.mul c1)
+     have hU0 : {m : A.L | m ∈ M ∧ ‖Algebra.trace F A.K (t * x * Algebra.trace A.K A.L (star y * m))‖ ≤ 1} ∈ 𝓝 (0 : A.L) := by
++      show (M : Set A.L) ∩ {m : A.L | ‖Algebra.trace F A.K (t * x * Algebra.trace A.K A.L (star y * m))‖ ≤ 1} ∈ 𝓝 (0 : A.L)
+       refine Filter.inter_mem (hMo.mem_nhds M.zero_mem) ?_
+       have h0 : Metric.closedBall (0 : F) 1 ∈ 𝓝 (Algebra.trace F A.K (t * x * Algebra.trace A.K A.L (star y * (0 : A.L)))) := by
+         simp only [mul_zero, map_zero]
