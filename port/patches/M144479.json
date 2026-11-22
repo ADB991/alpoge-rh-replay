@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.FormalDegreeBessel.FinalBF",
+  "source_sha256": "9660a1e766f1f240899ab2d77b95f137f3d26ae0316851db33116cf7cfe57729",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0325 packet build transcript linked from the PR."
+}

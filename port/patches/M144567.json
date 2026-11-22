@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscriminantRealSubfield",
+  "source_sha256": "797dcc83d01bf99c621995cebc2ce56973ca0a7af979d0ba8bad03c6c8bde8d1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0325 packet build transcript linked from the PR."
+}
