@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SiegelThetaTransformation.CanonicalThetaExponentSymplecticInvariant",
+  "source_sha256": "72ddedd56d8755e02eaba7a6deb7075bbe6211942b3fcaa5f437e3dd9f72a57e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change. Inside the private lemma qm_one', the simp lemma name one_apply no longer resolves to Matrix.one_apply under the file's open namespaces on the target, so it is written Matrix.one_apply. No statement changes.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

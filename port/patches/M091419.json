@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.ToricGeometry.ExistsThetaSeriesApplyNeZeroOfLargeFormStatement",
+  "source_sha256": "24b82d1cf3e070cb9a0a0feefc9e88000bdde9f1f96bff2cc24832b65539bf87",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

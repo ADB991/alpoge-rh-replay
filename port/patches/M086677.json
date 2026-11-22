@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement",
+  "source_sha256": "a67ac21b5ccb7331303d5bfdddf4ee715d1d07ae54dd328ad263918ac1f89be6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

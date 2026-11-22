@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.GermPointsNoConstantTermFirstZero",
+  "source_sha256": "3aaeddd2f63bb9e91b03ff9a1715ad0f21571a7fab823a3e9453cfa9ff9696f1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The target MvPowerSeries.pderiv takes the coefficient ring implicitly, so every pderiv R v becomes pderiv v, including in theorem statements (pderiv_ev, pderiv_second_of_ev_first_point and the later lemmas of the file). R is the only ring in scope and is recovered by unification from the power-series argument, so these elaborate to the same constant MvPowerSeries.pderiv applied to the same ring, index and series: the statements are unchanged in meaning. Same adaptation as the landed record for M086206. No other changes.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

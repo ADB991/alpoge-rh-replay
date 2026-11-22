@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.SatakeParameters.IntegralClosureMaximalResidueOfAlgClosed",
+  "source_sha256": "26de0824358657d0c573c689ace9fe28ba8655cfff1c949eed28984f7261afe4",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change. In the target Mathlib, Ideal.exists_ideal_over_maximal_of_isIntegral states its conclusion with Ideal.under D 𝔪 instead of Ideal.comap (algebraMap D A) 𝔪. These are definitionally equal (Ideal.under_def is rfl); one rewrite with ← Ideal.under_def is added before rewriting with that hypothesis. No statement changes.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

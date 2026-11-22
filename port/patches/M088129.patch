@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IntegralClosureMaximalResidueOfAlgClosed.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/SatakeParameters/IntegralClosureMaximalResidueOfAlgClosed.lean
+@@ -26,7 +26,7 @@
+     obtain ⟨c, hc, hdc⟩ := hres d
+     refine ⟨c, ?_⟩
+     have hmem : algebraMap D A (d - ⟨φ c, hc⟩) ∈ 𝔪 := by
+-      rw [← Ideal.mem_comap, h𝔪comap]; exact hdc
++      rw [← Ideal.mem_comap, ← Ideal.under_def, h𝔪comap]; exact hdc
+     change Ideal.Quotient.mk 𝔪 (φA c) = Ideal.Quotient.mk 𝔪 (algebraMap D A d)
+     symm
+     rw [map_sub] at hmem

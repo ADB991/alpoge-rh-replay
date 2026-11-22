@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.ModuliProofs.TorusEllipticSystemSolvable",
+  "source_sha256": "f75f6e6057f87f852b3d62f851e53c8508a8d3953b5bbfae4138143bda1cd929",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change. The ordered-semiring Finset.prod_le_prod (with nonnegativity and pointwise hypotheses) is named Finset.prod_le_prod₀ in the target Mathlib; the target Finset.prod_le_prod is the ordered-monoid lemma. Two uses renamed. No statement changes.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.DiscrEqJacobianOfIntegralPointsStatement",
+  "source_sha256": "5e1d0157a1372091d2ae924496c00e98f8cd4a5f3060bb4bb719638750900abb",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The theorem statement of GlobalTheory.T.exists_basis_discr_associated_prod_jacobian writes MvPowerSeries.pderiv O j (F i); the target MvPowerSeries.pderiv takes the coefficient ring implicitly, so this becomes MvPowerSeries.pderiv j (F i). O is recovered by unification from F i : MvPowerSeries (Fin g) O, so the elaborated statement is the same constant applied to the same ring, index and series: unchanged in meaning. The proof is untouched.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1c63849a5de65865ddf6fc113617ab6e85624ac9/P0257-ae30/P0257-receipt.json"
+}
