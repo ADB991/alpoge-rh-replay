@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.MahlerMeasure.MahlerMeasureProofs.FreezeInto",
+  "source_sha256": "65038194ba9ad61075d6c6a91a3c1bef98728b71136b7ab8d45ae97dff62e0a6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change. Use f.coeff m for the same multivariate polynomial coefficient in the weighted-homogeneity proof.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0274-lean436-20261122-b/P0274-receipt.json"
+}

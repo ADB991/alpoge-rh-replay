@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.LocalToGlobal.PairingIndexBounds.ModelLatticeMoves.GenModelXi",
+  "source_sha256": "ac77cc3789c03f693a08059cfc0e991683ed1ff1b41362f12d64c7083a60057a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0274-lean436-20261122-b/P0274-receipt.json"
+}

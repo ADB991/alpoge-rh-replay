@@ -1,0 +1,11 @@
+--- a/src/Formalism/LocalToGlobal/TorsionIntegrality/EisensteinTranslationProducts/AnalyticIdentityTheorems/HermHalfRight.lean
++++ b/src/Formalism/LocalToGlobal/TorsionIntegrality/EisensteinTranslationProducts/AnalyticIdentityTheorems/HermHalfRight.lean
+@@ -158,7 +158,7 @@
+       + (-(Real.pi : ℂ) * herm L w t - (Real.pi : ℂ) * herm L t t / 2)) / opU L t (sgStar L) 0 := by
+     funext w
+     simp only [th0]
+-    congr 1
++    refine congrArg (fun u : ℂ => u / opU L t (sgStar L) 0) ?_
+     simp only [opU, sgStar]
+     rw [Complex.exp_add]; ring
+   rw [hfun]
