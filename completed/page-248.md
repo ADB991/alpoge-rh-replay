@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162209 | P0333 | `Formalism.ZetaNonvanishing.RiemannZetaOneNeZeroOfRealMemIoo` | build-observed |
+| M162210 | P0425 | `Formalism.ZetaNonvanishing.ZetaLandau` | build-observed |
+| M162211 | P0224 | `Formalism.ZetaNonvanishing.ZetaRealNonvanish` | build-observed |
+| M162212 | P0333 | `Formalism.ZetaNonvanishingChebyshevWeights` | build-observed |
+| M162213 | P0281 | `Formalism.ZetaNonvanishingGeneralWeights` | build-observed |
+| M162214 | P0159 | `Formalism.ZetaRealNonvanish` | build-observed |
 | M162215 | P0080 | `GroundTheory.ArithmeticGeometry.AbelianVarieties.CompleteIntegralClosure` | volunteer-build-reviewed |
 | M162216 | P0159 | `GroundTheory.ArithmeticGeometry.AbelianVarieties.DivisionPoints` | volunteer-build-reviewed |
 | M162229 | P0333 | `GroundTheory.ArithmeticGeometry.AbelianVarieties.FormalGroup` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M162653 | P0725 | `GroundTheory.AutomorphicForms.GL2.GJParabolicFubini` | build-observed |
 | M162655 | P1418 | `GroundTheory.AutomorphicForms.GL2.GJStandardLBump` | build-observed |
 | M162657 | P1393 | `GroundTheory.AutomorphicForms.GL2.GJStandardLDefs` | build-observed |
-| M162659 | P1500 | `GroundTheory.AutomorphicForms.GL2.GJStandardLEngine` | build-observed |
-| M162660 | P1443 | `GroundTheory.AutomorphicForms.GL2.GJStandardLEuler` | build-observed |
-| M162662 | P1470 | `GroundTheory.AutomorphicForms.GL2.GJStandardLPartial` | build-observed |
-| M162663 | P1418 | `GroundTheory.AutomorphicForms.GL2.GJStandardLTensor` | build-observed |
-| M162664 | P0999 | `GroundTheory.AutomorphicForms.GL2.GJStandardLUnramified` | build-observed |
-| M162665 | P0971 | `GroundTheory.AutomorphicForms.GL2.GJUnramified` | build-observed |

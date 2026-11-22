@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154353 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.LintegralMulRightOfMem` | volunteer-build-reviewed |
+| M154354 | P1615 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MatNDHHolds` | build-observed |
+| M154355 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MeasLie` | volunteer-build-reviewed |
+| M154356 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MpOfIsomProd` | volunteer-build-reviewed |
+| M154360 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.NormSqDetOfUnitary` | build-observed |
+| M154363 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.OmegaDensity` | volunteer-build-reviewed |
 | M154365 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.OrbAll` | build-observed |
 | M154366 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.OrbMSectMul` | build-observed |
 | M154367 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.OrbPol` | build-observed |
@@ -396,9 +402,3 @@
 | M154852 | P0152 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthFE` | build-observed |
 | M154853 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthFinal` | build-observed |
 | M154854 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthGamma` | volunteer-build-reviewed |
-| M154855 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthMain` | build-observed |
-| M154856 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthZeta` | build-observed |
-| M154857 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructA` | build-observed |
-| M154858 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructB` | build-observed |
-| M154859 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructC` | build-observed |
-| M154860 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LocalAbstract` | build-observed |

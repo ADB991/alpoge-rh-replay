@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163116 | P1082 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimes` | build-observed |
+| M163117 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesIsogeny` | build-observed |
+| M163118 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesLocal` | build-observed |
+| M163119 | P0380 | `GroundTheory.GlobalFields.ComplexMultiplication.FunctionFieldIntegral` | build-observed |
+| M163120 | P0160 | `GroundTheory.GlobalFields.ComplexMultiplication.GoodReductionAlmostAll` | volunteer-build-reviewed |
+| M163122 | P1615 | `GroundTheory.GlobalFields.ComplexMultiplication.HilbertClassFieldArtin` | build-observed |
 | M163123 | P1112 | `GroundTheory.GlobalFields.ComplexMultiplication.HilbertClassFieldModels` | build-observed |
 | M163124 | P0225 | `GroundTheory.GlobalFields.ComplexMultiplication.IdeleAction` | volunteer-build-reviewed |
 | M163125 | P0282 | `GroundTheory.GlobalFields.ComplexMultiplication.IdeleActionQuotient` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M163545 | P0282 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LowerBoundConditional` | wave-reused |
 | M163546 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MahlerMul` | volunteer-build-reviewed |
 | M163547 | P0225 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MahlerSectionBasic` | wave-reused |
-| M163548 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemConePointsSpanX0` | volunteer-build-reviewed |
-| M163549 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemMinimalPrimesOfMemFundCycleSupport` | wave-reused |
-| M163551 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAdmissibleAE` | volunteer-build-reviewed |
-| M163552 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAdmissibleAENrm` | volunteer-build-reviewed |
-| M163556 | P0225 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAreaMultiplicityWeight` | volunteer-build-reviewed |
-| M163558 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PBallVolume` | volunteer-build-reviewed |

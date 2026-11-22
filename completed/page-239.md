@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157957 | P0540 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm` | wave-reused |
+| M157958 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaFirst` | wave-reused |
+| M157959 | P0605 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaSecond` | wave-reused |
+| M157960 | P0750 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionSecondStep` | wave-reused |
+| M157961 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionThirdStepMean` | wave-reused |
+| M157962 | P0540 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondComplementParameterBounds` | build-observed |
 | M157963 | P0777 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondStepGluing` | build-observed |
 | M157964 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SpecDet` | wave-reused |
 | M157965 | P0605 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.TheoremDivIneq` | build-observed |
@@ -396,9 +402,3 @@
 | M158385 | P0669 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleyDegreeNondegeneracy.TraceInnerPosOfOrthonormalPair` | build-observed |
 | M158386 | P0912 | `Formalism.SharpRestriction.CuspSpanNormBounds.CayleySignature` | wave-reused |
 | M158387 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.ChainLength` | build-observed |
-| M158388 | P0912 | `Formalism.SharpRestriction.CuspSpanNormBounds.ChoiceOfModulusAndDiscriminant` | build-observed |
-| M158389 | P0860 | `Formalism.SharpRestriction.CuspSpanNormBounds.CntPartners` | wave-reused |
-| M158390 | P0912 | `Formalism.SharpRestriction.CuspSpanNormBounds.CongruenceAtSplitFrobeniusHolds` | wave-reused |
-| M158391 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.ContinuousCjIT` | build-observed |
-| M158392 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.ContinuousRootCoords` | build-observed |
-| M158393 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.DMiMulVecApply` | build-observed |

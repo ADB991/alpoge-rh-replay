@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156210 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.MnrUpdateEqZero` | volunteer-build-reviewed |
+| M156212 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.RevColOneTranspose` | volunteer-build-reviewed |
+| M156213 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.TransvectionMulApply` | volunteer-build-reviewed |
+| M156214 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.ConstantCoeffZeroOfBoundGeneral` | build-observed |
+| M156215 | P0886 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.JetTdegEqDegree` | build-observed |
+| M156216 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.ProdMonomialOne` | build-observed |
 | M156217 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.UnivEqBiUnion` | build-observed |
 | M156218 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetLogarithm.ApplyAt0EqZeroOfOrder` | build-observed |
 | M156219 | P0886 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetLogarithm.ConstantCoeffZeroOfBoundTwo` | build-observed |
@@ -396,9 +402,3 @@
 | M156635 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.SesquilinearRepresentation` | build-observed |
 | M156636 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.SplitRowOf` | build-observed |
 | M156641 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.BDivXNonneg` | build-observed |
-| M156642 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.Development` | build-observed |
-| M156643 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.ExpPowEq` | build-observed |
-| M156644 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.PrimeWeightedRemainderBound` | build-observed |
-| M156645 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.SizeDel` | build-observed |
-| M156646 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.BlockRowLe` | build-observed |
-| M156647 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.Development` | build-observed |

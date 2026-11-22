@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165312 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpFibreDegreeCut` | build-observed |
+| M165313 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpFibreSemilocalCut` | build-observed |
+| M165314 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpHorizontal` | build-observed |
+| M165315 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpHorizontalMult` | build-observed |
+| M165316 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpLocRingFrac` | build-observed |
+| M165317 | P0640 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpLocRingFracCut` | build-observed |
 | M165318 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpOrderLe` | build-observed |
 | M165319 | P0671 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpOverLocFamilyFiniteCut` | build-observed |
 | M165320 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpOverLocFiniteCut` | build-observed |
@@ -396,9 +402,3 @@
 | M165799 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLatticePointsBelowFinite` | wave-reused |
 | M165800 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLenCauchySchwarz` | wave-reused |
 | M165801 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLenSq` | wave-reused |
-| M165802 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineCoeffsFG` | wave-reused |
-| M165803 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineEigenvalue` | wave-reused |
-| M165804 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineIndexCoeffs` | wave-reused |
-| M165805 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineIndexNeZero` | wave-reused |
-| M165806 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineNormalForm` | wave-reused |
-| M165807 | P0725 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLinePairOrbitsFinite` | wave-reused |

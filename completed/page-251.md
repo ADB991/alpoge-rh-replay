@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163548 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemConePointsSpanX0` | volunteer-build-reviewed |
+| M163549 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.MemMinimalPrimesOfMemFundCycleSupport` | wave-reused |
+| M163551 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAdmissibleAE` | volunteer-build-reviewed |
+| M163552 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAdmissibleAENrm` | volunteer-build-reviewed |
+| M163556 | P0225 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PAreaMultiplicityWeight` | volunteer-build-reviewed |
+| M163558 | P0334 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PBallVolume` | volunteer-build-reviewed |
 | M163559 | P0225 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PBaseChangeAvoid` | volunteer-build-reviewed |
 | M163562 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChartChoiceAlgClosed` | volunteer-build-reviewed |
 | M163565 | P0225 | `GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PChartGramMA` | wave-reused |
@@ -396,9 +402,3 @@
 | M164156 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHypersurfacePresentation` | volunteer-build-reviewed |
 | M164159 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PImplicitCurve` | wave-reused |
 | M164160 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInjectiveHolomorphicDerivNeZero` | volunteer-build-reviewed |
-| M164163 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInjectiveHolomorphicOpen` | volunteer-build-reviewed |
-| M164164 | P0508 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIntegralIndependent` | wave-reused |
-| M164165 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInvarianceOfDomain` | volunteer-build-reviewed |
-| M164166 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleFiniteGermProjectionOpenAt` | volunteer-build-reviewed |
-| M164167 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleGermComplementConnected` | volunteer-build-reviewed |
-| M164170 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |

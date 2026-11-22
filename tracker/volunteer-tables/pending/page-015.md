@@ -117,7 +117,6 @@
 | [@sp20262026](https://github.com/sp20262026) | [M113354](https://github.com/rohanarun/alpoge-rh-replay/issues/23127#issuecomment-7064991435) | Pending review |
 | [@sp20262026](https://github.com/sp20262026) | [M113355](https://github.com/rohanarun/alpoge-rh-replay/issues/23154#issuecomment-7065078272) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M009171](https://github.com/rohanarun/alpoge-rh-replay/issues/23182#issuecomment-7065153269) | Pending review |
-| [@rahulsundar477-star](https://github.com/rahulsundar477-star) | [P2445](https://github.com/rohanarun/alpoge-rh-replay/issues/23207#issuecomment-7075356560) | Pending review |
 | [@sp20262026](https://github.com/sp20262026) | [M113358](https://github.com/rohanarun/alpoge-rh-replay/issues/23212#issuecomment-7065150248) | Pending review |
 | [@sp20262026](https://github.com/sp20262026) | [M113359](https://github.com/rohanarun/alpoge-rh-replay/issues/23249#issuecomment-7065209326) | Pending review |
 | [@HITEYY](https://github.com/HITEYY) | [M096170](https://github.com/rohanarun/alpoge-rh-replay/issues/23347#issuecomment-7065507350) | Pending review |
@@ -254,3 +253,4 @@
 | [@Amahane-Hikari](https://github.com/Amahane-Hikari) | [M028736](https://github.com/rohanarun/alpoge-rh-replay/issues/24017#issuecomment-7067042454) | Pending review |
 | [@Amahane-Hikari](https://github.com/Amahane-Hikari) | [M173807](https://github.com/rohanarun/alpoge-rh-replay/issues/24018#issuecomment-7067098856) | Pending review |
 | [@Amahane-Hikari](https://github.com/Amahane-Hikari) | [M091533](https://github.com/rohanarun/alpoge-rh-replay/issues/24019#issuecomment-7066484344) | Pending review |
+| [@Amahane-Hikari](https://github.com/Amahane-Hikari) | [M106105](https://github.com/rohanarun/alpoge-rh-replay/issues/24020#issuecomment-7066501838) | Pending review |

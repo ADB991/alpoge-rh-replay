@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147896 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyRes2` | wave-reused |
+| M147897 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTeich2` | wave-reused |
+| M147898 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTeichDef` | wave-reused |
+| M147899 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTop` | wave-reused |
+| M147900 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmall` | wave-reused |
+| M147901 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallCv` | wave-reused |
 | M147902 | P0830 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallMain` | wave-reused |
 | M147903 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLimSelf` | wave-reused |
 | M147904 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLimTy` | wave-reused |
@@ -396,9 +402,3 @@
 | M148405 | P0570 | `Formalism.LocalToGlobal.Divisibility.GoodPartHermitianSpec` | wave-reused |
 | M148406 | P1238 | `Formalism.LocalToGlobal.Divisibility.HeckeCSDICommTrRep` | build-observed |
 | M148407 | P0802 | `Formalism.LocalToGlobal.Divisibility.HeckeRI` | build-observed |
-| M148408 | P0911 | `Formalism.LocalToGlobal.Divisibility.InertPartitionLePartF` | build-observed |
-| M148409 | P0775 | `Formalism.LocalToGlobal.Divisibility.InertRationalAdjoint` | build-observed |
-| M148410 | P0775 | `Formalism.LocalToGlobal.Divisibility.Inputs` | build-observed |
-| M148412 | P1077 | `Formalism.LocalToGlobal.Divisibility.JetBounds.IsExpansion` | build-observed |
-| M148425 | P1107 | `Formalism.LocalToGlobal.Divisibility.JetBounds.Statement` | build-observed |
-| M148426 | P0775 | `Formalism.LocalToGlobal.Divisibility.LiftLat` | build-observed |

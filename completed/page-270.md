@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174531 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.NormPsiGen` | build-observed |
+| M174532 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneLeNoncompactRankParabolicSign` | build-observed |
+| M174533 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.ExistsCyclic` | build-observed |
+| M174534 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.ExpChart` | volunteer-build-reviewed |
+| M174535 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.OneParam` | build-observed |
+| M174537 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.PsiFor` | build-observed |
 | M174538 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.RaisingLoweringNormIdentities` | build-observed |
 | M174541 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.SmInfUnitary` | build-observed |
 | M174544 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.UnitaryHaarColumns` | build-observed |
@@ -396,9 +402,3 @@
 | M175026 | P0647 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedProjA` | build-observed |
 | M175027 | P0837 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedSeries` | build-observed |
 | M175028 | P0647 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedSqrt` | build-observed |
-| M175029 | P1168 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedStatus` | build-observed |
-| M175030 | P0677 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedValA` | build-observed |
-| M175031 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedValB` | build-observed |
-| M175032 | P0647 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluAlg` | build-observed |
-| M175033 | P0809 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluFun` | build-observed |
-| M175034 | P0236 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.SemilinNormPowSubPow` | volunteer-build-reviewed |

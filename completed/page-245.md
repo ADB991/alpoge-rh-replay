@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160715 | P0751 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.IrreducibilityOfTheoremThree` | build-observed |
+| M160716 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.IsTwistedDualOfGaloisRep` | build-observed |
+| M160719 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointCondH0W` | build-observed |
+| M160720 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointConditionTame` | build-observed |
+| M160721 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointConditionTameBound` | build-observed |
+| M160722 | P0860 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.KsMono` | build-observed |
 | M160723 | P0805 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.LiftingConditionOfCrystallineLift` | build-observed |
 | M160724 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.LiftingConditionOfWindows` | volunteer-build-reviewed |
 | M160725 | P0942 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.LocalErrorBoundPlaces` | build-observed |
@@ -396,9 +402,3 @@
 | M161392 | P0223 | `Formalism.TameInertiaTowers.CentralOrderTwo.Galois` | wave-reused |
 | M161393 | P0158 | `Formalism.TameInertiaTowers.CentralOrderTwo.Groups` | wave-reused |
 | M161394 | P0158 | `Formalism.TameInertiaTowers.CentralOrderTwo.MemDecompositionSubgroupIff` | wave-reused |
-| M161395 | P0223 | `Formalism.TameInertiaTowers.CentralOrderTwo.NegOneNeOneUnitsZmodFour` | wave-reused |
-| M161396 | P0223 | `Formalism.TameInertiaTowers.CentralOrderTwo.NormalOrderTwoCentral` | wave-reused |
-| M161397 | P0280 | `Formalism.TameInertiaTowers.CentralOrderTwo.OddEqOneOfSubOneMem` | wave-reused |
-| M161398 | P0223 | `Formalism.TameInertiaTowers.CentralOrderTwo.OrderOfThreeUnitsTwoPow` | wave-reused |
-| M161399 | P0158 | `Formalism.TameInertiaTowers.CentralOrderTwo.TwoAdic` | wave-reused |
-| M161400 | P0280 | `Formalism.TameInertiaTowers.FinalGroup` | wave-reused |

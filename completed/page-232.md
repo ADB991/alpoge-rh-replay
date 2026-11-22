@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154855 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthMain` | build-observed |
+| M154856 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LGrowthZeta` | build-observed |
+| M154857 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructA` | build-observed |
+| M154858 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructB` | build-observed |
+| M154859 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LStructC` | build-observed |
+| M154860 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LocalAbstract` | build-observed |
 | M154861 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LocalLemmaOfHelpers` | build-observed |
 | M154862 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LocalProofs` | build-observed |
 | M154863 | P0152 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExplicitFormula.LogDerivBoundOfZeroFree` | build-observed |
@@ -396,9 +402,3 @@
 | M155319 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.AnisoPeel` | build-observed |
 | M155320 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.AnisoPeelAlt` | build-observed |
 | M155321 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.DensExactInertOf` | build-observed |
-| M155322 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.DensityProductAddTwoSuccSucc` | build-observed |
-| M155323 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.ExistsTraceNeZero` | build-observed |
-| M155324 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.FinrankInfKerAddOne` | build-observed |
-| M155325 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.FinrankValPerp` | build-observed |
-| M155326 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.HermitianDiagonalization` | build-observed |
-| M155327 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.IsoPeel` | build-observed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148408 | P0911 | `Formalism.LocalToGlobal.Divisibility.InertPartitionLePartF` | build-observed |
+| M148409 | P0775 | `Formalism.LocalToGlobal.Divisibility.InertRationalAdjoint` | build-observed |
+| M148410 | P0775 | `Formalism.LocalToGlobal.Divisibility.Inputs` | build-observed |
+| M148412 | P1077 | `Formalism.LocalToGlobal.Divisibility.JetBounds.IsExpansion` | build-observed |
+| M148425 | P1107 | `Formalism.LocalToGlobal.Divisibility.JetBounds.Statement` | build-observed |
+| M148426 | P0775 | `Formalism.LocalToGlobal.Divisibility.LiftLat` | build-observed |
 | M148427 | P0885 | `Formalism.LocalToGlobal.Divisibility.LiftLatInst` | build-observed |
 | M148428 | P0911 | `Formalism.LocalToGlobal.Divisibility.LiftLatLemmas` | build-observed |
 | M148429 | P1266 | `Formalism.LocalToGlobal.Divisibility.LinkDIVL2R3Col` | build-observed |
@@ -396,9 +402,3 @@
 | M148937 | P1021 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MRatSpanRec` | build-observed |
 | M148938 | P0748 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.MapNatActR` | build-observed |
 | M148939 | P1049 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR` | build-observed |
-| M148940 | P1662 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescFOfValRatF` | build-observed |
-| M148941 | P1137 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescOfValRat` | build-observed |
-| M148942 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ProdMemSpan` | build-observed |
-| M148944 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecAct` | build-observed |
-| M148945 | P1239 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecThm` | build-observed |
-| M148947 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.SpanImageOfSurj` | build-observed |

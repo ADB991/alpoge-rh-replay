@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145277 | P0069 | `Formalism.GrowthSums.FactorialBaseGrowth.KapPrime` | wave-reused |
+| M145278 | P0069 | `Formalism.GrowthSums.FactorialBaseGrowth.Length` | wave-reused |
+| M145279 | P0272 | `Formalism.GrowthSums.FactorialBaseGrowth.LogCoef` | wave-reused |
+| M145280 | P0326 | `Formalism.GrowthSums.FactorialBaseGrowth.NextEvenTopHolds` | wave-reused |
+| M145281 | P0272 | `Formalism.GrowthSums.FactorialBaseGrowth.PathBasisOfCount` | wave-reused |
+| M145282 | P0212 | `Formalism.GrowthSums.FactorialBaseGrowth.QuadraticExponentIdentity` | wave-reused |
 | M145283 | P0326 | `Formalism.GrowthSums.FactorialBaseGrowth.Segment` | wave-reused |
 | M145284 | P0375 | `Formalism.GrowthSums.LemmaATwoFactList` | wave-reused |
 | M145285 | P0147 | `Formalism.GrowthSums.StatementA` | wave-reused |
@@ -396,9 +402,3 @@
 | M146256 | P0461 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EmbedLoweringConstant` | wave-reused |
 | M146260 | P0461 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EnergyEstimateFromParts` | build-observed |
 | M146261 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EntryCommuteTransposedRMatrix` | wave-reused |
-| M146262 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EntryMinorBounds` | build-observed |
-| M146265 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EqZeroOfIdealCompact` | build-observed |
-| M146266 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EtaleIntegralityFacts` | wave-reused |
-| M146267 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EulerZetaGammaInvIdentity` | wave-reused |
-| M146269 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsAuxiliaryXi` | build-observed |
-| M146272 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsFrameTwo` | wave-reused |

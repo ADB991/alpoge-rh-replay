@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161803 | P0079 | `Formalism.UnipotentAdelicQuotients.CyclicNormPrinciple` | volunteer-build-reviewed |
+| M161804 | P0079 | `Formalism.UnipotentAdelicQuotients.EllReg` | volunteer-build-reviewed |
+| M161806 | P0159 | `Formalism.UnipotentAdelicQuotients.EllRegCut` | volunteer-build-reviewed |
+| M161807 | P0223 | `Formalism.UnipotentAdelicQuotients.EllRegStep` | volunteer-build-reviewed |
+| M161808 | P0223 | `Formalism.UnipotentAdelicQuotients.EllipticRegularity.BaseLevel` | volunteer-build-reviewed |
+| M161809 | P0223 | `Formalism.UnipotentAdelicQuotients.EllipticRegularity.ConvolutionBound` | volunteer-build-reviewed |
 | M161810 | P0281 | `Formalism.UnipotentAdelicQuotients.EllipticRegularity.Decompose` | volunteer-build-reviewed |
 | M161812 | P0223 | `Formalism.UnipotentAdelicQuotients.EllipticRegularity.IteratedPartialFourierChar` | volunteer-build-reviewed |
 | M161813 | P0223 | `Formalism.UnipotentAdelicQuotients.EllipticRegularity.KernDecay` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M162206 | P0281 | `Formalism.ZetaNonvanishing.MellinSgen` | build-observed |
 | M162207 | P0380 | `Formalism.ZetaNonvanishing.OfRealNeOfRealOfLt` | build-observed |
 | M162208 | P0224 | `Formalism.ZetaNonvanishing.RHofHalfPlane` | build-observed |
-| M162209 | P0333 | `Formalism.ZetaNonvanishing.RiemannZetaOneNeZeroOfRealMemIoo` | build-observed |
-| M162210 | P0425 | `Formalism.ZetaNonvanishing.ZetaLandau` | build-observed |
-| M162211 | P0224 | `Formalism.ZetaNonvanishing.ZetaRealNonvanish` | build-observed |
-| M162212 | P0333 | `Formalism.ZetaNonvanishingChebyshevWeights` | build-observed |
-| M162213 | P0281 | `Formalism.ZetaNonvanishingGeneralWeights` | build-observed |
-| M162214 | P0159 | `Formalism.ZetaRealNonvanish` | build-observed |

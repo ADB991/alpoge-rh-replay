@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165802 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineCoeffsFG` | wave-reused |
+| M165803 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineEigenvalue` | wave-reused |
+| M165804 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineIndexCoeffs` | wave-reused |
+| M165805 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineIndexNeZero` | wave-reused |
+| M165806 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineNormalForm` | wave-reused |
+| M165807 | P0725 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLinePairOrbitsFinite` | wave-reused |
 | M165808 | P0752 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PLineStabHaar` | wave-reused |
 | M165809 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PMahlerCompactness` | wave-reused |
 | M165810 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FiniteCovolume.PMajorantBound` | wave-reused |
@@ -396,9 +402,3 @@
 | M166374 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsGrassLinesProj` | volunteer-build-reviewed |
 | M166375 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsHermFormCompare` | volunteer-build-reviewed |
 | M166379 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsInvertibleIdealIndex` | volunteer-build-reviewed |
-| M166380 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegree` | build-observed |
-| M166381 | P0428 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegreeDual` | build-observed |
-| M166382 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLines` | volunteer-build-reviewed |
-| M166383 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLocallyPrincipalCoprime` | volunteer-build-reviewed |
-| M166384 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLogCardLength` | volunteer-build-reviewed |
-| M166385 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsOrderIdealIndexExtension` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158388 | P0912 | `Formalism.SharpRestriction.CuspSpanNormBounds.ChoiceOfModulusAndDiscriminant` | build-observed |
+| M158389 | P0860 | `Formalism.SharpRestriction.CuspSpanNormBounds.CntPartners` | wave-reused |
+| M158390 | P0912 | `Formalism.SharpRestriction.CuspSpanNormBounds.CongruenceAtSplitFrobeniusHolds` | wave-reused |
+| M158391 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.ContinuousCjIT` | build-observed |
+| M158392 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.ContinuousRootCoords` | build-observed |
+| M158393 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.DMiMulVecApply` | build-observed |
 | M158394 | P0424 | `Formalism.SharpRestriction.CuspSpanNormBounds.DataS` | wave-reused |
 | M158395 | P0804 | `Formalism.SharpRestriction.CuspSpanNormBounds.DiagonalEntryIdentity` | build-observed |
 | M158397 | P1529 | `Formalism.SharpRestriction.CuspSpanNormBounds.DiscreteSeriesExistence.LowKMultOneG` | build-observed |
@@ -396,9 +402,3 @@
 | M158900 | P1080 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountIdx` | build-observed |
 | M158901 | P1759 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountRec` | build-observed |
 | M158902 | P0860 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountStab` | build-observed |
-| M158903 | P0750 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountStmt` | build-observed |
-| M158904 | P0777 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountSurj` | build-observed |
-| M158905 | P0606 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountWaLat` | build-observed |
-| M158906 | P1166 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.CombBound4Of` | build-observed |
-| M158907 | P1080 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ConclOfHyp` | build-observed |
-| M158909 | P1214 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsCoeffOfMemSpan` | build-observed |

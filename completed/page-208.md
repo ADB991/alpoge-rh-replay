@@ -294,6 +294,7 @@
 | M140444 | P2337 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IsIntegrallyClosedOfDenomBis` | volunteer-build-reviewed |
 | M140447 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.JordanBasisNilpotent` | volunteer-build-reviewed |
 | M140448 | P0210 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelLatticeBaseChange` | volunteer-build-reviewed |
+| M140449 | P2445 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelMem` | volunteer-build-reviewed |
 | M140450 | P0145 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankAlgebraicBound` | volunteer-build-reviewed |
 | M140452 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankNormBound` | volunteer-build-reviewed |
 | M140454 | P0145 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.LatticeSectionAlgebra` | volunteer-build-reviewed |
@@ -311,9 +312,11 @@
 | M140492 | P2357 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.SequenceLocalizationExists` | volunteer-build-reviewed |
 | M140494 | P2416 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.SequenceTestFunction` | volunteer-build-reviewed |
 | M140497 | P2357 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.SplitMultiplicativeHopfOrder` | volunteer-build-reviewed |
+| M140502 | P2445 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.TeichmullerTestFunction` | volunteer-build-reviewed |
 | M140504 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.TensorAlgebraicallyClosedDomain` | volunteer-build-reviewed |
 | M140506 | P0210 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.TestFactsBaseChange` | volunteer-build-reviewed |
 | M140507 | P2473 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.TestGroupPointExists` | volunteer-build-reviewed |
+| M140510 | P2445 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.TestOrderSections` | volunteer-build-reviewed |
 | M140520 | P0210 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.Typed` | volunteer-build-reviewed |
 | M140523 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ValuationAtCentreOrder` | volunteer-build-reviewed |
 | M140524 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ValuationCentreExists` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M140776 | P0884 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.GLMatrixDerivatives.EpowCongr` | build-observed |
 | M140777 | P0910 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.GLMatrixDerivatives.FderivApplyConst` | build-observed |
 | M140792 | P0993 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.GLMatrixDerivatives.MulMemGLs` | build-observed |
-| M140794 | P1526 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.GLMatrixDerivatives.UnitaryMemGLs` | volunteer-build-reviewed |
-| M140811 | P0828 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.SymZeroCommFrame` | build-observed |
-| M140814 | P0828 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.WaveSt` | volunteer-build-reviewed |

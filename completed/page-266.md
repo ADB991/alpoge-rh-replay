@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172511 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPfB` | wave-reused |
+| M172512 | P0433 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPfC` | wave-reused |
+| M172513 | P1168 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPf` | build-observed |
+| M172514 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfA` | build-observed |
+| M172515 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfB` | build-observed |
+| M172516 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfC` | build-observed |
 | M172517 | P1112 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfD` | build-observed |
 | M172518 | P1141 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfE` | build-observed |
 | M172519 | P0999 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfF` | build-observed |
@@ -396,9 +402,3 @@
 | M172958 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.SectionDivision` | wave-reused |
 | M172960 | P0782 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.SquareUnits` | wave-reused |
 | M172962 | P0782 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.ThetaMove` | wave-reused |
-| M172963 | P0291 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.AdmissibleHermitianColumns` | wave-reused |
-| M172964 | P0234 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BabaiCovering` | wave-reused |
-| M172965 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BfSubRight` | wave-reused |
-| M172966 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BlockIdentityExpansion` | build-observed |
-| M172967 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BoostLowerBounds` | wave-reused |
-| M172968 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BoundedSectionAlgebra` | wave-reused |

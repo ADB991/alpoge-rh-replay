@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147455 | P0148 | `Formalism.LatticeSlopes.LatticeSlopesProofs.CovolEqGram` | wave-reused |
+| M147456 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.CovolPos` | wave-reused |
+| M147457 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.DegQuot` | wave-reused |
+| M147458 | P0148 | `Formalism.LatticeSlopes.LatticeSlopesProofs.DiscreteTopologyOfLe` | wave-reused |
+| M147459 | P0327 | `Formalism.LatticeSlopes.LatticeSlopesProofs.FiniteSaturated` | wave-reused |
+| M147460 | P0149 | `Formalism.LatticeSlopes.LatticeSlopesProofs.GramDetLe` | wave-reused |
 | M147461 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.MuMaxAttained` | wave-reused |
 | M147462 | P0273 | `Formalism.LatticeSlopes.LatticeSlopesProofs.MuMaxLeMin` | wave-reused |
 | M147463 | P0273 | `Formalism.LatticeSlopes.LatticeSlopesProofs.OrthSum` | wave-reused |
@@ -396,9 +402,3 @@
 | M147893 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyGlue` | wave-reused |
 | M147894 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyJoint` | wave-reused |
 | M147895 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyJointDef` | wave-reused |
-| M147896 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyRes2` | wave-reused |
-| M147897 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTeich2` | wave-reused |
-| M147898 | P0939 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTeichDef` | wave-reused |
-| M147899 | P0967 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePKeyTop` | wave-reused |
-| M147900 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmall` | wave-reused |
-| M147901 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.RowTiePLSmallCv` | wave-reused |

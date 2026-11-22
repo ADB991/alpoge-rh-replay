@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155322 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.DensityProductAddTwoSuccSucc` | build-observed |
+| M155323 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.ExistsTraceNeZero` | build-observed |
+| M155324 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.FinrankInfKerAddOne` | build-observed |
+| M155325 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.FinrankValPerp` | build-observed |
+| M155326 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.HermitianDiagonalization` | build-observed |
+| M155327 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.IsoPeel` | build-observed |
 | M155328 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.RepCountCongruenceInvariant` | build-observed |
 | M155329 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertDensity.ValMain` | build-observed |
 | M155330 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InertPrimeJacobi.NotIsSquareOfJacobi` | build-observed |
@@ -396,9 +402,3 @@
 | M155748 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.MeasurableSetBorelOfIsClosed` | build-observed |
 | M155749 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.ModulusAllExtensions` | build-observed |
 | M155750 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.MulInvPiGMemN` | build-observed |
-| M155751 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.MulVecSpanStable` | build-observed |
-| M155752 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCAsmM` | build-observed |
-| M155753 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCAsmV` | build-observed |
-| M155754 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCDefs` | build-observed |
-| M155755 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCHeisC` | build-observed |
-| M155756 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCIface` | build-observed |

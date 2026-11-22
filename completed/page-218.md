@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146926 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleGD` | build-observed |
+| M146927 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleInv` | build-observed |
+| M146929 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleSS` | build-observed |
+| M146933 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.SandwichRhoAction` | wave-reused |
+| M146934 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalarCommuteTransposedRMatrixEntry` | wave-reused |
+| M146935 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalarInverseSimplification` | build-observed |
 | M146936 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScaleThresholdCharacters` | build-observed |
 | M146937 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalingExponentIdentities` | build-observed |
 | M146940 | P1390 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondDerivativeHolds` | build-observed |
@@ -396,9 +402,3 @@
 | M147452 | P0148 | `Formalism.LatticeSlopes.CovolAntiSameRank` | wave-reused |
 | M147453 | P0375 | `Formalism.LatticeSlopes.ExistsSaturatedSlopeEqMuMax` | wave-reused |
 | M147454 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.CovolEqCovolume` | wave-reused |
-| M147455 | P0148 | `Formalism.LatticeSlopes.LatticeSlopesProofs.CovolEqGram` | wave-reused |
-| M147456 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.CovolPos` | wave-reused |
-| M147457 | P0213 | `Formalism.LatticeSlopes.LatticeSlopesProofs.DegQuot` | wave-reused |
-| M147458 | P0148 | `Formalism.LatticeSlopes.LatticeSlopesProofs.DiscreteTopologyOfLe` | wave-reused |
-| M147459 | P0327 | `Formalism.LatticeSlopes.LatticeSlopesProofs.FiniteSaturated` | wave-reused |
-| M147460 | P0149 | `Formalism.LatticeSlopes.LatticeSlopesProofs.GramDetLe` | wave-reused |

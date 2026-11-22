@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168447 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerrePolyLaurentCohom` | wave-reused |
+| M168448 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerreTail` | wave-reused |
+| M168449 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerreVanish` | wave-reused |
+| M168450 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapper` | wave-reused |
+| M168451 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperDevissage` | wave-reused |
+| M168452 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperDiffPoly` | wave-reused |
 | M168453 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperFinite` | wave-reused |
 | M168454 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperHyperplane` | wave-reused |
 | M168455 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperHyperplaneMid` | wave-reused |
@@ -396,9 +402,3 @@
 | M169219 | P0165 | `GroundTheory.HeightsAndTheta.Heights.ReducedTensors.PBaseChangeReduced` | volunteer-build-reviewed |
 | M169222 | P0511 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.Assembly` | wave-reused |
 | M169223 | P0387 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.BoundedStatements` | wave-reused |
-| M169224 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.ChartFun` | wave-reused |
-| M169226 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.GlueCharts` | wave-reused |
-| M169227 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.IsCompactImageClosureMid` | wave-reused |
-| M169228 | P0340 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.IsOpenKappaOpenNeighbourhood` | wave-reused |
-| M169231 | P0470 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PBoundedGlue` | wave-reused |
-| M169232 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PChartComparison` | wave-reused |

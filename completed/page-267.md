@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172963 | P0291 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.AdmissibleHermitianColumns` | wave-reused |
+| M172964 | P0234 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BabaiCovering` | wave-reused |
+| M172965 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BfSubRight` | wave-reused |
+| M172966 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BlockIdentityExpansion` | build-observed |
+| M172967 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BoostLowerBounds` | wave-reused |
+| M172968 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.BoundedSectionAlgebra` | wave-reused |
 | M172969 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CoefficientConvolutionHolds` | wave-reused |
 | M172970 | P0473 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CoefficientConvolutionOfSubCoefficients` | wave-reused |
 | M172971 | P0547 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CoefficientHeightBoundOfLiftSupportPositivity` | build-observed |
@@ -396,9 +402,3 @@
 | M173595 | P0235 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.DimStatement` | wave-reused |
 | M173596 | P0344 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.EmbComb` | wave-reused |
 | M173597 | P0730 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.EpsilonLeHalf` | wave-reused |
-| M173598 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsMaximal` | wave-reused |
-| M173599 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsMinNorm` | wave-reused |
-| M173600 | P0170 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsPairs` | wave-reused |
-| M173601 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsShortRealSpan` | wave-reused |
-| M173602 | P0235 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExtProof` | wave-reused |
-| M173603 | P0677 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FibreParseval` | wave-reused |

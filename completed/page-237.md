@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157050 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StrongApproximation.LocSmall` | wave-reused |
+| M157052 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Blocks` | build-observed |
+| M157053 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.DeterminantFormIdentity` | build-observed |
+| M157054 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Development` | build-observed |
+| M157055 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ExistsMulOfRangeLe` | volunteer-build-reviewed |
+| M157056 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ModKUnitMul` | build-observed |
 | M157057 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.PowModTwoOfSq` | build-observed |
 | M157058 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SymmetricDistance.SymDistOf` | build-observed |
 | M157059 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TameSurjectivity.RecUnram` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M157548 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensAAOf` | wave-reused |
 | M157549 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensFibInf` | wave-reused |
 | M157550 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensFibV` | wave-reused |
-| M157551 | P0464 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensGen` | wave-reused |
-| M157552 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfAll` | wave-reused |
-| M157553 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfCV` | wave-reused |
-| M157554 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfCo` | wave-reused |
-| M157555 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfFS` | wave-reused |
-| M157556 | P0573 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfLoc` | wave-reused |

@@ -105,3 +105,4 @@
 | [@pCwOrM](https://github.com/pCwOrM) | [P2382](https://github.com/rohanarun/alpoge-rh-replay/issues/26536#issuecomment-7077321460) | 64 | [Build evidence verified](../../../evidence/volunteers/P2382.json) |
 | [@emsi](https://github.com/emsi) | [P2760](https://github.com/rohanarun/alpoge-rh-replay/issues/29430#issuecomment-7074289242) | 64 | [Build evidence verified](../../../evidence/volunteers/P2760.json) |
 | [@RhizoNymph](https://github.com/RhizoNymph) | [P2583](https://github.com/rohanarun/alpoge-rh-replay/issues/24993#issuecomment-7077384672) | 64 | [Build evidence verified](../../../evidence/volunteers/P2583.json) |
+| [@rahulsundar477-star](https://github.com/rahulsundar477-star) | [P2445](https://github.com/rohanarun/alpoge-rh-replay/issues/23207#issuecomment-7075356560) | 6 | [Build evidence verified](../../../evidence/volunteers/P2445.json) |

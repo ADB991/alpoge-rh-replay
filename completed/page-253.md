@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164781 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperSheetedFibreEsymm` | volunteer-build-reviewed |
+| M164782 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedBranchInOneBranch` | volunteer-build-reviewed |
+| M164783 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedBranchSameOrder` | volunteer-build-reviewed |
+| M164784 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedCoverCycles` | wave-reused |
+| M164785 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedCurveDiscInverse` | volunteer-build-reviewed |
+| M164787 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRankDeficientFibreInfinite` | volunteer-build-reviewed |
 | M164789 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegBallMass` | volunteer-build-reviewed |
 | M164790 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegDensNonneg` | volunteer-build-reviewed |
 | M164791 | P0382 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegFixedBallMass` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M165309 | P0163 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.Statements` | wave-reused |
 | M165310 | P0083 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsAdjoinTrdegAdd` | volunteer-build-reviewed |
 | M165311 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpFibreDegree` | build-observed |
-| M165312 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpFibreDegreeCut` | build-observed |
-| M165313 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpFibreSemilocalCut` | build-observed |
-| M165314 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpHorizontal` | build-observed |
-| M165315 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpHorizontalMult` | build-observed |
-| M165316 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpLocRingFrac` | build-observed |
-| M165317 | P0640 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBlowUpLocRingFracCut` | build-observed |

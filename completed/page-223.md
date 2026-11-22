@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149581 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.RealRec` | build-observed |
+| M149582 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.RealRecPins` | build-observed |
+| M149587 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOK` | build-observed |
+| M149588 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOKg` | build-observed |
+| M149589 | P1390 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOKg2` | build-observed |
+| M149594 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.NormFr` | build-observed |
 | M149596 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.NormalFrame0` | build-observed |
 | M149598 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.ParabSt` | build-observed |
 | M149600 | P1498 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.SEEPin` | build-observed |
@@ -396,9 +402,3 @@
 | M150435 | P1188 | `Formalism.LocalToGlobal.ProjectiveLattices.MuValFix` | build-observed |
 | M150436 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.MulCMemSec` | build-observed |
 | M150437 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.NonnegIffOfLiesTotal` | build-observed |
-| M150438 | P1138 | `Formalism.LocalToGlobal.ProjectiveLattices.NormLaws` | build-observed |
-| M150439 | P1138 | `Formalism.LocalToGlobal.ProjectiveLattices.NormalizedValuationMul` | build-observed |
-| M150440 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.NormsFree` | wave-reused |
-| M150441 | P0695 | `Formalism.LocalToGlobal.ProjectiveLattices.NrmContPf` | volunteer-build-reviewed |
-| M150445 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal` | wave-reused |
-| M150446 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.OpenRowsFree` | volunteer-build-reviewed |

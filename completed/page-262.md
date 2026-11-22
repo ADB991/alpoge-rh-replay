@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170337 | P1216 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.ExistsInfIdelesLocalResIdelesResFieldEqZeroOfInf` | build-observed |
+| M170338 | P1191 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.IsDiscreteRepResGlobalDecompLimitRep` | build-observed |
+| M170339 | P0943 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelCyclic` | build-observed |
+| M170340 | P0676 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelDefs` | build-observed |
+| M170341 | P0972 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelTower` | build-observed |
+| M170343 | P1216 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees` | build-observed |
 | M170344 | P1191 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees.Decomposition` | build-observed |
 | M170345 | P1168 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees.Layers` | build-observed |
 | M170346 | P1054 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalInvariants` | build-observed |
@@ -396,9 +402,3 @@
 | M171096 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ActionIntegralSwapProof` | volunteer-build-reviewed |
 | M171097 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ActionsPreserveMeasuresProof` | volunteer-build-reviewed |
 | M171098 | P2634 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.AffOneZero` | volunteer-build-reviewed |
-| M171100 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.AutomorphyFactorScalarMatrix` | volunteer-build-reviewed |
-| M171101 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.BNeg` | volunteer-build-reviewed |
-| M171103 | P0089 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ComplexMinusRealLineMeasureCoordinates` | volunteer-build-reviewed |
-| M171104 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ConjNeOne` | volunteer-build-reviewed |
-| M171105 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ContinuousCompTorusMap` | volunteer-build-reviewed |
-| M171106 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.CountingMeasureInvarianceProof` | volunteer-build-reviewed |

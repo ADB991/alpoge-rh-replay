@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M140794 | P1526 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.GLMatrixDerivatives.UnitaryMemGLs` | volunteer-build-reviewed |
+| M140811 | P0828 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.LeftEquivariantFunctions.SymZeroCommFrame` | build-observed |
+| M140814 | P0828 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.ArchimedeanGelfandKernels.WaveSt` | volunteer-build-reviewed |
 | M140818 | P2196 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.ConvEqOfIsROp` | volunteer-build-reviewed |
 | M140819 | P2175 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.DualityDiagonalClassOfAffineProperBaseChange` | volunteer-build-reviewed |
 | M140820 | P0210 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.EigenvalueSeparation.AlmostEverywhereEigen.OneStepOf` | volunteer-build-reviewed |
@@ -57,6 +60,7 @@
 | M140989 | P1809 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.JointGeneralisedEigenvectors.JacquetLemma` | volunteer-build-reviewed |
 | M140993 | P0856 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.UnitaryExtremality.IsStrictDom` | build-observed |
 | M140994 | P0884 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.StrictDominance.UnitaryExtremality.SatPowNonvan` | build-observed |
+| M140995 | P2445 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.SymIdx` | volunteer-build-reviewed |
 | M140996 | P2608 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.TwistedConjugationNorms.ArchimedeanBaseChangeFourth` | volunteer-build-reviewed |
 | M140997 | P2553 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.TwistedConjugationNorms.CharpolyConjDiagT` | volunteer-build-reviewed |
 | M140999 | P2592 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.IwahoriFactorisation.TwistedConjugationNorms.Development` | volunteer-build-reviewed |
@@ -374,6 +378,7 @@
 | M141597 | P1390 | `Development.WeilBound.RepresentationTheoryGL.DiscreteSeries.DiscreteSeriesCovers.DiscreteSeriesHilbert.StepFormulaF` | build-observed |
 | M141600 | P1210 | `Development.WeilBound.RepresentationTheoryGL.DiscreteSeries.DiscreteSeriesCovers.EquivariantSections.EquivSection` | build-observed |
 | M141603 | P2386 | `Development.WeilBound.RepresentationTheoryGL.DiscreteSeries.DiscreteSeriesCovers.FdTopB` | volunteer-build-reviewed |
+| M141608 | P2445 | `Development.WeilBound.RepresentationTheoryGL.EisensteinResidues.AnisotropicGlobalForms.DownNeOfHypNc` | volunteer-build-reviewed |
 | M141610 | P2153 | `Development.WeilBound.RepresentationTheoryGL.EisensteinResidues.AnisotropicGlobalForms.GlobalFormAtFrameLatNc` | volunteer-build-reviewed |
 | M141612 | P2473 | `Development.WeilBound.RepresentationTheoryGL.EisensteinResidues.AnisotropicGlobalForms.SecOfDm` | volunteer-build-reviewed |
 | M141614 | P2142 | `Development.WeilBound.RepresentationTheoryGL.EisensteinResidues.AnisotropicGlobalForms.ZetaEqIntegralIntegrandNc` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M141658 | P1210 | `Development.WeilBound.RepresentationTheoryGL.FormalDegree.FormalDegreeHilbert.HlamStable` | build-observed |
 | M141662 | P0066 | `Development.WeilBound.RepresentationTheoryGL.FormalDegree.FormalDegreeHilbert.MomB` | volunteer-build-reviewed |
 | M141663 | P0145 | `Development.WeilBound.RepresentationTheoryGL.FormalDegree.FormalDegreeHilbert.MomentRecursion.MomStep` | volunteer-build-reviewed |
-| M141671 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.CechDescentTests.A6` | volunteer-build-reviewed |
-| M141673 | P1809 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.ConjTorusSubApply` | volunteer-build-reviewed |
-| M141674 | P1831 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.DepthZeroIntermediateHolds` | volunteer-build-reviewed |
-| M141675 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.EquivariantPartsOfFiniteType` | volunteer-build-reviewed |
-| M141676 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.ExistsLiftUnipotentRadical` | volunteer-build-reviewed |

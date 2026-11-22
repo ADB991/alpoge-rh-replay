@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150438 | P1138 | `Formalism.LocalToGlobal.ProjectiveLattices.NormLaws` | build-observed |
+| M150439 | P1138 | `Formalism.LocalToGlobal.ProjectiveLattices.NormalizedValuationMul` | build-observed |
+| M150440 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.NormsFree` | wave-reused |
+| M150441 | P0695 | `Formalism.LocalToGlobal.ProjectiveLattices.NrmContPf` | volunteer-build-reviewed |
+| M150445 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.OneLtAbsNormReal` | wave-reused |
+| M150446 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.OpenRowsFree` | volunteer-build-reviewed |
 | M150447 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.ParCanon` | build-observed |
 | M150448 | P1022 | `Formalism.LocalToGlobal.ProjectiveLattices.PartitionExtendByZeroAntitone` | build-observed |
 | M150450 | P1050 | `Formalism.LocalToGlobal.ProjectiveLattices.PetersonNormSubspace` | build-observed |
@@ -396,9 +402,3 @@
 | M150949 | P0748 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.StClosed` | volunteer-build-reviewed |
 | M150950 | P1078 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.StabLoc` | volunteer-build-reviewed |
 | M150952 | P1138 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.VolumeIndexAStable` | volunteer-build-reviewed |
-| M150953 | P1188 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.VolumeIndexBBounded` | build-observed |
-| M150954 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.VolumeIndexBCongruence` | build-observed |
-| M150955 | P1165 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.VolumeIndexBStable` | build-observed |
-| M150956 | P1078 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.VolumeIndexFiniteNonzero` | volunteer-build-reviewed |
-| M150959 | P1138 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StepPtRepPfA` | build-observed |
-| M150963 | P1188 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StepRealHolds` | build-observed |

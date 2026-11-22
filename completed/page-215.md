@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144872 | P1238 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassConstSucc` | wave-reused |
+| M144873 | P0602 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLand` | wave-reused |
+| M144874 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandA` | wave-reused |
+| M144875 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandD` | wave-reused |
+| M144876 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandDA` | wave-reused |
+| M144877 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandG` | wave-reused |
 | M144878 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandLA` | wave-reused |
 | M144879 | P0461 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandSt` | wave-reused |
 | M144880 | P0721 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassRatioEqLvalue` | wave-reused |
@@ -396,9 +402,3 @@
 | M145274 | P0747 | `Formalism.GradedWeylDivisibility.StatementE` | wave-reused |
 | M145275 | P0212 | `Formalism.GrowthSums.FactorialBaseGrowth.Coarse` | wave-reused |
 | M145276 | P0212 | `Formalism.GrowthSums.FactorialBaseGrowth.Harmonic` | wave-reused |
-| M145277 | P0069 | `Formalism.GrowthSums.FactorialBaseGrowth.KapPrime` | wave-reused |
-| M145278 | P0069 | `Formalism.GrowthSums.FactorialBaseGrowth.Length` | wave-reused |
-| M145279 | P0272 | `Formalism.GrowthSums.FactorialBaseGrowth.LogCoef` | wave-reused |
-| M145280 | P0326 | `Formalism.GrowthSums.FactorialBaseGrowth.NextEvenTopHolds` | wave-reused |
-| M145281 | P0272 | `Formalism.GrowthSums.FactorialBaseGrowth.PathBasisOfCount` | wave-reused |
-| M145282 | P0212 | `Formalism.GrowthSums.FactorialBaseGrowth.QuadraticExponentIdentity` | wave-reused |

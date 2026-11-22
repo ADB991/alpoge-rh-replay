@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159764 | P1759 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDirOfLvl` | wave-reused |
+| M159765 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestLjjFinProved` | wave-reused |
+| M159766 | P1500 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusAOf` | wave-reused |
+| M159767 | P1443 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusOf` | wave-reused |
+| M159768 | P1470 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestRankLProved` | wave-reused |
+| M159769 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestSumSpan` | wave-reused |
 | M159770 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestTMExists` | wave-reused |
 | M159771 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestTMHypOf` | wave-reused |
 | M159772 | P1664 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestTMSizeOf` | wave-reused |
@@ -396,9 +402,3 @@
 | M160161 | P1269 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CardFinRange` | build-observed |
 | M160162 | P1242 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CardIcutFilter` | build-observed |
 | M160163 | P1081 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.Coarse` | build-observed |
-| M160164 | P1392 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CoarseLabelFactorisation` | build-observed |
-| M160165 | P1215 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ColumnConditionsOfNumericBounds` | build-observed |
-| M160166 | P1167 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ColumnWordReductionOfFour` | build-observed |
-| M160167 | P1269 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CountFromEqFilterLength` | build-observed |
-| M160168 | P1558 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscPowerMonomialDegreeAtW` | build-observed |
-| M160169 | P1530 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscPowerMonomialMemSupported` | build-observed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167189 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootGridLower` | volunteer-build-reviewed |
+| M167190 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsBounded` | wave-reused |
+| M167191 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsLiftToZeros` | wave-reused |
+| M167192 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsNear` | wave-reused |
+| M167194 | P0577 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsScaledFSTopPos` | build-observed |
+| M167195 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSecCochReduce` | wave-reused |
 | M167196 | P0577 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSecEq` | build-observed |
 | M167197 | P0577 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSecMRankBound` | wave-reused |
 | M167200 | P0610 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSectionLatticeFinite` | wave-reused |
@@ -396,9 +402,3 @@
 | M167887 | P0085 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PProjBundleMultiHomogGrad` | volunteer-build-reviewed |
 | M167894 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRFormula` | wave-reused |
 | M167896 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRankAdjoinFrac` | volunteer-build-reviewed |
-| M167897 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRankFracDegree` | volunteer-build-reviewed |
-| M167898 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRatioAlgDep` | build-observed |
-| M167902 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRelBaseChange` | volunteer-build-reviewed |
-| M167920 | P0469 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PThmAExpand` | wave-reused |
-| M167924 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PThmIUnique` | wave-reused |
-| M167925 | P0339 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PTorusInvLevi` | wave-reused |

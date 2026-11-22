@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171100 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.AutomorphyFactorScalarMatrix` | volunteer-build-reviewed |
+| M171101 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.BNeg` | volunteer-build-reviewed |
+| M171103 | P0089 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ComplexMinusRealLineMeasureCoordinates` | volunteer-build-reviewed |
+| M171104 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ConjNeOne` | volunteer-build-reviewed |
+| M171105 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ContinuousCompTorusMap` | volunteer-build-reviewed |
+| M171106 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.CountingMeasureInvarianceProof` | volunteer-build-reviewed |
 | M171107 | P0232 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.CuspRegionVolumeFiniteProof` | volunteer-build-reviewed |
 | M171108 | P2675 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.DenseRangeUnitsR` | volunteer-build-reviewed |
 | M171109 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.DiagonalIntegrandVanishesProof` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M171546 | P0089 | `ReciprocityTheory.Chebotarev.CrossFrobE` | volunteer-build-reviewed |
 | M171547 | P0089 | `ReciprocityTheory.Chebotarev.CrossGal` | volunteer-build-reviewed |
 | M171548 | P0089 | `ReciprocityTheory.Chebotarev.CrossLift` | volunteer-build-reviewed |
-| M171549 | P0089 | `ReciprocityTheory.Chebotarev.CrossRes` | volunteer-build-reviewed |
-| M171550 | P0167 | `ReciprocityTheory.Chebotarev.CycOrth` | volunteer-build-reviewed |
-| M171551 | P0089 | `ReciprocityTheory.Chebotarev.CycStatement` | volunteer-build-reviewed |
-| M171552 | P0167 | `ReciprocityTheory.Chebotarev.CycTail` | volunteer-build-reviewed |
-| M171553 | P0089 | `ReciprocityTheory.Chebotarev.CyclotomicIrreducibleOfForallIsUnramifiedAt` | volunteer-build-reviewed |
-| M171554 | P0233 | `ReciprocityTheory.Chebotarev.DiscreteTopologyLatOf` | volunteer-build-reviewed |

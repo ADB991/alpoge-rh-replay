@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152976 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ConstantCoeffInVarEqZero` | wave-reused |
+| M152977 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ConstantCoeffInvTDen` | wave-reused |
+| M152978 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ExistsFinitePartOneIdeleSplitCongruenceQuotient` | wave-reused |
+| M152979 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.GeneralIntegrality` | wave-reused |
+| M152982 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.NonsingularNorm` | wave-reused |
+| M152984 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.OpUTh0RootOf` | wave-reused |
 | M152985 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ScaledTorsionPointNonsingular` | wave-reused |
 | M152986 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ScaledXEqOffOrigin` | wave-reused |
 | M152987 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ScaledXOffOrigin` | wave-reused |
@@ -396,9 +402,3 @@
 | M153445 | P0275 | `Formalism.PeriodIntegrals.AlgebraMapMemO` | volunteer-build-reviewed |
 | M153446 | P0776 | `Formalism.PeriodIntegrals.AmpOrbQ` | build-observed |
 | M153447 | P0776 | `Formalism.PeriodIntegrals.AmpRoot` | build-observed |
-| M153448 | P0776 | `Formalism.PeriodIntegrals.AmpRootH` | build-observed |
-| M153449 | P0151 | `Formalism.PeriodIntegrals.AreaLat` | build-observed |
-| M153450 | P0072 | `Formalism.PeriodIntegrals.ArtSch` | wave-reused |
-| M153451 | P0859 | `Formalism.PeriodIntegrals.AutLzFinite` | build-observed |
-| M153452 | P0151 | `Formalism.PeriodIntegrals.BallQuotLen` | build-observed |
-| M153453 | P0072 | `Formalism.PeriodIntegrals.BeConjNorm` | build-observed |

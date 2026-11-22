@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146262 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EntryMinorBounds` | build-observed |
+| M146265 | P0272 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EqZeroOfIdealCompact` | build-observed |
+| M146266 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EtaleIntegralityFacts` | wave-reused |
+| M146267 | P0421 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.EulerZetaGammaInvIdentity` | wave-reused |
+| M146269 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsAuxiliaryXi` | build-observed |
+| M146272 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsFrameTwo` | wave-reused |
 | M146273 | P0994 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsHaarStabilizer` | build-observed |
 | M146274 | P1048 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsMeasurableSection` | build-observed |
 | M146277 | P0602 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ExistsSmoothExt` | build-observed |
@@ -396,9 +402,3 @@
 | M146923 | P0212 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RowNormSquareBounds` | build-observed |
 | M146924 | P0694 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RttUpperRelationsFromDescent` | wave-reused |
 | M146925 | P0774 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleCDerivatives` | build-observed |
-| M146926 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleGD` | build-observed |
-| M146927 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleInv` | build-observed |
-| M146929 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.RuleSS` | build-observed |
-| M146933 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.SandwichRhoAction` | wave-reused |
-| M146934 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalarCommuteTransposedRMatrixEntry` | wave-reused |
-| M146935 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.ScalarInverseSimplification` | build-observed |

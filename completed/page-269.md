@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174026 | P1418 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.EquivSigLamOfIsDS` | wave-reused |
+| M174027 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.ExistsKhwGenSubOfKType` | wave-reused |
+| M174028 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FinalA` | build-observed |
+| M174030 | P1297 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FinalExists` | build-observed |
+| M174031 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FormulaF` | wave-reused |
+| M174032 | P1191 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FormulaFA` | wave-reused |
 | M174034 | P1192 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.InfChar` | wave-reused |
 | M174035 | P1322 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.InfCharData` | build-observed |
 | M174036 | P1113 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.InfCharDataA` | build-observed |
@@ -396,9 +402,3 @@
 | M174528 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.NChart` | build-observed |
 | M174529 | P1000 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.NoncompactLoweringNormSmall` | build-observed |
 | M174530 | P0972 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.NormMatrixTripleProductLe` | build-observed |
-| M174531 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.NormPsiGen` | build-observed |
-| M174532 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneLeNoncompactRankParabolicSign` | build-observed |
-| M174533 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.ExistsCyclic` | build-observed |
-| M174534 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.ExpChart` | volunteer-build-reviewed |
-| M174535 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.OneParameterSubgroups.OneParam` | build-observed |
-| M174537 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.LaplaceFoundations.PsiFor` | build-observed |

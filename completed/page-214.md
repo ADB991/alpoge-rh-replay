@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144470 | P0211 | `Formalism.FockGram.FockGramProofs.HermitianTensorMulHermitian` | wave-reused |
+| M144471 | P0147 | `Formalism.FockGram.FockGramProofs.SubIndexNorm` | wave-reused |
+| M144472 | P0147 | `Formalism.FockGram.StatementFock` | wave-reused |
+| M144473 | P0147 | `Formalism.FockGram.StatementHerm` | wave-reused |
+| M144474 | P0068 | `Formalism.FockGram.StatementLat` | wave-reused |
+| M144475 | P0211 | `Formalism.FockGram.StatementSymPos` | wave-reused |
 | M144476 | P0147 | `Formalism.FockGram.StatementTensor` | wave-reused |
 | M144477 | P0271 | `Formalism.FockGram.SymGramPosSemidef` | wave-reused |
 | M144478 | P0460 | `Formalism.FormalDegreeBessel.FdegFactorial` | build-observed |
@@ -396,9 +402,3 @@
 | M144869 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LocalDensitySeventh` | wave-reused |
 | M144870 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.LocalDensitySixth` | wave-reused |
 | M144871 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MapMkConjTranspose` | wave-reused |
-| M144872 | P1238 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassConstSucc` | wave-reused |
-| M144873 | P0602 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLand` | wave-reused |
-| M144874 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandA` | wave-reused |
-| M144875 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandD` | wave-reused |
-| M144876 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandDA` | wave-reused |
-| M144877 | P0536 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.MassLandG` | wave-reused |

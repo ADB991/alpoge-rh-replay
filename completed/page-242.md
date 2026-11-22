@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159350 | P1370 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.MemIntPolOfCoeff` | build-observed |
+| M159351 | P1370 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.MulMatQOne` | build-observed |
+| M159352 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.OPlusAtOf` | build-observed |
+| M159353 | P1557 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.OtherEFree` | build-observed |
+| M159354 | P1417 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.PairedLiftAtOfIdentity` | build-observed |
+| M159355 | P1321 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.PolyUpperBoundDelta` | build-observed |
 | M159356 | P1615 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.PsiRes0Ne` | build-observed |
 | M159357 | P1269 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.RestBlockForm` | build-observed |
 | M159358 | P1442 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.RestRawTail1Of` | build-observed |
@@ -396,9 +402,3 @@
 | M159761 | P1585 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDecompProved` | wave-reused |
 | M159762 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDimBCProved` | wave-reused |
 | M159763 | P1530 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDirOf` | wave-reused |
-| M159764 | P1759 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestDirOfLvl` | wave-reused |
-| M159765 | P1687 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestLjjFinProved` | wave-reused |
-| M159766 | P1500 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusAOf` | wave-reused |
-| M159767 | P1443 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestPlusOf` | wave-reused |
-| M159768 | P1470 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestRankLProved` | wave-reused |
-| M159769 | P1557 | `Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.RestSumSpan` | wave-reused |

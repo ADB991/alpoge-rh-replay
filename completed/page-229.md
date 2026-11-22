@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153448 | P0776 | `Formalism.PeriodIntegrals.AmpRootH` | build-observed |
+| M153449 | P0151 | `Formalism.PeriodIntegrals.AreaLat` | build-observed |
+| M153450 | P0072 | `Formalism.PeriodIntegrals.ArtSch` | wave-reused |
+| M153451 | P0859 | `Formalism.PeriodIntegrals.AutLzFinite` | build-observed |
+| M153452 | P0151 | `Formalism.PeriodIntegrals.BallQuotLen` | build-observed |
+| M153453 | P0072 | `Formalism.PeriodIntegrals.BeConjNorm` | build-observed |
 | M153454 | P0072 | `Formalism.PeriodIntegrals.BeDiagZp` | build-observed |
 | M153455 | P0215 | `Formalism.PeriodIntegrals.BesselDeriv` | volunteer-build-reviewed |
 | M153456 | P0328 | `Formalism.PeriodIntegrals.BesselL2FixAtZero` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M153890 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowExp` | wave-reused |
 | M153891 | P0463 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowForm` | wave-reused |
 | M153892 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmSandwich` | wave-reused |
-| M153893 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmSkip` | wave-reused |
-| M153894 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmStar` | wave-reused |
-| M153895 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnAdapted` | wave-reused |
-| M153896 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovDet` | wave-reused |
-| M153897 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovHat` | wave-reused |
-| M153898 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovLin` | wave-reused |

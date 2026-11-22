@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M175029 | P1168 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedStatus` | build-observed |
+| M175030 | P0677 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedValA` | build-observed |
+| M175031 | P1113 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedValB` | build-observed |
+| M175032 | P0647 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluAlg` | build-observed |
+| M175033 | P0809 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.RedVeluFun` | build-observed |
+| M175034 | P0236 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.SemilinNormPowSubPow` | volunteer-build-reviewed |
 | M175035 | P0916 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.ShortWIntModel` | build-observed |
 | M175036 | P0647 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.SubstOfLog` | build-observed |
 | M175038 | P0756 | `ReciprocityTheory.ReductiveGroups.UnramifiedIntegrals.TorBasic` | build-observed |

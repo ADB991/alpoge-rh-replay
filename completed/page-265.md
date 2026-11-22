@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172054 | P0547 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LocallyCompactSpaceOfIsLocalHomeomorph` | wave-reused |
+| M172055 | P0646 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogLevi` | wave-reused |
+| M172056 | P0613 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogLeviA` | wave-reused |
+| M172057 | P0290 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogNormSq` | wave-reused |
+| M172058 | P0646 | `ReciprocityTheory.L2DbarEstimates.LeviForms.MacofFderivApplyContDiffOn` | wave-reused |
+| M172059 | P0233 | `ReciprocityTheory.L2DbarEstimates.LeviForms.OfRealNormSqSumMul` | wave-reused |
 | M172060 | P0613 | `ReciprocityTheory.L2DbarEstimates.LeviForms.Ot0` | wave-reused |
 | M172061 | P0290 | `ReciprocityTheory.L2DbarEstimates.LeviForms.PolarBallReal` | wave-reused |
 | M172062 | P0580 | `ReciprocityTheory.L2DbarEstimates.LeviForms.ShellA` | wave-reused |
@@ -396,9 +402,3 @@
 | M172508 | P0290 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatement` | wave-reused |
 | M172509 | P0472 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPf` | wave-reused |
 | M172510 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPfA` | wave-reused |
-| M172511 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPfB` | wave-reused |
-| M172512 | P0433 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.SumBoundStatementPfC` | wave-reused |
-| M172513 | P1168 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPf` | build-observed |
-| M172514 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfA` | build-observed |
-| M172515 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfB` | build-observed |
-| M172516 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.UpDivStatementPfC` | build-observed |

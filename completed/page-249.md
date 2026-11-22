@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162659 | P1500 | `GroundTheory.AutomorphicForms.GL2.GJStandardLEngine` | build-observed |
+| M162660 | P1443 | `GroundTheory.AutomorphicForms.GL2.GJStandardLEuler` | build-observed |
+| M162662 | P1470 | `GroundTheory.AutomorphicForms.GL2.GJStandardLPartial` | build-observed |
+| M162663 | P1418 | `GroundTheory.AutomorphicForms.GL2.GJStandardLTensor` | build-observed |
+| M162664 | P0999 | `GroundTheory.AutomorphicForms.GL2.GJStandardLUnramified` | build-observed |
+| M162665 | P0971 | `GroundTheory.AutomorphicForms.GL2.GJUnramified` | build-observed |
 | M162666 | P0942 | `GroundTheory.AutomorphicForms.GL2.GJUnramifiedCosets` | build-observed |
 | M162667 | P0914 | `GroundTheory.AutomorphicForms.GL2.GJUnramifiedDegree` | build-observed |
 | M162668 | P0860 | `GroundTheory.AutomorphicForms.GL2.GJZetaCore` | build-observed |
@@ -396,9 +402,3 @@
 | M163113 | P0225 | `GroundTheory.GlobalFields.ComplexMultiplication.EllipticRational` | volunteer-build-reviewed |
 | M163114 | P0225 | `GroundTheory.GlobalFields.ComplexMultiplication.EllipticResidues` | volunteer-build-reviewed |
 | M163115 | P0081 | `GroundTheory.GlobalFields.ComplexMultiplication.ExistsRingEquivExtendOfIsTranscendenceBasis` | volunteer-build-reviewed |
-| M163116 | P1082 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimes` | build-observed |
-| M163117 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesIsogeny` | build-observed |
-| M163118 | P1054 | `GroundTheory.GlobalFields.ComplexMultiplication.FrobeniusAtPrimesLocal` | build-observed |
-| M163119 | P0380 | `GroundTheory.GlobalFields.ComplexMultiplication.FunctionFieldIntegral` | build-observed |
-| M163120 | P0160 | `GroundTheory.GlobalFields.ComplexMultiplication.GoodReductionAlmostAll` | volunteer-build-reviewed |
-| M163122 | P1615 | `GroundTheory.GlobalFields.ComplexMultiplication.HilbertClassFieldArtin` | build-observed |

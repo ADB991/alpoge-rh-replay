@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164163 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInjectiveHolomorphicOpen` | volunteer-build-reviewed |
+| M164164 | P0508 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIntegralIndependent` | wave-reused |
+| M164165 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInvarianceOfDomain` | volunteer-build-reviewed |
+| M164166 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleFiniteGermProjectionOpenAt` | volunteer-build-reviewed |
+| M164167 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleGermComplementConnected` | volunteer-build-reviewed |
+| M164170 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |
 | M164175 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIsolatedFibreNear` | volunteer-build-reviewed |
 | M164179 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIsolatedPointsCount` | volunteer-build-reviewed |
 | M164183 | P0466 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLeadIdealDim` | wave-reused |
@@ -396,9 +402,3 @@
 | M164778 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperOpenProjectionCover` | volunteer-build-reviewed |
 | M164779 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperOpenProjectionLocalCover` | volunteer-build-reviewed |
 | M164780 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperOpenProjectionLocalUnbranched` | volunteer-build-reviewed |
-| M164781 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperSheetedFibreEsymm` | volunteer-build-reviewed |
-| M164782 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedBranchInOneBranch` | volunteer-build-reviewed |
-| M164783 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedBranchSameOrder` | volunteer-build-reviewed |
-| M164784 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedCoverCycles` | wave-reused |
-| M164785 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StPuncturedCurveDiscInverse` | volunteer-build-reviewed |
-| M164787 | P0083 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRankDeficientFibreInfinite` | volunteer-build-reviewed |

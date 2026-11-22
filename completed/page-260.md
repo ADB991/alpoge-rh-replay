@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169224 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.ChartFun` | wave-reused |
+| M169226 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.GlueCharts` | wave-reused |
+| M169227 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.IsCompactImageClosureMid` | wave-reused |
+| M169228 | P0340 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.IsOpenKappaOpenNeighbourhood` | wave-reused |
+| M169231 | P0470 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PBoundedGlue` | wave-reused |
+| M169232 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PChartComparison` | wave-reused |
 | M169233 | P0511 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PChartLeviThGe` | wave-reused |
 | M169235 | P0387 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PCutoffs` | wave-reused |
 | M169236 | P0431 | `GroundTheory.HeightsAndTheta.Heights.Regularisation.PExpExtension` | wave-reused |
@@ -396,9 +402,3 @@
 | M169697 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.MonomialValuesOneBlock` | build-observed |
 | M169698 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.NormSqEvalConeScale` | build-observed |
 | M169699 | P0388 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.Objects` | wave-reused |
-| M169701 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PAddHeightsridge` | build-observed |
-| M169702 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PChartLatNmSection` | build-observed |
-| M169703 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PChartLatSection` | build-observed |
-| M169704 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PConeTrdeg` | wave-reused |
-| M169705 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PDualBasisExists` | build-observed |
-| M169706 | P0645 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PFibreCompDimZ` | build-observed |

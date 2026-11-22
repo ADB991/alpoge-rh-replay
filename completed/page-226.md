@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M151751 | P1734 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RelCharPf` | build-observed |
+| M151752 | P1758 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RelCharPfRat` | build-observed |
+| M151753 | P1295 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RelevantSetZeroGNotIdentity` | build-observed |
+| M151755 | P1663 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RgBwdSub` | build-observed |
+| M151756 | P1663 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RgBwdSup` | build-observed |
+| M151757 | P1663 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RgFwdSub` | build-observed |
 | M151758 | P1663 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RgFwdSup` | build-observed |
 | M151759 | P1557 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RhoTieCHolds` | build-observed |
 | M151760 | P1811 | `Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RootCoordinatesIndex` | build-observed |
@@ -396,9 +402,3 @@
 | M152416 | P1469 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsJoinPinned` | build-observed |
 | M152417 | P1442 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsJoinS` | build-observed |
 | M152418 | P2176 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowsPos` | build-observed |
-| M152419 | P1833 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.STiesR` | build-observed |
-| M152420 | P1391 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SettingExistsAdapted` | build-observed |
-| M152421 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SettingExistsMeasured` | build-observed |
-| M152422 | P1442 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SpectralTiesReal` | build-observed |
-| M152423 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.TermTieOf` | build-observed |
-| M152424 | P1416 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.TheoremS` | build-observed |

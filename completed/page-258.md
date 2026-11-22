@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167897 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRankFracDegree` | volunteer-build-reviewed |
+| M167898 | P0701 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRatioAlgDep` | build-observed |
+| M167902 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PRelBaseChange` | volunteer-build-reviewed |
+| M167920 | P0469 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PThmAExpand` | wave-reused |
+| M167924 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PThmIUnique` | wave-reused |
+| M167925 | P0339 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PTorusInvLevi` | wave-reused |
 | M167926 | P0165 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PTrdegAdjoinFrac` | volunteer-build-reviewed |
 | M167935 | P0674 | `GroundTheory.HeightsAndTheta.Heights.Intersections.PfAtZero` | wave-reused |
 | M167938 | P0610 | `GroundTheory.HeightsAndTheta.Heights.Intersections.ProjLineRankTwoPushforwardHypotheses` | wave-reused |
@@ -396,9 +402,3 @@
 | M168444 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerreOnto` | wave-reused |
 | M168445 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerrePoly` | wave-reused |
 | M168446 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerrePolyLaurent` | wave-reused |
-| M168447 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerrePolyLaurentCohom` | wave-reused |
-| M168448 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerreTail` | wave-reused |
-| M168449 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSerreVanish` | wave-reused |
-| M168450 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapper` | wave-reused |
-| M168451 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperDevissage` | wave-reused |
-| M168452 | P0470 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PSnapperDiffPoly` | wave-reused |

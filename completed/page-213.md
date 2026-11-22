@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144069 | P0210 | `Formalism.BehrendSets.BehrendVariance.TotientLeOfIsPrimitiveRoot` | build-observed |
+| M144070 | P0146 | `Formalism.BehrendSets.BehrendVariance.TwoLeCastOfTwoLe` | build-observed |
+| M144071 | P0146 | `Formalism.BehrendSets.BehrendVariance.TwoPowDvdPowTwoPowSubOne` | build-observed |
+| M144072 | P0270 | `Formalism.BehrendSets.FinalE` | build-observed |
+| M144073 | P0068 | `Formalism.BehrendSets.Statement` | volunteer-build-reviewed |
+| M144074 | P0146 | `Formalism.BehrendSets.StatementE` | build-observed |
 | M144075 | P0210 | `Formalism.BehrendSets.TranslateMean` | build-observed |
 | M144076 | P0536 | `Formalism.BranchSandwichDivisors.BranchIsometryProofs.BoundsIVal` | build-observed |
 | M144077 | P0601 | `Formalism.BranchSandwichDivisors.BranchIsometryProofs.BranchMap` | build-observed |
@@ -396,9 +402,3 @@
 | M144467 | P0211 | `Formalism.FockGram.FockGramProofs.FockPerm` | wave-reused |
 | M144468 | P0211 | `Formalism.FockGram.FockGramProofs.FockSesq` | wave-reused |
 | M144469 | P0211 | `Formalism.FockGram.FockGramProofs.HermDualOf` | wave-reused |
-| M144470 | P0211 | `Formalism.FockGram.FockGramProofs.HermitianTensorMulHermitian` | wave-reused |
-| M144471 | P0147 | `Formalism.FockGram.FockGramProofs.SubIndexNorm` | wave-reused |
-| M144472 | P0147 | `Formalism.FockGram.StatementFock` | wave-reused |
-| M144473 | P0147 | `Formalism.FockGram.StatementHerm` | wave-reused |
-| M144474 | P0068 | `Formalism.FockGram.StatementLat` | wave-reused |
-| M144475 | P0211 | `Formalism.FockGram.StatementSymPos` | wave-reused |

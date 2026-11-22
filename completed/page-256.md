@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166380 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegree` | build-observed |
+| M166381 | P0428 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLineDegreeDual` | build-observed |
+| M166382 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLines` | volunteer-build-reviewed |
+| M166383 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLocallyPrincipalCoprime` | volunteer-build-reviewed |
+| M166384 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsLogCardLength` | volunteer-build-reviewed |
+| M166385 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsOrderIdealIndexExtension` | volunteer-build-reviewed |
 | M166387 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsRest` | volunteer-build-reviewed |
 | M166388 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsSympl` | volunteer-build-reviewed |
 | M166389 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.StatementsTheta` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M167175 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelSectionsLarge` | wave-reused |
 | M167176 | P0673 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRelTorsionBound` | wave-reused |
 | M167179 | P0577 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsResVolume` | volunteer-build-reviewed |
-| M167189 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootGridLower` | volunteer-build-reviewed |
-| M167190 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsBounded` | wave-reused |
-| M167191 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsLiftToZeros` | wave-reused |
-| M167192 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsRootsNear` | wave-reused |
-| M167194 | P0577 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsScaledFSTopPos` | build-observed |
-| M167195 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsSecCochReduce` | wave-reused |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M141671 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.CechDescentTests.A6` | volunteer-build-reviewed |
+| M141673 | P1809 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.ConjTorusSubApply` | volunteer-build-reviewed |
+| M141674 | P1831 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.DepthZeroIntermediateHolds` | volunteer-build-reviewed |
+| M141675 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.EquivariantPartsOfFiniteType` | volunteer-build-reviewed |
+| M141676 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.ExistsLiftUnipotentRadical` | volunteer-build-reviewed |
 | M141677 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.ExistsMaximalStableAvoiding` | volunteer-build-reviewed |
 | M141678 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.FiniteCuspidalOfIsCuspidal` | volunteer-build-reviewed |
 | M141679 | P1526 | `Development.WeilBound.RepresentationTheoryGL.GaloisPermutationReps.SubquotientEquivalence.HasCentralCharOfEquiv` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M142389 | P1809 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.FzDer` | volunteer-build-reviewed |
 | M142390 | P1612 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.FzSliceContDiffOn` | volunteer-build-reviewed |
 | M142392 | P0067 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.HasDerivAtDetOneAdd` | volunteer-build-reviewed |
-| M142394 | P1661 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.HolLeadHol` | volunteer-build-reviewed |
-| M142395 | P1661 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.HolTBase` | volunteer-build-reviewed |
-| M142396 | P1732 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.HolomorphicScalarSection` | volunteer-build-reviewed |
-| M142397 | P1784 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.HolomorphicSectionLoweringInvariant` | volunteer-build-reviewed |
-| M142399 | P1526 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.CayleyCosetSums.Imports` | volunteer-build-reviewed |

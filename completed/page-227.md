@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152419 | P1833 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.STiesR` | build-observed |
+| M152420 | P1391 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SettingExistsAdapted` | build-observed |
+| M152421 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SettingExistsMeasured` | build-observed |
+| M152422 | P1442 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.SpectralTiesReal` | build-observed |
+| M152423 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.TermTieOf` | build-observed |
+| M152424 | P1416 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.TheoremS` | build-observed |
 | M152427 | P1811 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.TheoremSRecursion` | build-observed |
 | M152428 | P1213 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ThmBUse` | build-observed |
 | M152429 | P1241 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.ThmBUseR` | build-observed |
@@ -396,9 +402,3 @@
 | M152972 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.IsTransSys` | wave-reused |
 | M152973 | P0911 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.AnaSys` | wave-reused |
 | M152975 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.CmIntegralityOfTorsionPoints` | wave-reused |
-| M152976 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ConstantCoeffInVarEqZero` | wave-reused |
-| M152977 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ConstantCoeffInvTDen` | wave-reused |
-| M152978 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ExistsFinitePartOneIdeleSplitCongruenceQuotient` | wave-reused |
-| M152979 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.GeneralIntegrality` | wave-reused |
-| M152982 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.NonsingularNorm` | wave-reused |
-| M152984 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.OpUTh0RootOf` | wave-reused |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169701 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PAddHeightsridge` | build-observed |
+| M169702 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PChartLatNmSection` | build-observed |
+| M169703 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PChartLatSection` | build-observed |
+| M169704 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PConeTrdeg` | wave-reused |
+| M169705 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PDualBasisExists` | build-observed |
+| M169706 | P0645 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PFibreCompDimZ` | build-observed |
 | M169707 | P0545 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PHomogGeneratorsExist` | build-observed |
 | M169708 | P0579 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PIdealIndexPlaces` | build-observed |
 | M169709 | P0612 | `GroundTheory.HeightsAndTheta.Heights.WeightedHomogeneous.PIntDomainDim` | wave-reused |
@@ -396,9 +402,3 @@
 | M170333 | P0676 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleLimits.SmulOfEqOfMemFixingSubgroup` | build-observed |
 | M170335 | P1168 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction` | build-observed |
 | M170336 | P1191 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.Components` | build-observed |
-| M170337 | P1216 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.ExistsInfIdelesLocalResIdelesResFieldEqZeroOfInf` | build-observed |
-| M170338 | P1191 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleRestriction.IsDiscreteRepResGlobalDecompLimitRep` | build-observed |
-| M170339 | P0943 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelCyclic` | build-observed |
-| M170340 | P0676 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelDefs` | build-observed |
-| M170341 | P0972 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LevelTower` | build-observed |
-| M170343 | P1216 | `GroundTheory.ProfiniteCohomology.GlobalClassFormation.LocalDegrees` | build-observed |

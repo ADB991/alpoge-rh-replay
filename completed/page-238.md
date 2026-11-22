@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157551 | P0464 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensGen` | wave-reused |
+| M157552 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfAll` | wave-reused |
+| M157553 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfCV` | wave-reused |
+| M157554 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfCo` | wave-reused |
+| M157555 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfFS` | wave-reused |
+| M157556 | P0573 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfLoc` | wave-reused |
 | M157557 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfSS` | wave-reused |
 | M157558 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfSt` | volunteer-build-reviewed |
 | M157559 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.DensInfTR` | wave-reused |
@@ -396,9 +402,3 @@
 | M157954 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LocBasis` | wave-reused |
 | M157955 | P0860 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.PlaceSumSquares` | build-observed |
 | M157956 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ProdFormula` | wave-reused |
-| M157957 | P0540 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm` | wave-reused |
-| M157958 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaFirst` | wave-reused |
-| M157959 | P0605 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaSecond` | wave-reused |
-| M157960 | P0750 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionSecondStep` | wave-reused |
-| M157961 | P0505 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionThirdStepMean` | wave-reused |
-| M157962 | P0540 | `Formalism.QuotientMetricDivisors.HermitianTwistDivisors.SecondComplementParameterBounds` | build-observed |

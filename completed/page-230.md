@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153893 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmSkip` | wave-reused |
+| M153894 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmStar` | wave-reused |
+| M153895 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnAdapted` | wave-reused |
+| M153896 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovDet` | wave-reused |
+| M153897 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovHat` | wave-reused |
+| M153898 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnCovLin` | wave-reused |
 | M153899 | P0722 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnEabGl` | wave-reused |
 | M153900 | P0695 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnEabPres` | wave-reused |
 | M153901 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QnFFZero` | wave-reused |
@@ -396,9 +402,3 @@
 | M154349 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.JacOneOfCharts` | build-observed |
 | M154350 | P1391 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.KerMeasHolds` | build-observed |
 | M154351 | P1833 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.LamCut` | build-observed |
-| M154353 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.LintegralMulRightOfMem` | volunteer-build-reviewed |
-| M154354 | P1615 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MatNDHHolds` | build-observed |
-| M154355 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MeasLie` | volunteer-build-reviewed |
-| M154356 | P0276 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.MpOfIsomProd` | volunteer-build-reviewed |
-| M154360 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.NormSqDetOfUnitary` | build-observed |
-| M154363 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ArchimedeanOrbitMeasures.OmegaDensity` | volunteer-build-reviewed |

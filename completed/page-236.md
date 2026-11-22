@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156642 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.Development` | build-observed |
+| M156643 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.ExpPowEq` | build-observed |
+| M156644 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.PrimeWeightedRemainderBound` | build-observed |
+| M156645 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeAbsorption.SizeDel` | build-observed |
+| M156646 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.BlockRowLe` | build-observed |
+| M156647 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.Development` | build-observed |
 | M156648 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.FirstCoordinateLeThreeScale` | build-observed |
 | M156649 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.Places` | build-observed |
 | M156650 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SizeCount.SizeFacts` | build-observed |
@@ -396,9 +402,3 @@
 | M157046 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.NablaOperatorBasis` | build-observed |
 | M157047 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StandardSlopeBound.StdSlopeLowOf` | build-observed |
 | M157048 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StrongApproximation.DedekindLFunctions` | wave-reused |
-| M157050 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StrongApproximation.LocSmall` | wave-reused |
-| M157052 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Blocks` | build-observed |
-| M157053 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.DeterminantFormIdentity` | build-observed |
-| M157054 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.Development` | build-observed |
-| M157055 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ExistsMulOfRangeLe` | volunteer-build-reviewed |
-| M157056 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SupportDatum.ModKUnitMul` | build-observed |

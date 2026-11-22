@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173598 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsMaximal` | wave-reused |
+| M173599 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsMinNorm` | wave-reused |
+| M173600 | P0170 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsPairs` | wave-reused |
+| M173601 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExistsShortRealSpan` | wave-reused |
+| M173602 | P0235 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.ExtProof` | wave-reused |
+| M173603 | P0677 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FibreParseval` | wave-reused |
 | M173604 | P0514 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FourierProjections.DetMEq` | wave-reused |
 | M173605 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FourierProjections.ExpNEllMem` | wave-reused |
 | M173606 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.FourierProjections.HfEqInner` | wave-reused |
@@ -396,9 +402,3 @@
 | M174023 | P1141 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.DatumIrr` | wave-reused |
 | M174024 | P1500 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.DiscreteSeriesUniqueLargeGap` | build-observed |
 | M174025 | P1083 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.EqZeroOfDatumEmbeddingEqZero` | wave-reused |
-| M174026 | P1418 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.EquivSigLamOfIsDS` | wave-reused |
-| M174027 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.ExistsKhwGenSubOfKType` | wave-reused |
-| M174028 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FinalA` | build-observed |
-| M174030 | P1297 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FinalExists` | build-observed |
-| M174031 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FormulaF` | wave-reused |
-| M174032 | P1191 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.FormulaFA` | wave-reused |

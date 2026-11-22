@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148940 | P1662 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescFOfValRatF` | build-observed |
+| M148941 | P1137 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NpDescOfValRat` | build-observed |
+| M148942 | P1077 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ProdMemSpan` | build-observed |
+| M148944 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecAct` | build-observed |
+| M148945 | P1239 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.RecThm` | build-observed |
+| M148947 | P1211 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.SpanImageOfSurj` | build-observed |
 | M148948 | P1163 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.TiedRec` | build-observed |
 | M148949 | P0911 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValRat` | build-observed |
 | M148950 | P1021 | `Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.ValUniqOf` | build-observed |
@@ -396,9 +402,3 @@
 | M149578 | P0858 | `Formalism.LocalToGlobal.IndefiniteReal.RationalAdjoints.RatZOfTests` | build-observed |
 | M149579 | P1077 | `Formalism.LocalToGlobal.IndefiniteReal.RationalEmbedding` | build-observed |
 | M149580 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.RealPins` | build-observed |
-| M149581 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.RealRec` | build-observed |
-| M149582 | P1899 | `Formalism.LocalToGlobal.IndefiniteReal.RealRecPins` | build-observed |
-| M149587 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOK` | build-observed |
-| M149588 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOKg` | build-observed |
-| M149589 | P1390 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.FramesOKg2` | build-observed |
-| M149594 | P1188 | `Formalism.LocalToGlobal.IndefiniteReal.RealSeparation.NormFr` | build-observed |

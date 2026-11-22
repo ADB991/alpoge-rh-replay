@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143109 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.ClosedOrbitPieces.TrOrbB` | volunteer-build-reviewed |
+| M143112 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.ClosedOrbitPieces.TwFin` | volunteer-build-reviewed |
+| M143115 | P1732 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.PieceGood` | volunteer-build-reviewed |
+| M143116 | P1809 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.ContinuousEF` | volunteer-build-reviewed |
+| M143117 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FbExists` | volunteer-build-reviewed |
+| M143118 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FibVanPull` | volunteer-build-reviewed |
 | M143119 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FiniteCharpoly` | volunteer-build-reviewed |
 | M143120 | P1853 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.FinrankImg` | volunteer-build-reviewed |
 | M143121 | P1809 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.FiniteDimensionalDescent.RestrictedCharpolys.IsClosedCharpolyEq` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M144066 | P0210 | `Formalism.BehrendSets.BehrendVariance.ProdDimVNeZero` | build-observed |
 | M144067 | P0146 | `Formalism.BehrendSets.BehrendVariance.Select` | build-observed |
 | M144068 | P0210 | `Formalism.BehrendSets.BehrendVariance.SpaceFreeOfBehrendFree` | build-observed |
-| M144069 | P0210 | `Formalism.BehrendSets.BehrendVariance.TotientLeOfIsPrimitiveRoot` | build-observed |
-| M144070 | P0146 | `Formalism.BehrendSets.BehrendVariance.TwoLeCastOfTwoLe` | build-observed |
-| M144071 | P0146 | `Formalism.BehrendSets.BehrendVariance.TwoPowDvdPowTwoPowSubOne` | build-observed |
-| M144072 | P0270 | `Formalism.BehrendSets.FinalE` | build-observed |
-| M144073 | P0068 | `Formalism.BehrendSets.Statement` | volunteer-build-reviewed |
-| M144074 | P0146 | `Formalism.BehrendSets.StatementE` | build-observed |

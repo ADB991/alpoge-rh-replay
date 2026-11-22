@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155751 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.MulVecSpanStable` | build-observed |
+| M155752 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCAsmM` | build-observed |
+| M155753 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCAsmV` | build-observed |
+| M155754 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCDefs` | build-observed |
+| M155755 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCHeisC` | build-observed |
+| M155756 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.NCIface` | build-observed |
 | M155757 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.RatVMemSpan` | build-observed |
 | M155758 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.SemiAlg` | build-observed |
 | M155759 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelSplitting.SemiGen` | build-observed |
@@ -396,9 +402,3 @@
 | M156207 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.HighestWeightVectorUnique` | volunteer-build-reviewed |
 | M156208 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.JacRev` | volunteer-build-reviewed |
 | M156209 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.JacobiMinorIdentity` | volunteer-build-reviewed |
-| M156210 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.MnrUpdateEqZero` | volunteer-build-reviewed |
-| M156212 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.RevColOneTranspose` | volunteer-build-reviewed |
-| M156213 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.TransvectionMulApply` | volunteer-build-reviewed |
-| M156214 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.ConstantCoeffZeroOfBoundGeneral` | build-observed |
-| M156215 | P0886 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.JetTdegEqDegree` | build-observed |
-| M156216 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OrbitJetDegreeBound.ProdMonomialOne` | build-observed |

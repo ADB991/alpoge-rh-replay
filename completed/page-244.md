@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160164 | P1392 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CoarseLabelFactorisation` | build-observed |
+| M160165 | P1215 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ColumnConditionsOfNumericBounds` | build-observed |
+| M160166 | P1167 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.ColumnWordReductionOfFour` | build-observed |
+| M160167 | P1269 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.CountFromEqFilterLength` | build-observed |
+| M160168 | P1558 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscPowerMonomialDegreeAtW` | build-observed |
+| M160169 | P1530 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscPowerMonomialMemSupported` | build-observed |
 | M160170 | P1500 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscPowerTimesMonomial` | build-observed |
 | M160171 | P1347 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscriminantMultihomogeneous` | build-observed |
 | M160172 | P1111 | `Formalism.SharpRestriction.GrowthBounds.SegmentDegree.DiscriminantNeZeroOfResidueNeZero` | build-observed |
@@ -396,9 +402,3 @@
 | M160709 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.CrysOnCond` | volunteer-build-reviewed |
 | M160712 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.GaloisConditionFiveExtraOf` | build-observed |
 | M160714 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.InvariantsConstantConditions` | build-observed |
-| M160715 | P0751 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.IrreducibilityOfTheoremThree` | build-observed |
-| M160716 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.IsTwistedDualOfGaloisRep` | build-observed |
-| M160719 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointCondH0W` | build-observed |
-| M160720 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointConditionTame` | build-observed |
-| M160721 | P0833 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.JointConditionTameBound` | build-observed |
-| M160722 | P0860 | `Formalism.SharpRestriction.LevelLetterCocycles.JointConditionsZpowers.KsMono` | build-observed |

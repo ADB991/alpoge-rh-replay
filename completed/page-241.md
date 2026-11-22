@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158903 | P0750 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountStmt` | build-observed |
+| M158904 | P0777 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountSurj` | build-observed |
+| M158905 | P0606 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ClassCountWaLat` | build-observed |
+| M158906 | P1166 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.CombBound4Of` | build-observed |
+| M158907 | P1080 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ConclOfHyp` | build-observed |
+| M158909 | P1214 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsCoeffOfMemSpan` | build-observed |
 | M158910 | P1166 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsGlobalFamilyQuotientBounded` | build-observed |
 | M158911 | P1214 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsGlobalFamilyZeroChoice` | build-observed |
 | M158912 | P1214 | `Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.ExistsIrreducibleLocToCompl` | build-observed |
@@ -396,9 +402,3 @@
 | M159347 | P1557 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Loc4DivOf` | build-observed |
 | M159348 | P1585 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.Loc4ResOfLine` | build-observed |
 | M159349 | P1321 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.LogLeOfLeSq` | build-observed |
-| M159350 | P1370 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.MemIntPolOfCoeff` | build-observed |
-| M159351 | P1370 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.MulMatQOne` | build-observed |
-| M159352 | P1499 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.OPlusAtOf` | build-observed |
-| M159353 | P1557 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.OtherEFree` | build-observed |
-| M159354 | P1417 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.PairedLiftAtOfIdentity` | build-observed |
-| M159355 | P1321 | `Formalism.SharpRestriction.GrowthBounds.CoarseMultiplicity.PolyUpperBoundDelta` | build-observed |

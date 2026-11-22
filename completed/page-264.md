@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171549 | P0089 | `ReciprocityTheory.Chebotarev.CrossRes` | volunteer-build-reviewed |
+| M171550 | P0167 | `ReciprocityTheory.Chebotarev.CycOrth` | volunteer-build-reviewed |
+| M171551 | P0089 | `ReciprocityTheory.Chebotarev.CycStatement` | volunteer-build-reviewed |
+| M171552 | P0167 | `ReciprocityTheory.Chebotarev.CycTail` | volunteer-build-reviewed |
+| M171553 | P0089 | `ReciprocityTheory.Chebotarev.CyclotomicIrreducibleOfForallIsUnramifiedAt` | volunteer-build-reviewed |
+| M171554 | P0233 | `ReciprocityTheory.Chebotarev.DiscreteTopologyLatOf` | volunteer-build-reviewed |
 | M171555 | P0167 | `ReciprocityTheory.Chebotarev.EulerFac` | volunteer-build-reviewed |
 | M171556 | P0233 | `ReciprocityTheory.Chebotarev.EulerFin` | volunteer-build-reviewed |
 | M171557 | P0289 | `ReciprocityTheory.Chebotarev.EulerLim` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M172051 | P0646 | `ReciprocityTheory.L2DbarEstimates.LeviForms.ImportsAlt` | wave-reused |
 | M172052 | P0703 | `ReciprocityTheory.L2DbarEstimates.LeviForms.IntegrableWd` | wave-reused |
 | M172053 | P0580 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LocalExtensionEqMulJacobian` | wave-reused |
-| M172054 | P0547 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LocallyCompactSpaceOfIsLocalHomeomorph` | wave-reused |
-| M172055 | P0646 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogLevi` | wave-reused |
-| M172056 | P0613 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogLeviA` | wave-reused |
-| M172057 | P0290 | `ReciprocityTheory.L2DbarEstimates.LeviForms.LogNormSq` | wave-reused |
-| M172058 | P0646 | `ReciprocityTheory.L2DbarEstimates.LeviForms.MacofFderivApplyContDiffOn` | wave-reused |
-| M172059 | P0233 | `ReciprocityTheory.L2DbarEstimates.LeviForms.OfRealNormSqSumMul` | wave-reused |
