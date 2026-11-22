@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutPsiFlag",
+  "source_sha256": "00ef7dec336be979004a24f52105176bc0c91064d1d54adbd627261f04834491",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: replace removed MvPolynomial.coeff with dot-notation (.coeff) inside the proof of RestCutPsiFlag.proof (definitionally identical coefficient operation on MvPolynomial).",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}
