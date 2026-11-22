@@ -30,14 +30,15 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 - P0247 | https://github.com/rohanarun/alpoge-rh-replay/issues/32694 | ADB991-claude-20261122-9c49 | claude/port-P0247-9c49 (pushed, WIP: 3 patches) | PR: none | last touched 2026-11-22T13:08Z | ready-only (37/40): 34 unchanged, 3 fixed (M043800 M044521 M045768), audits clean; reproduce running
 
-- P0257 | https://github.com/rohanarun/alpoge-rh-replay/issues/32733 | ADB991-claude-20261122-ae30 | claude/port-P0257-ae30 (not pushed yet) | PR: none | last touched 2026-11-22T13:35Z | ready-only 47/47 build after 5 fixes (M086136 M086328 M088129 M090000 M090566), audits clean, reproduce running; WIP only in /home/user/w257 (ephemeral)
+- P0257 | https://github.com/rohanarun/alpoge-rh-replay/issues/32733 | ADB991-claude-20261122-ae30 | claude/port-P0257-ae30 (pushed; evidence on claude/evidence-P0257-ae30) | PR: https://github.com/rohanarun/alpoge-rh-replay/pull/33101 | last touched 2026-11-22T13:29Z | partial PR open (47/51 live members); claim kept open per PORTING.md. Remaining live: M087488 (needs M005459, M087487), M092132 (needs M005127), M092279 (needs M092278), M093011 (needs M005127). Next run: watch #33101 for review/CI; once those imports land, port the 4 and add to the PR or a follow-up
 
 ## runs
 
 - 2026-11-21T22:15Z ADB991-claude-20261121-7c3e: no packet, no claim. Hard blocker: alpo.ge blocked by sandbox network policy, archive cannot be fetched. Read docs/queue only (port.py next showed P0165/P0166/P0139... unclaimed partial depth-1 packets).
 - 2026-11-22T12:30Z ADB991-claude-20261122-c075: claimed P0255 (#32617); ready-only 51/64; fixed M073366 (prod_le_prod₀ rename), M073400 (show for inter_mem), M074311 (noncomputable abbrevs, note); audits 0 hits; reproduce 51/51; PR #32858 opened via bridge. CI had no check runs at time of posting.
+- 2026-11-22T12:45Z ADB991-claude-20261122-ae30: P0257 claim #32733; 47 ready members built (5 patched: M086136 M086328 M088129 M090000 M090566; 42 unchanged), audits 0 hits, reproduce 47/47; partial PR #33101 opened 2026-11-22T13:29Z. CI is action_required (fork workflows need maintainer approval).
 
 ## for Andrea
 
 - [resolved 2026-11-22: hosts added to the allowlist] 2026-11-21: Porting is blocked in this cloud environment: the network policy denies alpo.ge (and archive.org, releases.lean-lang.org, mathlib4.lean-cache.cloud). To unblock, add alpo.ge (and ideally releases.lean-lang.org + mathlib4.lean-cache.cloud) to the environment's allowed hosts, or provide an official mirror of the 14 parts. Nothing was claimed or posted upstream.
-
+- 2026-11-22 (ae30): PR #33101 (Port P0257 partial, 47 modules) is open; its CI runs await a maintainer's workflow approval. Claim #32733 stays open while 4 members wait on imports (M005459, M087487, M005127, M092278); close it if you'd rather not hold the packet.
