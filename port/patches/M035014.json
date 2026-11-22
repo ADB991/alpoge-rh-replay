@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckePhiFourierTransformZeroEq",
+  "source_sha256": "84b01b32f563b4ce316caabdb016f64f692fe7b89b75abbb5985ee545fcc371c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/rahulsundar477-star/alpoge-rh-replay/releases/download/port-P0181-lean436-20261122/P0181-receipt.json"
+}

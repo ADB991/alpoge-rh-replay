@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeOfIsIntegrallyClosed",
+  "source_sha256": "ac1fdab7d9ff213ae850e022e1ddccf744f338846000a13bda0abcf2d7941ec3",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/rahulsundar477-star/alpoge-rh-replay/releases/download/port-P0181-lean436-20261122/P0181-receipt.json"
+}
