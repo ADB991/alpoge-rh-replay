@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterFibB",
+  "source_sha256": "ad7fd442513eb31730e1f2cd04228fe26e7e09574dfc43594a2f30971d256a18",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff was removed, so the proof writes f.coeff m and ψ.coeff ab.2 for coeff m f and coeff ab.2 ψ, and MvPolynomial.totalDegree_finset_sum is now totalDegree_finsetSum. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

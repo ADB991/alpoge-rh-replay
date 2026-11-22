@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.AlgebraicIndependentResidueOfIsUnit",
+  "source_sha256": "2fab75879a7a9d65e26c698a85644bc69c2fb275f7650254af95f93e8bab24cd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Cardinal.nat_lt_aleph0 is now Cardinal.natCast_lt_aleph0, which takes the natural number implicitly. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}
