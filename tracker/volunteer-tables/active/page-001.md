@@ -78,16 +78,3 @@
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M072716](https://github.com/rohanarun/alpoge-rh-replay/issues/32929) | Claimed |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M153770](https://github.com/rohanarun/alpoge-rh-replay/issues/32930) | Claimed |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M120554](https://github.com/rohanarun/alpoge-rh-replay/issues/32931) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M064461](https://github.com/rohanarun/alpoge-rh-replay/issues/32985) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M064486](https://github.com/rohanarun/alpoge-rh-replay/issues/32987) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M064490](https://github.com/rohanarun/alpoge-rh-replay/issues/32988) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099369](https://github.com/rohanarun/alpoge-rh-replay/issues/32990) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099415](https://github.com/rohanarun/alpoge-rh-replay/issues/32991) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099481](https://github.com/rohanarun/alpoge-rh-replay/issues/32992) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099621](https://github.com/rohanarun/alpoge-rh-replay/issues/32993) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099634](https://github.com/rohanarun/alpoge-rh-replay/issues/32994) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099695](https://github.com/rohanarun/alpoge-rh-replay/issues/32995) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099709](https://github.com/rohanarun/alpoge-rh-replay/issues/32996) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099742](https://github.com/rohanarun/alpoge-rh-replay/issues/32997) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099761](https://github.com/rohanarun/alpoge-rh-replay/issues/32998) | Claimed |
-| [@JamCh01](https://github.com/JamCh01) | [M099899](https://github.com/rohanarun/alpoge-rh-replay/issues/32999) | Claimed |
