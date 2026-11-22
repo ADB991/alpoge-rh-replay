@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential",
+  "source_sha256": "22bd9a3aa1ded86ee01688040473bc3cf75bdf5c7f127cca435cf3bd3859cb49",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: three `ContDiffOn.mono` calls get the target set `(t := (A.chart j).target ∩ (A.chart j).symm ⁻¹' _)` explicitly, because v4.36.0 elaborates the subset callback `fun y hy => ⟨hy.1, ...⟩` before that set is inferred (Invalid projection). Statements unchanged.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0289-lean436-20261122-b/P0289-receipt.json"
+}

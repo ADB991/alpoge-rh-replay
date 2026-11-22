@@ -1,0 +1,21 @@
+--- a/src/ReciprocityTheory/AnalyticForms/PotentialTheory/ContDiffFubiniStudyRatioCompChart0.lean
++++ b/src/ReciprocityTheory/AnalyticForms/PotentialTheory/ContDiffFubiniStudyRatioCompChart0.lean
+@@ -442,7 +442,7 @@
+   · exact h1.contDiffOn
+ 
+ private theorem contDiff_fsQ' : ContDiff ℝ (⊤ : ℕ∞) fsQ :=
+-  (contDiff_norm_sq ℂ).comp (contDiff_apply ℝ ℂ (0 : Fin 1))
++  (contDiff_norm_sq ℂ).comp (contDiff_apply ℝ (fun _ : Fin 1 => ℂ) (0 : Fin 1))
+ 
+ theorem contDiff_fubiniStudyRatio_comp_chart0 : ContDiff ℝ (⊤ : ℕ∞) (fsH ∘ projectiveLineChartAtZero.symm) := by
+   rw [fsH_chart0]
+@@ -495,7 +495,8 @@
+     have hc : ContinuousAt crd1 ∞ :=
+       (continuousOn_infiniteCoord ∞ (OnePoint.infty_ne_coe 0)).continuousAt hU
+     refine ContinuousAt.congr (f := fun x => 1 / (1 + ‖crd1 x‖ ^ 2)) ?_ ?_
+-    · exact continuousAt_const.div (continuousAt_const.add (hc.norm.pow 2)) (by positivity)
++    · exact continuousAt_const.div (continuousAt_const.add (hc.norm.pow 2)) 
++        (by positivity : (1 : ℝ) + ‖crd1 ∞‖ ^ 2 ≠ 0)
+     · filter_upwards [hU] with x hx using (fsH_eq_one_div_one_add_norm_sq_of_ne_zero hx).symm
+   | coe z =>
+     have hU : Set.range ((↑) : ℂ → OnePoint ℂ) ∈ 𝓝 (z : OnePoint ℂ) :=
