@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.TruncatedSeriesCounting.LemmaDetPoly",
+  "source_sha256": "0f7fd9f51a36b30b27afb62ffe163e3ef9e814981f74dcb057d7e660403f14bf",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the coefficient projection on the determinant with an explicit multivariate polynomial type."
+}

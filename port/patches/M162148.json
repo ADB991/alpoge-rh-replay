@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.YangianSpanCharacter.StatementB",
+  "source_sha256": "40551d9309bbdd8134af157241c608ac1b258299fa7f6c8cdb02956f6c6b12fd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}
