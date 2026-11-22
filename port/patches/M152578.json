@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.LocalToGlobal.SiegelLatticeTheory.TraceIntegralEstimates.EnergyAbsInt",
+  "source_sha256": "fb1e9d29fe6ab4a2dcaa59c39da25c20ab85e38574ddbe73c2f5970cd94036a6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0274-lean436-20261122-b/P0274-receipt.json"
+}

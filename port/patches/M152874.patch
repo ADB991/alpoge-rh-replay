@@ -1,0 +1,16 @@
+--- a/src/Formalism/LocalToGlobal/TorsionIntegrality/QuadraticSemicharacters/CayleyGaussianIntegrals/LocalComponentGL.lean
++++ b/src/Formalism/LocalToGlobal/TorsionIntegrality/QuadraticSemicharacters/CayleyGaussianIntegrals/LocalComponentGL.lean
+@@ -143,11 +143,11 @@
+         rw [hG]; exact semiChar_mul_opU_const_mul_sumU H α S F _ y z
+     _ = ((Real.sqrt (relIdx Λ₁ Λ₂) : ℝ) : ℂ)⁻¹ *
+           ∑ x ∈ S, α (y + x) * opU H (y + x) F z := by
+-        congr 1
++        refine congrArg (fun u : ℂ => ((Real.sqrt (relIdx Λ₁ Λ₂) : ℝ) : ℂ)⁻¹ * u) ?_
+         exact Finset.sum_congr rfl fun x hx => h V H hH Λ₂ α hα y hy x (hS.1 x hx) F z
+     _ = ((Real.sqrt (relIdx Λ₁ Λ₂) : ℝ) : ℂ)⁻¹ *
+           sumU H α (S.image (fun x => y + x)) F z := by
+-        congr 1
++        refine congrArg (fun u : ℂ => ((Real.sqrt (relIdx Λ₁ Λ₂) : ℝ) : ℂ)⁻¹ * u) ?_
+         unfold sumU
+         rw [Finset.sum_image]
+         intro a _ b _ hab

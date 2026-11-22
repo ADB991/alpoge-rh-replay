@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.LogVandermondeBounds.LogVandermondeProofs.UpperPlaceHolds",
+  "source_sha256": "fefa48435b1308cbc7b7e878d7c6323d8aca6b5ed53b7b4062e4df5cf8d1513d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change. Use Finset.prod_le_prod₀ in the original product comparisons, with the same nonnegativity and factor bounds.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0274-lean436-20261122-b/P0274-receipt.json"
+}

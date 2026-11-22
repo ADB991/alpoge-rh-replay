@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.LocalToGlobal.ProjectiveLattices.TensPtsSt",
+  "source_sha256": "8e23f8f6b4d1a73ce77b5ebcd7e9e03887e9e45f57dec5b112c9b3d8e68d164d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0274-lean436-20261122-b/P0274-receipt.json"
+}
