@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AverageInvariantRightTranslationStatement",
+  "source_sha256": "3de1ad477e68db1342f12074b0ca11672c8fdcd10a7e8a8d1d270de8a2ba2f2d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

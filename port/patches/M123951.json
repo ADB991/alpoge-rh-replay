@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeightBoundStatementStatement",
+  "source_sha256": "f1ce8dab127edc4d44220adadc8f00a4dc084460e168f354eb666783c2a62c80",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

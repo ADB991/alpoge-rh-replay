@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CardFunctionalsVanishingSubspaceStatement",
+  "source_sha256": "0db36e6a1125c3c92bfb21f11770a528c3efd74d926ce615251f761070d771f2",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

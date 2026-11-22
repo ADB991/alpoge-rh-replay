@@ -1,0 +1,19 @@
+--- a/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/ExistsSchwartzBruhatCharacterIntegralOne.lean
++++ b/src/Development/AutomorphicSpectrum/Proofs/BlockDecomposition/ExistsSchwartzBruhatCharacterIntegralOne.lean
+@@ -41,6 +41,7 @@
+   rw [div_lt_iff₀ hd] at hn
+   linarith
+ 
++open scoped Pointwise in
+ theorem exists_compact_open_subgroup_trivial {G : Type} [Group G] [TopologicalSpace G]
+     [IsTopologicalGroup G] [T2Space G] [LocallyCompactSpace G] [TotallyDisconnectedSpace G]
+     (χ : G →* ℂˣ) (hχ : Continuous (fun g => (χ g : ℂ))) :
+@@ -53,7 +54,7 @@
+   obtain ⟨N, hNc, hN1⟩ := exists_compact_mem_nhds (1 : G)
+   have hW : interior N ∩ V ∈ 𝓝 (1 : G) :=
+     Filter.inter_mem (interior_mem_nhds.mpr hN1) (hVo.mem_nhds h1V)
+-  obtain ⟨s, hs, h1s, hsW⟩ := (loc_compact_Haus_tot_disc_of_zero_dim (H := G)).mem_nhds_iff.mp hW
++  obtain ⟨s, hs, h1s, hsW⟩ := (loc_compact_Haus_tot_disc_of_zero_dim (X := G)).mem_nhds_iff.mp hW
+   have hsclo : IsClopen s := hs
+   have hsc : IsCompact s :=
+     hNc.of_isClosed_subset hsclo.isClosed

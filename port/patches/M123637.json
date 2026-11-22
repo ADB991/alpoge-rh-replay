@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GaussianTubeTransformBoundStatement",
+  "source_sha256": "b2faa28870dec624ebaed528a43ce6100b1f91f425773007db6da5b22bce7245",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

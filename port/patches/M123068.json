@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExponentialFourierIntegralBoundStatement",
+  "source_sha256": "2d07fed7a4b9b7c0ed597ef30b4e07fe5bb2e552522015c85c6a7ec3f5148aee",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}
