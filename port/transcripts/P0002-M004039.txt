@@ -1,0 +1,9 @@
+== archive: all 14 parts match parts.sha256
+== sources: all 1 packet and 0 import source hashes match
+== toolchain: Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release); Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+== patch M004039: patching file src/Development/AbelianVarietyTheory/Definitions/Foundations/ExistsFinsetOfEventually.lean
+== build: lake --no-cache build +<Module>:olean for each of 1 modules
+M004039 Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFinsetOfEventually exit=0 18.3s
+    ⚠ [18250/18250] Built Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFinsetOfEventually (7.9s)
+    Build completed successfully (18250 jobs).
+== done: 1 of 1 modules built

@@ -1,0 +1,37 @@
+{
+  "target": "M004039",
+  "issue": "https://github.com/rohanarun/alpoge-rh-replay/issues/31406",
+  "toolchain": "Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release)",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "started_utc": "2026-11-22T09:40:32.044990+00:00",
+  "ended_utc": "2026-11-22T09:43:18.640162+00:00",
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 32837804,
+    "peak_child_rss_kib": 7025032
+  },
+  "command": "lake --no-cache build +<Module>:olean, one run per module, in a fresh tree from the pinned archive plus port patches",
+  "patches": [
+    {
+      "id": "M004039",
+      "role": "target",
+      "patch_sha256": "fbdb620dc09f836660fc4c83ea6455ee37ac5db5c8760203d12259e3f1063015"
+    }
+  ],
+  "build_log_sha256": "2eb87c495ee06e8d5937b46934428537ce66794224705931e9a8702855535679",
+  "modules": [
+    {
+      "id": "M004039",
+      "module": "Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFinsetOfEventually",
+      "source_sha256": "40a4c5e4c9dcfc7faf27048e3c8d15b3be28b8634795f479e9d434729eb0fc5e",
+      "patch_sha256": "fbdb620dc09f836660fc4c83ea6455ee37ac5db5c8760203d12259e3f1063015",
+      "built_source_sha256": "1bfda0d4456cb56b801542f60fa5592e00ba685e6fe421ced2303b76c6e47709",
+      "olean_sha256": "7bbb4734c6fb76ba58d8ba78b667212cf64c9de97554a595da0cbbcbe8b96b91",
+      "log_sha256": "3a71a4788b55e97985d8eebe20ee2d508e9c6fd6e27e9a64da56a08a4a8c8a70",
+      "exit_code": 0,
+      "seconds": 18.3
+    }
+  ],
+  "remaining": []
+}
