@@ -1,0 +1,46 @@
+--- a/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/AlgebraicElementHomogRelation.lean
++++ b/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/AlgebraicElementHomogRelation.lean
+@@ -63,8 +63,8 @@
+ theorem cone_form (y : (Σ k, ι k) → Ω) {h : MRing ι} {d : K → ℕ} (hh : IsMultiHomog h d) :
+     mConeMap y h = MvPolynomial.C (aeval y h) * ∏ k, (X k : MvPolynomial K Ω) ^ d k := by
+   classical
+-  have key : ∀ v ∈ h.support, mConeMap y (monomial v (coeff v h)) =
+-      MvPolynomial.C (aeval y (monomial v (coeff v h))) * ∏ k, (X k : MvPolynomial K Ω) ^ d k := by
++  have key : ∀ v ∈ h.support, mConeMap y (monomial v (h.coeff v)) =
++      MvPolynomial.C (aeval y (monomial v (h.coeff v))) * ∏ k, (X k : MvPolynomial K Ω) ^ d k := by
+     intro v hv
+     have hX : (v.prod fun p e => (X p.1 : MvPolynomial K Ω) ^ e) = ∏ k, (X k : MvPolynomial K Ω) ^ d k := by
+       rw [Finsupp.prod_fintype _ _ (fun _ => pow_zero _), Fintype.prod_sigma]
+@@ -73,7 +73,7 @@
+         MvPolynomial.C (v.prod fun p e => y p ^ e) * v.prod fun p e => (X p.1 : MvPolynomial K Ω) ^ e := by
+       rw [map_finsuppProd, ← Finsupp.prod_mul]
+       exact Finsupp.prod_congr fun p _ => by simp only [mul_pow, map_pow]
+-    show (aeval fun p => MvPolynomial.C (y p) * (X p.1 : MvPolynomial K Ω)) (monomial v (coeff v h)) = _
++    show (aeval fun p => MvPolynomial.C (y p) * (X p.1 : MvPolynomial K Ω)) (monomial v (h.coeff v)) = _
+     simp only [MvPolynomial.aeval_monomial]
+     rw [h1, hX, map_mul]
+     simp only [algebraMap_int_eq, eq_intCast, Int.coe_castRingHom, map_intCast]
+@@ -118,12 +118,12 @@
+   choose! g hg using hP
+   refine ⟨∑ j ∈ P.support, Polynomial.monomial j (g j), fun j => ?_, ?_⟩
+   · rw [Polynomial.finsetSum_coeff]
+-    simp only [Polynomial.coeff_monomial, Finset.sum_ite_eq']
++    simp only [Polynomial.coeff_monomial_apply, Finset.sum_ite_eq']
+     split_ifs with hj
+     · exact (hg j hj).1
+     · exact form_zero b
+   · ext n
+-    simp only [Polynomial.coeff_map, Polynomial.finsetSum_coeff, Polynomial.coeff_monomial,
++    simp only [Polynomial.coeff_map, Polynomial.finsetSum_coeff, Polynomial.coeff_monomial_apply,
+       Finset.sum_ite_eq', Polynomial.coeff_C_mul]
+     split_ifs with hn
+     · exact ((hg n hn).2).trans (mul_comm _ _)
+@@ -186,7 +186,7 @@
+       mCoordIdeal y := by
+     intro j
+     refine mem_of_aeval_eq_zero (hEh j) ?_
+-    have h2 := congrArg (fun p => Polynomial.coeff p j) hEm
++    have h2 := congrArg (fun p => AddMonoidAlgebra.coeff p j) hEm
+     simp only [Polynomial.coeff_map, Polynomial.coeff_zero] at h2
+     exact h2
+   refine ⟨M.natDegree, fun j => M.coeff j, b, H, b, hMh, hH, notMem_of_aeval_ne_zero hH hH0, ?_, ?_⟩

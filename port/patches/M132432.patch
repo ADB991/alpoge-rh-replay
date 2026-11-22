@@ -1,0 +1,10 @@
+--- a/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/WedgeEqSpanOfIsFrameAt.lean
++++ b/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/WedgeEqSpanOfIsFrameAt.lean
+@@ -32,6 +32,7 @@
+       have h2 := (exteriorPower.ιMulti Ω r (M := E)).toMultilinearMap.map_smul_univ
+         (fun i => (c i (f i) : Ω)) (fun i => b (f i))
+       refine h2.trans ?_
++      simp only [RingHom.id_apply]
+       have h3 : ((∏ i, c i (f i) : regAt ξ p) : Ω) = ∏ i, (c i (f i) : Ω) := by simp
+       rw [← h3]
+       rfl

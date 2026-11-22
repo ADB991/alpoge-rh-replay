@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.PolarizationPolynomialCoeffBoundStatement",
+  "source_sha256": "6c1d50456e04b9b73b8cc9f1462f500366559b582f8448d6523da8bc7aa42bb7",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Theorem statement changed in notation only: MvPolynomial is now an abbrev for AddMonoidAlgebra and the bare `coeff m Pl` no longer resolves, so it is written `Pl.coeff m`, the coefficient of monomial m in Pl. This is the same coefficient, and it matches exactly the statement of the imported polarisation_functional as ported upstream in M129318. The proof is unchanged.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}

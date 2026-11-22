@@ -1,0 +1,20 @@
+--- a/src/Development/AutomorphicSpectrum/Proofs/MembershipProofs/BoundMulTranslate.lean
++++ b/src/Development/AutomorphicSpectrum/Proofs/MembershipProofs/BoundMulTranslate.lean
+@@ -32,7 +32,7 @@
+     simp only [iteratedFDeriv_succ_apply_left]
+     rw [fderiv_continuousMultilinear_apply_const_apply (hd.clm_apply (differentiableAt_const _)),
+       fderiv_clm_apply hd (differentiableAt_const _), fderiv_clm_apply hd (differentiableAt_const _)]
+-    have hs := (hK.contDiffAt (x := a)).isSymmSndFDerivAt (by simp; norm_cast)
++    have hs := (hK.contDiffAt (x := a)).isSymmSndFDerivAt (by simp)
+     simp [hs.eq h (m 0)]
+ 
+ theorem taylor_iter {F : X → V} (hF : ContDiff ℝ ∞ F) (n : ℕ) (a h : X) {M : ℝ} (hM0 : 0 ≤ M)
+@@ -116,7 +116,7 @@
+     rw [e2]
+     refine (ContinuousMultilinearMap.norm_compContinuousLinearMap_le _ _).trans ?_
+     refine le_trans (mul_le_of_le_one_right (norm_nonneg _) ?_) h3
+-    exact Finset.prod_le_one (fun _ _ => norm_nonneg _) fun _ _ => ContinuousLinearMap.norm_inr_le_one _ _ _
++    exact Finset.prod_le_one₀ (fun _ _ => norm_nonneg _) fun _ _ => ContinuousLinearMap.norm_inr_le_one _ _ _
+   calc _ ≤ ‖x‖ ^ k * (C / ‖x‖ ^ k * ‖v‖ * ‖v‖) := by gcongr
+     _ = _ := by field_simp
+ 

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.GeometryProofs.AlgebraicElementHomogRelation",
+  "source_sha256": "8fa8d06a3ee829073bcece432a46ee86127b0903f3d3cac55bc776bf6d3eebc9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: `coeff v h` becomes `h.coeff v` (MvPolynomial coeff is now the AddMonoidAlgebra field), `Polynomial.coeff_monomial` becomes `Polynomial.coeff_monomial_apply` (the lemma with the old `if n = m then a else 0` shape) in two `simp only`s, and `Polynomial.coeff p j` in a congrArg becomes `AddMonoidAlgebra.coeff p j`.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}
