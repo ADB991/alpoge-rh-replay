@@ -1,0 +1,11 @@
+--- a/src/Formalism/PolynomialDimension/MultinomialDepth/DvdPowOfNotPowSuccDvd.lean
++++ b/src/Formalism/PolynomialDimension/MultinomialDepth/DvdPowOfNotPowSuccDvd.lean
+@@ -24,7 +24,7 @@
+   calc (1 - ∑ j ∈ s, κ j) * ∏ j ∈ s, d j ≤ (∏ j ∈ s, (1 - κ j)) * ∏ j ∈ s, d j :=
+         mul_le_mul_of_nonneg_right (hP s) hd0
+     _ = ∏ j ∈ s, ((1 - κ j) * d j) := Finset.prod_mul_distrib.symm
+-    _ ≤ ∏ j ∈ s, n j := Finset.prod_le_prod
++    _ ≤ ∏ j ∈ s, n j := Finset.prod_le_prod₀
+         (fun j _ => mul_nonneg (by linarith [(hκ j).2]) (hd j)) (fun j _ => h j)
+ 
+ theorem share_product_bound : ShareProd := by

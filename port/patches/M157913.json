@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PolynomialDimension.MultinomialDepth.SegmentBoundThreeHolds",
+  "source_sha256": "e7fcbef179bcdac9bfb7278669bc771d98c4cb71a4c257379b8a61e5e427c4df",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: sub_one_mul_padicValNat_factorial is now a deprecated alias of Nat.Prime.sub_one_mul_multiplicity_factorial, stated with `multiplicity`; the pinned padicValNat form is recovered with Nat.padicValNat_def. Also Polynomial.finset_sum_coeff was renamed Polynomial.finsetSum_coeff and Nat.digits_len was renamed Nat.length_digits.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

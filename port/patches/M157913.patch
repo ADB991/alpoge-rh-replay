@@ -1,0 +1,30 @@
+--- a/src/Formalism/PolynomialDimension/MultinomialDepth/SegmentBoundThreeHolds.lean
++++ b/src/Formalism/PolynomialDimension/MultinomialDepth/SegmentBoundThreeHolds.lean
+@@ -95,7 +95,8 @@
+     linarith
+   have hne : (p : ℝ) - 1 ≠ 0 := ne_of_gt hp1
+   have hS : (p.digits n).sum ≤ n := Nat.digit_sum_le p n
+-  have hleg := sub_one_mul_padicValNat_factorial (p := p) n
++  have hleg : (p - 1) * padicValNat p n.factorial = n - (p.digits n).sum := by
++    rw [Nat.padicValNat_def]; exact hp.sub_one_mul_multiplicity_factorial
+   have hreal : ((p : ℝ) - 1) * (padicValNat p n.factorial : ℝ) = (n : ℝ) - ((p.digits n).sum : ℝ) := by
+     have h1 : (((p - 1) * padicValNat p n.factorial : ℕ) : ℝ) = ((n - (p.digits n).sum : ℕ) : ℝ) := by
+       rw [hleg]
+@@ -119,7 +120,7 @@
+       rw [h00]
+       unfold lgSeg
+       exact mul_nonneg (by linarith [Real.logb_nonneg hp1' hY]) hp1.le
+-    · have hlen := Nat.digits_len p n hp2 (by omega)
++    · have hlen := Nat.length_digits p n hp2 (by omega)
+       have hsum : (p.digits n).sum ≤ (p.digits n).length * (p - 1) := by
+         have := List.sum_le_card_nsmul (p.digits n) (p - 1)
+           (fun x hx => by have := Nat.digits_lt_base hp2 hx; omega)
+@@ -487,7 +488,7 @@
+     refine (Polynomial.natDegree_prod_le _ _).trans ?_
+     calc ∑ i, (A (σ i) i).natDegree ≤ ∑ _i : Fin n, J := Finset.sum_le_sum fun i _ => hdeg (σ i) i
+       _ = n * J := by simp
+-  · rw [Polynomial.finset_sum_coeff, Finset.sum_eq_single 1]
++  · rw [Polynomial.finsetSum_coeff, Finset.sum_eq_single 1]
+     · rw [← Polynomial.C_eq_intCast, Polynomial.coeff_C_mul, hprod]
+       simp only [Equiv.Perm.sign_one, Units.val_one, Int.cast_one, one_mul, Equiv.Perm.one_apply]
+       exact Finset.prod_congr rfl fun i _ => by rw [hcoeff]; simp

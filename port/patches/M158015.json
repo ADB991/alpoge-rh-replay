@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.RealPlaceAnalysis.RealPlaceTaylor.CharId",
+  "source_sha256": "5c3967190f0e487519ac2aa9ea8e8d1c7185eaa26f604cc410de4e03eba92d65",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: natDegree_finset_prod_X_sub_C_eq_card was renamed natDegree_finsetProd_X_sub_C_eq_card.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}
