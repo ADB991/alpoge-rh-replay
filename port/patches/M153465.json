@@ -1,0 +1,7 @@
+{
+ "module": "Formalism.PeriodIntegrals.BordInv",
+ "source_sha256": "3bea4c9d606792a0537fc049239545126c792c04fe9b604613515cb599a8db0f",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
