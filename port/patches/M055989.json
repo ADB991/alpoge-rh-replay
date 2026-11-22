@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeierstrassPTwoMulMulSq",
+  "source_sha256": "fcd4f18bef580080777d8cb4d786c366ef450490b51e7fcf7918661748c9dd62",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0186-lean436-20261122/P0186-receipt.json"
+}

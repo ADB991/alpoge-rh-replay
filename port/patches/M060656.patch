@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/ConstantCoeffEv.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/ConstantCoeffEv.lean
+@@ -71,7 +71,7 @@
+   simp
+ 
+ theorem pderiv_ev {a : Fin m → Pt k n d} (ha : CZ a) (f : PS k m d) (v : Fin n × Fin d) :
+-    pderiv k v (ev a f) = ∑ p : Fin m × Fin d, ev a (pderiv k p f) * pderiv k v (a p.1 p.2) := by
++    pderiv v (ev a f) = ∑ p : Fin m × Fin d, ev a (pderiv p f) * pderiv v (a p.1 p.2) := by
+   unfold ev
+   exact pderiv_subst (a := fun p : Fin m × Fin d => a p.1 p.2) (fun p => ha p.1 p.2) f v
+ 

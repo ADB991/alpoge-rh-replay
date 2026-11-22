@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/ConstantCoeffPrim.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/FormalGroupCharts/ConstantCoeffPrim.lean
+@@ -28,7 +28,7 @@
+   exact Finset.sum_subset (Finset.subset_univ _) (fun w _ hw => by simpa using hw)
+ 
+ theorem pderiv_prim (ω : τ → MvPowerSeries τ k)
+-    (hω : ∀ a c, pderiv k c (ω a) = pderiv k a (ω c)) (v : τ) : pderiv k v (prim ω) = ω v := by
++    (hω : ∀ a c, pderiv c (ω a) = pderiv a (ω c)) (v : τ) : pderiv v (prim ω) = ω v := by
+   ext n
+   rw [coeff_pderiv, coeff_prim]
+   have hterm : ∀ w, ((n v : k) + 1) *
