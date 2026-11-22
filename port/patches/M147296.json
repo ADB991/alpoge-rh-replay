@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianLattices.StatementTheta",
+  "source_sha256": "022656a7cda6cd623c61421f65b2b455cdf90dcc702a4571e859588d00e2a3c1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "ThetaSummable now uses Submodule.IsFullLattice for L. Since K is the fraction field of its ring of integers, Submodule.IsLattice.of_fg supplies the new independence field from finite generation, leaving exactly the pinned finite-generation and full-span conditions.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

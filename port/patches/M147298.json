@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HyperbolicPlaceProducts.ArithmeticCountRevised",
+  "source_sha256": "b5db2881a42897541af9b429a7fcce9c48510b6445e331d687eaaccf3ccd0617",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

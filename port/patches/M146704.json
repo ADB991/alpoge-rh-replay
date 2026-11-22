@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelCoefficients",
+  "source_sha256": "b5f4880b1078dcc1a7eab0d47b2535d279dd7298641b943e46ace7e2f28f10e2",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change to use Finset.prod_le_prod₀ for the same pointwise bound on nonnegative factors.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

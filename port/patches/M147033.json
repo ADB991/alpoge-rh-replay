@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.HermitianCurvatureProofs.SubmoduleMultiplication",
+  "source_sha256": "ea15890ae0daf1253ec730df9d1d3444186ee83a38790c7057922bd091b075d8",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only adaptation to IsCompact.elim_directed_family_closed, which now takes and returns disjointness. Set.disjoint_left expresses the same absence of a point in both sets as the pinned empty-intersection formulation.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}
