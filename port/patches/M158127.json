@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.RationalPointsLeHolds",
+  "source_sha256": "d4fbdaded09c1541bf08231a1f054faa3995fcd46956ddcf11e38333441c743d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}

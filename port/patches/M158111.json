@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.GlintPrincRelIndexNeZero",
+  "source_sha256": "da1022da6833219c90566ad2ca1180d4b7fe1dee26e9e9f1695d31ad771b31cd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}

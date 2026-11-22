@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Actions",
+  "source_sha256": "2cc25de69d59c9ce1b280cf1062c036e6e5d963ae8fbb74e9dc61da18db5c7ff",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}

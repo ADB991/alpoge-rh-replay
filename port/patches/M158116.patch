@@ -1,0 +1,40 @@
+--- a/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Heckebasic.lean
++++ b/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Heckebasic.lean
+@@ -162,8 +162,8 @@
+ 
+ theorem mk_out_dc (K : Subgroup G) (g : G) :
+     ∃ a b : K, Quotient.out (DoubleCoset.mk K K g) = (a : G) * g * b := by
+-  obtain ⟨a, ha, b, hb, e⟩ := (DoubleCoset.eq K K g (Quotient.out (DoubleCoset.mk K K g))).1
+-    (DoubleCoset.out_eq' K K _).symm
++  obtain ⟨a, ha, b, hb, e⟩ := (DoubleCoset.eq (H := K) (K := K) (a := g) (b := Quotient.out (DoubleCoset.mk K K g))).1
++    (DoubleCoset.out_eq' (DoubleCoset.mk K K g)).symm
+   exact ⟨⟨a, ha⟩, ⟨b, hb⟩, e⟩
+ 
+ theorem biInv_mk_out {k : Type} (K : Subgroup G) (f : G → k) (hf : IsBiInv K f) (g : G) :
+@@ -178,8 +178,8 @@
+     refine (S.finite_toSet.image (DoubleCoset.mk K K)).subset ?_
+     intro c hc
+     obtain ⟨s, hs, a, b, e⟩ := hS (Quotient.out c) hc
+-    exact ⟨s, hs, ((DoubleCoset.eq K K s (Quotient.out c)).2 ⟨a, a.2, b, b.2, e⟩).trans
+-      (DoubleCoset.out_eq' K K c)⟩)
++    exact ⟨s, hs, ((DoubleCoset.eq (H := K) (K := K) (a := s) (b := Quotient.out c)).2 ⟨a, a.2, b, b.2, e⟩).trans
++      (DoubleCoset.out_eq' c)⟩)
+ 
+ theorem toFs_apply (k : Type) [CommRing k] (K : Subgroup G) (f : Hecke k K) (c : ClassSet K K) :
+     toFs k K f c = (f : G → k) (Quotient.out c) := rfl
+@@ -187,12 +187,12 @@
+ def ofFs (k : Type) [CommRing k] (K : Subgroup G) (c : ClassSet K K →₀ k) : Hecke k K :=
+   ⟨fun g => c (DoubleCoset.mk K K g), by
+     refine ⟨fun a b g => ?_, ?_⟩
+-    · exact congrArg c ((DoubleCoset.eq K K g ((a : G) * g * b)).2 ⟨a, a.2, b, b.2, rfl⟩).symm
++    · exact congrArg c ((DoubleCoset.eq (H := K) (K := K) (a := g) (b := (a : G) * g * b)).2 ⟨a, a.2, b, b.2, rfl⟩).symm
+     · refine ⟨c.support.image Quotient.out, fun g hg => ?_⟩
+       refine ⟨Quotient.out (DoubleCoset.mk K K g),
+         Finset.mem_image_of_mem _ (Finsupp.mem_support_iff.2 hg), ?_⟩
+-      obtain ⟨a, ha, b, hb, e⟩ := (DoubleCoset.eq K K (Quotient.out (DoubleCoset.mk K K g)) g).1
+-        (DoubleCoset.out_eq' K K (DoubleCoset.mk K K g))
++      obtain ⟨a, ha, b, hb, e⟩ := (DoubleCoset.eq (H := K) (K := K) (a := Quotient.out (DoubleCoset.mk K K g)) (b := g)).1
++        (DoubleCoset.out_eq' (DoubleCoset.mk K K g))
+       exact ⟨⟨a, ha⟩, ⟨b, hb⟩, e⟩⟩
+ 
+ end Basis

@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Heckebasic",
+  "source_sha256": "6d057c8e473d7ce0156fe3d007207e3fd9ffcdfe877bf01c4135630bd981c366",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the target DoubleCoset API with the same equivalence and quotient representatives."
+}

@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.AutomorphicFormsDecompositionHolds",
+  "source_sha256": "f65b01e4175864dd890675760a1feb662e3f167d0edc4b12230094009083ec94",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the target double-coset equality lemma with named parameters."
+}

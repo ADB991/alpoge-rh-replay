@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SharpRestriction.Divisibility.GeneratorPowers.AevalDiagMonomial",
+  "source_sha256": "2f1e23bd1376e56eeeb159aff5ebfee3a275cfdd07c5dec89a2f2c16719257ab",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the target polynomial coefficient accessor and its additive identities. The same polynomial and monomial index appear in each statement."
+}

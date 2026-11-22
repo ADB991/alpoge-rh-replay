@@ -1,0 +1,13 @@
+--- a/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Upqcpt.lean
++++ b/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/Upqcpt.lean
+@@ -144,6 +144,10 @@
+   rw [hset]
+   have hT : IsClosed {M : Matrix (Fin p ⊕ Fin q) (Fin p ⊕ Fin q) ℂ |
+       star M * Formalism.UG.Jpq p q * M = Formalism.UG.Jpq p q ∧ Formalism.UG.Jpq p q * M = M * Formalism.UG.Jpq p q} := by
++    change IsClosed
++      ({M : Matrix (Fin p ⊕ Fin q) (Fin p ⊕ Fin q) ℂ |
++        star M * Formalism.UG.Jpq p q * M = Formalism.UG.Jpq p q} ∩
++        {M | Formalism.UG.Jpq p q * M = M * Formalism.UG.Jpq p q})
+     apply IsClosed.inter
+     · exact isClosed_eq ((continuous_star.mul continuous_const).mul continuous_id) continuous_const
+     · exact isClosed_eq (continuous_const.mul continuous_id) (continuous_id.mul continuous_const)

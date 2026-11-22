@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.HeckeActMem",
+  "source_sha256": "5ff0d0cfaee85261d3c1fb93a75bc860cdc7150b77d1154cfca39547fd639d28",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}

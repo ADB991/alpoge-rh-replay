@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Ipindep",
+  "source_sha256": "c537eeeca2325cf47223859d2c35d4c790a8cb7adc9761775ac1e1dcf8f50f0d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Infer the subgroup and representative arguments in the target double-coset equality lemma."
+}

@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.QuadraticBasis.QuadRoots",
+  "source_sha256": "3e3d8c0654ee39461e75153064879cdcae956b89d7260e312caa5332dde73ded",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the target polynomial degree and nonvanishing lemmas for the same powers of X."
+}

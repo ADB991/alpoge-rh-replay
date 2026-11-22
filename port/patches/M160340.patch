@@ -1,0 +1,39 @@
+--- a/src/Formalism/SharpRestriction/GrowthBounds/TwistedSubstitution/TwistedMonomialFiltration/TMemLaurentFiltration.lean
++++ b/src/Formalism/SharpRestriction/GrowthBounds/TwistedSubstitution/TwistedMonomialFiltration/TMemLaurentFiltration.lean
+@@ -89,15 +89,15 @@
+ def flt_lift {B : Type*} [CommRing B] {σ : Type*} (Fl : flt_Fil B) (wt : (σ →₀ ℕ) →+ ℤ) :
+     flt_Fil (MvPolynomial σ B) where
+   F t :=
+-    { carrier := {P | ∀ m, coeff m P ∈ Fl.F (t - wt m)}
++    { carrier := {P | ∀ m, P.coeff m ∈ Fl.F (t - wt m)}
+       zero_mem' := by intro m; simp
+       add_mem' := by
+         intro a b ha hb m
+-        rw [coeff_add]
++        rw [AddMonoidAlgebra.coeff_add, Finsupp.add_apply]
+         exact (Fl.F _).add_mem (ha m) (hb m)
+       neg_mem' := by
+         intro a ha m
+-        rw [coeff_neg]
++        rw [AddMonoidAlgebra.coeff_neg, Finsupp.neg_apply]
+         exact (Fl.F _).neg_mem (ha m) }
+   mul_mem := by
+     classical
+@@ -122,7 +122,7 @@
+     exact Fl.anti (by linarith) (hP m)
+ 
+ theorem flt_lift_mem {B : Type*} [CommRing B] {σ : Type*} {Fl : flt_Fil B} {wt : (σ →₀ ℕ) →+ ℤ} {t : ℤ}
+-    {P : MvPolynomial σ B} : P ∈ (flt_lift Fl wt).F t ↔ ∀ m, coeff m P ∈ Fl.F (t - wt m) := Iff.rfl
++    {P : MvPolynomial σ B} : P ∈ (flt_lift Fl wt).F t ↔ ∀ m, P.coeff m ∈ Fl.F (t - wt m) := Iff.rfl
+ 
+ theorem flt_monomial_mem {B : Type*} [CommRing B] {σ : Type*} {Fl : flt_Fil B} {wt : (σ →₀ ℕ) →+ ℤ} {t : ℤ}
+     {m : σ →₀ ℕ} {a : B} (ha : a ∈ Fl.F (t - wt m)) : monomial m a ∈ (flt_lift Fl wt).F t := by
+@@ -174,7 +174,7 @@
+   classical
+   rw [P.as_sum, map_sum]
+   refine (Fl'.F t).sum_mem fun m _ => ?_
+-  have e : monomial m (coeff m P) = C (coeff m P) * monomial m 1 := by
++  have e : monomial m (P.coeff m) = C (P.coeff m) * monomial m 1 := by
+     rw [C_mul_monomial, mul_one]
+   rw [e, map_mul]
+   have := Fl'.mul_mem (hC _ _ ((flt_lift_mem.1 hP) m)) (flt_hom_monomial Fl' φ wt hX m)

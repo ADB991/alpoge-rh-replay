@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SharpRestriction.GrowthBounds.TwistedSubstitution.TwistedMonomialFiltration.TMemLaurentFiltration",
+  "source_sha256": "d5f054e1958830be5ad2fb5d9968769425bc31c9910da1bcb9dfca0bb052aa5c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use target coefficient accessors and additive formulas, preserving the Laurent filtration and its membership predicate."
+}

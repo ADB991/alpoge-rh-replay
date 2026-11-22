@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.InclusionInjective",
+  "source_sha256": "1fa19c0a939b290d88961d56073b5e0f7edfd1ab622a6e2f8d60a2131591dcef",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged"
+}

@@ -1,0 +1,11 @@
+--- a/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/AutomorphicFormsDecompositionHolds.lean
++++ b/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/AutomorphicFormsDecompositionHolds.lean
+@@ -16,7 +16,7 @@
+ 
+ theorem exists_rep (s : ClassSet Γ K → G) (hs : ∀ c, DoubleCoset.mk Γ K (s c) = c) (g : G) :
+     ∃ p : Γ × K, g = (p.1 : G) * s (DoubleCoset.mk Γ K g) * (p.2 : G) := by
+-  have h := (DoubleCoset.eq Γ K (s (DoubleCoset.mk Γ K g)) g).1 (hs _)
++  have h := (DoubleCoset.eq (H := Γ) (K := K) (a := s (DoubleCoset.mk Γ K g)) (b := g)).1 (hs _)
+   obtain ⟨a, ha, b, hb, hab⟩ := h
+   exact ⟨(⟨a, ha⟩, ⟨b, hb⟩), hab⟩
+ 

@@ -1,0 +1,46 @@
+--- a/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/LinSubstIsHomogeneous.lean
++++ b/src/Formalism/SatakeDualWeyl/AdelicIwasawaHecke/LinSubstIsHomogeneous.lean
+@@ -30,10 +30,10 @@
+   ring
+ 
+ theorem coeff_pow_sum_expand (a b : n → MvPolynomial n O) (K : ℕ) (α : n →₀ ℕ) :
+-    coeff α ((∑ j, C (a j) * map C (b j) : MvPolynomial n (MvPolynomial n O)) ^ K)
++    ((∑ j, C (a j) * map C (b j) : MvPolynomial n (MvPolynomial n O)) ^ K).coeff α
+       = ∑ β ∈ Finset.piAntidiag Finset.univ K,
+           (Nat.multinomial Finset.univ β : MvPolynomial n O) * (∏ j, a j ^ β j) *
+-            C (coeff α (∏ j, b j ^ β j)) := by
++            C ((∏ j, b j ^ β j).coeff α) := by
+   rw [pow_sum_expand, coeff_sum]
+   refine Finset.sum_congr rfl (fun β _ => ?_)
+   rw [coeff_C_mul, coeff_map]
+@@ -46,7 +46,7 @@
+ 
+ theorem weyl_gen_eq (α : n →₀ ℕ) (K : ℕ) (hα : α.degree = K) :
+     monomial α (α.multinomial : O) =
+-      coeff α ((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K) := by
++      ((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K).coeff α := by
+   rw [coeff_pow_sum_expand, Finset.sum_eq_single (⇑α)]
+   · have hs : Finsupp.equivFunOnFinite.symm ⇑α = α := Finsupp.equivFunOnFinite.symm_apply_apply α
+     rw [prod_X_pow_fun, hs, coeff_monomial, if_pos rfl, C_1, mul_one,
+@@ -83,9 +83,9 @@
+     polyAct O n g (monomial α (α.multinomial : O)) ∈ weylSub O n K := by
+   rw [weyl_gen_eq α K hα]
+   have h1 : polyAct O n g
+-      (coeff α ((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K))
+-      = coeff α (map (polyAct O n g).toRingHom
+-          ((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K)) :=
++      (((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K).coeff α)
++      = (map (polyAct O n g).toRingHom
++          ((∑ j, C (X j) * map C (X j) : MvPolynomial n (MvPolynomial n O)) ^ K)).coeff α :=
+     (coeff_map _ _ _).symm
+   rw [h1, map_polyAct_pow, coeff_pow_sum_expand]
+   refine Submodule.sum_mem _ (fun β hβ => ?_)
+@@ -96,7 +96,7 @@
+     Finsupp.multinomial_of_support_subset (s := Finset.univ)
+       (d := Finsupp.equivFunOnFinite.symm β) (Finset.subset_univ _)
+   rw [prod_X_pow_fun, hm]
+-  generalize coeff (R := O) (σ := n) α _ = c
++  generalize (show MvPolynomial n O from _).coeff α = c
+   have he : ((Finsupp.equivFunOnFinite.symm β).multinomial : MvPolynomial n O) *
+       monomial (Finsupp.equivFunOnFinite.symm β) 1 * C c
+       = c • monomial (Finsupp.equivFunOnFinite.symm β)

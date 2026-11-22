@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Upqcpt",
+  "source_sha256": "9d6d5b5322552ca08821ccf17799b14d4b4141a8595dbbf2080c0cd1ea2febbd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Expose the same set as an intersection so the closedness lemma applies on the target."
+}

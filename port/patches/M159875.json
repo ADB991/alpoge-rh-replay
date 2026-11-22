@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.SharpRestriction.GrowthBounds.MultisetValuation.JpSubstExpand",
+  "source_sha256": "fdbf70b98ffa7f75d23a5b2faa7157b04c9c36245d6698a36f82e1f05c5f0d01",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the target coefficient accessor for the same coefficients of Q."
+}
