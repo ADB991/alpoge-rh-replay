@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.Foundations.ExistsFinsetOfEventually",
+  "source_sha256": "40a4c5e4c9dcfc7faf27048e3c8d15b3be28b8634795f479e9d434729eb0fc5e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Replace isClosed_biInter over negated membership with nested isClosed_iInter (proof only). IsHaarProd.smul no longer omits BorelSpace X, BorelSpace (Ya w) and IsTopologicalGroup X, and assumes IsTopologicalGroup on every Ya w and Yf v: Mathlib v4.36.0's IsHaarMeasure.nnreal_smul requires MeasurableConstSMul, and because Measure.map of a non-AEMeasurable map is no longer 0, left invariance of c • μ cannot be derived without it. The conclusion is unchanged. The only project use, IsRestrictedProd.smul in IsRestrictedProdFinAwayIffIsProdMeasureFinAway (not yet ported), applies it to concrete adelic groups. Same patch as the earlier record from #24520 (commit d9150778), which #30467 removed; rebuilt fresh on the target pins.",
+  "evidence": "https://github.com/sp20262026/alpoge-rh-replay/releases/download/port-P0002-issue-31406/M004039-receipt.json"
+}
