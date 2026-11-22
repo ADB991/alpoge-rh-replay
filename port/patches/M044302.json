@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.NonemptyEquivOfCardHomStatement",
+  "source_sha256": "e1292101a9ddd71c3a08febe7cd6a3f8cc84cb9ef0593dccfe887e3f6d9f109e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}

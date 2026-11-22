@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PicardTorsionTrivialOfTorsorsHaveSections",
+  "source_sha256": "e2eaa5a19bdbaf7121edec4bbb5b5e7b228803cb6bf0a1bb088c312a291c613e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change in notation only: MultilinearMap is now semilinear and takes a ring homomorphism, so `MultilinearMap B (fun _ : Fin q => L) B` is written `MultilinearMap (RingHom.id B) (fun _ : Fin q => L) B` in p1, p2, p4 and free_of_section. With the identity homomorphism this is exactly the pinned B-multilinear map type, and it matches the already-ported statements of the imported GlobalTheory.T.exists_multilinear_form_of_pic_torsion (M027626), kummerAlgebra_finite_projective_faithfullyFlat (M039984) and kummerAlgebra_zmod_torsor_bijective (M039986), which these theorems restate. Proofs unchanged.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}

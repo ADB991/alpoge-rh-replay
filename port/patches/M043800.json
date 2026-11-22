@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonoPullbackMapOfFlat",
+  "source_sha256": "d39945dc96c93239ef6d15b134d6e59fd7710e33733b94b303726f55b48bb61d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof/definition-body only: TopCat.Sheaf is now an ObjectProperty.FullSubcategory whose underlying-object field is `obj` instead of `val`, so `X.ringCatSheaf.val` becomes `X.ringCatSheaf.obj` in the instance header at line 41 and in the type of skyPresheafOfModules at line 44. Both denote the same underlying presheaf of rings of X, so the instance and definition are unchanged in meaning. No other edits.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}

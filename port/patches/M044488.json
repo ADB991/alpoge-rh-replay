@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormFiltrationComplete",
+  "source_sha256": "495fcbbb694d32e5b91aa94d53424a7d1213e0e4e3e224b367485a4b28e7daa0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}

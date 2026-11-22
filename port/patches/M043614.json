@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ModDepthGEThreeOfFreeRegularLocal",
+  "source_sha256": "4b180ebbb374e17bead6e8fbeb8cd48349f1bfe4b5e610052a12f355e5443bdc",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}

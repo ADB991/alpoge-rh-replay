@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormIteratedFDerivProdCoordLeLeibniz",
+  "source_sha256": "be8ceca667857d19c874d30003d2d9040f3e720962dd9b66b30806c02967b66a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Finset.prod_le_one for nonnegative factors is now Finset.prod_le_one₀ (same arguments), and contDiff_apply now takes the codomain as a family, so `contDiff_apply ℝ ℂ i` becomes `contDiff_apply ℝ (fun _ : ι => ℂ) i` (the same projection w ↦ w i on ι → ℂ). Statements unchanged.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/58e5d632f1fc189358e4e9458986a159146072dd/P0247-receipt.json"
+}
