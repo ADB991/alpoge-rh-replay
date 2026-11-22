@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.RestrictDiagCompInclFst",
+  "source_sha256": "bda1b2e889a5f7a0f940304277f7b593f0dd0b9bc570395390e3e2622bd3b513",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

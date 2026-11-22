@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.StrongApproximation.SubProjOrth",
+  "source_sha256": "250af24b346f615526f1bcb05d1a019da0ac67d25e77981253f0d4011df805f0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

@@ -1,0 +1,20 @@
+--- a/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/SymplecticGenerators/SymplecticCharacters/GenFin.lean
++++ b/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/SymplecticGenerators/SymplecticCharacters/GenFin.lean
+@@ -69,7 +69,7 @@
+     have hib : i ≠ b := fun h => by subst h; omega
+     have e1 : ∀ c : Fin g, (i = c ↔ c = i) := fun c => eq_comm
+     constructor <;> intro r <;> rcases r with c | c <;>
+-      simp [spDiag, U, E, E', Matrix.fromBlocks, Matrix.one_apply, hia, hib, e1]
++      simp [spDiag, U, E, E', Matrix.fromBlocks, Matrix.one_apply, hia, hib, e1, Function.swap]
+   have hnew : ∀ c, (spDiag U * M) (Sum.inl c) (Sum.inl k) =
+       M (Sum.inl c) (Sum.inl k) - if c = a then t * M (Sum.inl b) (Sum.inl k) else 0 := by
+     intro c
+@@ -136,7 +136,7 @@
+     · simp [spDiag, U, P, Matrix.one_apply, Matrix.fromBlocks]
+     · simp [spDiag, U, P, Matrix.one_apply, Matrix.fromBlocks]
+     · have h1 : (i = a) ↔ (a = i) := eq_comm
+-      simp [spDiag, U, P, Matrix.one_apply, Matrix.fromBlocks, Matrix.transpose_apply, hsw, h1]
++      simp [spDiag, U, P, Matrix.one_apply, Matrix.fromBlocks, Matrix.transpose_apply, hsw, h1, Function.swap]
+   · rw [Matrix.mul_apply, Fintype.sum_sum_type]
+     rcases r with a | a <;>
+       simp [spDiag, U, P, hsupp, Matrix.one_apply, Matrix.fromBlocks, Equiv.swap_apply_eq_iff] <;>

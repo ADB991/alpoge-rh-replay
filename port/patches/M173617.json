@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.HfEqInner",
+  "source_sha256": "592ff81ac29da262e0f685819a822a8385c3478c0325bee047b7b6e65cb534fa",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

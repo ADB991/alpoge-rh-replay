@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterGoodG",
+  "source_sha256": "62011fc16d3f432f0a1945734be52474f94928666efc3614b8d02053a9495b61",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff was removed, so the coefficient equation is taken with MvPolynomial.ext_iff in place of congrArg (coeff n). Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

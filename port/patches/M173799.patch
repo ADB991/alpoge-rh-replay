@@ -1,0 +1,11 @@
+--- a/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/TaylorDiscriminants/WickVanishing/DofListSum.lean
++++ b/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/TaylorDiscriminants/WickVanishing/DofListSum.lean
+@@ -22,7 +22,7 @@
+ 
+ theorem dof_C (a : k) : Dof F v (C a : PS k 1 d) = 0 := by
+   unfold Dof
+-  have h : ∀ j : Fin d, pderiv k ((0 : Fin 1), j) (C a : PS k 1 d) = 0 := fun j => by
++  have h : ∀ j : Fin d, pderiv (R := k) ((0 : Fin 1), j) (C a : PS k 1 d) = 0 := fun j => by
+     simp
+   simp [h]
+ 

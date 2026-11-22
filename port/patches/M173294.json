@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.OrthogonalProjectorMulVecSmul",
+  "source_sha256": "1e0e93003934a2fa60af98d9993afd3d0fcbf88e4d55c8a96f3d105190070695",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "positivity no longer proves 0 < ‖v l‖ ^ 2 from the hypothesis v l ≠ 0, so it is proved as pow_pos (norm_pos_iff.mpr hl) 2. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

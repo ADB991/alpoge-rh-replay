@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SymplecticGenerators.SymplecticCharacters.GenFin",
+  "source_sha256": "1b0c757f1b44947b987b46bb72ddacdc28536d08b4f422c2fd063f5f116e9595",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "simp now rewrites the transpose of a Matrix.of to Function.swap, so Function.swap is added to the two simp sets that evaluate the transposed block of spDiag. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

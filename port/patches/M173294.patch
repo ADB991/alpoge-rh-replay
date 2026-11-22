@@ -1,0 +1,11 @@
+--- a/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/OrthogonalProjectorMulVecSmul.lean
++++ b/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/OrthogonalProjectorMulVecSmul.lean
+@@ -71,7 +71,7 @@
+ 
+ theorem normSqSum_pos {r : ℕ} {v : Fin r → ℂ} (hv : v ≠ 0) : 0 < hns v := by
+   obtain ⟨l, hl⟩ := Function.ne_iff.mp hv
+-  have h1 : 0 < ‖v l‖ ^ 2 := by positivity
++  have h1 : 0 < ‖v l‖ ^ 2 := pow_pos (norm_pos_iff.mpr hl) 2
+   exact lt_of_lt_of_le h1
+     (Finset.single_le_sum (f := fun i => ‖v i‖ ^ 2) (fun _ _ => by positivity) (Finset.mem_univ l))
+ 

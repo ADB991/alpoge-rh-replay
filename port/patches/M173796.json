@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.WickVanishing.ContinuousPderivDisc",
+  "source_sha256": "8f9fbbb193ede9a80edd53a0da1953403cb14392304aaf337155aaa769d6f75d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPowerSeries.pderiv now takes its coefficient ring implicitly, so the statement of continuous_pderiv_disc and its proof pass it by name as (R := R); the term is the same, so the proposition is unchanged.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

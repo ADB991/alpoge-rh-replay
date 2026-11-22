@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.GCauchy",
+  "source_sha256": "eb2958b8e74d3833374b69c587773ab3bb2c59b282415662cbe8594d9cd0b096",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "EuclideanSpace.single is now an abbreviation of PiLp.single, so EuclideanSpace.single_apply is PiLp.single_apply. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

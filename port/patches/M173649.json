@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.SquareIntegrability.PropAA",
+  "source_sha256": "b9a72fa4f9d4bb51160a90bc799430aaad18ea44292bdc201df0beeb3fe6fe9a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The nonnegative-factor form of Finset.prod_le_prod is now Finset.prod_le_prod₀ with the same arguments, and EuclideanSpace.single_apply is PiLp.single_apply. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}

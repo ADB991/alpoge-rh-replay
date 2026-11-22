@@ -1,0 +1,11 @@
+--- a/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/FirstCohomology/IndepOfFlag.lean
++++ b/src/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/FirstCohomology/IndepOfFlag.lean
+@@ -24,7 +24,7 @@
+ lemma finite_ball [FiniteDimensional ℝ E] (X : Submodule ℤ E) [DiscreteTopology X] (R : ℝ) :
+     (Metric.closedBall (0 : E) R ∩ (X : Set E)).Finite := by
+   haveI : DiscreteTopology X.toAddSubgroup := ‹DiscreteTopology X›
+-  have hc : IsClosed (X : Set E) := AddSubgroup.isClosed_of_discrete (H := X.toAddSubgroup)
++  have hc : IsClosed (X : Set E) := AddSubgroup.isClosed_of_discreteTopology (U := X.toAddSubgroup)
+   have hdisc : IsDiscrete (X : Set E) := by
+     first
+     | exact ⟨‹DiscreteTopology X›⟩

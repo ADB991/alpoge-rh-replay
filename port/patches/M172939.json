@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.IndepOfFlag",
+  "source_sha256": "b55793546c10702b36ae16370192b0f2da52d0ab978b4dc8378705d99cfb1c88",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "AddSubgroup.isClosed_of_discrete is now a deprecated alias of isClosed_of_discreteTopology, whose subgroup argument is named U rather than H. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0291-issue-32325"
+}
