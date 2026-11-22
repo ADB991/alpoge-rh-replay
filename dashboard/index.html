@@ -76,6 +76,15 @@
   <div class="bar big-bar" role="img" aria-label="Overall progress"><div class="big-fill" id="bigfill" style="width:0%"></div></div>
   <div class="cards" id="cards"></div>
 
+  <section id="porting-section" aria-labelledby="porting-heading" hidden>
+    <h2 id="porting-heading">Lean 4.36 Porting &amp; Upstream Pruning</h2>
+    <p class="sub" id="porting-sub"></p>
+    <div class="headline-num" id="port-headline"></div>
+    <div class="bar big-bar" role="img" aria-label="Lean 4.36 porting progress"><div id="portfill" style="width:0%;background:var(--c4)"></div></div>
+    <div class="cards" id="port-cards"></div>
+    <div id="port-depths" style="margin-top:14px"></div>
+  </section>
+
   <section aria-labelledby="rate-heading">
     <h2 id="rate-heading">Modules recorded per hour</h2>
     <p class="sub" id="rate-period"></p>
@@ -247,6 +256,31 @@ fetch("data.json")
       card(fmt(t.remaining), "modules remaining") +
       card(fmt(t.packets), "work packets") +
       card(fmt(d.packets.fully_done), "packets fully done");
+
+    if (d.porting && d.pruning) {
+      var pt = d.porting, pr = d.pruning;
+      el("porting-section").hidden = false;
+      el("porting-sub").innerHTML =
+        "Porting live (non-pruned) modules to <code>" + esc(pt.lean || "Lean 4.36") +
+        "</code> (Mathlib <code>" + esc((pt.mathlib || "").slice(0, 10)) +
+        "</code>). <strong>" + fmt(pr.pruned_modules) + "</strong> unreachable dead modules (" +
+        pr.pruned_percent.toFixed(2) + "% of the archive) were pruned upstream and skipped via <code>port/pruned.txt</code> — see " +
+        '<a href="https://github.com/rohanarun/alpoge-rh-replay/blob/main/PORTING.md">PORTING.md</a>.';
+      el("port-headline").textContent = pt.percent_done.toFixed(2) + "% of live modules ported — " +
+        fmt(pt.live_ported) + " of " + fmt(pt.live_total) + " live modules";
+      el("portfill").style.width = pt.percent_done + "%";
+      el("port-cards").innerHTML =
+        card(fmt(pt.live_ported), "live ported (" + fmt(pt.unchanged) + " unchanged, " + fmt(pt.patched) + " patched)") +
+        card(fmt(pt.live_remaining), "live modules remaining to port") +
+        card(fmt(pt.claimable_now), "unblocked & claimable now") +
+        card(fmt(pr.pruned_modules) + " (" + pr.pruned_percent.toFixed(1) + "%)", "upstream-pruned dead modules skipped");
+      el("port-depths").innerHTML = (pt.depths || []).map(function (b) {
+        var extra = b.claimable > 0 ? " · " + fmt(b.claimable) + " ready" : "";
+        return '<div class="rowbar"><div class="lab">' + esc(b.band) + '</div>' +
+          '<div class="bar"><div style="width:' + b.percent + '%;background:var(--c4)"></div></div>' +
+          '<div class="val" style="width:240px">' + fmt(b.done) + " / " + fmt(b.total) + " (" + b.percent.toFixed(1) + "%)" + extra + "</div></div>";
+      }).join("");
+    }
 
     renderRate(d.ledger_history, t.remaining);
 

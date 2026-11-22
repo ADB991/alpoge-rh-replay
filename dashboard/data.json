@@ -1,169 +1,7 @@
 {
-  "ledger_history": {
-    "hours": [
-      {
-        "end": 1795195406,
-        "net_modules": 13154
-      },
-      {
-        "end": 1795199006,
-        "net_modules": 8392
-      },
-      {
-        "end": 1795202606,
-        "net_modules": 5812
-      },
-      {
-        "end": 1795206206,
-        "net_modules": 3506
-      }
-    ],
-    "per_hour": 7716.0,
-    "eta": "2026-11-21"
-  },
-  "history": [
-    {
-      "t": "2026-11-20T16:09:03Z",
-      "with_evidence": 2255
-    },
-    {
-      "t": "2026-11-20T16:25:13Z",
-      "with_evidence": 2957
-    },
-    {
-      "t": "2026-11-20T16:27:59Z",
-      "with_evidence": 3066
-    },
-    {
-      "t": "2026-11-20T16:48:08Z",
-      "with_evidence": 3943
-    },
-    {
-      "t": "2026-11-20T16:52:42Z",
-      "with_evidence": 4076
-    },
-    {
-      "t": "2026-11-20T16:53:44Z",
-      "with_evidence": 4140
-    },
-    {
-      "t": "2026-11-20T17:02:11Z",
-      "with_evidence": 14004
-    },
-    {
-      "t": "2026-11-20T17:10:15Z",
-      "with_evidence": 14272
-    },
-    {
-      "t": "2026-11-20T17:22:22Z",
-      "with_evidence": 15409
-    },
-    {
-      "t": "2026-11-20T17:28:50Z",
-      "with_evidence": 15909
-    },
-    {
-      "t": "2026-11-20T17:29:52Z",
-      "with_evidence": 16051
-    },
-    {
-      "t": "2026-11-20T17:34:06Z",
-      "with_evidence": 17167
-    },
-    {
-      "t": "2026-11-20T17:37:14Z",
-      "with_evidence": 17651
-    },
-    {
-      "t": "2026-11-20T17:57:59Z",
-      "with_evidence": 22535
-    },
-    {
-      "t": "2026-11-20T17:59:55Z",
-      "with_evidence": 22686
-    },
-    {
-      "t": "2026-11-20T18:21:05Z",
-      "with_evidence": 23801
-    },
-    {
-      "t": "2026-11-20T18:39:02Z",
-      "with_evidence": 26806
-    },
-    {
-      "t": "2026-11-20T18:45:45Z",
-      "with_evidence": 27474
-    },
-    {
-      "t": "2026-11-20T18:47:44Z",
-      "with_evidence": 27718
-    },
-    {
-      "t": "2026-11-20T18:49:46Z",
-      "with_evidence": 27836
-    },
-    {
-      "t": "2026-11-20T18:52:21Z",
-      "with_evidence": 28040
-    },
-    {
-      "t": "2026-11-20T18:55:27Z",
-      "with_evidence": 28270
-    },
-    {
-      "t": "2026-11-20T18:59:19Z",
-      "with_evidence": 28576
-    },
-    {
-      "t": "2026-11-20T19:02:22Z",
-      "with_evidence": 28837
-    },
-    {
-      "t": "2026-11-20T19:04:16Z",
-      "with_evidence": 28916
-    },
-    {
-      "t": "2026-11-20T19:22:48Z",
-      "with_evidence": 29613
-    },
-    {
-      "t": "2026-11-20T19:26:48Z",
-      "with_evidence": 29822
-    },
-    {
-      "t": "2026-11-20T19:29:17Z",
-      "with_evidence": 29941
-    },
-    {
-      "t": "2026-11-20T19:36:23Z",
-      "with_evidence": 30263
-    },
-    {
-      "t": "2026-11-20T19:40:36Z",
-      "with_evidence": 30517
-    },
-    {
-      "t": "2026-11-20T19:49:22Z",
-      "with_evidence": 31210
-    },
-    {
-      "t": "2026-11-20T19:58:46Z",
-      "with_evidence": 32120
-    },
-    {
-      "t": "2026-11-20T20:04:03Z",
-      "with_evidence": 32272
-    },
-    {
-      "t": "2026-11-20T20:13:36Z",
-      "with_evidence": 32872
-    },
-    {
-      "t": "2026-11-20T20:17:45Z",
-      "with_evidence": 33119
-    }
-  ],
-  "generated_at": "2026-11-20T20:23:26Z",
+  "ledger_history": null,
+  "history": [],
+  "generated_at": "2026-11-22T11:44:12Z",
   "snapshot": "2026-11-20T15:56:00Z",
   "scope": "project modules reachable from Main",
   "lean": "4.33.1",
@@ -171,30 +9,103 @@
   "totals": {
     "modules": 175187,
     "packets": 2858,
-    "with_evidence": 33119,
-    "remaining": 142068,
-    "percent_done": 18.9
+    "with_evidence": 108666,
+    "remaining": 66521,
+    "percent_done": 62.03
+  },
+  "pruning": {
+    "total_archive": 175187,
+    "pruned_modules": 10724,
+    "pruned_percent": 6.12,
+    "live_modules": 164463
+  },
+  "porting": {
+    "lean": "leanprover/lean4:v4.36.0",
+    "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+    "live_total": 164463,
+    "live_ported": 14863,
+    "live_remaining": 149600,
+    "percent_done": 9.04,
+    "patched": 1933,
+    "unchanged": 12930,
+    "claimable_now": 3511,
+    "depths": [
+      {
+        "band": "d=0",
+        "total": 5683,
+        "done": 5656,
+        "claimable": 27,
+        "percent": 99.52
+      },
+      {
+        "band": "d=1",
+        "total": 4735,
+        "done": 4580,
+        "claimable": 142,
+        "percent": 96.73
+      },
+      {
+        "band": "d=2",
+        "total": 4039,
+        "done": 3753,
+        "claimable": 131,
+        "percent": 92.92
+      },
+      {
+        "band": "d=3",
+        "total": 3461,
+        "done": 837,
+        "claimable": 2337,
+        "percent": 24.18
+      },
+      {
+        "band": "d=4",
+        "total": 3206,
+        "done": 37,
+        "claimable": 815,
+        "percent": 1.15
+      },
+      {
+        "band": "d=5",
+        "total": 2821,
+        "done": 0,
+        "claimable": 59,
+        "percent": 0.0
+      },
+      {
+        "band": "d=6+",
+        "total": 140518,
+        "done": 0,
+        "claimable": 0,
+        "percent": 0.0
+      }
+    ]
   },
   "evidence_categories": [
     {
-      "value": "wave-reused",
-      "label": "Distributed proof object reused",
-      "count": 16976
+      "value": "volunteer-build-reviewed",
+      "label": "Volunteer build evidence reviewed",
+      "count": 64882
     },
     {
       "value": "build-observed",
       "label": "Successful source build observed",
-      "count": 8916
+      "count": 26591
     },
     {
-      "value": "volunteer-build-reviewed",
-      "label": "Volunteer build evidence reviewed",
-      "count": 7076
+      "value": "wave-reused",
+      "label": "Distributed proof object reused",
+      "count": 16970
     },
     {
       "value": "pilot-reused",
       "label": "Pilot proof object reused",
       "count": 150
+    },
+    {
+      "value": "worker-kernel-checked",
+      "label": "Worker target kernel replay reviewed",
+      "count": 72
     },
     {
       "value": "pilot-witness-checked",
@@ -203,13 +114,14 @@
     }
   ],
   "state_counts": {
-    "assigned": 736,
-    "build-observed": 8916,
-    "open": 141332,
+    "assigned": 436,
+    "build-observed": 26591,
+    "open": 66085,
     "pilot-reused": 150,
     "pilot-witness-checked": 1,
-    "volunteer-build-reviewed": 7076,
-    "wave-reused": 16976
+    "volunteer-build-reviewed": 64882,
+    "wave-reused": 16970,
+    "worker-kernel-checked": 72
   },
   "snapshot_state_counts": {
     "open": 162288,
@@ -222,103 +134,247 @@
     {
       "band": "0",
       "total": 5927,
-      "done": 2611,
-      "percent": 44.05
+      "done": 5735,
+      "percent": 96.76
     },
     {
       "band": "1",
       "total": 4979,
-      "done": 2134,
-      "percent": 42.86
+      "done": 4520,
+      "percent": 90.78
     },
     {
       "band": "2",
       "total": 4138,
-      "done": 1919,
-      "percent": 46.38
+      "done": 3719,
+      "percent": 89.87
     },
     {
       "band": "3",
       "total": 3582,
-      "done": 1791,
-      "percent": 50.0
+      "done": 3250,
+      "percent": 90.73
     },
     {
       "band": "4",
       "total": 3355,
-      "done": 1419,
-      "percent": 42.3
+      "done": 2723,
+      "percent": 81.16
     },
     {
       "band": "5",
       "total": 2937,
-      "done": 1153,
-      "percent": 39.26
+      "done": 2199,
+      "percent": 74.87
     },
     {
       "band": "6-10",
       "total": 12021,
-      "done": 4915,
-      "percent": 40.89
+      "done": 8419,
+      "percent": 70.04
     },
     {
       "band": "11-20",
       "total": 17812,
-      "done": 6833,
-      "percent": 38.36
+      "done": 11438,
+      "percent": 64.22
     },
     {
       "band": "21-40",
       "total": 33240,
-      "done": 7957,
-      "percent": 23.94
+      "done": 17485,
+      "percent": 52.6
     },
     {
       "band": "41-80",
       "total": 50347,
-      "done": 2379,
-      "percent": 4.73
+      "done": 28383,
+      "percent": 56.37
     },
     {
       "band": "81+",
       "total": 36849,
-      "done": 8,
-      "percent": 0.02
+      "done": 20795,
+      "percent": 56.43
     }
   ],
   "packets": {
     "total": 2858,
-    "fully_done": 100,
-    "partially_done": 1526,
-    "untouched": 1232
+    "fully_done": 899,
+    "partially_done": 1887,
+    "untouched": 72
   },
   "volunteers": [
     {
+      "contributor": "hipotures",
+      "modules": 12280,
+      "packets": 209,
+      "receipts": 216
+    },
+    {
+      "contributor": "emsi",
+      "modules": 11243,
+      "packets": 187,
+      "receipts": 340
+    },
+    {
+      "contributor": "JamCh01",
+      "modules": 5477,
+      "packets": 94,
+      "receipts": 94
+    },
+    {
+      "contributor": "surfyhou",
+      "modules": 4097,
+      "packets": 64,
+      "receipts": 65
+    },
+    {
       "contributor": "shardmods",
-      "modules": 2752,
-      "packets": 43,
-      "receipts": 43
+      "modules": 3840,
+      "packets": 60,
+      "receipts": 60
+    },
+    {
+      "contributor": "WilmervH",
+      "modules": 3136,
+      "packets": 49,
+      "receipts": 49
+    },
+    {
+      "contributor": "TomMoeras",
+      "modules": 2561,
+      "packets": 40,
+      "receipts": 41
+    },
+    {
+      "contributor": "loremcdmx",
+      "modules": 2532,
+      "packets": 9,
+      "receipts": 1965
     },
     {
       "contributor": "JanSimeonMetzger",
-      "modules": 1536,
-      "packets": 24,
-      "receipts": 24
+      "modules": 2306,
+      "packets": 36,
+      "receipts": 38
     },
     {
-      "contributor": "gabeldev",
-      "modules": 348,
-      "packets": 4,
-      "receipts": 96
+      "contributor": "vivekshivarajkumar",
+      "modules": 1846,
+      "packets": 0,
+      "receipts": 1846
     },
     {
       "contributor": "Amahane-Hikari",
-      "modules": 328,
-      "packets": 0,
-      "receipts": 328
+      "modules": 1326,
+      "packets": 1,
+      "receipts": 1263
+    },
+    {
+      "contributor": "rayy3535",
+      "modules": 1200,
+      "packets": 12,
+      "receipts": 615
+    },
+    {
+      "contributor": "RhizoNymph",
+      "modules": 1177,
+      "packets": 30,
+      "receipts": 30
     },
     {
       "contributor": "SeriousRising",
+      "modules": 1153,
+      "packets": 18,
+      "receipts": 19
+    },
+    {
+      "contributor": "RobertBarnettProjects",
+      "modules": 1084,
+      "packets": 0,
+      "receipts": 1084
+    },
+    {
+      "contributor": "BenCaunt",
+      "modules": 722,
+      "packets": 1,
+      "receipts": 659
+    },
+    {
+      "contributor": "BouquetAntoine",
+      "modules": 669,
+      "packets": 0,
+      "receipts": 669
+    },
+    {
+      "contributor": "dgahelper",
+      "modules": 641,
+      "packets": 10,
+      "receipts": 11
+    },
+    {
+      "contributor": "HITEYY",
+      "modules": 634,
+      "packets": 0,
+      "receipts": 634
+    },
+    {
+      "contributor": "dga471",
+      "modules": 621,
+      "packets": 0,
+      "receipts": 621
+    },
+    {
+      "contributor": "galakurpi",
+      "modules": 409,
+      "packets": 0,
+      "receipts": 409
+    },
+    {
+      "contributor": "mu-mei",
+      "modules": 383,
+      "packets": 2,
+      "receipts": 257
+    },
+    {
+      "contributor": "gabeldev",
+      "modules": 369,
+      "packets": 4,
+      "receipts": 117
+    },
+    {
+      "contributor": "ANdATIon",
+      "modules": 329,
+      "packets": 0,
+      "receipts": 329
+    },
+    {
+      "contributor": "zediir",
+      "modules": 315,
+      "packets": 0,
+      "receipts": 315
+    },
+    {
+      "contributor": "jdenwood",
+      "modules": 274,
+      "packets": 0,
+      "receipts": 274
+    },
+    {
+      "contributor": "nicu-chiciuc",
+      "modules": 272,
+      "packets": 0,
+      "receipts": 272
+    },
+    {
+      "contributor": "UnityChaos",
+      "modules": 264,
+      "packets": 2,
+      "receipts": 138
+    },
+    {
+      "contributor": "Genius-Cai-wen-zheng",
       "modules": 257,
       "packets": 4,
       "receipts": 5
@@ -330,34 +386,52 @@
       "receipts": 4
     },
     {
-      "contributor": "BenCaunt",
-      "modules": 254,
+      "contributor": "amrehan",
+      "modules": 241,
+      "packets": 0,
+      "receipts": 241
+    },
+    {
+      "contributor": "agi-for-my-llama",
+      "modules": 227,
       "packets": 1,
-      "receipts": 191
+      "receipts": 164
     },
     {
-      "contributor": "WilmervH",
-      "modules": 192,
-      "packets": 3,
-      "receipts": 3
+      "contributor": "gilad12-coder",
+      "modules": 226,
+      "packets": 0,
+      "receipts": 226
     },
     {
-      "contributor": "emsi",
-      "modules": 130,
+      "contributor": "dhudakk",
+      "modules": 212,
+      "packets": 0,
+      "receipts": 212
+    },
+    {
+      "contributor": "egergerfg",
+      "modules": 202,
+      "packets": 0,
+      "receipts": 202
+    },
+    {
+      "contributor": "maddoxjack",
+      "modules": 161,
+      "packets": 0,
+      "receipts": 161
+    },
+    {
+      "contributor": "roonastgames",
+      "modules": 142,
+      "packets": 0,
+      "receipts": 142
+    },
+    {
+      "contributor": "aapolipponen",
+      "modules": 128,
       "packets": 2,
-      "receipts": 4
-    },
-    {
-      "contributor": "dgahelper",
-      "modules": 129,
-      "packets": 2,
-      "receipts": 3
-    },
-    {
-      "contributor": "surfyhou",
-      "modules": 129,
-      "packets": 2,
-      "receipts": 3
+      "receipts": 2
     },
     {
       "contributor": "krisyotam",
@@ -366,64 +440,196 @@
       "receipts": 2
     },
     {
-      "contributor": "mu-mei",
-      "modules": 113,
-      "packets": 1,
-      "receipts": 50
+      "contributor": "user42245",
+      "modules": 125,
+      "packets": 0,
+      "receipts": 125
+    },
+    {
+      "contributor": "sat3n",
+      "modules": 119,
+      "packets": 0,
+      "receipts": 119
+    },
+    {
+      "contributor": "jwr404",
+      "modules": 110,
+      "packets": 0,
+      "receipts": 110
+    },
+    {
+      "contributor": "misuadn-laplace",
+      "modules": 86,
+      "packets": 0,
+      "receipts": 86
     },
     {
       "contributor": "DanieleCorso",
-      "modules": 75,
+      "modules": 77,
       "packets": 1,
-      "receipts": 12
+      "receipts": 14
     },
     {
-      "contributor": "hipotures",
-      "modules": 71,
+      "contributor": "pCwOrM",
+      "modules": 74,
       "packets": 1,
-      "receipts": 8
+      "receipts": 11
     },
     {
-      "contributor": "maddoxjack",
-      "modules": 71,
+      "contributor": "rahulsundar477-star",
+      "modules": 72,
+      "packets": 3,
+      "receipts": 3
+    },
+    {
+      "contributor": "angusbarry",
+      "modules": 68,
+      "packets": 1,
+      "receipts": 5
+    },
+    {
+      "contributor": "sp20262026",
+      "modules": 66,
       "packets": 0,
-      "receipts": 71
+      "receipts": 66
     },
     {
-      "contributor": "Genius-Cai-wen-zheng",
+      "contributor": "CubeJerry",
       "modules": 65,
       "packets": 1,
       "receipts": 2
     },
     {
-      "contributor": "aapolipponen",
+      "contributor": "MLTQ",
+      "modules": 65,
+      "packets": 2,
+      "receipts": 2
+    },
+    {
+      "contributor": "dh5at",
       "modules": 64,
       "packets": 1,
       "receipts": 1
     },
     {
-      "contributor": "vivekshivarajkumar",
-      "modules": 64,
+      "contributor": "t-choudhury",
+      "modules": 56,
       "packets": 0,
-      "receipts": 64
+      "receipts": 56
     },
     {
-      "contributor": "user42245",
-      "modules": 48,
+      "contributor": "matan1905",
+      "modules": 50,
       "packets": 0,
-      "receipts": 48
+      "receipts": 50
+    },
+    {
+      "contributor": "drew2apps",
+      "modules": 44,
+      "packets": 0,
+      "receipts": 44
+    },
+    {
+      "contributor": "maugomez77",
+      "modules": 44,
+      "packets": 0,
+      "receipts": 44
+    },
+    {
+      "contributor": "chriswilson413",
+      "modules": 38,
+      "packets": 0,
+      "receipts": 38
     },
     {
       "contributor": "jjjhenriksen",
-      "modules": 10,
+      "modules": 38,
       "packets": 0,
-      "receipts": 10
+      "receipts": 38
     },
     {
-      "contributor": "sat3n",
-      "modules": 9,
+      "contributor": "jsnider3",
+      "modules": 36,
       "packets": 0,
-      "receipts": 9
+      "receipts": 36
+    },
+    {
+      "contributor": "21Z121Z1",
+      "modules": 26,
+      "packets": 0,
+      "receipts": 26
+    },
+    {
+      "contributor": "HaqtanEfe",
+      "modules": 25,
+      "packets": 0,
+      "receipts": 25
+    },
+    {
+      "contributor": "Trefoiler",
+      "modules": 21,
+      "packets": 0,
+      "receipts": 21
+    },
+    {
+      "contributor": "ljagiello",
+      "modules": 15,
+      "packets": 0,
+      "receipts": 15
+    },
+    {
+      "contributor": "varo6",
+      "modules": 15,
+      "packets": 0,
+      "receipts": 15
+    },
+    {
+      "contributor": "certified-retart",
+      "modules": 14,
+      "packets": 0,
+      "receipts": 14
+    },
+    {
+      "contributor": "rishabh-16",
+      "modules": 13,
+      "packets": 0,
+      "receipts": 13
+    },
+    {
+      "contributor": "m4tthewdavis",
+      "modules": 12,
+      "packets": 0,
+      "receipts": 12
+    },
+    {
+      "contributor": "123454321bobbob-tech",
+      "modules": 8,
+      "packets": 0,
+      "receipts": 8
+    },
+    {
+      "contributor": "Mzzj114",
+      "modules": 8,
+      "packets": 0,
+      "receipts": 8
+    },
+    {
+      "contributor": "Sethumathavanpk",
+      "modules": 8,
+      "packets": 0,
+      "receipts": 8
+    },
+    {
+      "contributor": "iAndyHD3",
+      "modules": 8,
+      "packets": 0,
+      "receipts": 8
+    },
+    {
+      "contributor": "mdpmcc",
+      "modules": 8,
+      "packets": 0,
+      "receipts": 8
     },
     {
       "contributor": "unhingedpanda",
@@ -432,22 +638,40 @@
       "receipts": 8
     },
     {
-      "contributor": "123454321bobbob-tech",
-      "modules": 7,
-      "packets": 0,
-      "receipts": 7
-    },
-    {
       "contributor": "Wronskode",
       "modules": 7,
       "packets": 0,
       "receipts": 7
     },
     {
-      "contributor": "egergerfg",
+      "contributor": "matiasm15",
       "modules": 6,
       "packets": 0,
       "receipts": 6
+    },
+    {
+      "contributor": "florianmodel",
+      "modules": 5,
+      "packets": 0,
+      "receipts": 5
+    },
+    {
+      "contributor": "IlluminPhoenix",
+      "modules": 4,
+      "packets": 0,
+      "receipts": 4
+    },
+    {
+      "contributor": "Paulee314",
+      "modules": 4,
+      "packets": 0,
+      "receipts": 4
+    },
+    {
+      "contributor": "Sigomi",
+      "modules": 4,
+      "packets": 0,
+      "receipts": 4
     },
     {
       "contributor": "arxhr007",
@@ -456,25 +680,19 @@
       "receipts": 4
     },
     {
-      "contributor": "roonastgames",
+      "contributor": "jaykobdetar",
       "modules": 4,
       "packets": 0,
       "receipts": 4
     },
     {
-      "contributor": "dhudakk",
+      "contributor": "Mfweb",
       "modules": 3,
       "packets": 0,
       "receipts": 3
     },
     {
-      "contributor": "varo6",
-      "modules": 3,
-      "packets": 0,
-      "receipts": 3
-    },
-    {
-      "contributor": "Paulee314",
+      "contributor": "EF-Code",
       "modules": 2,
       "packets": 0,
       "receipts": 2
@@ -486,7 +704,67 @@
       "receipts": 2
     },
     {
+      "contributor": "whitegrave1917-web",
+      "modules": 2,
+      "packets": 0,
+      "receipts": 2
+    },
+    {
+      "contributor": "ChristosMaglaras",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "Ethan-prog-netizen",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "MLEARNER701",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "Scratch-net",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "TimShakespeare",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "burbon",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
       "contributor": "gniax",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "mabdelazim",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "twaldin",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "walkingsophie",
       "modules": 1,
       "packets": 0,
       "receipts": 1
@@ -499,6 +777,34 @@
       "module": "Statements",
       "evidence": "build-observed",
       "evidence_label": "Successful source build observed"
+    },
+    {
+      "id": "M175183",
+      "packet": "P0093",
+      "module": "ReciprocityTheory.ThetaSummability.TailSumEstimates.LatSumPi",
+      "evidence": "volunteer-build-reviewed",
+      "evidence_label": "Volunteer build evidence reviewed"
+    },
+    {
+      "id": "M175181",
+      "packet": "P0093",
+      "module": "ReciprocityTheory.ThetaSummability.TailSumEstimates.ConeDefs",
+      "evidence": "volunteer-build-reviewed",
+      "evidence_label": "Volunteer build evidence reviewed"
+    },
+    {
+      "id": "M175179",
+      "packet": "P0093",
+      "module": "ReciprocityTheory.ThetaSummability.RealCoinvariants.Numbers",
+      "evidence": "volunteer-build-reviewed",
+      "evidence_label": "Volunteer build evidence reviewed"
+    },
+    {
+      "id": "M175178",
+      "packet": "P0093",
+      "module": "ReciprocityTheory.ThetaSummability.RealCoinvariants.GlRelZero",
+      "evidence": "volunteer-build-reviewed",
+      "evidence_label": "Volunteer build evidence reviewed"
     },
     {
       "id": "M175176",
@@ -520,6 +826,13 @@
       "module": "ReciprocityTheory.ThetaQuasiPeriods.PeriodLattice",
       "evidence": "wave-reused",
       "evidence_label": "Distributed proof object reused"
+    },
+    {
+      "id": "M175173",
+      "packet": "P0236",
+      "module": "ReciprocityTheory.ThetaQuasiPeriods.NormInvSmulMemSphere",
+      "evidence": "volunteer-build-reviewed",
+      "evidence_label": "Volunteer build evidence reviewed"
     },
     {
       "id": "M175172",
@@ -630,41 +943,6 @@
       "id": "M175157",
       "packet": "P0171",
       "module": "ReciprocityTheory.SemistableReduction.TorsionNonvanish",
-      "evidence": "wave-reused",
-      "evidence_label": "Distributed proof object reused"
-    },
-    {
-      "id": "M175156",
-      "packet": "P0171",
-      "module": "ReciprocityTheory.SemistableReduction.SphereTorusC",
-      "evidence": "wave-reused",
-      "evidence_label": "Distributed proof object reused"
-    },
-    {
-      "id": "M175155",
-      "packet": "P0236",
-      "module": "ReciprocityTheory.SemistableReduction.SphereTorusB",
-      "evidence": "wave-reused",
-      "evidence_label": "Distributed proof object reused"
-    },
-    {
-      "id": "M175154",
-      "packet": "P0171",
-      "module": "ReciprocityTheory.SemistableReduction.SphereTorusA",
-      "evidence": "wave-reused",
-      "evidence_label": "Distributed proof object reused"
-    },
-    {
-      "id": "M175153",
-      "packet": "P0292",
-      "module": "ReciprocityTheory.SemistableReduction.SphereTorus",
-      "evidence": "wave-reused",
-      "evidence_label": "Distributed proof object reused"
-    },
-    {
-      "id": "M175152",
-      "packet": "P0093",
-      "module": "ReciprocityTheory.SemistableReduction.SphereLogIntegrableStatement",
       "evidence": "wave-reused",
       "evidence_label": "Distributed proof object reused"
     }

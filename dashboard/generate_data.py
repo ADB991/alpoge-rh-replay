@@ -263,6 +263,79 @@ def main():
     except (FileNotFoundError, subprocess.CalledProcessError):
         history = None  # Downloaded archives can still render the snapshot dashboard.
     cumulative = cumulative_history({row["id"] for row in modules}, with_evidence)
+
+    # Porting (Lean 4.36) & upstream pruning stats
+    port_dir = ROOT / "port"
+    target_path = port_dir / "target.json"
+    port_target = json.loads(target_path.read_text()) if target_path.exists() else {}
+    pruned_path = port_dir / "pruned.txt"
+    pruned_ids = (
+        {line.strip() for line in pruned_path.read_text().splitlines()
+         if line.strip() and not line.startswith("#")}
+        if pruned_path.exists() else set()
+    )
+    patches_dir = port_dir / "patches"
+    ported_ids = {p.stem for p in patches_dir.glob("M*.json")} if patches_dir.exists() else set()
+    patched_ids = {p.stem for p in patches_dir.glob("M*.patch")} if patches_dir.exists() else set()
+
+    live_modules = [r for r in modules if r["id"] not in pruned_ids]
+    live_total = len(live_modules)
+    live_ported = sum(1 for r in live_modules if r["id"] in ported_ids)
+    live_patched = sum(1 for r in live_modules if r["id"] in ported_ids and r["id"] in patched_ids)
+    live_unchanged = live_ported - live_patched
+    claimable_now = sum(
+        1 for r in live_modules
+        if r["id"] not in ported_ids and all(imp in ported_ids for imp in r.get("imports", []))
+    )
+
+    port_depths = []
+    for d in range(6):
+        d_rows = [r for r in live_modules if r["depth"] == d]
+        d_done = sum(1 for r in d_rows if r["id"] in ported_ids)
+        d_ready = sum(
+            1 for r in d_rows
+            if r["id"] not in ported_ids and all(imp in ported_ids for imp in r.get("imports", []))
+        )
+        port_depths.append({
+            "band": f"d={d}",
+            "total": len(d_rows),
+            "done": d_done,
+            "claimable": d_ready,
+            "percent": round(100.0 * d_done / len(d_rows), 2) if d_rows else 0.0,
+        })
+    d6_rows = [r for r in live_modules if r["depth"] >= 6]
+    d6_done = sum(1 for r in d6_rows if r["id"] in ported_ids)
+    d6_ready = sum(
+        1 for r in d6_rows
+        if r["id"] not in ported_ids and all(imp in ported_ids for imp in r.get("imports", []))
+    )
+    port_depths.append({
+        "band": "d=6+",
+        "total": len(d6_rows),
+        "done": d6_done,
+        "claimable": d6_ready,
+        "percent": round(100.0 * d6_done / len(d6_rows), 2) if d6_rows else 0.0,
+    })
+
+    pruning_stats = {
+        "total_archive": total,
+        "pruned_modules": len(pruned_ids),
+        "pruned_percent": round(100.0 * len(pruned_ids) / total, 2) if total else 0.0,
+        "live_modules": live_total,
+    }
+    porting_stats = {
+        "lean": port_target.get("lean"),
+        "mathlib": port_target.get("mathlib"),
+        "live_total": live_total,
+        "live_ported": live_ported,
+        "live_remaining": live_total - live_ported,
+        "percent_done": round(100.0 * live_ported / live_total, 2) if live_total else 0.0,
+        "patched": live_patched,
+        "unchanged": live_unchanged,
+        "claimable_now": claimable_now,
+        "depths": port_depths,
+    }
+
     data = {
         "ledger_history": history,
         "history": cumulative,
@@ -278,6 +351,8 @@ def main():
             "remaining": total - with_evidence,
             "percent_done": round(100.0 * with_evidence / total, 2) if total else 0.0,
         },
+        "pruning": pruning_stats,
+        "porting": porting_stats,
         "evidence_categories": evidence_categories,
         "state_counts": dict(sorted(state_counts.items())),
         "snapshot_state_counts": summary.get("state_counts", {}),
