@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.StatementsDegreeBound",
+  "source_sha256": "fe0847025ab22842be27805264a6c8edddba291503f3a673817c11d4b3f1a824",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0285 packet build transcript linked from the PR."
+}
