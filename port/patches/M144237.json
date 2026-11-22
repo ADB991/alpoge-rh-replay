@@ -1,0 +1,7 @@
+{
+  "module": "Formalism.DistinguishedUnitIdeals.DistinguishedOrderProofs.GoodOf",
+  "source_sha256": "e1054aad52337068d73904519428761f5a82712bbe54d843516a8aa3de9a160b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only valuation API adaptation in hhA_eq, hhA_le and one_add_pow_sub_one_valuation: rewrite through the unconditional Nat.padicValNat_def equality before applying the current multiplicity lemmas. All theorem statements and hypotheses, the four definitions (including padicValNat formulas), semilinear maps, indices, bounds, imports, scopes, options and resource limits are unchanged."
+}
