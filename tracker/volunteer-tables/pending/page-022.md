@@ -186,6 +186,7 @@
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M140545](https://github.com/rohanarun/alpoge-rh-replay/issues/27245#issuecomment-7070493134) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M155349](https://github.com/rohanarun/alpoge-rh-replay/issues/27246#issuecomment-7070493575) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M026725](https://github.com/rohanarun/alpoge-rh-replay/issues/27247#issuecomment-7070494007) | Pending review |
+| [@maugomez77](https://github.com/maugomez77) | [P2600](https://github.com/rohanarun/alpoge-rh-replay/issues/27248#issuecomment-7077831563) | Pending review |
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M171965](https://github.com/rohanarun/alpoge-rh-replay/issues/27249#issuecomment-7070478920) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M135575](https://github.com/rohanarun/alpoge-rh-replay/issues/27250#issuecomment-7070463333) | Pending review |
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M078305](https://github.com/rohanarun/alpoge-rh-replay/issues/27251#issuecomment-7070465346) | Pending review |
@@ -253,4 +254,3 @@
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M171991](https://github.com/rohanarun/alpoge-rh-replay/issues/27385#issuecomment-7070674758) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M164264](https://github.com/rohanarun/alpoge-rh-replay/issues/27387#issuecomment-7070706547) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M129727](https://github.com/rohanarun/alpoge-rh-replay/issues/27388#issuecomment-7070706935) | Pending review |
-| [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M074945](https://github.com/rohanarun/alpoge-rh-replay/issues/27389#issuecomment-7070707339) | Pending review |
