@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.StatementWd",
+  "source_sha256": "3a37fa9aa721bf31ff8fcd795022b64336ced6719f1fd8911fe38e48f91eca68",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0273 packet build transcript linked from the PR."
+}

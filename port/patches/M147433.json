@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.LandauZeroFreeBounds.NoZeroComplexOf",
+  "source_sha256": "9c6b397b521792d5ff504c2ae0c5df4d6a02e2c18b71d6ed0d208e750ab75882",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0273 packet build transcript linked from the PR."
+}

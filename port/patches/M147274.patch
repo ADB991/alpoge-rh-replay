@@ -1,0 +1,31 @@
+--- a/src/Formalism/HermitianLattices/HermitianLatticesProofs/IsomAct.lean
++++ b/src/Formalism/HermitianLattices/HermitianLatticesProofs/IsomAct.lean
+@@ -35,13 +35,14 @@
+   simp only [dual, Formalism.E.hdual, Submodule.mem_iInf, Submodule.mem_comap,
+     LinearMap.restrictScalars_apply]
+ 
+-theorem isomAct_lattice (g : V ≃ₗ[K] V) (L : Submodule R V) (hL : Submodule.IsLattice K L) :
+-    Submodule.IsLattice K (gmap g L) := by
++theorem isomAct_lattice (g : V ≃ₗ[K] V) (L : Submodule R V)
++    (hL : L.FG ∧ Submodule.span K (L : Set V) = ⊤) :
++    (gmap g L).FG ∧ Submodule.span K ((gmap g L : Submodule R V) : Set V) = ⊤ := by
+   have e : ((gmap g L : Submodule R V) : Set V) = (g : V →ₗ[K] V) '' (L : Set V) := by
+     ext x
+     simp [gmap]
+-  refine ⟨hL.fg.map _, ?_⟩
+-  rw [e, Submodule.span_image, hL.span_eq_top, Submodule.map_top]
++  refine ⟨hL.1.map _, ?_⟩
++  rw [e, Submodule.span_image, hL.2, Submodule.map_top]
+   exact LinearEquiv.range g
+ 
+ theorem isomAct_mem_locS {W : Type*} [AddCommGroup W] [Module R W] (S : Submonoid R)
+@@ -99,7 +100,8 @@
+       exact e
+     · intro H
+       rw [H]
+-  have hlat : Submodule.IsLattice K (gmap g L) ↔ Submodule.IsLattice K L := by
++  have hlat : (gmap g L).FG ∧ Submodule.span K ((gmap g L : Submodule R V) : Set V) = ⊤ ↔
++      L.FG ∧ Submodule.span K (L : Set V) = ⊤ := by
+     constructor
+     · intro H
+       have e := isomAct_lattice g.symm (gmap g L) H

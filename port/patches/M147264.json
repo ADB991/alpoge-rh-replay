@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic",
+  "source_sha256": "7f4dd0e0adee5b75af6dee379910071b987504290d63da70f028ccc964b472fe",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0273 packet build transcript linked from the PR."
+}
