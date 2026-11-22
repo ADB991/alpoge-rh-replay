@@ -5,6 +5,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## setup notes
 
+(2026-11-22, run ae30) Simplest path: install elan normally, download+unzip github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip to ~/dl, then put a tiny `elan` shim first on PATH that turns `elan toolchain install leanprover/lean4:v4.36.0` into `cp -a ~/dl/lean-4.36.0-linux $ELAN_HOME/toolchains/leanprover--lean4---v4.36.0` and execs the real elan otherwise. Then `port_build.py prepare WORK` runs unmodified end to end (parts from alpo.ge, lake update, cache get): ~4 min, 13 GB.
+
 (2026-11-22, run c075) alpo.ge, releases.lean-lang.org reachable now. elan's own toolchain download crashes (curl error in elan), so: download github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip (no zstd binary on box; use .zip), unzip, `elan toolchain link`. port_build.py prepare uses ELAN_HOME=WORK/elan, so link there too (ELAN_HOME=WORK/elan elan toolchain link ...) then rerun its remaining steps by hand: `lake update`, `lake exe cache get` in WORK/lean (cache works). gh: GraphQL is blocked, use `gh api` REST (search/issues needs is:issue or is:pr). In the shared checkout, `origin` = upstream: always push to remote `fork`.
 
 (2026-11-22, run 0562) Retested: alpo.ge OK (parts download ~45 MB/s), github.com release zip OK. `elan toolchain install` still fails (CONNECT 403 on its download host): download https://github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip (no zstd on box, so not .tar.zst), unzip, move to WORK/elan/toolchains/leanprover--lean4---v4.36.0, then run the rest of prepare by hand (`lake update`, `lake exe cache get` with ELAN_HOME=WORK/elan XDG_CACHE_HOME=WORK/cache) -- cache get works.
