@@ -60,7 +60,9 @@
 | M014266 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianPartConstantHeatOperatorSymbolInMaximalIdStatement` | volunteer-build-reviewed |
 | M014267 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianPartDescendsOfThetaTermsRatios` | volunteer-build-reviewed |
 | M014269 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianPartIdentificationsAgreeConstantTangent` | volunteer-build-reviewed |
+| M014281 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeCardKernelEqNormPow` | volunteer-build-reviewed |
 | M014285 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeDeRhamFreeHodgeSequenceBaseChange` | volunteer-build-reviewed |
+| M014287 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeDeRhamLocallyFreeHodgeDegenerates` | volunteer-build-reviewed |
 | M014288 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeDeRhamLocallyFreeHodgeDegeneratesStatement` | volunteer-build-reviewed |
 | M014289 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeDeRhamStructureOfCubeDualPoincare` | volunteer-build-reviewed |
 | M014290 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbelianSchemeDeRhamStructureOfCubeDualPoincareStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M015011 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicStoneVonNeumannLagrangianUniquenessStatement` | volunteer-build-reviewed |
 | M015012 | P1275 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSymplecticFormRealOneParamLineEqZero` | build-observed |
 | M015013 | P1301 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSymplecticFormRealOneParamLineEqZeroStatement` | build-observed |
-| M015014 | P1474 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSymplecticTraceFormAlternatingSwap` | volunteer-build-reviewed |
-| M015018 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicThetaSumDoubledWeilAntidiagonalInvariant` | volunteer-build-reviewed |

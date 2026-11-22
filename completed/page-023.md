@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015014 | P1474 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSymplecticTraceFormAlternatingSwap` | volunteer-build-reviewed |
+| M015018 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicThetaSumDoubledWeilAntidiagonalInvariant` | volunteer-build-reviewed |
 | M015020 | P1738 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicThetaSumNormLePolynomialScale` | volunteer-build-reviewed |
 | M015021 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicThetaSumNormLePolynomialScaleStatement` | volunteer-build-reviewed |
 | M015022 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicTraceSupportedAtSplitPlace` | volunteer-build-reviewed |
@@ -229,6 +231,7 @@
 | M015461 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticEquationLocusStatement` | volunteer-build-reviewed |
 | M015463 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticFibreDescriptionUniqueStatement` | volunteer-build-reviewed |
 | M015464 | P0241 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticLogResolution` | volunteer-build-reviewed |
+| M015465 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticNonvanishing` | volunteer-build-reviewed |
 | M015466 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticNonvanishingStatement` | volunteer-build-reviewed |
 | M015467 | P1003 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticOnNhdOrbitPol` | build-observed |
 | M015468 | P1030 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AnalyticOnNhdOrbitPolStatement` | volunteer-build-reviewed |
@@ -277,6 +280,7 @@
 | M015576 | P0476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ApproximationByDiscriminantMultiple` | volunteer-build-reviewed |
 | M015577 | P0516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ApproximationByDiscriminantMultipleStatement` | build-observed |
 | M015578 | P0583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ApproximationQuotientsAgree` | build-observed |
+| M015580 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArCalcOfPrincipalisation` | volunteer-build-reviewed |
 | M015582 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArakelovFormMulFunctionStatement` | volunteer-build-reviewed |
 | M015587 | P1667 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchActionReadingsCompatible` | volunteer-build-reviewed |
 | M015589 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArchAt` | volunteer-build-reviewed |
@@ -379,6 +383,8 @@
 | M015788 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelBoundOfQuotedTheoremsStatement` | volunteer-build-reviewed |
 | M015793 | P2786 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelLowerBoundNefPlusAmple` | volunteer-build-reviewed |
 | M015796 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelLowerBoundSemiPosNefOnFibresStatement` | volunteer-build-reviewed |
+| M015797 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelNefOfAmple` | volunteer-build-reviewed |
+| M015799 | P2807 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelOfPrincipalisation` | volunteer-build-reviewed |
 | M015800 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelRankDegreeShareLe` | volunteer-build-reviewed |
 | M015802 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetric` | volunteer-build-reviewed |
 | M015803 | P2784 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithHilbertSamuelSmallSectionsChangeOfMetricStatement` | volunteer-build-reviewed |
@@ -388,17 +394,11 @@
 | M015820 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithIntersectionNumberExistsOfMixedHeightsStatement` | volunteer-build-reviewed |
 | M015821 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanHeightNefOfIsNef` | volunteer-build-reviewed |
 | M015824 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanSelfIntersectionNonnegStatement` | volunteer-build-reviewed |
+| M015825 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithLogSmallSectionsUpperBound` | volunteer-build-reviewed |
 | M015827 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeights` | volunteer-build-reviewed |
 | M015828 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeightsStatement` | volunteer-build-reviewed |
+| M015829 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBound` | volunteer-build-reviewed |
+| M015830 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBoundStatement` | volunteer-build-reviewed |
 | M015831 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithReciprocityNoCommonDivisorProjective` | volunteer-build-reviewed |
 | M015837 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSelfIntersectionMonoOfIsNef` | volunteer-build-reviewed |
 | M015838 | P2794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSelfIntersectionMonoOfIsNefStatement` | volunteer-build-reviewed |
-| M015839 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevel` | build-observed |
-| M015840 | P1644 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevelStatement` | build-observed |
-| M015843 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarComplexPointsCompact` | volunteer-build-reviewed |
-| M015844 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarComplexPointsCompactStatement` | volunteer-build-reviewed |
-| M015845 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarietyReciprocityAtComplexEmbedding` | volunteer-build-reviewed |
-| M015846 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarietyReciprocityAtComplexEmbeddingStatement` | volunteer-build-reviewed |
-| M015849 | P2654 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleFrameAssignment` | volunteer-build-reviewed |
-| M015850 | P2662 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleFrameAssignmentStatement` | volunteer-build-reviewed |
-| M015851 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleGenericFibreData` | volunteer-build-reviewed |

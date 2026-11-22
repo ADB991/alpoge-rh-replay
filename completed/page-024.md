@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015839 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevel` | build-observed |
+| M015840 | P1644 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithSmallSectionsEncardMulLeFiniteLevelStatement` | build-observed |
+| M015843 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarComplexPointsCompact` | volunteer-build-reviewed |
+| M015844 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarComplexPointsCompactStatement` | volunteer-build-reviewed |
+| M015845 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarietyReciprocityAtComplexEmbedding` | volunteer-build-reviewed |
+| M015846 | P2731 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithVarietyReciprocityAtComplexEmbeddingStatement` | volunteer-build-reviewed |
+| M015849 | P2654 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleFrameAssignment` | volunteer-build-reviewed |
+| M015850 | P2662 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleFrameAssignmentStatement` | volunteer-build-reviewed |
+| M015851 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleGenericFibreData` | volunteer-build-reviewed |
 | M015857 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleMapSmoothMetricsStatement` | volunteer-build-reviewed |
 | M015858 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleNormalBaseSetup` | volunteer-build-reviewed |
 | M015859 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithmeticBundleNormalBaseSetupStatement` | volunteer-build-reviewed |
@@ -230,6 +239,7 @@
 | M016339 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveBaseChangeDescendsFilteredColimit` | build-observed |
 | M016340 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveBaseChangeDescendsFilteredColimitStatement` | build-observed |
 | M016341 | P0177 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveBaseChangeResidueFieldOfFiniteEtale` | wave-reused |
+| M016342 | P2798 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveDeRham` | volunteer-build-reviewed |
 | M016343 | P0007 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveIffIsUnitDet` | volunteer-build-reviewed |
 | M016348 | P0007 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveLinearCombinationOfRankAtStalk` | volunteer-build-reviewed |
 | M016349 | P0100 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BijectiveLinearCombinationOfRankAtStalkStatement` | volunteer-build-reviewed |
@@ -252,6 +262,7 @@
 | M016374 | P0100 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BinQuadRepresentsUnitOfFiniteReduced` | volunteer-build-reviewed |
 | M016375 | P0394 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BinaryFormSplits` | build-observed |
 | M016376 | P0437 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BinaryFormSplitsStatement` | build-observed |
+| M016377 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BinomialFlagDimensionDegreeBound` | volunteer-build-reviewed |
 | M016378 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BinomialFlagDimensionDegreeBoundStatement` | volunteer-build-reviewed |
 | M016381 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BirationalOnWeightParameters` | volunteer-build-reviewed |
 | M016399 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BisimplicialAlexanderWhitneyHomotopyEquiv` | build-observed |
@@ -312,6 +323,9 @@
 | M016508 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottChernFormSplitZeroStatement` | volunteer-build-reviewed |
 | M016510 | P2447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottChernMatrixIsFormStatement` | volunteer-build-reviewed |
 | M016513 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomConstantOfBottomPair` | volunteer-build-reviewed |
+| M016516 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomConstantOfThetaStatement` | volunteer-build-reviewed |
+| M016517 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomNonvanishingFromInputs` | volunteer-build-reviewed |
+| M016518 | P2812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomNonvanishingFromInputsStatement` | volunteer-build-reviewed |
 | M016519 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomPairModularTwistIdentity` | volunteer-build-reviewed |
 | M016520 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomPairModularTwistIdentityStatement` | volunteer-build-reviewed |
 | M016523 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomPairsExistBaseTuple` | volunteer-build-reviewed |
@@ -322,15 +336,24 @@
 | M016528 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomRanksArithmeticLargeGrids` | volunteer-build-reviewed |
 | M016529 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomRanksArithmeticLargeGridsStatement` | volunteer-build-reviewed |
 | M016531 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomRanksSumLeTwoExponentAddCentreStatement` | volunteer-build-reviewed |
+| M016534 | P2808 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleConstantAt` | volunteer-build-reviewed |
+| M016535 | P2809 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleConstantAtStatement` | volunteer-build-reviewed |
+| M016538 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleConstantNormalized` | volunteer-build-reviewed |
+| M016539 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleConstantNormalizedStatement` | volunteer-build-reviewed |
+| M016541 | P2807 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleConstantRatioStatement` | volunteer-build-reviewed |
 | M016544 | P2795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleFiniteFactor` | volunteer-build-reviewed |
 | M016545 | P2796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleFiniteFactorExists` | volunteer-build-reviewed |
 | M016546 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleFiniteFactorExistsStatement` | volunteer-build-reviewed |
+| M016547 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleIntegralsNeZero` | volunteer-build-reviewed |
+| M016548 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleIntegralsNeZeroStatement` | volunteer-build-reviewed |
 | M016549 | P2121 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleLevelFixesVector` | volunteer-build-reviewed |
 | M016550 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleLevelFixesVectorStatement` | volunteer-build-reviewed |
 | M016551 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleMatchedFactors` | volunteer-build-reviewed |
 | M016552 | P2145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleNonzeroConstantFirst` | volunteer-build-reviewed |
 | M016553 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleNonzeroConstantFirstStatement` | volunteer-build-reviewed |
 | M016558 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTrianglePairCompare` | volunteer-build-reviewed |
+| M016560 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTrianglePolynomialFactorStatement` | volunteer-build-reviewed |
+| M016562 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTrianglePolynomialSurjectionStatement` | volunteer-build-reviewed |
 | M016563 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleRootOfUnityTwist` | volunteer-build-reviewed |
 | M016564 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleRootOfUnityTwistStatement` | volunteer-build-reviewed |
 | M016565 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BottomTriangleThetaEval` | volunteer-build-reviewed |
@@ -379,26 +402,3 @@
 | M016625 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotential` | volunteer-build-reviewed |
 | M016626 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotentialStatement` | volunteer-build-reviewed |
 | M016629 | P0551 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySmoothBoundPotential` | build-observed |
-| M016630 | P0583 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySmoothBoundPotentialStatement` | build-observed |
-| M016633 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedAdelesModGlobalElements` | volunteer-build-reviewed |
-| M016635 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedAdelesSubring` | volunteer-build-reviewed |
-| M016639 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedCoordinatesPPowerDenominator` | volunteer-build-reviewed |
-| M016640 | P0007 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedCountFiniteIndexSubgroups` | volunteer-build-reviewed |
-| M016641 | P0100 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedCountFiniteIndexSubgroupsStatement` | volunteer-build-reviewed |
-| M016643 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedCountLatticeStabilizersStatement` | volunteer-build-reviewed |
-| M016646 | P1421 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDenominatorIntegralPower` | volunteer-build-reviewed |
-| M016647 | P1504 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDenominatorsNonzeroTerms` | build-observed |
-| M016648 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDerivFunctionalContDiffExpLine` | build-observed |
-| M016649 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDerivFunctionalContDiffExpLineStatement` | build-observed |
-| M016650 | P0477 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDerivFunctionalTsumReplicate` | build-observed |
-| M016651 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedDerivFunctionalTsumReplicateStatement` | build-observed |
-| M016652 | P1373 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedEigenvaluesClasses` | build-observed |
-| M016653 | P1396 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedEigenvaluesClassesStatement` | build-observed |
-| M016654 | P0008 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedEntriesIsCompact` | volunteer-build-reviewed |
-| M016655 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedEntriesOfIsCompactClosureZpowersUnitary` | volunteer-build-reviewed |
-| M016657 | P2635 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedFiniteNormAlmostAll` | volunteer-build-reviewed |
-| M016658 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedFiniteNormAlmostAllStatement` | volunteer-build-reviewed |
-| M016661 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedIntegersStableSubgroupEqDoubleOrthogonal` | volunteer-build-reviewed |
-| M016662 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedIntegersStableSubgroupEqDoubleOrthogonalStatement` | volunteer-build-reviewed |
-| M016663 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedNormCompactPreimage` | volunteer-build-reviewed |
-| M016665 | P1815 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundedNormIdealElementsFiniteCount` | volunteer-build-reviewed |
