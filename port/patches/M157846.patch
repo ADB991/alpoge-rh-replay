@@ -1,0 +1,21 @@
+--- a/src/Formalism/PieriBlockIdeals/PieriColumnMinors/ParameterBounds.lean
++++ b/src/Formalism/PieriBlockIdeals/PieriColumnMinors/ParameterBounds.lean
+@@ -1121,7 +1121,8 @@
+     ∑ p ∈ Formalism.RankGapBounds.ChebyshevFactorialBounds.primesUpTo n, ((n / p : ℕ) : ℝ) * Real.log (p : ℝ) ≤
+       Real.log ((n.factorial : ℕ) : ℝ) := by
+   have hfac : n.factorial ≠ 0 := Nat.factorial_ne_zero n
+-  have hprod := Nat.prod_pow_prime_padicValNat (n.factorial) hfac (n.factorial + 1) (Nat.lt_succ_self _)
++  have hprod := Nat.prod_pow_prime_multiplicity (n.factorial) hfac (n.factorial + 1) (Nat.lt_succ_self _)
++  simp only [← Nat.padicValNat_def] at hprod
+   have hlog : Real.log ((n.factorial : ℕ) : ℝ) =
+       ∑ p ∈ (Finset.range (n.factorial + 1)).filter Nat.Prime,
+         (padicValNat p n.factorial : ℝ) * Real.log (p : ℝ) := by
+@@ -1139,7 +1140,7 @@
+         have hp' : p.Prime := (Finset.mem_filter.1 hp).2
+         have := Fact.mk hp'
+         have hv : n / p ≤ padicValNat p n.factorial := by
+-          rw [padicValNat_factorial (b := max 2 (Nat.log p n + 1))
++          rw [Nat.padicValNat_def, multiplicity_factorial (b := max 2 (Nat.log p n + 1))
+             (lt_of_lt_of_le (Nat.lt_succ_self _) (le_max_right _ _))]
+           calc n / p = n / p ^ 1 := by rw [pow_one]
+             _ ≤ ∑ i ∈ Finset.Ico 1 (max 2 (Nat.log p n + 1)), n / p ^ i :=

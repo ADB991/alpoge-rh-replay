@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PieriBlockIdeals.PieriColumnMinors.JointExactExponentStopHigh",
+  "source_sha256": "b303abd3f0021827cc6128f5d03e3fef34d97bec41f655696b7a9803a207579a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

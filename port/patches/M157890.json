@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PolynomialDimension.FinalHar",
+  "source_sha256": "2a8422f19d739006a342891b69c652fc325a435985114dd4ebe3e1d884c1ecee",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

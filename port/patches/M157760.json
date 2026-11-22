@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.WOnLatG",
+  "source_sha256": "e25600009a63eed2532ba0678f54d1b5b19e979334795cc52494d9beac987516",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

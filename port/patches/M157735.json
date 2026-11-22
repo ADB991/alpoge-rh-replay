@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ZeroWindow.RightOne",
+  "source_sha256": "db3fe597166b25461c5d83a9c610733f87f8cc1954d55d4d61272d6875ab1245",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

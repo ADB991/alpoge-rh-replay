@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds",
+  "source_sha256": "ff199becd2cacd8fbb24791f23ffe571b747c587d4da7e4df50532b76dc6232a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: the prime-factorisation and Legendre lemmas are now stated with `multiplicity` (Nat.prod_pow_prime_multiplicity, multiplicity_factorial; the padicValNat names are deprecated aliases with the new statements). The proof converts between the two with Nat.padicValNat_def : padicValNat p n = multiplicity p n, so every statement keeps padicValNat exactly as pinned.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}

@@ -1,0 +1,29 @@
+--- a/src/Formalism/PolynomialDimension/MultinomialDepth/SegmentTopRoomPublished.lean
++++ b/src/Formalism/PolynomialDimension/MultinomialDepth/SegmentTopRoomPublished.lean
+@@ -281,7 +281,7 @@
+     (Nat.clog p n : ℝ) ≤ Real.logb p x + 1 := by
+   have hp1 : (1 : ℝ) < p := by exact_mod_cast (by omega : 1 < p)
+   rcases Nat.lt_or_ge 1 n with h | h
+-  · have hlt : p ^ (Nat.clog p n).pred < n := Nat.pow_pred_clog_lt_self (by omega) h
++  · have hlt : p ^ (Nat.clog p n).pred < n := Nat.pow_pred_clog_lt_self p h
+     have hlt' : (p : ℝ) ^ (Nat.clog p n).pred ≤ x := by
+       have : ((p ^ (Nat.clog p n).pred : ℕ) : ℝ) < n := by exact_mod_cast hlt
+       push_cast at this; linarith
+@@ -448,7 +448,7 @@
+     push_cast
+     have hprod : ∏ i, ((dimPol r (A i) : ℝ) * dimPol r (Chi i)) ≤
+         ∏ i, (Real.exp (2 / Y) * ((dimPol r (A i) : ℝ) * dimPol r (Clo i))) := by
+-      apply Finset.prod_le_prod
++      apply Finset.prod_le_prod₀
+       · intro i _; positivity
+       · intro i _
+         calc (dimPol r (A i) : ℝ) * dimPol r (Chi i)
+@@ -508,7 +508,7 @@
+   push_cast
+   have hprod : ∏ j, ((dimPol r (A j) : ℝ) * dimPol r (Function.update C i Cp j)) ≤
+       ∏ j, ((if j = i then E else 1) * ((dimPol r (A j) : ℝ) * dimPol r (C j))) := by
+-    apply Finset.prod_le_prod
++    apply Finset.prod_le_prod₀
+     · intro j _; positivity
+     · intro j _
+       by_cases hj : j = i

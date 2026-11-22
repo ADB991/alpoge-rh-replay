@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PieriBlockIdeals.LemmaWFromLattice",
+  "source_sha256": "71fb3383d4e450039dbf083213b2632060db8fc1e6ec87873b097ff944d63122",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436-part2/P0279-receipt.json"
+}
