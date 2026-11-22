@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155142 | P1369 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.FixOfPos` | build-observed |
+| M155144 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfIso` | build-observed |
+| M155145 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfLoc` | build-observed |
+| M155146 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfLocal` | build-observed |
+| M155147 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HermBvecEI` | build-observed |
+| M155148 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HermXGen` | build-observed |
+| M155149 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HmSelfRe` | build-observed |
+| M155150 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.IsotropicSubspaceEqPrimed` | build-observed |
 | M155152 | P1295 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.MemXspIff` | build-observed |
 | M155153 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.PartEq` | build-observed |
 | M155157 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.XiHermitianCofactorDet` | build-observed |
@@ -394,11 +402,3 @@
 | M155605 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatOpenCompact` | build-observed |
 | M155606 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LeviEmbeddingBlock32` | build-observed |
 | M155607 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocCongIffEnt` | build-observed |
-| M155608 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocDegOneBelow` | build-observed |
-| M155609 | P1734 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocOpenHolds` | build-observed |
-| M155610 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MassDataIndicesOfSteps` | build-observed |
-| M155611 | P1615 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MatRMulMatC` | build-observed |
-| M155612 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MeasBAll` | build-observed |
-| M155613 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlagC` | build-observed |
-| M155614 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlags` | build-observed |
-| M155615 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffMap` | build-observed |

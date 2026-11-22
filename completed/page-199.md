@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132268 | P1552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsionStatement` | volunteer-build-reviewed |
+| M132269 | P0992 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMap` | build-observed |
+| M132270 | P1018 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMapStatement` | build-observed |
+| M132273 | P0936 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusKernelPrimeQuotient` | build-observed |
+| M132274 | P0964 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusKernelPrimeQuotientStatement` | build-observed |
 | M132277 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusOver` | volunteer-build-reviewed |
 | M132278 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusOverLieModelBaseChange` | volunteer-build-reviewed |
 | M132280 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusPointOverFractionField` | volunteer-build-reviewed |
@@ -276,6 +281,7 @@
 | M132823 | P0063 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.NearIdentityMatrixPositiveSolution` | volunteer-build-reviewed |
 | M132824 | P0143 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.NearIdentityMatrixPositiveSolutionStatement` | volunteer-build-reviewed |
 | M132826 | P1706 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.NelsonExistsWordGrowthConstantStatement` | volunteer-build-reviewed |
+| M132827 | P0370 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.NormalSubgroupLeUnramifiedFixing` | volunteer-build-reviewed |
 | M132833 | P0370 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.OneLeNormOneSub` | volunteer-build-reviewed |
 | M132838 | P1897 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.ParabolicBlockEmbeddingCompact` | volunteer-build-reviewed |
 | M132840 | P0143 | `Development.AutomorphicSpectrum.Proofs.GlobalProofs.ParabolicElementBlocks` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M133036 | P1782 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivarianceStatement` | volunteer-build-reviewed |
 | M133037 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbelianPartHeightLinear` | build-observed |
 | M133038 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbsCoeffProdXLeOne` | volunteer-build-reviewed |
-| M133039 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocal` | build-observed |
-| M133040 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocalStatement` | build-observed |
-| M133043 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinate` | build-observed |
-| M133044 | P1316 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinateStatement` | build-observed |
-| M133045 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitary` | volunteer-build-reviewed |
-| M133046 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitaryStatement` | volunteer-build-reviewed |

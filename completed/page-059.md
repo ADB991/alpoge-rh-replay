@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039855 | P1508 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovArchimedeanTotallyComplexMirabolicStatement` | build-observed |
 | M039856 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemiLocalMirabolicAbstract` | volunteer-build-reviewed |
 | M039857 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemiLocalMirabolicAbstractStatement` | volunteer-build-reviewed |
 | M039858 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovSemilocalMirabolicWhittaker` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M040568 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeftSmoothingProdExpSmoothCommuteStatement` | build-observed |
 | M040569 | P0480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeftTranslateSmoothCommuteLeftInvariantOps` | build-observed |
 | M040570 | P0519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeftTranslateSmoothCommuteLeftInvariantOpsStatement` | build-observed |
-| M040573 | P2663 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LemmaU` | volunteer-build-reviewed |

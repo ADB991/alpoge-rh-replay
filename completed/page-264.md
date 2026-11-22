@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170872 | P0232 | `Lemmata.PaddedFamilies.PadFam` | build-observed |
+| M170873 | P0089 | `Lemmata.PadicNatCastNorm.NormNatCastOfNotDvd` | wave-reused |
+| M170874 | P0089 | `Lemmata.PartialDerivativeDegree.PderivTdSuccLe` | wave-reused |
+| M170875 | P0089 | `Lemmata.PeriodicFunctions.PeriodicApplyMulAdd` | build-observed |
+| M170876 | P0676 | `Lemmata.PlaneOverMembership.PlOverOfMem` | build-observed |
+| M170877 | P0089 | `Lemmata.PosDefOfRealQuadratic.QuadFormRealSmul` | wave-reused |
+| M170878 | P0089 | `Lemmata.PowMulVecEigen.PowMulVecEig` | wave-reused |
+| M170879 | P0089 | `Lemmata.PowMulVecEigenvalue.PowMulVecEig` | volunteer-build-reviewed |
+| M170880 | P0089 | `Lemmata.PowerApplication.PowApp` | wave-reused |
 | M170881 | P0089 | `Lemmata.PowerMembership.PowMem` | volunteer-build-reviewed |
 | M170882 | P0089 | `Lemmata.ProductIdentities.ProdInvZpowMulOfProdZpowEqOne` | volunteer-build-reviewed |
 | M170883 | P0089 | `Lemmata.RankOneOrbitForms.RankOneForm` | build-observed |
@@ -393,12 +402,3 @@
 | M171400 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollA` | wave-reused |
 | M171401 | P0342 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollB` | wave-reused |
 | M171402 | P0089 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshPoisson` | wave-reused |
-| M171403 | P0289 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax` | wave-reused |
-| M171404 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AnalyticSubsetChartLocal` | wave-reused |
-| M171405 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AtlasIndep` | wave-reused |
-| M171406 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential` | wave-reused |
-| M171407 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0` | pilot-reused |
-| M171408 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffHypInclAt` | wave-reused |
-| M171409 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffMulOfTsupport` | wave-reused |
-| M171410 | P0232 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffOnFubiniStudyProfileInvNormSqFirst` | pilot-reused |
-| M171411 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Degree` | wave-reused |

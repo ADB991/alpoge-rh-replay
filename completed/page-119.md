@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083458 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponent` | wave-reused |
+| M083459 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponentStatement` | wave-reused |
+| M083460 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensor` | wave-reused |
 | M083461 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensorStatement` | wave-reused |
 | M083462 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotone` | wave-reused |
 | M083463 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotoneStatement` | wave-reused |
@@ -399,6 +402,3 @@
 | M084309 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOne` | build-observed |
 | M084310 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOneStatement` | volunteer-build-reviewed |
 | M084314 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctional` | wave-reused |
-| M084315 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctionalStatement` | wave-reused |
-| M084316 | P0766 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PsJetTwistedSeriesOfLeOne` | volunteer-build-reviewed |
-| M084317 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PullAlValueIntegralPoint` | wave-reused |

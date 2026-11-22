@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160464 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.MapEvalRingHomOfPiFamily` | wave-reused |
+| M160465 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PiSeries` | wave-reused |
+| M160466 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PolynomialCoePowerSeriesEqAevalX` | wave-reused |
+| M160467 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PowValMemPrimitiveRoots` | wave-reused |
+| M160468 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PsCoprimeDvdSub` | wave-reused |
+| M160469 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PsCycloStatement` | wave-reused |
+| M160470 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.RhoUnit` | wave-reused |
+| M160471 | P1053 | `Formalism.SharpRestriction.LevelLetterCocycles.CylinderCountFamily` | build-observed |
 | M160472 | P0506 | `Formalism.SharpRestriction.LevelLetterCocycles.DataN` | wave-reused |
 | M160473 | P0280 | `Formalism.SharpRestriction.LevelLetterCocycles.DataNLoc` | wave-reused |
 | M160474 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DdRFull` | build-observed |
@@ -394,11 +402,3 @@
 | M161251 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LiftInvariantsFinrankEq` | volunteer-build-reviewed |
 | M161252 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ScaleEps` | volunteer-build-reviewed |
 | M161253 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ValuationApplyLtOneIff` | volunteer-build-reviewed |
-| M161256 | P0697 | `Formalism.SizeWindowBrackets.Chain2aCoreNoAnalytic` | build-observed |
-| M161257 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AdmissibleSchurLemma` | build-observed |
-| M161258 | P0833 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AnalyticFirstToLatticeDiscriminant` | build-observed |
-| M161259 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainAnalyticVariantOfTop` | build-observed |
-| M161260 | P0778 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainLatticeSizesModelEventually` | build-observed |
-| M161261 | P0778 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChiEightNoRealZeroHypothesis` | build-observed |
-| M161262 | P0222 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.CorollaryModelSideCondition` | build-observed |
-| M161263 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DiscriminantSettingSatisfied` | build-observed |

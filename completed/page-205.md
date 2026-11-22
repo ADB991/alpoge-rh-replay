@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136309 | P0499 | `Development.EtaleCohomology.TateTwists.ExactLocPf` | wave-reused |
+| M136310 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleKummerChernClassCochainOfDegreeValues` | wave-reused |
+| M136311 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotien` | wave-reused |
+| M136312 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotientAndPreshe` | wave-reused |
+| M136313 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfLocalCriterionAn` | wave-reused |
+| M136314 | P0568 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfRootListsLocally` | wave-reused |
 | M136315 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeOneValueOfRootsKum` | wave-reused |
 | M136316 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsNaturalEtaleKummerDegreeTwoValueOfRootsKum` | wave-reused |
 | M136320 | P0417 | `Development.EtaleCohomology.TateTwists.FirstChernClassSpec` | wave-reused |
@@ -396,9 +402,3 @@
 | M136736 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowups` | wave-reused |
 | M136737 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowupsComparison` | wave-reused |
 | M136738 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.Saturation` | wave-reused |
-| M136739 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransform` | wave-reused |
-| M136740 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransformOffCenter` | wave-reused |
-| M136741 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.EtaleMaxContactComparison` | wave-reused |
-| M136742 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactChartUniqueness` | wave-reused |
-| M136743 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCommonCharts` | wave-reused |
-| M136744 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCoordinate` | wave-reused |

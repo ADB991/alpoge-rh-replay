@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090651 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByM` | wave-reused |
+| M090652 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByMStatement` | wave-reused |
+| M090654 | P1285 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedKeyInvariantRuleCharZeroStatement` | build-observed |
 | M090655 | P0767 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOrigin` | wave-reused |
 | M090656 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOriginStatement` | volunteer-build-reviewed |
 | M090660 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPoint` | build-observed |
@@ -399,6 +402,3 @@
 | M091342 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSectionsExtendGermRingsAndSpanFibresStatement` | build-observed |
 | M091343 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShift` | build-observed |
 | M091344 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShiftStatement` | build-observed |
-| M091345 | P0850 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThickenedPointToTorusExtensionGenerator` | wave-reused |
-| M091346 | P0988 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToFSurjectiveFractionRing` | wave-reused |
-| M091347 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToUnitCompLeft` | build-observed |

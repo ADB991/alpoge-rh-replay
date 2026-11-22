@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174293 | P0863 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRed` | wave-reused |
+| M174294 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRedOf` | wave-reused |
+| M174295 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepHom` | wave-reused |
+| M174296 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousTorepK` | wave-reused |
+| M174297 | P0730 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Exists` | wave-reused |
+| M174298 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Finrank` | wave-reused |
+| M174299 | P0836 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHC` | wave-reused |
+| M174300 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCA` | wave-reused |
+| M174301 | P0808 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCB` | wave-reused |
 | M174302 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HWExists` | build-observed |
 | M174303 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HasDerivAtRealOfComplex` | wave-reused |
 | M174304 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.HcParamGapGeIndex` | wave-reused |
@@ -393,12 +402,3 @@
 | M174862 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeD` | wave-reused |
 | M174863 | P1418 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Weighted` | wave-reused |
 | M174864 | P1371 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedA` | wave-reused |
-| M174865 | P1393 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedB` | wave-reused |
-| M174866 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ActDiagMemOfWK` | build-observed |
-| M174867 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdMatConjTranspose` | build-observed |
-| M174868 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdPhysApplySingle` | build-observed |
-| M174869 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdPhysDiagSingle` | build-observed |
-| M174870 | P1000 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AlgebraMapInvFf` | build-observed |
-| M174871 | P0171 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.BlockAnti` | volunteer-build-reviewed |
-| M174872 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CompactLoweringSpanDiagStable` | build-observed |
-| M174873 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CoordSpan` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162069 | P0281 | `Formalism.WachLatticeTwists.SplitLocalLifts.Statement` | wave-reused |
+| M162070 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.WachTwistTheoremLift` | wave-reused |
+| M162071 | P0159 | `Formalism.WachLatticeTwists.Statement` | wave-reused |
+| M162072 | P0159 | `Formalism.WachLatticeTwists.StatementDual` | wave-reused |
+| M162073 | P0573 | `Formalism.WachLatticeTwists.StatementSplit` | wave-reused |
+| M162074 | P0698 | `Formalism.WachLatticeTwists.TheoremNFiveSplit` | wave-reused |
+| M162075 | P0669 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.Statement` | wave-reused |
+| M162076 | P0751 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.KerTors` | wave-reused |
 | M162077 | P0833 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.SplitText` | wave-reused |
 | M162078 | P0778 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplit` | wave-reused |
 | M162079 | P0805 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.TheoremNFiveTopSplitHZero` | wave-reused |
@@ -394,11 +402,3 @@
 | M162512 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.FixedOpen` | wave-reused |
 | M162513 | P0465 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.IsHilbertSchmidtOfAeEqDual` | wave-reused |
 | M162514 | P0159 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.MixedDifference` | wave-reused |
-| M162515 | P1082 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.RconvDiff` | wave-reused |
-| M162516 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelConj` | wave-reused |
-| M162517 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelCount` | wave-reused |
-| M162518 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelFinite` | wave-reused |
-| M162519 | P0999 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.Smoothing` | wave-reused |
-| M162520 | P1026 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SmoothingFinite` | wave-reused |
-| M162521 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsArchConv` | wave-reused |
-| M162522 | P1321 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsAreCuspForms` | wave-reused |

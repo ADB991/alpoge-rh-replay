@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M106996 | P2772 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSolDescent` | volunteer-build-reviewed |
+| M106997 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSpanEig` | volunteer-build-reviewed |
+| M106998 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSphSame` | volunteer-build-reviewed |
+| M106999 | P2734 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSphUntw` | volunteer-build-reviewed |
 | M107000 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSplitSat` | volunteer-build-reviewed |
 | M107001 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TThetaEx` | volunteer-build-reviewed |
 | M107002 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TToCsd` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M107471 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmHom` | volunteer-build-reviewed |
 | M107473 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmRes` | volunteer-build-reviewed |
 | M107474 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmSub` | volunteer-build-reviewed |
-| M107476 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.BasisOfUnit` | volunteer-build-reviewed |
-| M107478 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardCoinvariantsModPowEqModPowCoinvariants` | volunteer-build-reviewed |
-| M107479 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardQuotientPowSubmoduleGrowsFinrank` | volunteer-build-reviewed |
-| M107480 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharDR` | volunteer-build-reviewed |

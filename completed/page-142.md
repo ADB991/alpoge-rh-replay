@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099315 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTermsStatement` | build-observed |
+| M099316 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTerms` | build-observed |
+| M099317 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTermsStatement` | build-observed |
 | M099318 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtFormalTorsion` | build-observed |
 | M099319 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtOrigin` | build-observed |
 | M099322 | P0796 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuesNatural` | wave-reused |
@@ -399,6 +402,3 @@
 | M099942 | P1158 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliExistsNumberFieldPoint` | build-observed |
 | M099944 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliPointFromFgSubalgebra` | build-observed |
 | M099953 | P1949 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormEmbeddingHostFormConstantEq` | volunteer-build-reviewed |
-| M099954 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointArithmeticGroupInvariantSig` | volunteer-build-reviewed |
-| M099956 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointTriangularFrameWeightRule` | volunteer-build-reviewed |
-| M099958 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedPointsSatisfySingleFrame` | build-observed |

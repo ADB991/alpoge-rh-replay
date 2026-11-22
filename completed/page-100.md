@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068407 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfIsLocCompGL` | volunteer-build-reviewed |
+| M068408 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfNodupSumMultisetOfEq` | volunteer-build-reviewed |
 | M068409 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfOverTwo` | volunteer-build-reviewed |
 | M068412 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnit` | volunteer-build-reviewed |
 | M068413 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnitStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M069075 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjOfTeichmullerCongr` | build-observed |
 | M069076 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjOfTeichmullerCongrStatement` | build-observed |
 | M069081 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisElemCyclotomicPeriodNotRootOfUnity` | wave-reused |
-| M069082 | P1124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisElemCyclotomicPeriodNotRootOfUnityStatement` | wave-reused |
-| M069085 | P0955 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisEqEmbeddingsOCModPrime` | wave-reused |

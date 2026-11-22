@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150251 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsSt` | volunteer-build-reviewed |
+| M150256 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.RhoDotSelf` | volunteer-build-reviewed |
+| M150257 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.ThetaDotSelf` | volunteer-build-reviewed |
+| M150258 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.TieLDA` | volunteer-build-reviewed |
+| M150259 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.TieLDB` | volunteer-build-reviewed |
+| M150260 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.AvMono` | wave-reused |
+| M150261 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHInst` | build-observed |
+| M150262 | P1188 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHLAM` | volunteer-build-reviewed |
 | M150263 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHSup` | volunteer-build-reviewed |
 | M150265 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.BaseEmbeddingInclusion` | build-observed |
 | M150266 | P1022 | `Formalism.LocalToGlobal.ProjectiveLattices.BetaAddRight` | build-observed |
@@ -394,11 +402,3 @@
 | M150781 | P0968 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsColLatRepS` | build-observed |
 | M150782 | P0995 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsLeviElt` | build-observed |
 | M150783 | P0995 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsLeviFrame` | build-observed |
-| M150784 | P0968 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsLeviOntoS` | build-observed |
-| M150785 | P1050 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsLeviOntoSEnd` | build-observed |
-| M150786 | P1022 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsMatLift` | build-observed |
-| M150787 | P0995 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.NormStepsSIdem` | build-observed |
-| M150789 | P1078 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PairValPf` | build-observed |
-| M150790 | P1050 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.ParCols` | build-observed |
-| M150791 | P1109 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PhaseAtPf` | build-observed |
-| M150792 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.PiMapMulRight` | build-observed |

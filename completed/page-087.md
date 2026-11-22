@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059697 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSq` | build-observed |
+| M059698 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSqStatement` | build-observed |
 | M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |
 | M059702 | P1090 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDual` | build-observed |
 | M059703 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDualStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M060404 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumOrbitNormaliser` | wave-reused |
 | M060405 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumPiProdEnnreal` | volunteer-build-reviewed |
 | M060407 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumRationalClassesEqProdLocalSumsStatement` | volunteer-build-reviewed |
-| M060408 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumTransversalEqTsumOrbitQuotientGeneral` | wave-reused |
-| M060409 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometry` | wave-reused |

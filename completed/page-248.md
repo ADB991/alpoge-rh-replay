@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161658 | P0914 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGaussK` | build-observed |
+| M161659 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EJoint` | build-observed |
+| M161660 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EKernel` | build-observed |
+| M161661 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EntryAOneParity` | build-observed |
+| M161662 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EntryATwoAndB` | build-observed |
+| M161663 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ExpansionsAtPlaces` | build-observed |
+| M161664 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FinsuppStepInduction` | build-observed |
+| M161665 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FrobeniusPartialCoboundaryBound` | build-observed |
 | M161666 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.GaussElementarySymmetric` | build-observed |
 | M161667 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.IntegralPderivLgF` | wave-reused |
 | M161668 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.KOneConsequenceOf` | build-observed |
@@ -394,11 +402,3 @@
 | M162066 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.LocLift` | wave-reused |
 | M162067 | P0606 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.NatCastPowSmul` | wave-reused |
 | M162068 | P0698 | `Formalism.WachLatticeTwists.SplitLocalLifts.StatCompColk` | wave-reused |
-| M162069 | P0281 | `Formalism.WachLatticeTwists.SplitLocalLifts.Statement` | wave-reused |
-| M162070 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.WachTwistTheoremLift` | wave-reused |
-| M162071 | P0159 | `Formalism.WachLatticeTwists.Statement` | wave-reused |
-| M162072 | P0159 | `Formalism.WachLatticeTwists.StatementDual` | wave-reused |
-| M162073 | P0573 | `Formalism.WachLatticeTwists.StatementSplit` | wave-reused |
-| M162074 | P0698 | `Formalism.WachLatticeTwists.TheoremNFiveSplit` | wave-reused |
-| M162075 | P0669 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.Statement` | wave-reused |
-| M162076 | P0751 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.TorsionKernelProofs.KerTors` | wave-reused |

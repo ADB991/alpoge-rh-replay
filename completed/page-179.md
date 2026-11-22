@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119066 | P2195 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYWeilVec` | volunteer-build-reviewed |
+| M119067 | P2207 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYWeilVecStatement` | volunteer-build-reviewed |
+| M119068 | P1751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCut` | volunteer-build-reviewed |
+| M119069 | P1826 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCutOfArtin` | volunteer-build-reviewed |
 | M119070 | P1848 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCutOfArtinStatement` | volunteer-build-reviewed |
 | M119071 | P2443 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsPin` | volunteer-build-reviewed |
 | M119072 | P2185 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StmtJHolds` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M119556 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasLevelOfUnitIdeleCongruentOne` | volunteer-build-reviewed |
 | M119558 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumCoprimeInvPowTwoMulEqLSeries` | volunteer-build-reviewed |
 | M119559 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumTwistedZetaIntegralDirichletSeries` | volunteer-build-reviewed |
-| M119560 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumWhittakerDiagTorusRatEqUnipotentConstantTe` | volunteer-build-reviewed |
-| M119563 | P2552 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceArchIdeleMulFiniteNatIdele` | volunteer-build-reviewed |
-| M119564 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceConditionMulCongruenceUnitIff` | volunteer-build-reviewed |
-| M119566 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleEmbeddingUniformizerOfSplitPlacePair` | volunteer-build-reviewed |

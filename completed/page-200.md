@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133039 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocal` | build-observed |
+| M133040 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocalStatement` | build-observed |
+| M133043 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinate` | build-observed |
+| M133044 | P1316 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinateStatement` | build-observed |
+| M133045 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitary` | volunteer-build-reviewed |
+| M133046 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameChangeUnitaryStatement` | volunteer-build-reviewed |
 | M133047 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLattice` | volunteer-build-reviewed |
 | M133048 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameDeterminesLatticeStatement` | volunteer-build-reviewed |
 | M133049 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameHermitianProduct` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M133633 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapSameBaseOrbitStatement` | build-observed |
 | M133634 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariant` | build-observed |
 | M133635 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariantStatement` | build-observed |
-| M133639 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagHeightPolynomialWeightForm` | volunteer-build-reviewed |
-| M133646 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPoints` | wave-reused |
-| M133647 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPointsStatement` | volunteer-build-reviewed |
-| M133648 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGiven` | volunteer-build-reviewed |
-| M133649 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGivenStatement` | volunteer-build-reviewed |
-| M133652 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentity` | volunteer-build-reviewed |

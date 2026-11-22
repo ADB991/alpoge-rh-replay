@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060408 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumTransversalEqTsumOrbitQuotientGeneral` | wave-reused |
+| M060409 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometry` | wave-reused |
 | M060410 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometryStatement` | wave-reused |
 | M060417 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoGeometricSumsIndexBound` | wave-reused |
 | M060422 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoSidedSizeFunctionPosInvariantContinuousStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M061035 | P0186 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassGroupNthPowerOfCongruentPointsMod` | volunteer-build-reviewed |
 | M061036 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassGroupNthPowerOfCongruentPointsModStatement` | volunteer-build-reviewed |
 | M061037 | P2311 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassInvariantDescentCoprimeLevelModPow` | volunteer-build-reviewed |
-| M061040 | P2098 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypotheses` | volunteer-build-reviewed |
-| M061041 | P2113 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypothesesStatement` | volunteer-build-reviewed |

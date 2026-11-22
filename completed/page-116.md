@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080336 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormViaMatrixStatement` | volunteer-build-reviewed |
+| M080342 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeStepFrameFiberStatement` | volunteer-build-reviewed |
 | M080345 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptotics` | build-observed |
 | M080346 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptoticsStatement` | volunteer-build-reviewed |
 | M080347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLattice` | volunteer-build-reviewed |
@@ -252,6 +254,7 @@
 | M080938 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MiddleStepOneLevelProjectionEqChartProjectionStatement` | volunteer-build-reviewed |
 | M080940 | P2379 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MinkowskiWeylOrthantConeIntegralConstraintsStatement` | build-observed |
 | M080944 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MinorProductTorusWeightBlockTranslatesStatement` | volunteer-build-reviewed |
+| M080945 | P0361 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MinpolyAndNormOfPowEqUniformizer` | volunteer-build-reviewed |
 | M080947 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MinpolyIrreducibleLocalEmbeddingStatement` | volunteer-build-reviewed |
 | M080949 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.MixedLaplacianKillsProductOfMinors` | volunteer-build-reviewed |
 | M080953 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ModelFunctionFieldCompatibility` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M081248 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalFramesBoundedOfDefinite` | build-observed |
 | M081253 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalNegFirstFamilyFrameCartanMove` | volunteer-build-reviewed |
 | M081256 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OtherInstanceCharacterEqPsiSymmetricArgument` | volunteer-build-reviewed |
-| M081258 | P0765 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PadicIntHomUnique` | wave-reused |
-| M081260 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PairingComplexFormsConstOnRowClassesStatement` | volunteer-build-reviewed |
-| M081269 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ParameterOfDiscreteSeriesReciprocityStatement` | volunteer-build-reviewed |

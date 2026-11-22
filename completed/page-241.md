@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158228 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateWords` | build-observed |
+| M158229 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockExponentKappaIdentity` | build-observed |
+| M158230 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BranchingAndRankConstants` | build-observed |
+| M158231 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCPX` | build-observed |
+| M158232 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSB` | build-observed |
+| M158233 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur` | wave-reused |
+| M158234 | P1214 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCountE` | build-observed |
+| M158235 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeDeepQ` | build-observed |
 | M158236 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeGapDS` | build-observed |
 | M158237 | P1321 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeHW` | build-observed |
 | M158238 | P1557 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemV` | build-observed |
@@ -394,11 +402,3 @@
 | M158684 | P0887 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddFirstSecond` | build-observed |
 | M158685 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddSecondThird` | build-observed |
 | M158689 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETExSt` | volunteer-build-reviewed |
-| M158690 | P1024 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETPoint` | volunteer-build-reviewed |
-| M158695 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsBasisOfSaturated` | volunteer-build-reviewed |
-| M158696 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsTruncatedIntegralChart` | volunteer-build-reviewed |
-| M158700 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpBijectiveUniformisation` | build-observed |
-| M158702 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJet` | build-observed |
-| M158703 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJetA` | build-observed |
-| M158707 | P1166 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGUPf` | build-observed |
-| M158711 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie` | wave-reused |

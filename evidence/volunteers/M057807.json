@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    "M057807"
+  ],
+  "started_utc": "2026-11-22T10:39:19.265083+00:00",
+  "ended_utc": "2026-11-22T10:40:20.108816+00:00",
+  "elapsed_seconds": 60.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5087956
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsSmulRatTupEq:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "eb1a3589e3b78df31207ab4af5d65c83f26a56da6e132116275b09fc649c4457",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.IsHermHyperbolic",
+    "Development.AbelianVarietyTheory.Definitions.Foundations.IsHermND",
+    "Development.AbelianVarietyTheory.Definitions.Foundations.RowRawRange",
+    "Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsEquivOfRetractions",
+    "Development.AbelianVarietyTheory.Proofs.FlagMeasures.IsIntegralValIntegerIff",
+    "Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.ExistsGlIsometryCompEqOfNondegenerate",
+    "Development.AbelianVarietyTheory.Proofs.HermitianTraceForms.ExistsOrthogonalBasisDotProductApplyEq",
+    "Development.AbelianVarietyTheory.Proofs.TwistedOperators.QuadBaseChangeIsFieldOrSplit",
+    "Formalism.SharpRestriction.CuspSpanNormBounds.FractionFieldToGenericStalkAlgebraMapEq",
+    "Formalism.SharpRestriction.CuspSpanNormBounds.Point",
+    "Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes"
+  ],
+  "objects": {
+    "M057807": "a285fddaa4beac3f29275af9382a83523337c699c77f8ca55a0e62f1ffd68dbe"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "6417f604a20c3a8a59905de50b25c96a96571b52b74fa51e37b65b16ada4492c",
+  "packet": "M057807",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31563#issuecomment-7077974184",
+  "reviewed_utc": "2026-11-22T11:53:28.499391+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

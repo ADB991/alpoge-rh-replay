@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    "M030188"
+  ],
+  "started_utc": "2026-11-22T10:48:10.589500+00:00",
+  "ended_utc": "2026-11-22T10:52:16.942424+00:00",
+  "elapsed_seconds": 246.3,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6176512
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUniqueJointTop:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "23f5337521e7f73b7094c24e06af7031ed3b8d3028653384c40814bb58a9d382",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.ThetaMetrics.IsWeightedHomogeneousOfMemOrbitSpan",
+    "Development.AbelianVarietyTheory.Definitions.ThetaMetrics.SumFinsuppAntidiagProdPowDivMultiFactorial",
+    "Development.AbelianVarietyTheory.Definitions.ThetaValues.ExistsMemRowHighestTotalDegreeEqTwo",
+    "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyExistsMulIsLowerTriangular",
+    "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMinorProdEqSmulColActBasePoly",
+    "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IntegralConjInnerMulInnerOfIsEmptyEquiv",
+    "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IsHarmonicProdOfDisjointColumns",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ColumnDegreeLe",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.CommuteRowOpRightMixedOp",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.EqZeroOfPartialSumsNonneg",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsEqMulProdMinors",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsJointIntEigenvectorOfStable",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ProdLeadMinorDiagonal",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.RowAddGenericRowAddTerm",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.RowHighestLeSpanColWordComplex",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.Sl2NonnegWeightOfHighestWeightVector",
+    "Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.SumSmulMemOfSumZpowSmulMem"
+  ],
+  "objects": {
+    "M030188": "f19f47e904a98c8efa541e54a8cd40385dbe1fd45a2d1a8b5ebc03da3ec54db0"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "9bb53cafd3af52ca105c77c281566919ad3b52d928aaf1ead4375ae829c8de01",
+  "packet": "M030188",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31608#issuecomment-7078131189",
+  "reviewed_utc": "2026-11-22T11:53:28.431657+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

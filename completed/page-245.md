@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160025 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestCoordinateFunctional` | wave-reused |
+| M160026 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestWeightVectorFindim` | wave-reused |
+| M160027 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections` | wave-reused |
+| M160028 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsNonzeroMultipleMemLattice` | wave-reused |
+| M160029 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsScalarMultipleMemDelta` | wave-reused |
+| M160030 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExponentFactorialAddSingleOne` | wave-reused |
+| M160031 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorLatticeScaledMem` | wave-reused |
+| M160032 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorOfReducibility` | wave-reused |
 | M160033 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FiltrationAdjointStable` | wave-reused |
 | M160034 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FockLatticeFiniteSpanning` | wave-reused |
 | M160035 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.FrameChangePreservesMultidegree` | wave-reused |
@@ -394,11 +402,3 @@
 | M160461 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.EqZeroOfBlockSumEqZero` | wave-reused |
 | M160462 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ExpRescaleCoeff` | wave-reused |
 | M160463 | P0464 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.LinkRing` | wave-reused |
-| M160464 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.MapEvalRingHomOfPiFamily` | wave-reused |
-| M160465 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PiSeries` | wave-reused |
-| M160466 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PolynomialCoePowerSeriesEqAevalX` | wave-reused |
-| M160467 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PowValMemPrimitiveRoots` | wave-reused |
-| M160468 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PsCoprimeDvdSub` | wave-reused |
-| M160469 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PsCycloStatement` | wave-reused |
-| M160470 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.RhoUnit` | wave-reused |
-| M160471 | P1053 | `Formalism.SharpRestriction.LevelLetterCocycles.CylinderCountFamily` | build-observed |

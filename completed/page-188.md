@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124548 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsComplNonZeroDivisor` | volunteer-build-reviewed |
+| M124549 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsContent` | volunteer-build-reviewed |
+| M124550 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCovolOne` | volunteer-build-reviewed |
+| M124552 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsDomMonoid` | build-observed |
+| M124554 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFieldIdemOne` | volunteer-build-reviewed |
 | M124555 | P1074 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernClassOnThickenings` | build-observed |
 | M124556 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFirstChernThickeningMuBOfIsFirstChernDeRham` | wave-reused |
 | M124557 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFractionRingInteger` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M125359 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDoubleIntegralIdentity` | volunteer-build-reviewed |
 | M125365 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApprox` | build-observed |
 | M125366 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApproxStatement` | build-observed |
-| M125367 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorisationHolomorphic` | volunteer-build-reviewed |
-| M125368 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOne` | volunteer-build-reviewed |
-| M125369 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOneStatement` | volunteer-build-reviewed |
-| M125370 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSum` | volunteer-build-reviewed |
-| M125371 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSumStatement` | volunteer-build-reviewed |

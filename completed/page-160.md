@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109989 | P0593 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.SplitNotDvd` | build-observed |
+| M109990 | P0658 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.SumFactorizationMulLogLe` | build-observed |
+| M109991 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.TorsionReduceInjective` | volunteer-build-reviewed |
+| M109992 | P0824 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.WAddOneLtOfDvd` | build-observed |
 | M109993 | P0769 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.WDvdQS` | build-observed |
 | M109995 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.SmallSum` | volunteer-build-reviewed |
 | M109996 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.Casimir` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M110442 | P2150 | `Development.AutomorphicArithmetic.DivisorFrames.UnitaryStabilizerLiftsToSmallerSpace` | volunteer-build-reviewed |
 | M110443 | P2102 | `Development.AutomorphicArithmetic.DivisorFrames.UnramifiedCharacterInvariant` | volunteer-build-reviewed |
 | M110445 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRegularFunctionAtPoint` | volunteer-build-reviewed |
-| M110446 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRingOfFiniteDominating` | volunteer-build-reviewed |
-| M110447 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationSubringUniqueOfPrime` | volunteer-build-reviewed |
-| M110448 | P2686 | `Development.AutomorphicArithmetic.DivisorFrames.VanishingSectionsToroidalFlagIndependent` | volunteer-build-reviewed |
-| M110449 | P2441 | `Development.AutomorphicArithmetic.DivisorFrames.VectorBundleSubbundleUniversal` | volunteer-build-reviewed |

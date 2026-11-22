@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097458 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumDiagOrderEqOfIntegralTranslateIndicatorRelati` | volunteer-build-reviewed |
+| M097460 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumEqZeroOfMultilin` | volunteer-build-reviewed |
+| M097461 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumFourSwap` | volunteer-build-reviewed |
 | M097467 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdPartialEqZero` | volunteer-build-reviewed |
 | M097468 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroup` | volunteer-build-reviewed |
 | M097469 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroupStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M098089 | P0042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLog` | volunteer-build-reviewed |
 | M098090 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLogStatement` | volunteer-build-reviewed |
 | M098097 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGeneratedByQuasiReflectionsAndWitt` | volunteer-build-reviewed |
-| M098099 | P1410 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupAdelicClassesViaFiniteAdelicPart` | volunteer-build-reviewed |
-| M098101 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupCommutantScalars` | volunteer-build-reviewed |
-| M098105 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinates` | build-observed |

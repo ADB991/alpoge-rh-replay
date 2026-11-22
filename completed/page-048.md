@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M031674 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotKernelIdealEqBeyondExponentStatement` | volunteer-build-reviewed |
 | M031675 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMul` | volunteer-build-reviewed |
 | M031676 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMulStatement` | volunteer-build-reviewed |
 | M031677 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrder` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M032350 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormClosedOnCoverStatement` | build-observed |
 | M032353 | P0350 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormFibreIntegralEqOne` | build-observed |
 | M032354 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormFibreIntegralEqOneStatement` | build-observed |
-| M032355 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontal` | volunteer-build-reviewed |

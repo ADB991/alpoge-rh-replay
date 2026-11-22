@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156909 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVNA` | wave-reused |
+| M156910 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVSec` | wave-reused |
+| M156911 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVSecSt` | wave-reused |
+| M156912 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVSt` | wave-reused |
+| M156913 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVTop` | wave-reused |
+| M156914 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdm` | wave-reused |
+| M156915 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmA` | wave-reused |
+| M156916 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmB` | wave-reused |
 | M156917 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DetAdmC` | wave-reused |
 | M156918 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ESSymmApply` | wave-reused |
 | M156919 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.EventuallySmulSub` | wave-reused |
@@ -394,11 +402,3 @@
 | M157331 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermSk` | build-observed |
 | M157332 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermT` | build-observed |
 | M157333 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermXB` | build-observed |
-| M157334 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PLatStep` | build-observed |
-| M157335 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PPatchF` | build-observed |
-| M157336 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjA` | build-observed |
-| M157337 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjF` | build-observed |
-| M157338 | P0638 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjH` | build-observed |
-| M157339 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjP` | build-observed |
-| M157340 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjS` | build-observed |
-| M157341 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjSk` | build-observed |

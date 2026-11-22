@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114955 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeFundamentalDomain` | volunteer-build-reviewed |
+| M114956 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeTranslateEq` | volunteer-build-reviewed |
+| M114957 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalComm` | volunteer-build-reviewed |
+| M114958 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalEig` | volunteer-build-reviewed |
 | M114959 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInter` | volunteer-build-reviewed |
 | M114960 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalInterAlt` | volunteer-build-reviewed |
 | M114961 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalIntertwining` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M115383 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideSide` | volunteer-build-reviewed |
 | M115385 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideTer` | volunteer-build-reviewed |
 | M115386 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTail` | volunteer-build-reviewed |
-| M115387 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailAlt` | volunteer-build-reviewed |
-| M115388 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailBis` | volunteer-build-reviewed |
-| M115389 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailExtra` | volunteer-build-reviewed |
-| M115390 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailFurther` | volunteer-build-reviewed |

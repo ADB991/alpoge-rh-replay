@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    "M142810"
+  ],
+  "started_utc": "2026-11-22T09:55:50.465880+00:00",
+  "ended_utc": "2026-11-22T09:56:22.326551+00:00",
+  "elapsed_seconds": 31.9,
+  "host": {
+    "cpu_count": 10,
+    "mem_total_kib": 8195968,
+    "peak_child_rss_kib": 6401916
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.PartialDerivZeroSecondFamily:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "7df9a5fb58b4ae97f458242039746cc844444b5b11d24c6f66f13790857b006c",
+  "rebuilt_project_modules": [
+    "Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.BfSmulRight",
+    "Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.CoeffSmulX",
+    "Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.CoreSt",
+    "Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.FockMono",
+    "Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.PolynomialDerivatives.NullStableAlt"
+  ],
+  "objects": {
+    "M142810": "58413c345b6ee514740ac9ea9b123f0bacd37cbdefe39587de74d8d356bed6b1"
+  },
+  "project_root": "/work/replay-native/lean",
+  "bundle_sha256": "dc86d7cb4a6152f7431cb311b7ce16d2f4335a61f6cb27f19a6f21fc565ed52e",
+  "packet": "M142810",
+  "contributor": "f10etclawdbot",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31560#issuecomment-7077470330",
+  "reviewed_utc": "2026-11-22T11:53:30.855072+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

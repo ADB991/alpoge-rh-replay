@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089734 | P2127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImage` | volunteer-build-reviewed |
+| M089735 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImageStatement` | volunteer-build-reviewed |
+| M089736 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissible` | volunteer-build-reviewed |
 | M089737 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissibleStatement` | volunteer-build-reviewed |
 | M089738 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedPolynomialComplexPointEvaluation` | volunteer-build-reviewed |
 | M089740 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLaw` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M090648 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNatMulQuadraticLt` | volunteer-build-reviewed |
 | M090649 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNhdsSubsetImage` | build-observed |
 | M090650 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalOfWeil` | build-observed |
-| M090651 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByM` | wave-reused |
-| M090652 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByMStatement` | wave-reused |
-| M090654 | P1285 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedKeyInvariantRuleCharZeroStatement` | build-observed |

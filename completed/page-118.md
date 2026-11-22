@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082367 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerizationStatement` | volunteer-build-reviewed |
+| M082374 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardAddCharPlaceIdempotentDivPrime` | volunteer-build-reviewed |
+| M082378 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateClose` | volunteer-build-reviewed |
 | M082379 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateCloseStatement` | volunteer-build-reviewed |
 | M082380 | P1698 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonal` | volunteer-build-reviewed |
 | M082381 | P1721 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonalStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M083453 | P2181 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalars` | volunteer-build-reviewed |
 | M083454 | P2191 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalarsStatement` | volunteer-build-reviewed |
 | M083457 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundElementaryApply` | build-observed |
-| M083458 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponent` | wave-reused |
-| M083459 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponentStatement` | wave-reused |
-| M083460 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensor` | wave-reused |

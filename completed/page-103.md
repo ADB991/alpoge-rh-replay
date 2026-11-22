@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070361 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarPrimePowIntegralAtLevelPlacesStatement` | volunteer-build-reviewed |
+| M070364 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeries` | volunteer-build-reviewed |
 | M070365 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeriesStatement` | volunteer-build-reviewed |
 | M070368 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpace` | volunteer-build-reviewed |
 | M070369 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpaceStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M070988 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeReadOfReadsExist` | volunteer-build-reviewed |
 | M070991 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeSameMap` | volunteer-build-reviewed |
 | M071001 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeightsoundQdPlacesUniformConst` | volunteer-build-reviewed |
-| M071003 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisOFixOfIsThetaAt` | volunteer-build-reviewed |
-| M071005 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisenbergRealPointFockVacuumPairingScalarStatement` | volunteer-build-reviewed |

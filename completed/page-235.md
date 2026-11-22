@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155608 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocDegOneBelow` | build-observed |
+| M155609 | P1734 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocOpenHolds` | build-observed |
+| M155610 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MassDataIndicesOfSteps` | build-observed |
+| M155611 | P1615 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MatRMulMatC` | build-observed |
+| M155612 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MeasBAll` | build-observed |
+| M155613 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlagC` | build-observed |
+| M155614 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffFlags` | build-observed |
+| M155615 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSGIffMap` | build-observed |
 | M155616 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSpanSingle` | build-observed |
 | M155617 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffFlagC` | build-observed |
 | M155618 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MemSsubIffSG` | build-observed |
@@ -394,11 +402,3 @@
 | M156053 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.AlgebraMapMemOv` | build-observed |
 | M156054 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.Assembly` | build-observed |
 | M156055 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BcTensMapInclR` | build-observed |
-| M156056 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BridgeKHolds` | build-observed |
-| M156057 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ContinuousCrdAllSymm` | build-observed |
-| M156058 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ContinuousSplitA` | build-observed |
-| M156059 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.CountableRatOf` | build-observed |
-| M156060 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.EllipticCentralizerQuotientCompact` | build-observed |
-| M156061 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.FmatInvMul` | build-observed |
-| M156062 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.FundamentalDomainOfCompactOpen` | build-observed |
-| M156063 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.Imports` | build-observed |

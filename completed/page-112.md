@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077044 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOneStatement` | volunteer-build-reviewed |
+| M077049 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStages` | volunteer-build-reviewed |
 | M077050 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStagesStatement` | volunteer-build-reviewed |
 | M077051 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicSplit` | build-observed |
 | M077052 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLift` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M077848 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsMinfOfDensity` | volunteer-build-reviewed |
 | M077853 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfMem` | volunteer-build-reviewed |
 | M077854 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfRat` | volunteer-build-reviewed |
-| M077855 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRatSecOfPull` | volunteer-build-reviewed |
-| M077856 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsResOfTameAt` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129437 | P0414 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumberStatement` | wave-reused |
+| M129438 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumber` | volunteer-build-reviewed |
+| M129439 | P0629 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumberStatement` | wave-reused |
+| M129440 | P0689 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycle` | wave-reused |
+| M129441 | P0716 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycleStatement` | wave-reused |
 | M129442 | P0564 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontal` | wave-reused |
 | M129443 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberZeroOfHorizontalStatement` | volunteer-build-reviewed |
 | M129444 | P0530 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalPairPowerSumVanish` | wave-reused |
@@ -397,8 +402,3 @@
 | M130219 | P2652 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSection` | volunteer-build-reviewed |
 | M130220 | P2661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSectionStatement` | volunteer-build-reviewed |
 | M130221 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEigenOpDiscr` | volunteer-build-reviewed |
-| M130222 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsElementSamePrimeCount` | volunteer-build-reviewed |
-| M130223 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsElementSamePrimeCountStatement` | volunteer-build-reviewed |
-| M130225 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEqMulMultOfUnits` | wave-reused |
-| M130226 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartCoordinates` | volunteer-build-reviewed |
-| M130227 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsExpChartCoordinatesStatement` | volunteer-build-reviewed |

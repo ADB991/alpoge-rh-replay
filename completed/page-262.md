@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169556 | P0085 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauINontrivial` | wave-reused |
+| M169557 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ThetaThreeFamLinearIndependent` | wave-reused |
+| M169558 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ZeroSetFinite` | wave-reused |
+| M169559 | P0578 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Assembly` | wave-reused |
+| M169560 | P0545 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.AssemblyPartial` | wave-reused |
+| M169561 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.ComapMaximalIdealParDVR` | wave-reused |
+| M169562 | P0676 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Imports` | wave-reused |
+| M169563 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Inhabitants` | wave-reused |
+| M169564 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IntToFracInjective` | wave-reused |
 | M169565 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IsChowFormCMul` | wave-reused |
 | M169566 | P0612 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfChartPointSecPointSpecChart` | wave-reused |
 | M169567 | P0645 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.OfFreeParAlgIndep` | wave-reused |
@@ -393,12 +402,3 @@
 | M169989 | P0431 | `GroundTheory.PAdicHodge.BCrisEigenWitt` | build-observed |
 | M169990 | P0546 | `GroundTheory.PAdicHodge.BCrisGalois` | build-observed |
 | M169991 | P0729 | `GroundTheory.PAdicHodge.BCrisNewton` | build-observed |
-| M169992 | P0471 | `GroundTheory.PAdicHodge.BCrisNewtonApprox` | build-observed |
-| M169993 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonDom` | build-observed |
-| M169994 | P0703 | `GroundTheory.PAdicHodge.BCrisNewtonFrac` | build-observed |
-| M169995 | P0676 | `GroundTheory.PAdicHodge.BCrisNewtonKey` | build-observed |
-| M169996 | P0288 | `GroundTheory.PAdicHodge.BCrisNewtonLift` | build-observed |
-| M169997 | P0388 | `GroundTheory.PAdicHodge.BCrisNewtonNorm` | build-observed |
-| M169998 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonSlope` | build-observed |
-| M169999 | P0645 | `GroundTheory.PAdicHodge.BCrisNewtonValue` | build-observed |
-| M170000 | P0612 | `GroundTheory.PAdicHodge.BCrisPlusInvariants` | build-observed |

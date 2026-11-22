@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126602 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpenStatement` | volunteer-build-reviewed |
+| M126603 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspace` | volunteer-build-reviewed |
+| M126604 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspaceStatement` | volunteer-build-reviewed |
+| M126605 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityStatement` | volunteer-build-reviewed |
+| M126609 | P1134 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowIdeal` | wave-reused |
 | M126610 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowSubSuccLe` | wave-reused |
 | M126612 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtraction` | wave-reused |
 | M126613 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowerDivisibilityRootExtractionStatement` | wave-reused |
@@ -397,8 +402,3 @@
 | M127203 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreFormulaStatement` | volunteer-build-reviewed |
 | M127204 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegral` | volunteer-build-reviewed |
 | M127205 | P2264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegralStatement` | volunteer-build-reviewed |
-| M127207 | P2243 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreMeasureStatement` | volunteer-build-reviewed |
-| M127208 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarFibrationFormula` | volunteer-build-reviewed |
-| M127210 | P0660 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltration` | build-observed |
-| M127211 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltrationStatement` | build-observed |
-| M127212 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarOnWeightSpace` | volunteer-build-reviewed |

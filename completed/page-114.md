@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078593 | P0957 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypesIdempotentCoefficients` | build-observed |
+| M078595 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeeds` | volunteer-build-reviewed |
 | M078596 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeedsStatement` | volunteer-build-reviewed |
 | M078603 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEq` | volunteer-build-reviewed |
 | M078604 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEqStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M079467 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdExists` | volunteer-build-reviewed |
 | M079468 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdTr` | volunteer-build-reviewed |
 | M079469 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeAlgebraCompUnitaryGroupAntidiagTransportMem` | volunteer-build-reviewed |
-| M079472 | P2040 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeArgumentResidueEqWeightedSymmetricFrameSumStatement` | volunteer-build-reviewed |
-| M079473 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualFiniteIdelicIffLocal` | volunteer-build-reviewed |

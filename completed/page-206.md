@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136739 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransform` | wave-reused |
+| M136740 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransformOffCenter` | wave-reused |
+| M136741 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.EtaleMaxContactComparison` | wave-reused |
+| M136742 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactChartUniqueness` | wave-reused |
+| M136743 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCommonCharts` | wave-reused |
+| M136744 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactCoordinate` | wave-reused |
 | M136745 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactEtaleUniqueness` | wave-reused |
 | M136746 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactHypersurface` | wave-reused |
 | M136747 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.MaxContactIdeal` | wave-reused |
@@ -396,9 +402,3 @@
 | M137475 | P2264 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSTop` | volunteer-build-reviewed |
 | M137476 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SplitPoint` | volunteer-build-reviewed |
 | M137477 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SubSplit` | volunteer-build-reviewed |
-| M137479 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.UnitaryConjIff` | volunteer-build-reviewed |
-| M137482 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalCharacterIntegrals.DifferentiableSetIntegralFz` | volunteer-build-reviewed |
-| M137492 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.MeasurePreservingOfAddEquiv` | volunteer-build-reviewed |
-| M137493 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.NhdsInv` | volunteer-build-reviewed |
-| M137494 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.SmallSub` | volunteer-build-reviewed |
-| M137499 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussSec` | volunteer-build-reviewed |

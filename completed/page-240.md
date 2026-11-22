@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157818 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.GeneratedHighestWeightHolds` | wave-reused |
+| M157819 | P0332 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeckeLFunctionIdealEulerProduct` | wave-reused |
+| M157820 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors` | wave-reused |
+| M157821 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightDominantHolds` | wave-reused |
+| M157822 | P0887 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightMemWZero` | wave-reused |
+| M157823 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightProdLeadingMinors` | wave-reused |
+| M157824 | P0697 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightShiftEqDetMul` | wave-reused |
+| M157825 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightSuccessive` | wave-reused |
 | M157826 | P0912 | `Formalism.PieriBlockIdeals.PieriColumnMinors.IrreducibleGeneration` | wave-reused |
 | M157827 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointCorollaryFiveBound` | wave-reused |
 | M157828 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.JointExactExponentStopHigh` | wave-reused |
@@ -394,11 +402,3 @@
 | M158225 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BigCellDensity` | build-observed |
 | M158226 | P0724 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds` | wave-reused |
 | M158227 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateTheorem` | build-observed |
-| M158228 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateWords` | build-observed |
-| M158229 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockExponentKappaIdentity` | build-observed |
-| M158230 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BranchingAndRankConstants` | build-observed |
-| M158231 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCPX` | build-observed |
-| M158232 | P1051 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSB` | build-observed |
-| M158233 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCSchur` | wave-reused |
-| M158234 | P1214 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCountE` | build-observed |
-| M158235 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeDeepQ` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162515 | P1082 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.RconvDiff` | wave-reused |
+| M162516 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelConj` | wave-reused |
+| M162517 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelCount` | wave-reused |
+| M162518 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelFinite` | wave-reused |
+| M162519 | P0999 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.Smoothing` | wave-reused |
+| M162520 | P1026 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SmoothingFinite` | wave-reused |
+| M162521 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsArchConv` | wave-reused |
+| M162522 | P1321 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsAreCuspForms` | wave-reused |
 | M162523 | P1215 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsBase` | wave-reused |
 | M162524 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContRep` | wave-reused |
 | M162525 | P1296 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SummandsContinuous` | wave-reused |
@@ -394,11 +402,3 @@
 | M162939 | P0465 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactor` | wave-reused |
 | M162940 | P0507 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactorUnique` | wave-reused |
 | M162941 | P0425 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Uniqueness` | wave-reused |
-| M162942 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Window` | wave-reused |
-| M162943 | P0160 | `GroundTheory.AutomorphicForms.TraceClass` | wave-reused |
-| M162944 | P0507 | `GroundTheory.AutomorphicForms.TraceFormulaCentralizer` | build-observed |
-| M162945 | P0574 | `GroundTheory.AutomorphicForms.TraceFormulaCompact` | build-observed |
-| M162946 | P0425 | `GroundTheory.AutomorphicForms.TraceFormulaConvolution` | wave-reused |
-| M162947 | P0465 | `GroundTheory.AutomorphicForms.TraceFormulaGeometric` | build-observed |
-| M162948 | P0380 | `GroundTheory.AutomorphicForms.TraceFormulaMultiplicity` | build-observed |
-| M162949 | P0334 | `GroundTheory.AutomorphicForms.TraceFormulaSpectral` | build-observed |

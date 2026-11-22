@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058400 | P1033 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocal` | wave-reused |
+| M058401 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocalStatement` | wave-reused |
 | M058402 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFrameClassProperties` | wave-reused |
 | M058403 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFrameClassPropertiesStatement` | wave-reused |
 | M058404 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFramesDatumMoveProperties` | wave-reused |
@@ -400,5 +402,3 @@
 | M059022 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentOfGram` | wave-reused |
 | M059023 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentRatTupOfDetNeZero` | volunteer-build-reviewed |
 | M059024 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentSkew` | build-observed |
-| M059027 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBesselCoefficientCompactLe` | build-observed |
-| M059028 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBesselCoefficientCompactLeStatement` | build-observed |

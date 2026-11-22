@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066438 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsEqTransposeMulDiagonalMul` | wave-reused |
+| M066439 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsHomDivMulRefine` | volunteer-build-reviewed |
 | M066440 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIntegralModelOfForms` | build-observed |
 | M066441 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIsKroneckerCharOfDiscr` | wave-reused |
 | M066442 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsLineOfAddAddEqZero` | build-observed |
@@ -400,5 +402,3 @@
 | M067086 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEvWIsUnitInjectiveDvdStatement` | build-observed |
 | M067092 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFacts` | wave-reused |
 | M067093 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFactsStatement` | wave-reused |
-| M067094 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFrameIsCrOfLinkedTower` | wave-reused |
-| M067095 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFrameIsCrOfLinkedTowerStatement` | wave-reused |

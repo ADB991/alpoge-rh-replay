@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096392 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateMoveV` | volunteer-build-reviewed |
+| M096393 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairInfApply` | volunteer-build-reviewed |
+| M096394 | P1103 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompat` | build-observed |
 | M096395 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompatStatement` | build-observed |
 | M096396 | P0362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairOperatorStatement` | volunteer-build-reviewed |
 | M096397 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsClasses` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M096917 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootsWeightsPairwiseIndependent` | volunteer-build-reviewed |
 | M096919 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RouteDatumMemAlgebraicVectorsGridFrames` | volunteer-build-reviewed |
 | M096921 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowBesZeroE` | volunteer-build-reviewed |
-| M096922 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatum` | volunteer-build-reviewed |
-| M096923 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatumStatement` | volunteer-build-reviewed |
-| M096924 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowColWeightsAgree` | build-observed |

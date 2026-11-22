@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093401 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalf` | volunteer-build-reviewed |
+| M093402 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalfStatement` | volunteer-build-reviewed |
+| M093403 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairing` | volunteer-build-reviewed |
 | M093404 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairingStatement` | volunteer-build-reviewed |
 | M093405 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempote` | volunteer-build-reviewed |
 | M093406 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempoteStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M093931 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FibreIsogenyPairDefinedOverFiniteSubextensionStatement` | volunteer-build-reviewed |
 | M093932 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FieldAdelicUnitTranslateBoundedOfSmallMultiples` | volunteer-build-reviewed |
 | M093934 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FinCoefMultT` | volunteer-build-reviewed |
-| M093936 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBound` | volunteer-build-reviewed |
-| M093937 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBoundStatement` | volunteer-build-reviewed |
-| M093943 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponents` | volunteer-build-reviewed |

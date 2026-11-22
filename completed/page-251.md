@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162942 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Window` | wave-reused |
+| M162943 | P0160 | `GroundTheory.AutomorphicForms.TraceClass` | wave-reused |
+| M162944 | P0507 | `GroundTheory.AutomorphicForms.TraceFormulaCentralizer` | build-observed |
+| M162945 | P0574 | `GroundTheory.AutomorphicForms.TraceFormulaCompact` | build-observed |
+| M162946 | P0425 | `GroundTheory.AutomorphicForms.TraceFormulaConvolution` | wave-reused |
+| M162947 | P0465 | `GroundTheory.AutomorphicForms.TraceFormulaGeometric` | build-observed |
+| M162948 | P0380 | `GroundTheory.AutomorphicForms.TraceFormulaMultiplicity` | build-observed |
+| M162949 | P0334 | `GroundTheory.AutomorphicForms.TraceFormulaSpectral` | build-observed |
 | M162950 | P0541 | `GroundTheory.AutomorphicForms.TraceFormulaWeil` | build-observed |
 | M162951 | P0225 | `GroundTheory.AutomorphicForms.TraceNormComp` | wave-reused |
 | M162952 | P0282 | `GroundTheory.AutomorphicForms.TraceStrongLimit` | wave-reused |
@@ -394,11 +402,3 @@
 | M163400 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassReplace` | wave-reused |
 | M163401 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassStep` | wave-reused |
 | M163402 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassZero` | wave-reused |
-| M163403 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Imports` | wave-reused |
-| M163404 | P0639 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOfTendstoOfIntegralLe` | wave-reused |
-| M163405 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOnTargetOfMIntegrable` | wave-reused |
-| M163406 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.KaehlerBound` | wave-reused |
-| M163407 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.LinearWeights` | wave-reused |
-| M163408 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Monotone` | wave-reused |
-| M163409 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.NormIteratedFDerivCompLeOfIsOpen` | wave-reused |
-| M163410 | P0381 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects` | wave-reused |

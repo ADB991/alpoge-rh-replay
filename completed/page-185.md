@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122620 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotalStatement` | volunteer-build-reviewed |
+| M122621 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulOfOfFaceMapCompSuccAboveCastSucc` | volunteer-build-reviewed |
+| M122623 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharZeroDimSupportStatement` | volunteer-build-reviewed |
+| M122625 | P2633 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharacteristicDimensionZeroStatement` | volunteer-build-reviewed |
+| M122626 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandard` | volunteer-build-reviewed |
 | M122627 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandardStatement` | volunteer-build-reviewed |
 | M122628 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBound` | build-observed |
 | M122629 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductConvergenceBoundStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M123242 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteEulerProductOfStatement` | volunteer-build-reviewed |
 | M123244 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFibreFunctionsCompactStatement` | volunteer-build-reviewed |
 | M123247 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLattice` | volunteer-build-reviewed |
-| M123248 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLatticeStatement` | volunteer-build-reviewed |
-| M123254 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactOpenQuotient` | volunteer-build-reviewed |
-| M123255 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariant` | volunteer-build-reviewed |
-| M123256 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariantStatement` | volunteer-build-reviewed |
-| M123258 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLattice` | volunteer-build-reviewed |

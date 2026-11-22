@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123248 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLatticeStatement` | volunteer-build-reviewed |
+| M123254 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactOpenQuotient` | volunteer-build-reviewed |
+| M123255 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariant` | volunteer-build-reviewed |
+| M123256 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariantStatement` | volunteer-build-reviewed |
+| M123258 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLattice` | volunteer-build-reviewed |
 | M123259 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteJacquetKernelCommonLatticeStatement` | volunteer-build-reviewed |
 | M123263 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsInSiegelSetBoundStatement` | volunteer-build-reviewed |
 | M123264 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLatticePointsSiegel` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M123858 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfIntegralEisensteinContinuation` | volunteer-build-reviewed |
 | M123859 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfTrAddSwap` | volunteer-build-reviewed |
 | M123860 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacter` | volunteer-build-reviewed |
-| M123861 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacterStatement` | volunteer-build-reviewed |
-| M123864 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimension` | build-observed |
-| M123865 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimensionStatement` | build-observed |
-| M123866 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraWhittaker` | build-observed |
-| M123872 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportEtaOf` | volunteer-build-reviewed |

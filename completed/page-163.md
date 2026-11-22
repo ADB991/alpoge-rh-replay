@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111445 | P1436 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DefBridge` | build-observed |
+| M111446 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.EigBasis` | build-observed |
+| M111447 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.GapDom` | build-observed |
+| M111448 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.HlEval` | build-observed |
 | M111449 | P0905 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.IntegralConv` | build-observed |
 | M111450 | P1606 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.LocHeckeInert` | volunteer-build-reviewed |
 | M111451 | P0905 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.Mac` | build-observed |
@@ -398,7 +402,3 @@
 | M111917 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCharts` | volunteer-build-reviewed |
 | M111918 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCoeffInt` | volunteer-build-reviewed |
 | M111919 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCongrRad` | volunteer-build-reviewed |
-| M111920 | P2061 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCorrPull` | volunteer-build-reviewed |
-| M111921 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCountIn` | volunteer-build-reviewed |
-| M111922 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCountOut` | volunteer-build-reviewed |
-| M111923 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PDetBasis` | volunteer-build-reviewed |

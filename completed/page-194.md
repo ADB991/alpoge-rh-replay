@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128685 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuation` | volunteer-build-reviewed |
+| M128686 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuationStatement` | volunteer-build-reviewed |
+| M128687 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipal` | volunteer-build-reviewed |
+| M128688 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipalStatement` | volunteer-build-reviewed |
+| M128691 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticUniformizerOrder` | volunteer-build-reviewed |
 | M128693 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCard` | volunteer-build-reviewed |
 | M128694 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuotientCardStatement` | volunteer-build-reviewed |
 | M128696 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergEqLFactorStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M129434 | P2288 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeight` | volunteer-build-reviewed |
 | M129435 | P2301 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeightStatement` | volunteer-build-reviewed |
 | M129436 | P0369 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumber` | wave-reused |
-| M129437 | P0414 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumberStatement` | wave-reused |
-| M129438 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumber` | volunteer-build-reviewed |
-| M129439 | P0629 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumberStatement` | wave-reused |
-| M129440 | P0689 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycle` | wave-reused |
-| M129441 | P0716 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalNumberLocalCycleStatement` | wave-reused |

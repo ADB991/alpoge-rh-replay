@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095883 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernelStatement` | volunteer-build-reviewed |
+| M095886 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransform` | volunteer-build-reviewed |
+| M095887 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransformStatement` | volunteer-build-reviewed |
 | M095888 | P2587 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSum` | volunteer-build-reviewed |
 | M095889 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSumStatement` | volunteer-build-reviewed |
 | M095890 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwining` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M096389 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctoriality` | volunteer-build-reviewed |
 | M096390 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctorialityStatement` | volunteer-build-reviewed |
 | M096391 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateLinear` | volunteer-build-reviewed |
-| M096392 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateMoveV` | volunteer-build-reviewed |
-| M096393 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairInfApply` | volunteer-build-reviewed |
-| M096394 | P1103 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompat` | build-observed |

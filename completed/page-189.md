@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125367 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorisationHolomorphic` | volunteer-build-reviewed |
+| M125368 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOne` | volunteer-build-reviewed |
+| M125369 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOneStatement` | volunteer-build-reviewed |
+| M125370 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSum` | volunteer-build-reviewed |
+| M125371 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureOrthogonalSumStatement` | volunteer-build-reviewed |
 | M125372 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormula` | volunteer-build-reviewed |
 | M125373 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedFormulaStatement` | volunteer-build-reviewed |
 | M125374 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureUnramifiedVolume` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M125980 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuCharacterExistsStatement` | volunteer-build-reviewed |
 | M125981 | P1366 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqOfRangeLe` | volunteer-build-reviewed |
 | M125982 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqZeroOfCPowMemSpan` | volunteer-build-reviewed |
-| M125983 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEvCongr` | volunteer-build-reviewed |
-| M125984 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvEqOfCentral` | volunteer-build-reviewed |
-| M125985 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvMemQOfRowQEq` | volunteer-build-reviewed |
-| M125989 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulProdCongr` | volunteer-build-reviewed |
-| M125990 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulSubEqZeroOfSum` | build-observed |

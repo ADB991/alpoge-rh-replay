@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131576 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentGenericFibreStatement` | volunteer-build-reviewed |
+| M131580 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentValuationFibreStatement` | volunteer-build-reviewed |
+| M131581 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelFibresPowerFree` | wave-reused |
+| M131583 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamily` | volunteer-build-reviewed |
+| M131584 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamilyStatement` | volunteer-build-reviewed |
 | M131586 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverDvrExtensionStatement` | volunteer-build-reviewed |
 | M131587 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverRamifiedExtension` | volunteer-build-reviewed |
 | M131588 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOverRamifiedExtensionStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M132256 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionAbelianQuotientStatement` | volunteer-build-reviewed |
 | M132257 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionLieLattice` | volunteer-build-reviewed |
 | M132267 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsion` | volunteer-build-reviewed |
-| M132268 | P1552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsionStatement` | volunteer-build-reviewed |
-| M132269 | P0992 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMap` | build-observed |
-| M132270 | P1018 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMapStatement` | build-observed |
-| M132273 | P0936 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusKernelPrimeQuotient` | build-observed |
-| M132274 | P0964 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusKernelPrimeQuotientStatement` | build-observed |

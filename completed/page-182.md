@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120837 | P0961 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverCohomologyFiniteStatement` | build-observed |
+| M120838 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverHigherCohomologyVanishes` | volunteer-build-reviewed |
+| M120839 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverHigherCohomologyVanishesStatement` | volunteer-build-reviewed |
+| M120841 | P1289 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineFormsOfFormUniqueness` | build-observed |
+| M120842 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineFormsOfFormUniquenessStatement` | build-observed |
 | M120843 | P1657 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishing` | build-observed |
 | M120844 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedCohomologyVanishingStatement` | volunteer-build-reviewed |
 | M120845 | P1681 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineGradedQuotientVanishAboveDim` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M121416 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralWeightIndepStatement` | volunteer-build-reviewed |
 | M121417 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZero` | volunteer-build-reviewed |
 | M121418 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZeroStatement` | volunteer-build-reviewed |
-| M121419 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChiDetPowSplitCentre` | volunteer-build-reviewed |
-| M121420 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CircleZero` | volunteer-build-reviewed |
-| M121422 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassLevelFormula` | volunteer-build-reviewed |
-| M121425 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassZeroCocycleTensorCoboundaryStatement` | volunteer-build-reviewed |
-| M121426 | P1017 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClauseAToL` | build-observed |

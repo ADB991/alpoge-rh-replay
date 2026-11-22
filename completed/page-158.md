@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108896 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainMap` | volunteer-build-reviewed |
+| M108897 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.CharpolyMapRep` | volunteer-build-reviewed |
+| M108900 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConTrace` | volunteer-build-reviewed |
+| M108901 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConjTrans` | volunteer-build-reviewed |
 | M108907 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FlagFacts` | volunteer-build-reviewed |
 | M108908 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.FrobIn` | volunteer-build-reviewed |
 | M108909 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.GlobalTheory` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M109406 | P0658 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqOfUnitGlobalSectionEq` | wave-reused |
 | M109409 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistBlowupRestriction` | volunteer-build-reviewed |
 | M109410 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistUnimodularUnitLocus` | volunteer-build-reviewed |
-| M109411 | P0411 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.A6supp` | volunteer-build-reviewed |
-| M109412 | P1288 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AbsInvOf` | volunteer-build-reviewed |
-| M109413 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AddIff` | volunteer-build-reviewed |
-| M109414 | P2667 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AdmissibleOfPiDecomposition` | volunteer-build-reviewed |

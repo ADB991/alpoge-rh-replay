@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171403 | P0289 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax` | wave-reused |
+| M171404 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AnalyticSubsetChartLocal` | wave-reused |
+| M171405 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AtlasIndep` | wave-reused |
+| M171406 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential` | wave-reused |
+| M171407 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffFubiniStudyRatioCompChart0` | pilot-reused |
+| M171408 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffHypInclAt` | wave-reused |
+| M171409 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffMulOfTsupport` | wave-reused |
+| M171410 | P0232 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffOnFubiniStudyProfileInvNormSqFirst` | pilot-reused |
+| M171411 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Degree` | wave-reused |
 | M171412 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInhab` | wave-reused |
 | M171413 | P0579 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInt` | wave-reused |
 | M171414 | P0512 | `ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeIntA` | wave-reused |
@@ -393,12 +402,3 @@
 | M171869 | P0342 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundOf` | wave-reused |
 | M171870 | P0290 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundStatement` | wave-reused |
 | M171872 | P0233 | `ReciprocityTheory.DualLattices.UpSmith` | wave-reused |
-| M171873 | P0168 | `ReciprocityTheory.DualLattices.VDetEqOneOfIntegral` | wave-reused |
-| M171874 | P0090 | `ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne` | volunteer-build-reviewed |
-| M171875 | P0090 | `ReciprocityTheory.DualLattices.VIntCastLtOneOfDvd` | wave-reused |
-| M171876 | P0168 | `ReciprocityTheory.DualLattices.ValUntiltESubOne` | wave-reused |
-| M171877 | P0168 | `ReciprocityTheory.DualLattices.ValuationDetEqOfSpanEq` | wave-reused |
-| M171878 | P0168 | `ReciprocityTheory.DualLattices.ValuationDetLeOneOfEntriesIntegral` | wave-reused |
-| M171879 | P0233 | `ReciprocityTheory.DualLattices.ValuationFourierLeOne` | wave-reused |
-| M171880 | P0342 | `ReciprocityTheory.DualLattices.ValuationPairwiseDifferenceProductPowLeColengthS` | wave-reused |
-| M171881 | P0233 | `ReciprocityTheory.DualLattices.VdetLeOfSpanLe` | wave-reused |

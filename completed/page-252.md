@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163403 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Imports` | wave-reused |
+| M163404 | P0639 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOfTendstoOfIntegralLe` | wave-reused |
+| M163405 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOnTargetOfMIntegrable` | wave-reused |
+| M163406 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.KaehlerBound` | wave-reused |
+| M163407 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.LinearWeights` | wave-reused |
+| M163408 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Monotone` | wave-reused |
+| M163409 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.NormIteratedFDerivCompLeOfIsOpen` | wave-reused |
+| M163410 | P0381 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Objects` | wave-reused |
 | M163411 | P0861 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.OfListTailLog` | wave-reused |
 | M163412 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdCocycle` | wave-reused |
 | M163413 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdComparison` | wave-reused |
@@ -394,11 +402,3 @@
 | M163936 | P1711 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.Statements` | build-observed |
 | M163938 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.StatementsWitness` | build-observed |
 | M163939 | P1759 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.SuperlatticeRatio` | build-observed |
-| M163941 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AffineOfCone` | wave-reused |
-| M163942 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AnalyticGerm` | volunteer-build-reviewed |
-| M163943 | P0725 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly` | wave-reused |
-| M163944 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AuslanderBuchsbaumDepthBound` | volunteer-build-reviewed |
-| M163945 | P0466 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CMDepthAssoc` | volunteer-build-reviewed |
-| M163946 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CoeffEqZeroOfForallEvalEqZero` | volunteer-build-reviewed |
-| M163948 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CutOffNear` | volunteer-build-reviewed |
-| M163949 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.DetEqZeroOfMulVecEqZero` | volunteer-build-reviewed |

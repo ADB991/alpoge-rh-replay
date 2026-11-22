@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119560 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumWhittakerDiagTorusRatEqUnipotentConstantTe` | volunteer-build-reviewed |
+| M119563 | P2552 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceArchIdeleMulFiniteNatIdele` | volunteer-build-reviewed |
+| M119564 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceConditionMulCongruenceUnitIff` | volunteer-build-reviewed |
+| M119566 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleEmbeddingUniformizerOfSplitPlacePair` | volunteer-build-reviewed |
 | M119567 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleOfNatMulAndPrimePow` | volunteer-build-reviewed |
 | M119568 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.InertOrSplitOfGoodDeltaRat` | volunteer-build-reviewed |
 | M119569 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableAndContinuousMellinIntegralOfRapidDeca` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M120137 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSectionLevel` | volunteer-build-reviewed |
 | M120139 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSurjectiveZmodOfNeZero` | volunteer-build-reviewed |
 | M120140 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSymplecticBasisLagrangianBetween` | volunteer-build-reviewed |
-| M120144 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsUniformDenominator` | volunteer-build-reviewed |
-| M120145 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpan` | volunteer-build-reviewed |
-| M120146 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpanStatement` | volunteer-build-reviewed |
-| M120147 | P0825 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FamilyGivesConjugateLieData` | wave-reused |

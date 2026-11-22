@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092825 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelKFinite` | volunteer-build-reviewed |
+| M092827 | P1205 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelOfDualParameter` | volunteer-build-reviewed |
+| M092830 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelParamShiftedWeightOfCoverDiscStatement` | volunteer-build-reviewed |
 | M092831 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesMultiplicity` | volunteer-build-reviewed |
 | M092833 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProduct` | volunteer-build-reviewed |
 | M092834 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProductStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M093397 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtension` | volunteer-build-reviewed |
 | M093398 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtensionStatement` | volunteer-build-reviewed |
 | M093400 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseAtSplitPlacesOfUnitsStatement` | volunteer-build-reviewed |
-| M093401 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalf` | volunteer-build-reviewed |
-| M093402 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalfStatement` | volunteer-build-reviewed |
-| M093403 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairing` | volunteer-build-reviewed |

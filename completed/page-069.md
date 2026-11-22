@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046912 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiNormIff` | volunteer-build-reviewed |
 | M046918 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetric` | volunteer-build-reviewed |
 | M046919 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetricStatement` | volunteer-build-reviewed |
 | M046920 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSumEqCharSumAgainstCuspForm` | wave-reused |
@@ -401,4 +402,3 @@
 | M047592 | P2213 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftLowerBoundOffBasePlaceStatement` | volunteer-build-reviewed |
 | M047593 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspaces` | volunteer-build-reviewed |
 | M047594 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspacesStatement` | volunteer-build-reviewed |
-| M047595 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLineStabilizerDecomposition` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158690 | P1024 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETPoint` | volunteer-build-reviewed |
+| M158695 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsBasisOfSaturated` | volunteer-build-reviewed |
+| M158696 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsTruncatedIntegralChart` | volunteer-build-reviewed |
+| M158700 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpBijectiveUniformisation` | build-observed |
+| M158702 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJet` | build-observed |
+| M158703 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpChartJetA` | build-observed |
+| M158707 | P1166 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpGUPf` | build-observed |
+| M158711 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpTie` | wave-reused |
 | M158715 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqBC` | build-observed |
 | M158718 | P0605 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqJet` | build-observed |
 | M158719 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExpUniqLoc` | build-observed |
@@ -394,11 +402,3 @@
 | M159174 | P1024 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExtendByZeroRestrictOfVanish` | build-observed |
 | M159175 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.FormalSeriesConditionsB1ToB4` | build-observed |
 | M159176 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.GlOperatorsFormRepresentation` | build-observed |
-| M159177 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.HighestWeightSpaceEqSpanHighestWeightVector` | build-observed |
-| M159178 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IndexOffRange` | build-observed |
-| M159179 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IsotypicSumInfStandardWordsOutsideEqBot` | build-observed |
-| M159180 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.KcolEqPathWord` | build-observed |
-| M159181 | P1392 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LatticeGeneratedLowestWeight` | build-observed |
-| M159182 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LiePolarizationDerEqZeroOfDisjoint` | build-observed |
-| M159183 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LowerSetTypesSpan` | build-observed |
-| M159184 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.NablaDualLatticeOfIrreducibleLowestGenerated` | build-observed |

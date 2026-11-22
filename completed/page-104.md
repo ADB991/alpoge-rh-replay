@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071003 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisOFixOfIsThetaAt` | volunteer-build-reviewed |
+| M071005 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisenbergRealPointFockVacuumPairingScalarStatement` | volunteer-build-reviewed |
 | M071009 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HenselRootsOfLocalFamilyStatement` | volunteer-build-reviewed |
 | M071010 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermBasisOrthonormal` | volunteer-build-reviewed |
 | M071011 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatch` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M071731 | P1405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSmoothCharCompNorm` | volunteer-build-reviewed |
 | M071733 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalFactorOfSphericalSubquotientStatement` | volunteer-build-reviewed |
 | M071734 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalIffUnrOfLawsT` | volunteer-build-reviewed |
-| M071735 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalOfHypOutside` | volunteer-build-reviewed |
-| M071739 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfIsConjPl` | volunteer-build-reviewed |

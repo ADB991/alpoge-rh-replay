@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085046 | P1284 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZero` | wave-reused |
+| M085047 | P1310 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZeroStatement` | wave-reused |
+| M085048 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDerivAt0NotIsDerivAlong` | volunteer-build-reviewed |
 | M085049 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDominantGeometricPointOfIsPreimmersion` | volunteer-build-reviewed |
 | M085050 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsE8IsSharpBasis` | volunteer-build-reviewed |
 | M085051 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGaloisCoverOfIsQProjOver` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M085736 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MapToUniversalObjectUnique` | volunteer-build-reviewed |
 | M085742 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemMapKerOfOneTmulEqZeroOfFlat` | volunteer-build-reviewed |
 | M085744 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemOfMemImage` | volunteer-build-reviewed |
-| M085745 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemRangeOfIsPullback` | volunteer-build-reviewed |
-| M085747 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MinimalAndDimLe` | volunteer-build-reviewed |
-| M085749 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161256 | P0697 | `Formalism.SizeWindowBrackets.Chain2aCoreNoAnalytic` | build-observed |
+| M161257 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AdmissibleSchurLemma` | build-observed |
+| M161258 | P0833 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AnalyticFirstToLatticeDiscriminant` | build-observed |
+| M161259 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainAnalyticVariantOfTop` | build-observed |
+| M161260 | P0778 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChainLatticeSizesModelEventually` | build-observed |
+| M161261 | P0778 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ChiEightNoRealZeroHypothesis` | build-observed |
+| M161262 | P0222 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.CorollaryModelSideCondition` | build-observed |
+| M161263 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DiscriminantSettingSatisfied` | build-observed |
 | M161264 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.DisplayedInequalitySharpHalf` | build-observed |
 | M161265 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ErrorExponentBelowOnesFalse` | build-observed |
 | M161266 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ExistsNsmulMem` | build-observed |
@@ -394,11 +402,3 @@
 | M161655 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EChain` | build-observed |
 | M161656 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EDecomp` | build-observed |
 | M161657 | P0860 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGauss` | build-observed |
-| M161658 | P0914 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGaussK` | build-observed |
-| M161659 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EJoint` | build-observed |
-| M161660 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EKernel` | build-observed |
-| M161661 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EntryAOneParity` | build-observed |
-| M161662 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EntryATwoAndB` | build-observed |
-| M161663 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ExpansionsAtPlaces` | build-observed |
-| M161664 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FinsuppStepInduction` | build-observed |
-| M161665 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.FrobeniusPartialCoboundaryBound` | build-observed |

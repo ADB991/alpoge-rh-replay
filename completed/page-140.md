@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098099 | P1410 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupAdelicClassesViaFiniteAdelicPart` | volunteer-build-reviewed |
+| M098101 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupCommutantScalars` | volunteer-build-reviewed |
+| M098105 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinates` | build-observed |
 | M098106 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinatesStatement` | build-observed |
 | M098108 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIdeleCharEqProdLocOfTameAtStatement` | volunteer-build-reviewed |
 | M098109 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlace` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M098695 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGrpPullbackThick` | wave-reused |
 | M098697 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPt` | volunteer-build-reviewed |
 | M098698 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPtOfCharacter` | wave-reused |
-| M098702 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfPullbackId` | build-observed |
-| M098703 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfRingMaps` | build-observed |
-| M098704 | P1462 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfThickenings` | build-observed |

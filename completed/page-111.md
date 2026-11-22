@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076230 | P1569 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraicStatement` | build-observed |
+| M076232 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointGeometricFibresFinite` | volunteer-build-reviewed |
 | M076233 | P2282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointMemAbLocus` | build-observed |
 | M076235 | P0124 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosureAdjoinUnitBallCoeffBoundStatement` | volunteer-build-reviewed |
 | M076238 | P1405 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClsAt` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M077041 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwists` | volunteer-build-reviewed |
 | M077042 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwistsStatement` | volunteer-build-reviewed |
 | M077043 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOne` | volunteer-build-reviewed |
-| M077044 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOneStatement` | volunteer-build-reviewed |
-| M077049 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStages` | volunteer-build-reviewed |

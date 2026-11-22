@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138539 | P0746 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuSegre` | build-observed |
+| M138540 | P0883 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaKodOf` | build-observed |
+| M138541 | P0065 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaNum` | volunteer-build-reviewed |
+| M138542 | P0720 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiubOf` | build-observed |
+| M138543 | P0693 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SnapperHyperplane` | build-observed |
+| M138546 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TensorSpanLe` | build-observed |
+| M138549 | P1237 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TrivFlagModOfHodgeTateFreeOfRootLines` | worker-kernel-checked |
 | M138551 | P2302 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twexists` | volunteer-build-reviewed |
 | M138553 | P1553 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfDiv` | build-observed |
 | M138554 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwhopfFin` | build-observed |
@@ -395,10 +402,3 @@
 | M139396 | P2501 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.FamilyPeriod` | volunteer-build-reviewed |
 | M139401 | P0883 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsBlockMapInitialVertex` | build-observed |
 | M139403 | P2472 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsDerivAt0Congr` | volunteer-build-reviewed |
-| M139414 | P0800 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MCoordIdealLeOfHomog` | build-observed |
-| M139416 | P0909 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MapSumMinor` | build-observed |
-| M139418 | P0856 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorColsBEqZero` | build-observed |
-| M139419 | P0909 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorElementaryColumnOp` | build-observed |
-| M139424 | P0828 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorUpdateColLin` | build-observed |
-| M139425 | P1210 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.NotMemOfEqTop` | build-observed |
-| M139428 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ProjectiveLineNormalFrame` | volunteer-build-reviewed |

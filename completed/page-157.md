@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108342 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowLtSqMulOfPrimitiveCharPowEqOne` | volunteer-build-reviewed |
+| M108343 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.ValProd` | volunteer-build-reviewed |
+| M108347 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.DedekindSR` | volunteer-build-reviewed |
+| M108348 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.GrpHComp` | volunteer-build-reviewed |
 | M108349 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.IsAcyclicSpace` | volunteer-build-reviewed |
 | M108353 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.StabDirectedSystem` | volunteer-build-reviewed |
 | M108354 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.AutP` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M108891 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.BlockDet` | volunteer-build-reviewed |
 | M108894 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Chain3` | volunteer-build-reviewed |
 | M108895 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainDesc` | volunteer-build-reviewed |
-| M108896 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainMap` | volunteer-build-reviewed |
-| M108897 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.CharpolyMapRep` | volunteer-build-reviewed |
-| M108900 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConTrace` | volunteer-build-reviewed |
-| M108901 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConjTrans` | volunteer-build-reviewed |

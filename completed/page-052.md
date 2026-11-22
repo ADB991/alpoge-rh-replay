@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034563 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjCorrespondenceTargetFiniteEtal` | volunteer-build-reviewed |
 | M034565 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable` | volunteer-build-reviewed |
 | M034566 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentableStatement` | volunteer-build-reviewed |
 | M034567 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HartTensorOfFlat` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M035229 | P1478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergOperatorFinitePartLatticeVacuumSign` | volunteer-build-reviewed |
 | M035230 | P1507 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergOperatorFinitePartLatticeVacuumSignStatement` | volunteer-build-reviewed |
 | M035231 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhat` | volunteer-build-reviewed |
-| M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |

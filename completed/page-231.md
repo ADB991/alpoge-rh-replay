@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153732 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglChordFactor` | build-observed |
+| M153733 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPhSplit` | build-observed |
+| M153734 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPtW` | build-observed |
+| M153735 | P0603 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglTriFactor` | build-observed |
+| M153736 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FiltLenF` | build-observed |
+| M153737 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdAd` | build-observed |
+| M153738 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdRedOne` | build-observed |
+| M153739 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagGramNonneg` | build-observed |
 | M153740 | P0886 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagRelevScalar` | build-observed |
 | M153744 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockRaiseLow` | volunteer-build-reviewed |
 | M153745 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FockWtDeg` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M154169 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.PartShortOf` | volunteer-build-reviewed |
 | M154173 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.SpDen` | build-observed |
 | M154175 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.StGenusOf` | wave-reused |
-| M154183 | P0666 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Assemble` | build-observed |
-| M154184 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ChiEqOneOfClosure` | build-observed |
-| M154185 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Commensurated` | build-observed |
-| M154186 | P0722 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.CommensuratedOfIsOpenIsCompact` | build-observed |
-| M154187 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.CompactLocalGlobal` | build-observed |
-| M154188 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.GLDelta` | build-observed |
-| M154189 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.IndexEqOfTraceInt` | build-observed |
-| M154190 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertGen` | build-observed |

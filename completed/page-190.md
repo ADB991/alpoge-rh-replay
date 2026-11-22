@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125983 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEvCongr` | volunteer-build-reviewed |
+| M125984 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvEqOfCentral` | volunteer-build-reviewed |
+| M125985 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvMemQOfRowQEq` | volunteer-build-reviewed |
+| M125989 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulProdCongr` | volunteer-build-reviewed |
+| M125990 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulSubEqZeroOfSum` | build-observed |
 | M125993 | P1609 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulVecMidBlockDecompStatement` | volunteer-build-reviewed |
 | M125994 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultHaarConstToRealNeZero` | volunteer-build-reviewed |
 | M125995 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultIntegralPowerBound` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M126598 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveConeStructureStatement` | volunteer-build-reviewed |
 | M126599 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveHermitianPolynomial` | volunteer-build-reviewed |
 | M126601 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpen` | volunteer-build-reviewed |
-| M126602 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpenStatement` | volunteer-build-reviewed |
-| M126603 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspace` | volunteer-build-reviewed |
-| M126604 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspaceStatement` | volunteer-build-reviewed |
-| M126605 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityStatement` | volunteer-build-reviewed |
-| M126609 | P1134 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PowIdeal` | wave-reused |

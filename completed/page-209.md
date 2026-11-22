@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139414 | P0800 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MCoordIdealLeOfHomog` | build-observed |
+| M139416 | P0909 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MapSumMinor` | build-observed |
+| M139418 | P0856 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorColsBEqZero` | build-observed |
+| M139419 | P0909 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorElementaryColumnOp` | build-observed |
+| M139424 | P0828 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorUpdateColLin` | build-observed |
+| M139425 | P1210 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.NotMemOfEqTop` | build-observed |
+| M139428 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ProjectiveLineNormalFrame` | volunteer-build-reviewed |
 | M139431 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.SecondDerivativeOfEventuallyEq` | volunteer-build-reviewed |
 | M139432 | P0066 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.TripleDeriv` | volunteer-build-reviewed |
 | M139435 | P0569 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XAnTwo` | build-observed |
@@ -395,10 +402,3 @@
 | M140377 | P0323 | `Development.WeilBound.CoreStatements.ThetaDilations.ParAlg` | volunteer-build-reviewed |
 | M140378 | P1660 | `Development.WeilBound.CoreStatements.ThetaDilations.ProdRho` | build-observed |
 | M140379 | P0459 | `Development.WeilBound.CoreStatements.ThetaDilations.SdTransport` | build-observed |
-| M140380 | P0210 | `Development.WeilBound.CoreStatements.ThetaDilations.SqPosOfNe` | volunteer-build-reviewed |
-| M140382 | P2386 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.AbelianSchemeSpreadsOverLocalization` | volunteer-build-reviewed |
-| M140386 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.CharZeroFreeModule` | volunteer-build-reviewed |
-| M140387 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.CharacterDataBaseChange` | volunteer-build-reviewed |
-| M140394 | P0459 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.DegreeZeroCurvePositive` | build-observed |
-| M140395 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.DualBasisReverseTriangular` | volunteer-build-reviewed |
-| M140400 | P0459 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsCurveThroughSpecialPoint` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073874 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemiBCInjectiveOfInjective` | build-observed |
+| M073875 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearCoefficientMapCocycles` | build-observed |
 | M073878 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearMatrixComm` | volunteer-build-reviewed |
 | M073879 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleCompose` | wave-reused |
 | M073880 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleComposeStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M074577 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituent` | volunteer-build-reviewed |
 | M074578 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituentStatement` | volunteer-build-reviewed |
 | M074579 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLatticeConditionOfSeriesComparisonUniversal` | volunteer-build-reviewed |
-| M074582 | P2665 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSum` | volunteer-build-reviewed |
-| M074583 | P2671 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSumStatement` | volunteer-build-reviewed |

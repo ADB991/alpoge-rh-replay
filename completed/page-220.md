@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147316 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.IndexLastReductionHolds` | build-observed |
+| M147317 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaF` | build-observed |
+| M147318 | P0148 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaFd` | build-observed |
+| M147319 | P0148 | `Formalism.IncomingBounds.FlowDegreeBounds.MaxFlowValueAttained` | build-observed |
+| M147320 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.PadicValFactorialRatioProd` | wave-reused |
+| M147321 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.ProdRangeEqFactorialMulProdIco` | wave-reused |
+| M147322 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Series` | build-observed |
+| M147323 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPExp` | wave-reused |
 | M147324 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPJet` | wave-reused |
 | M147325 | P0069 | `Formalism.IncomingBounds.FrobOrbitPeriod` | build-observed |
 | M147326 | P0069 | `Formalism.IncomingBounds.IncomingBound` | wave-reused |
@@ -394,11 +402,3 @@
 | M147753 | P0462 | `Formalism.LocalToGlobal.CharacterGerms.CoeffIterateZero` | wave-reused |
 | M147754 | P0966 | `Formalism.LocalToGlobal.CharacterGerms.CoeffLMulCvFrob` | build-observed |
 | M147755 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.CoeffOneSubstCurve` | build-observed |
-| M147756 | P0695 | `Formalism.LocalToGlobal.CharacterGerms.CoeffPowCharFrobenius` | build-observed |
-| M147757 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.CoeffSingleSubstOfLowDegree` | wave-reused |
-| M147758 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.CoeffSliceMultiplication` | build-observed |
-| M147759 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.CoeffSubstEqSum` | wave-reused |
-| M147760 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.CoefficientIdentityOfCurve` | build-observed |
-| M147761 | P0748 | `Formalism.LocalToGlobal.CharacterGerms.CoefficientIdentitySelfConjugate` | build-observed |
-| M147762 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.CompleteOfBasis` | volunteer-build-reviewed |
-| M147763 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.ConstMemTypeSetOfNonneg` | wave-reused |

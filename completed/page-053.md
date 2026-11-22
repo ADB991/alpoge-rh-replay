@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M035237 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValues` | volunteer-build-reviewed |
 | M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |
 | M035239 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLine` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M036015 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalGeneratorZpowMulCuspFormMemSpanStatement` | volunteer-build-reviewed |
 | M036016 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullback` | build-observed |
 | M036017 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullbackStatement` | build-observed |
-| M036018 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftSmooth` | build-observed |

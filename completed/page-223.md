@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148771 | P1238 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleStabilisersOfCompatibleForms` | build-observed |
+| M148772 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.BwAValIntegralNonneg` | build-observed |
+| M148773 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ComplementSmulLocalExtensionMatrix` | build-observed |
+| M148774 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CongruenceNoKernelOfHeckeRamified` | build-observed |
+| M148775 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CongruenceNoKernelOfLevelZeroIdentities` | build-observed |
+| M148776 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CoordMapInjective` | build-observed |
+| M148777 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdelicFunctionRightTranslateDiamond` | build-observed |
+| M148778 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdmissibleStabilisersOfCompatibleForms` | build-observed |
 | M148779 | P1163 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.CharacterFiniteLevelZeroOfForms` | build-observed |
 | M148780 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplementSmulLocalExtensionMatrix` | build-observed |
 | M148781 | P1211 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.ComplexSpanBlockActionStable` | build-observed |
@@ -394,11 +402,3 @@
 | M149275 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.HkCore` | build-observed |
 | M149277 | P0830 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.ImaginaryGeneratorMulDenominator` | build-observed |
 | M149278 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow` | build-observed |
-| M149279 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT` | build-observed |
-| M149280 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.Objects` | build-observed |
-| M149281 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.RatDatOfReal` | build-observed |
-| M149282 | P0858 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.TwistedCharacterValue` | build-observed |
-| M149283 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.XiNeZeroOfIsStdGeneric` | build-observed |
-| M149284 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.EigSumLeComapSemi` | build-observed |
-| M149285 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.EigenDecomposition` | build-observed |
-| M149286 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfMemRangeAdjoint` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148200 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelAsm` | build-observed |
+| M148201 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelCls` | build-observed |
+| M148202 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelDiv` | build-observed |
+| M148203 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelHost` | build-observed |
+| M148204 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelLoc` | build-observed |
+| M148205 | P1077 | `Formalism.LocalToGlobal.Columns.RecLevelLocF` | build-observed |
+| M148206 | P1049 | `Formalism.LocalToGlobal.Columns.RecLevelLocK` | build-observed |
+| M148207 | P1107 | `Formalism.LocalToGlobal.Columns.RecLevelLocP` | build-observed |
 | M148208 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelLocT` | build-observed |
 | M148209 | P1136 | `Formalism.LocalToGlobal.Columns.RecLevelStep` | build-observed |
 | M148210 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelSym` | build-observed |
@@ -394,11 +402,3 @@
 | M148768 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionExtendsFromClasses` | build-observed |
 | M148769 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionRightTranslateDiamond` | build-observed |
 | M148770 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleOfSplitAndRoundTrips` | build-observed |
-| M148771 | P1238 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleStabilisersOfCompatibleForms` | build-observed |
-| M148772 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.BwAValIntegralNonneg` | build-observed |
-| M148773 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ComplementSmulLocalExtensionMatrix` | build-observed |
-| M148774 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CongruenceNoKernelOfHeckeRamified` | build-observed |
-| M148775 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CongruenceNoKernelOfLevelZeroIdentities` | build-observed |
-| M148776 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.CoordMapInjective` | build-observed |
-| M148777 | P1187 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdelicFunctionRightTranslateDiamond` | build-observed |
-| M148778 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.AdmissibleStabilisersOfCompatibleForms` | build-observed |

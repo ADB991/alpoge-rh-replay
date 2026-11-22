@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113024 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.SplitDesc` | volunteer-build-reviewed |
+| M113025 | P1314 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.SplitsBasic` | volunteer-build-reviewed |
+| M113027 | P2812 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TraceSplitHolds` | volunteer-build-reviewed |
+| M113028 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TransCancel` | volunteer-build-reviewed |
 | M113030 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.CRealAv` | volunteer-build-reviewed |
 | M113031 | P2762 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.EndoscopyRank2Ordinary` | volunteer-build-reviewed |
 | M113033 | P2632 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.LinkTwo` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M113592 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PExpImm` | volunteer-build-reviewed |
 | M113594 | P2673 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFApprox` | volunteer-build-reviewed |
 | M113595 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFForm` | volunteer-build-reviewed |
-| M113596 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFTrace` | volunteer-build-reviewed |
-| M113598 | P2766 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixEq` | volunteer-build-reviewed |
-| M113599 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixFinite` | volunteer-build-reviewed |
-| M113600 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFixFwd` | volunteer-build-reviewed |

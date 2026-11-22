@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107476 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.BasisOfUnit` | volunteer-build-reviewed |
+| M107478 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardCoinvariantsModPowEqModPowCoinvariants` | volunteer-build-reviewed |
+| M107479 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardQuotientPowSubmoduleGrowsFinrank` | volunteer-build-reviewed |
+| M107480 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharDR` | volunteer-build-reviewed |
 | M107481 | P2469 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharExt` | volunteer-build-reviewed |
 | M107482 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharFil` | volunteer-build-reviewed |
 | M107483 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartChange` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M108338 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TorusConjugateCornerEntryEq` | volunteer-build-reviewed |
 | M108340 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoIrr` | volunteer-build-reviewed |
 | M108341 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowClogLe` | volunteer-build-reviewed |
-| M108342 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowLtSqMulOfPrimitiveCharPowEqOne` | volunteer-build-reviewed |
-| M108343 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.ValProd` | volunteer-build-reviewed |
-| M108347 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.DedekindSR` | volunteer-build-reviewed |
-| M108348 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.GrpHComp` | volunteer-build-reviewed |

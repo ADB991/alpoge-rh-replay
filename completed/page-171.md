@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115387 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailAlt` | volunteer-build-reviewed |
+| M115388 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailBis` | volunteer-build-reviewed |
+| M115389 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailExtra` | volunteer-build-reviewed |
+| M115390 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailFurther` | volunteer-build-reviewed |
 | M115391 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailMore` | volunteer-build-reviewed |
 | M115392 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailRest` | volunteer-build-reviewed |
 | M115393 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailTer` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M115812 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VectorStabilizer` | volunteer-build-reviewed |
 | M115813 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VolumePreservingUncurry` | volunteer-build-reviewed |
 | M115814 | P0492 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VqInduction` | volunteer-build-reviewed |
-| M115815 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightComponentsMemInvariant` | wave-reused |
-| M115817 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedHomogeneousMap` | volunteer-build-reviewed |
-| M115818 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedSumBis` | volunteer-build-reviewed |
-| M115819 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightsCompactStabilizer` | volunteer-build-reviewed |

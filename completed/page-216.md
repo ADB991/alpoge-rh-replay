@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144733 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.LogEightBound.ProgTwo` | build-observed |
+| M144734 | P1162 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ALocEqRoL` | wave-reused |
+| M144735 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormDiscrIdealOfLe` | wave-reused |
+| M144736 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormEqProdOfMem` | wave-reused |
+| M144737 | P1136 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormLeOfMemBoxSet` | wave-reused |
+| M144738 | P0747 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormLeOfMemIdeal` | wave-reused |
+| M144739 | P0829 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormSpanEqProd` | wave-reused |
+| M144740 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormSpanSingletonEq` | wave-reused |
 | M144741 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinIntegralOfNonempty` | wave-reused |
 | M144742 | P0720 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AdjoinMemGenusIff` | wave-reused |
 | M144743 | P1076 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AkCountEqRedCountMul` | wave-reused |
@@ -394,11 +402,3 @@
 | M145135 | P0502 | `Formalism.GaussJetBounds.StatementM` | wave-reused |
 | M145136 | P0421 | `Formalism.GaussJetBounds.StatementN` | build-observed |
 | M145137 | P0272 | `Formalism.GaussJetBounds.StatementO` | build-observed |
-| M145138 | P0536 | `Formalism.GaussJetBounds.StatementP` | wave-reused |
-| M145139 | P0461 | `Formalism.GaussJetBounds.StatementQ` | build-observed |
-| M145140 | P0326 | `Formalism.GaussJetBounds.StatementR` | build-observed |
-| M145141 | P0570 | `Formalism.GaussJetBounds.StatementS` | wave-reused |
-| M145142 | P0570 | `Formalism.GaussJetBounds.StatementU` | wave-reused |
-| M145143 | P0602 | `Formalism.GaussJetBounds.StatementV` | wave-reused |
-| M145144 | P0570 | `Formalism.GaussJetBounds.StatementW` | build-observed |
-| M145145 | P0634 | `Formalism.GaussJetBounds.StatementX` | wave-reused |

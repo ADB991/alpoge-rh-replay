@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048998 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpanStatement` | volunteer-build-reviewed |
 | M048999 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommute` | volunteer-build-reviewed |
 | M049000 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommuteStatement` | volunteer-build-reviewed |
 | M049001 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBound` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M049709 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparationNormalizedBlowupUnitaryCompactificatio` | volunteer-build-reviewed |
 | M049710 | P2812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparationNormalizedBlowupUnitaryCompactificatioStatement` | volunteer-build-reviewed |
 | M049716 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeriesUnitOfReadInjScaleRootConjRootCoordRange` | volunteer-build-reviewed |
-| M049719 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SerreVanishingLineBundleInvMixFixedDifferenceStatement` | volunteer-build-reviewed |

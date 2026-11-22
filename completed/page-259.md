@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167641 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSumCp` | wave-reused |
+| M167642 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PTorsionFreeQuotientLength` | wave-reused |
+| M167643 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleLocal` | wave-reused |
+| M167644 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleRestrict` | wave-reused |
+| M167645 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PZLocDenominators` | volunteer-build-reviewed |
+| M167646 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PullbackBasis` | wave-reused |
+| M167647 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.RatLocalAffine` | wave-reused |
+| M167648 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.SpreadIsoModelIff` | wave-reused |
+| M167649 | P0286 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.Statements` | wave-reused |
 | M167650 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsBasisIsoFree` | wave-reused |
 | M167651 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsDescendHom` | wave-reused |
 | M167652 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsFreeSheafBasis` | wave-reused |
@@ -393,12 +402,3 @@
 | M168284 | P0728 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAevalRatiosLe` | build-observed |
 | M168285 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAltSucc` | wave-reused |
 | M168286 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosCut` | wave-reused |
-| M168287 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosSt` | wave-reused |
-| M168288 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LengthQuotientEqLengthH0` | build-observed |
-| M168289 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LineBundleRestrictSt` | wave-reused |
-| M168290 | P0780 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LineBundleTwistVanish` | wave-reused |
-| M168291 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocAtRatio` | wave-reused |
-| M168292 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeBundleSt` | volunteer-build-reviewed |
-| M168293 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeNefAboveSt` | volunteer-build-reviewed |
-| M168294 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeRestrLenSt` | volunteer-build-reviewed |
-| M168295 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeSubvarSt` | volunteer-build-reviewed |

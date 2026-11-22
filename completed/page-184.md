@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121993 | P2174 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotent` | volunteer-build-reviewed |
+| M121994 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotentStatement` | volunteer-build-reviewed |
+| M121995 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinement` | volunteer-build-reviewed |
+| M121996 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinementStatement` | volunteer-build-reviewed |
+| M121999 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLattice` | volunteer-build-reviewed |
 | M122000 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLatticeStatement` | volunteer-build-reviewed |
 | M122001 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernel` | volunteer-build-reviewed |
 | M122002 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetFunctionJacquetKernelStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M122616 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSection` | wave-reused |
 | M122617 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSectionStatement` | wave-reused |
 | M122619 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotal` | volunteer-build-reviewed |
-| M122620 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotalStatement` | volunteer-build-reviewed |
-| M122621 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulOfOfFaceMapCompSuccAboveCastSucc` | volunteer-build-reviewed |
-| M122623 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharZeroDimSupportStatement` | volunteer-build-reviewed |
-| M122625 | P2633 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharacteristicDimensionZeroStatement` | volunteer-build-reviewed |
-| M122626 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductAlmostAllStandard` | volunteer-build-reviewed |

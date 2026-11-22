@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055507 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPoint` | volunteer-build-reviewed |
 | M055508 | P2761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPointStatement` | volunteer-build-reviewed |
 | M055509 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensio` | volunteer-build-reviewed |
 | M055510 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensioStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M056146 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubleSpaceActsUnitScalarSeesawCM` | volunteer-build-reviewed |
 | M056147 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetRestrictsToPair` | volunteer-build-reviewed |
 | M056149 | P2407 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetSiegelRule` | volunteer-build-reviewed |
-| M056150 | P2436 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetSiegelRuleStatement` | volunteer-build-reviewed |

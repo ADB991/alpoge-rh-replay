@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094454 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegralStatement` | volunteer-build-reviewed |
+| M094459 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodProjectorLevelMultiplicitySpaceMemGoodRows` | volunteer-build-reviewed |
+| M094460 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtension` | volunteer-build-reviewed |
 | M094461 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtensionStatement` | volunteer-build-reviewed |
 | M094462 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluation` | volunteer-build-reviewed |
 | M094463 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluationStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M094938 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionInStagesRestrictionStatement` | volunteer-build-reviewed |
 | M094939 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeComponentsScaledIntegral` | volunteer-build-reviewed |
 | M094940 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeComponentsScaledIntegralStatement` | volunteer-build-reviewed |
-| M094941 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndex` | volunteer-build-reviewed |
-| M094942 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndexStatement` | volunteer-build-reviewed |
-| M094944 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceStabilizersFixWeilLatticeVacuumStatement` | volunteer-build-reviewed |

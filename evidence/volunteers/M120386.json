@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M120386"
+  ],
+  "started_utc": "2026-11-22T10:35:59.566773+00:00",
+  "ended_utc": "2026-11-22T10:37:24.391240+00:00",
+  "elapsed_seconds": 84.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5011504
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LatticeGoodBaseChange:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b3719fb5e3e74fd2e3e8d1de7a06954c15a1dc9720bb79143ef706ae7313f7ca",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.AffineHilbertIdealSheafOfQuotientIdealTop",
+    "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsUniformDenominator",
+    "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LocallyFreeFiniteProjectiveBaseChange",
+    "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.LocallyFreeOfFiniteProjective",
+    "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.MemSpanOverOfMem",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FirstLatticeBaseChange",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.XDotdualBc",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.XGraphRestrictBc",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.XSummandBc",
+    "Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.XSummandOfQuot"
+  ],
+  "objects": {
+    "M120386": "e09c307eabe70aedcaec9ffa09f9483a9c52ead7d313774e1bed73d33e918996"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "af1590a6ecc271014271aa101386c78a50eeb1a81c42c50c60ab2707f24634ac",
+  "packet": "M120386",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31558#issuecomment-7077927014",
+  "reviewed_utc": "2026-11-22T11:53:29.209209+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

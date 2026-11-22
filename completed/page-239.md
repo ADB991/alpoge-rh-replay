@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157334 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PLatStep` | build-observed |
+| M157335 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PPatchF` | build-observed |
+| M157336 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjA` | build-observed |
+| M157337 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjF` | build-observed |
+| M157338 | P0638 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjH` | build-observed |
+| M157339 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjP` | build-observed |
+| M157340 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjS` | build-observed |
+| M157341 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjSk` | build-observed |
 | M157342 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PsiInclR` | build-observed |
 | M157343 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.Reduce` | build-observed |
 | M157344 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.SigRTmulOne` | build-observed |
@@ -394,11 +402,3 @@
 | M157815 | P0750 | `Formalism.PieriBlockIdeals.PieriColumnMinors.DividedPowerZeroZeroVector` | wave-reused |
 | M157816 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ExactExponentLatticeIncl` | wave-reused |
 | M157817 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.FsDivMem` | wave-reused |
-| M157818 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.GeneratedHighestWeightHolds` | wave-reused |
-| M157819 | P0332 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeckeLFunctionIdealEulerProduct` | wave-reused |
-| M157820 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors` | wave-reused |
-| M157821 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightDominantHolds` | wave-reused |
-| M157822 | P0887 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightMemWZero` | wave-reused |
-| M157823 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightProdLeadingMinors` | wave-reused |
-| M157824 | P0697 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightShiftEqDetMul` | wave-reused |
-| M157825 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HighestWeightSuccessive` | wave-reused |

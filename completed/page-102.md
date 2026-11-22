@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069703 | P1152 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepOfFrobeniusFixedFrameChangeStatement` | build-observed |
+| M069705 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentationComponentStatement` | volunteer-build-reviewed |
 | M069707 | P0122 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentativesTwoElementOrbitsInvolutionStatement` | volunteer-build-reviewed |
 | M069708 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepsLatticeQuotientConjugateHalfOrthogonal` | volunteer-build-reviewed |
 | M069710 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRescaleEigenSeriesZero` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M070358 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarMemCoefficientRingAuxiliaryLevel` | volunteer-build-reviewed |
 | M070359 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarMemCoefficientRingAuxiliaryLevelStatement` | volunteer-build-reviewed |
 | M070360 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarPrimePowIntegralAtLevelPlaces` | volunteer-build-reviewed |
-| M070361 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarPrimePowIntegralAtLevelPlacesStatement` | volunteer-build-reviewed |
-| M070364 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeries` | volunteer-build-reviewed |

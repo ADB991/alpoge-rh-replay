@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101242 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdicCompletionIntegersBaseChangeIff` | build-observed |
+| M101243 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.BaseChangeTrivialExtension` | build-observed |
+| M101244 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange` | build-observed |
 | M101245 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionLocalScalar` | build-observed |
 | M101246 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralizerCommutativeOfSeparableCharpoly` | build-observed |
 | M101249 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CharpolySeparableUnitSmul` | build-observed |
@@ -399,6 +402,3 @@
 | M101850 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SmCont` | volunteer-build-reviewed |
 | M101851 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformModel` | build-observed |
 | M101865 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDual2` | volunteer-build-reviewed |
-| M101866 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDualC` | volunteer-build-reviewed |
-| M101869 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp` | volunteer-build-reviewed |
-| M101870 | P1603 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealTransport.RealTransport` | volunteer-build-reviewed |

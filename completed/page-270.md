@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173882 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.IteratedDerivOrbit` | wave-reused |
+| M173883 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.LayerSpan` | wave-reused |
+| M173884 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.NcBound` | wave-reused |
+| M173885 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.PolarJmConjTranspose` | wave-reused |
+| M173886 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Series` | wave-reused |
+| M173887 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Taylor` | wave-reused |
+| M173888 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Unitary` | wave-reused |
+| M173889 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.WeightBound` | wave-reused |
+| M173890 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCas` | wave-reused |
 | M173891 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCasA` | wave-reused |
 | M173892 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigRep` | wave-reused |
 | M173893 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BochIneq` | wave-reused |
@@ -393,12 +402,3 @@
 | M174290 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.EntryEqZeroOfComm` | wave-reused |
 | M174291 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.RelOpCurve` | wave-reused |
 | M174292 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Stable` | wave-reused |
-| M174293 | P0863 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRed` | wave-reused |
-| M174294 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRedOf` | wave-reused |
-| M174295 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepHom` | wave-reused |
-| M174296 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousTorepK` | wave-reused |
-| M174297 | P0730 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Exists` | wave-reused |
-| M174298 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Finrank` | wave-reused |
-| M174299 | P0836 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHC` | wave-reused |
-| M174300 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCA` | wave-reused |
-| M174301 | P0808 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.FromHCB` | wave-reused |

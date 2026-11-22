@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153307 | P0859 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsGlobalForm` | build-observed |
+| M153308 | P0912 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsWeightedConditional` | build-observed |
+| M153309 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.Mirabolic` | build-observed |
+| M153310 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OnExport` | build-observed |
+| M153311 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OnLocal` | build-observed |
+| M153312 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OrthogonalityOfMackey` | build-observed |
+| M153313 | P0831 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic` | wave-reused |
+| M153314 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.ThreeForms` | build-observed |
 | M153315 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.UnipotentNumeric` | build-observed |
 | M153316 | P0503 | `Formalism.MirabolicMackeyTheory.StatementC` | build-observed |
 | M153317 | P0462 | `Formalism.MirabolicMackeyTheory.StatementL` | build-observed |
@@ -394,11 +402,3 @@
 | M153729 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpIntW` | build-observed |
 | M153730 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpTri` | build-observed |
 | M153731 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExplicitFormula` | build-observed |
-| M153732 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglChordFactor` | build-observed |
-| M153733 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPhSplit` | build-observed |
-| M153734 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPtW` | build-observed |
-| M153735 | P0603 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglTriFactor` | build-observed |
-| M153736 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FiltLenF` | build-observed |
-| M153737 | P0376 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdAd` | build-observed |
-| M153738 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FinOrdRedOne` | build-observed |
-| M153739 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FlagGramNonneg` | build-observed |

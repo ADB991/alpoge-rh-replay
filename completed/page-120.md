@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084315 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctionalStatement` | wave-reused |
+| M084316 | P0766 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PsJetTwistedSeriesOfLeOne` | volunteer-build-reviewed |
+| M084317 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PullAlValueIntegralPoint` | wave-reused |
 | M084319 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QdetTopThreeOrders` | volunteer-build-reviewed |
 | M084323 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorIntertwiningApply` | build-observed |
 | M084325 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorPolyMap` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M085039 | P1798 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInversionEndomorphismsThetaLevelFamilyStatement` | build-observed |
 | M085040 | P0361 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsAffineOpenLeOfIsQProjOver` | build-observed |
 | M085042 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsClopenEqualizer` | volunteer-build-reviewed |
-| M085046 | P1284 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZero` | wave-reused |
-| M085047 | P1310 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZeroStatement` | wave-reused |
-| M085048 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDerivAt0NotIsDerivAlong` | volunteer-build-reviewed |

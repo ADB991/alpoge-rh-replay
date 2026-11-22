@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065790 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntries` | volunteer-build-reviewed |
+| M065791 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntriesStatement` | volunteer-build-reviewed |
 | M065793 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeylHeisenbergOperatorCalculusRationalStatement` | volunteer-build-reviewed |
 | M065796 | P1225 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowLower` | build-observed |
 | M065797 | P2158 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowShareRequirementClosedFormProof` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M066435 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsBasisEmbedding` | wave-reused |
 | M066436 | P0522 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsChartOfMemRedKer` | wave-reused |
 | M066437 | P0307 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsCounitEqOneMulEqZeroOfIsNilpotent` | wave-reused |
-| M066438 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsEqTransposeMulDiagonalMul` | wave-reused |
-| M066439 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsHomDivMulRefine` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154673 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IsIntIntCast` | build-observed |
+| M154675 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanDecompositionExists` | build-observed |
+| M154676 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanExists` | build-observed |
+| M154680 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LinearIndependentOfDetGram` | build-observed |
+| M154681 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LocalDensityIntegral` | build-observed |
+| M154682 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LocalModelsSplitCofinite` | build-observed |
+| M154683 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MassConstUniqueOne` | volunteer-build-reviewed |
+| M154684 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MemSmulLatCoord` | build-observed |
 | M154685 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NMPseudoOf` | build-observed |
 | M154686 | P1833 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.NormMMOfJD` | build-observed |
 | M154687 | P0968 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFDefs` | build-observed |
@@ -394,11 +402,3 @@
 | M155139 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramInjectivity.InstFintypeColChoice` | build-observed |
 | M155140 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramIsometryCoefficient.ExCoeffOneNe` | build-observed |
 | M155141 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.AdjugateLastEntrySum` | build-observed |
-| M155142 | P1369 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.FixOfPos` | build-observed |
-| M155144 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfIso` | build-observed |
-| M155145 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfLoc` | build-observed |
-| M155146 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.GsFramesOfLocal` | build-observed |
-| M155147 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HermBvecEI` | build-observed |
-| M155148 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HermXGen` | build-observed |
-| M155149 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.HmSelfRe` | build-observed |
-| M155150 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.IsotropicSubspaceEqPrimed` | build-observed |

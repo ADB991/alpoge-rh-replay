@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093936 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBound` | volunteer-build-reviewed |
+| M093937 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBoundStatement` | volunteer-build-reviewed |
+| M093943 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponents` | volunteer-build-reviewed |
 | M093944 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponentsStatement` | volunteer-build-reviewed |
 | M093949 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLe` | volunteer-build-reviewed |
 | M093950 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLeStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M094451 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegral` | volunteer-build-reviewed |
 | M094452 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegralStatement` | volunteer-build-reviewed |
 | M094453 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegral` | volunteer-build-reviewed |
-| M094454 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegralStatement` | volunteer-build-reviewed |
-| M094459 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodProjectorLevelMultiplicitySpaceMemGoodRows` | volunteer-build-reviewed |
-| M094460 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtension` | volunteer-build-reviewed |

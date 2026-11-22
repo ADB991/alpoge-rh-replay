@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067713 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeilStatement` | volunteer-build-reviewed |
+| M067714 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevels` | volunteer-build-reviewed |
 | M067715 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevelsStatement` | volunteer-build-reviewed |
 | M067716 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugate` | volunteer-build-reviewed |
 | M067717 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugateStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M068401 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqBotOrEqTopOfInvariant` | volunteer-build-reviewed |
 | M068404 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqMulIntegralClosureOfSeparableInvolutionAlgebra` | build-observed |
 | M068406 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfHasSupportSingleton` | volunteer-build-reviewed |
-| M068407 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfIsLocCompGL` | volunteer-build-reviewed |
-| M068408 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfNodupSumMultisetOfEq` | volunteer-build-reviewed |

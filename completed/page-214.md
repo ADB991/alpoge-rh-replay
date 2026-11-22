@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143861 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.UnfParH` | volunteer-build-reviewed |
+| M143863 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnipEx` | volunteer-build-reviewed |
+| M143864 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.WittOf` | volunteer-build-reviewed |
+| M143866 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.ChartSt` | volunteer-build-reviewed |
+| M143867 | P0068 | `Development.WeilBound.ThetaLifts.SphericalLattices.DgPerm` | volunteer-build-reviewed |
+| M143870 | P0145 | `Development.WeilBound.ThetaLifts.SphericalLattices.ExistsIsUnitAddMul` | volunteer-build-reviewed |
+| M143874 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunAvg` | volunteer-build-reviewed |
+| M143876 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunCount` | volunteer-build-reviewed |
 | M143879 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunFin` | volunteer-build-reviewed |
 | M143888 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.InvMemKgKCart2` | volunteer-build-reviewed |
 | M143889 | P0068 | `Development.WeilBound.ThetaLifts.SphericalLattices.LatDefs` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M144328 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.LogWeight` | wave-reused |
 | M144329 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.ModelUnitOf` | wave-reused |
 | M144330 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.NDeriv` | wave-reused |
-| M144331 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.PadicMult` | wave-reused |
-| M144332 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.TorInt` | wave-reused |
-| M144333 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.UnitCancel` | wave-reused |
-| M144334 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.VeluInt` | wave-reused |
-| M144335 | P0420 | `Formalism.EllipticTorsion.EllipticTorsionProofs.VeluUSeries` | wave-reused |
-| M144336 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WChord` | wave-reused |
-| M144337 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WPoint` | wave-reused |
-| M144338 | P0211 | `Formalism.EllipticTorsion.EllipticTorsionProofs.WSeries` | wave-reused |

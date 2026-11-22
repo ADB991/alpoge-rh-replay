@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081258 | P0765 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PadicIntHomUnique` | wave-reused |
+| M081260 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PairingComplexFormsConstOnRowClassesStatement` | volunteer-build-reviewed |
+| M081269 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ParameterOfDiscreteSeriesReciprocityStatement` | volunteer-build-reviewed |
 | M081272 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartAtUpdSReFace` | volunteer-build-reviewed |
 | M081276 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharacters` | volunteer-build-reviewed |
 | M081277 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharactersStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M082359 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompat` | volunteer-build-reviewed |
 | M082360 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompatStatement` | volunteer-build-reviewed |
 | M082366 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerization` | volunteer-build-reviewed |
-| M082367 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerizationStatement` | volunteer-build-reviewed |
-| M082374 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardAddCharPlaceIdempotentDivPrime` | volunteer-build-reviewed |
-| M082378 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateClose` | volunteer-build-reviewed |

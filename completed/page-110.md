@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075313 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpaceStatement` | volunteer-build-reviewed |
+| M075314 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGL` | build-observed |
 | M075315 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGLStatement` | build-observed |
 | M075316 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRing` | volunteer-build-reviewed |
 | M075317 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRingStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M076225 | P1673 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumsEqPairingsTopChainLiftsStatement` | volunteer-build-reviewed |
 | M076226 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassifiedTorusTorsionPointEqUniformisationTorus` | volunteer-build-reviewed |
 | M076229 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraic` | volunteer-build-reviewed |
-| M076230 | P1569 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraicStatement` | build-observed |
-| M076232 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointGeometricFibresFinite` | volunteer-build-reviewed |

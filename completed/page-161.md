@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110446 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRingOfFiniteDominating` | volunteer-build-reviewed |
+| M110447 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationSubringUniqueOfPrime` | volunteer-build-reviewed |
+| M110448 | P2686 | `Development.AutomorphicArithmetic.DivisorFrames.VanishingSectionsToroidalFlagIndependent` | volunteer-build-reviewed |
+| M110449 | P2441 | `Development.AutomorphicArithmetic.DivisorFrames.VectorBundleSubbundleUniversal` | volunteer-build-reviewed |
 | M110450 | P2241 | `Development.AutomorphicArithmetic.DivisorFrames.VectorValuedAutFormEquivariantInfiniteComponent` | volunteer-build-reviewed |
 | M110451 | P2708 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalDegreeRationalSection` | volunteer-build-reviewed |
 | M110452 | P2705 | `Development.AutomorphicArithmetic.DivisorFrames.VerticalModelDimensionMatch` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M110973 | P2766 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPowHolds` | volunteer-build-reviewed |
 | M110974 | P0135 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.OrderAsym` | volunteer-build-reviewed |
 | M110975 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.PartBOfDecomposition` | volunteer-build-reviewed |
-| M110977 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.SysEx` | volunteer-build-reviewed |
-| M110978 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.TwoParts` | volunteer-build-reviewed |
-| M110979 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.UnitOfPow` | volunteer-build-reviewed |
-| M110980 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.ZeroExp` | volunteer-build-reviewed |

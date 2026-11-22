@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071735 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalOfHypOutside` | volunteer-build-reviewed |
+| M071739 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfIsConjPl` | volunteer-build-reviewed |
 | M071740 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfNotIsConjPl` | build-observed |
 | M071741 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfTwoMem` | build-observed |
 | M071744 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitting` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M072516 | P2057 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMul` | volunteer-build-reviewed |
 | M072517 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMulStatement` | volunteer-build-reviewed |
 | M072518 | P0622 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecomposition` | build-observed |
-| M072519 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecompositionStatement` | build-observed |
-| M072520 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpoly` | volunteer-build-reviewed |

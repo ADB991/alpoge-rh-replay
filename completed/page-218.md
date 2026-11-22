@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145674 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTCut` | wave-reused |
+| M145675 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJet` | wave-reused |
+| M145676 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJetRad` | wave-reused |
+| M145677 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTTaylor` | wave-reused |
+| M145678 | P1266 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocal` | wave-reused |
+| M145679 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalCut` | wave-reused |
+| M145680 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrame` | wave-reused |
+| M145681 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameA` | wave-reused |
 | M145682 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameB` | wave-reused |
 | M145684 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefCut` | wave-reused |
 | M145685 | P1293 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCRefTraceCut` | wave-reused |
@@ -394,11 +402,3 @@
 | M146700 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OmegaNormCofactorOfParts` | build-observed |
 | M146702 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddPowLeExp` | volunteer-build-reviewed |
 | M146703 | P1187 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddProjectionMemIsotropicSet` | build-observed |
-| M146704 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelCoefficients` | build-observed |
-| M146705 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequality` | build-observed |
-| M146706 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequalitySplitBySize` | build-observed |
-| M146707 | P0721 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneParameterDifferentiable` | wave-reused |
-| M146708 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OnePointBasisFundamentalDomainVolume` | volunteer-build-reviewed |
-| M146711 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OoConvOf` | build-observed |
-| M146717 | P1556 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OpNormPiLe` | volunteer-build-reviewed |
-| M146718 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms` | wave-reused |

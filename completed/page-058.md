@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M039079 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaConstantListOfFibrePullbackFieldExtension` | volunteer-build-reviewed |
 | M039082 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProduct` | volunteer-build-reviewed |
 | M039083 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProductStatement` | volunteer-build-reviewed |
 | M039084 | P2037 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOMul` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M039848 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KilledByIdealFiniteEtale` | volunteer-build-reviewed |
 | M039853 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KinfFinite` | volunteer-build-reviewed |
 | M039854 | P1478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovArchimedeanTotallyComplexMirabolic` | volunteer-build-reviewed |
-| M039855 | P1508 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.KirillovArchimedeanTotallyComplexMirabolicStatement` | build-observed |

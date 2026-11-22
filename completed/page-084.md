@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057671 | P2070 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalCompactReductionStandardFrameStatement` | volunteer-build-reviewed |
 | M057672 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormal` | build-observed |
 | M057673 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormalStatement` | build-observed |
 | M057675 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCosetSection` | volunteer-build-reviewed |
@@ -83,6 +84,7 @@
 | M057802 | P0869 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsSmoothCompactSupportFixLowestKType` | build-observed |
 | M057805 | P1304 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsSmulLocalWittFreeTupleGram` | volunteer-build-reviewed |
 | M057806 | P1330 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsSmulLocalWittFreeTupleGramStatement` | volunteer-build-reviewed |
+| M057807 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsSmulRatTupEq` | volunteer-build-reviewed |
 | M057810 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsStabilizerNilradicalIntegralLiftOfOrthogon` | build-observed |
 | M057811 | P0842 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsStabilizerNilradicalIntegralLiftOfOrthogonStatement` | build-observed |
 | M057812 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsStabilizerNilradicalLiftOfIsotropic` | build-observed |
@@ -400,5 +402,3 @@
 | M058396 | P0952 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDatumOfTermReadOnLattice` | build-observed |
 | M058398 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpan` | wave-reused |
 | M058399 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpanStatement` | wave-reused |
-| M058400 | P1033 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocal` | wave-reused |
-| M058401 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocalStatement` | wave-reused |

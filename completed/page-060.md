@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040573 | P2663 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LemmaU` | volunteer-build-reviewed |
 | M040575 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthCokerLsmulEqLengthKerAddSumStatement` | volunteer-build-reviewed |
 | M040576 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthEqKerAddRange` | volunteer-build-reviewed |
 | M040578 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthGeFinrankOfSemilinearSurjectiveStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M041382 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDegreeGeOfTwistedSectionStatement` | build-observed |
 | M041383 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDegreeLeUnderEmbedding` | volunteer-build-reviewed |
 | M041385 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeAdditive` | volunteer-build-reviewed |
-| M041386 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeAdditiveStatement` | volunteer-build-reviewed |

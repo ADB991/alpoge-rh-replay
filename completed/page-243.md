@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159177 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.HighestWeightSpaceEqSpanHighestWeightVector` | build-observed |
+| M159178 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IndexOffRange` | build-observed |
+| M159179 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IsotypicSumInfStandardWordsOutsideEqBot` | build-observed |
+| M159180 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.KcolEqPathWord` | build-observed |
+| M159181 | P1392 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LatticeGeneratedLowestWeight` | build-observed |
+| M159182 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LiePolarizationDerEqZeroOfDisjoint` | build-observed |
+| M159183 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.LowerSetTypesSpan` | build-observed |
+| M159184 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.NablaDualLatticeOfIrreducibleLowestGenerated` | build-observed |
 | M159185 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.PeBnOfLt` | build-observed |
 | M159186 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RenameMulRenameMemSpanProductBasis` | build-observed |
 | M159187 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.RestPathFrom` | build-observed |
@@ -394,11 +402,3 @@
 | M159608 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionEmbedding` | build-observed |
 | M159609 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CcDualWtAnti` | build-observed |
 | M159610 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudA` | build-observed |
-| M159611 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudADef` | build-observed |
-| M159612 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudB` | build-observed |
-| M159613 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudC` | build-observed |
-| M159614 | P1442 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudDefs` | build-observed |
-| M159615 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIso` | build-observed |
-| M159616 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIsoDef` | build-observed |
-| M159617 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CoeffSumMonomialLinear` | build-observed |
-| M159618 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ContractionOfPairingLemmas` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145138 | P0536 | `Formalism.GaussJetBounds.StatementP` | wave-reused |
+| M145139 | P0461 | `Formalism.GaussJetBounds.StatementQ` | build-observed |
+| M145140 | P0326 | `Formalism.GaussJetBounds.StatementR` | build-observed |
+| M145141 | P0570 | `Formalism.GaussJetBounds.StatementS` | wave-reused |
+| M145142 | P0570 | `Formalism.GaussJetBounds.StatementU` | wave-reused |
+| M145143 | P0602 | `Formalism.GaussJetBounds.StatementV` | wave-reused |
+| M145144 | P0570 | `Formalism.GaussJetBounds.StatementW` | build-observed |
+| M145145 | P0634 | `Formalism.GaussJetBounds.StatementX` | wave-reused |
 | M145146 | P0570 | `Formalism.GaussJetBounds.StatementY` | volunteer-build-reviewed |
 | M145147 | P0966 | `Formalism.GaussJetBounds.ThmAEntryFull` | build-observed |
 | M145148 | P0884 | `Formalism.GaussJetBounds.ThmAGauss` | build-observed |
@@ -394,11 +402,3 @@
 | M145671 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsm` | wave-reused |
 | M145672 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmA` | wave-reused |
 | M145673 | P1106 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmB` | wave-reused |
-| M145674 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTCut` | wave-reused |
-| M145675 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJet` | wave-reused |
-| M145676 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJetRad` | wave-reused |
-| M145677 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTTaylor` | wave-reused |
-| M145678 | P1266 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocal` | wave-reused |
-| M145679 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalCut` | wave-reused |
-| M145680 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrame` | wave-reused |
-| M145681 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLocalFrameA` | wave-reused |

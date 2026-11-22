@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130912 | P0798 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptBlockRefinement` | build-observed |
+| M130913 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptBlockRefinementStatement` | volunteer-build-reviewed |
+| M130914 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFieldExtension` | volunteer-build-reviewed |
+| M130915 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFieldExtensionStatement` | volunteer-build-reviewed |
+| M130918 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFlagDegree` | build-observed |
 | M130919 | P0597 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFlagDegreeStatement` | build-observed |
 | M130922 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGlobalNefBound` | volunteer-build-reviewed |
 | M130923 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptGlobalNefBoundStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M131570 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemSpanOfIotaMultiProportionalStatement` | volunteer-build-reviewed |
 | M131571 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertible` | volunteer-build-reviewed |
 | M131572 | P0415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertibleStatement` | volunteer-build-reviewed |
-| M131576 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentGenericFibreStatement` | volunteer-build-reviewed |
-| M131580 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentValuationFibreStatement` | volunteer-build-reviewed |
-| M131581 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelFibresPowerFree` | wave-reused |
-| M131583 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamily` | volunteer-build-reviewed |
-| M131584 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelOnHodgeFromFamilyStatement` | volunteer-build-reviewed |

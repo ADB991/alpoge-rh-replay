@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074582 | P2665 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSum` | volunteer-build-reviewed |
+| M074583 | P2671 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSumStatement` | volunteer-build-reviewed |
 | M074585 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationAtRealPlacesStatement` | volunteer-build-reviewed |
 | M074586 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlaces` | volunteer-build-reviewed |
 | M074587 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlacesStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M075309 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightVectorRealizationExistsStatement` | volunteer-build-reviewed |
 | M075311 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroPotentiallySemistableOfSenTheoremStatement` | volunteer-build-reviewed |
 | M075312 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpace` | volunteer-build-reviewed |
-| M075313 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpaceStatement` | volunteer-build-reviewed |
-| M075314 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGL` | build-observed |

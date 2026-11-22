@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110977 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.SysEx` | volunteer-build-reviewed |
+| M110978 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.TwoParts` | volunteer-build-reviewed |
+| M110979 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.UnitOfPow` | volunteer-build-reviewed |
+| M110980 | P1932 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.ZeroExp` | volunteer-build-reviewed |
 | M110981 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.CptInt` | volunteer-build-reviewed |
 | M110983 | P1550 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.NormCount` | volunteer-build-reviewed |
 | M110984 | P1577 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.OrbUnit` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M111442 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoVol` | build-observed |
 | M111443 | P1045 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepAbs` | build-observed |
 | M111444 | P1522 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepHecke` | build-observed |
-| M111445 | P1436 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DefBridge` | build-observed |
-| M111446 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.EigBasis` | build-observed |
-| M111447 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.GapDom` | build-observed |
-| M111448 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.HlEval` | build-observed |

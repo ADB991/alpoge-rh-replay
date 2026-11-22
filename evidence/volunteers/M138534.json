@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    "M138534"
+  ],
+  "started_utc": "2026-11-22T10:37:27.521624+00:00",
+  "ended_utc": "2026-11-22T10:38:33.633033+00:00",
+  "elapsed_seconds": 66.1,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5215132
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.CoreStatements.HodgeTatePoints.RiEasy:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b9a26d5c4e9a0ed39a3c809b2370c224280246f40c11b92ec14b1c00fa46a5ee",
+  "rebuilt_project_modules": [
+    "ReciprocityTheory.DualLattices.CharTableIsUnit",
+    "ReciprocityTheory.DualLattices.DualHopfOrderStatement",
+    "ReciprocityTheory.DualLattices.ImportsAlt",
+    "ReciprocityTheory.DualLattices.MemDualLatMapFourier",
+    "ReciprocityTheory.DualLattices.NearIdentityColengthStatement",
+    "ReciprocityTheory.DualLattices.TransposeMulSelf",
+    "ReciprocityTheory.DualLattices.ValuationDetEqOfSpanEq",
+    "ReciprocityTheory.DualLattices.ValuationFourierLeOne"
+  ],
+  "objects": {
+    "M138534": "9678c1f0bc479812da539ceb6b7ca58bc90c9b009d1c043b6e718b45bd4bf41f"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "a4824c6849a39380fa3b1a8620de913e87cf3571b21e1da0c280d3e56678fee2",
+  "packet": "M138534",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31559#issuecomment-7077927354",
+  "reviewed_utc": "2026-11-22T11:53:29.186290+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

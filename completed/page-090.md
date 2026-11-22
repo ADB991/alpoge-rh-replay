@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061699 | P0683 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeightStatement` | wave-reused |
+| M061704 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePa` | volunteer-build-reviewed |
 | M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |
 | M061708 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar` | build-observed |
 | M061709 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHom` | wave-reused |
@@ -400,5 +402,3 @@
 | M062352 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GroupAlgebraOperatorConvolutionCalculusStatement` | wave-reused |
 | M062353 | P0789 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.H2EquivOfTorsionCharacter` | build-observed |
 | M062355 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCoeffRingHomMapCoeff` | volunteer-build-reviewed |
-| M062356 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSer` | wave-reused |
-| M062357 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSerStatement` | wave-reused |

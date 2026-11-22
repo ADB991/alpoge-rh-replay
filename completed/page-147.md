@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102560 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ContSection` | volunteer-build-reviewed |
+| M102561 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoordGrading` | wave-reused |
+| M102563 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CotFg` | volunteer-build-reviewed |
 | M102564 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerExtend` | volunteer-build-reviewed |
 | M102565 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerHom` | volunteer-build-reviewed |
 | M102566 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.EigenMem` | wave-reused |
@@ -82,6 +85,7 @@
 | M102710 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.DToDetCH` | volunteer-build-reviewed |
 | M102711 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.DToDetMap` | volunteer-build-reviewed |
 | M102712 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.DToDetOfRep` | volunteer-build-reviewed |
+| M102715 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.DiffTwoNatural` | volunteer-build-reviewed |
 | M102725 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.FinDefs` | volunteer-build-reviewed |
 | M102728 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GChmap` | volunteer-build-reviewed |
 | M102729 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebraHeight.GDetps` | wave-reused |
@@ -398,7 +402,3 @@
 | M103259 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StConj` | volunteer-build-reviewed |
 | M103260 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StCount` | volunteer-build-reviewed |
 | M103261 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StDesc` | volunteer-build-reviewed |
-| M103262 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StDual` | volunteer-build-reviewed |
-| M103263 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StEta` | volunteer-build-reviewed |
-| M103264 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StMu` | volunteer-build-reviewed |
-| M103265 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StRes` | volunteer-build-reviewed |

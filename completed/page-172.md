@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115815 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightComponentsMemInvariant` | wave-reused |
+| M115817 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedHomogeneousMap` | volunteer-build-reviewed |
+| M115818 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightedSumBis` | volunteer-build-reviewed |
+| M115819 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WeightsCompactStabilizer` | volunteer-build-reviewed |
 | M115820 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WithBotEqOfLeOfAddOneLe` | wave-reused |
 | M115821 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.WtGeProd` | wave-reused |
 | M115822 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZASmul` | build-observed |
@@ -398,7 +402,3 @@
 | M116402 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.EquivariantLinearizationPullbackCompat` | volunteer-build-reviewed |
 | M116403 | P2674 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsArchimedeanSectionWithDenominator` | volunteer-build-reviewed |
 | M116404 | P2724 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCentreCuspGenericValueNeZero` | volunteer-build-reviewed |
-| M116406 | P2591 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsConstantCechKodairaSpencerValue` | volunteer-build-reviewed |
-| M116407 | P2643 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsConstantTwistOfThinDivisor` | volunteer-build-reviewed |
-| M116408 | P2756 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspRegularLevelDeterminant` | volunteer-build-reviewed |
-| M116409 | P2734 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsCuspValueLePhiOfHilbertSamuel` | volunteer-build-reviewed |

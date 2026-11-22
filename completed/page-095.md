@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064970 | P2227 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntryStatement` | volunteer-build-reviewed |
+| M064973 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntries` | volunteer-build-reviewed |
 | M064974 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntriesStatement` | volunteer-build-reviewed |
 | M064975 | P0358 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLift` | volunteer-build-reviewed |
 | M064976 | P0404 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLiftStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M065783 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedFejerPositivity` | volunteer-build-reviewed |
 | M065788 | P0190 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpace` | volunteer-build-reviewed |
 | M065789 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpaceStatement` | volunteer-build-reviewed |
-| M065790 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntries` | volunteer-build-reviewed |
-| M065791 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntriesStatement` | volunteer-build-reviewed |

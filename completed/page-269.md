@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173362 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ExpBCChart` | volunteer-build-reviewed |
+| M173363 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap` | volunteer-build-reviewed |
+| M173366 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FrMapComp` | volunteer-build-reviewed |
+| M173369 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridge` | build-observed |
+| M173370 | P1113 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeA` | build-observed |
+| M173371 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeB` | build-observed |
+| M173372 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeC` | build-observed |
+| M173376 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartAsm` | build-observed |
+| M173377 | P0863 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartX` | build-observed |
 | M173378 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameA` | build-observed |
 | M173380 | P1322 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnFrameC` | build-observed |
 | M173382 | P0836 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnHolFamOfHolTo` | build-observed |
@@ -393,12 +402,3 @@
 | M173879 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ConjTransposeEqOfInG` | wave-reused |
 | M173880 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ExistsExpEqOfMemKset` | wave-reused |
 | M173881 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Growth` | wave-reused |
-| M173882 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.IteratedDerivOrbit` | wave-reused |
-| M173883 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.LayerSpan` | wave-reused |
-| M173884 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.NcBound` | wave-reused |
-| M173885 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.PolarJmConjTranspose` | wave-reused |
-| M173886 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Series` | wave-reused |
-| M173887 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Taylor` | wave-reused |
-| M173888 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Unitary` | wave-reused |
-| M173889 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.WeightBound` | wave-reused |
-| M173890 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.BigCas` | wave-reused |

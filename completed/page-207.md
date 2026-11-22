@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137479 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.UnitaryConjIff` | volunteer-build-reviewed |
+| M137482 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalCharacterIntegrals.DifferentiableSetIntegralFz` | volunteer-build-reviewed |
+| M137492 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.MeasurePreservingOfAddEquiv` | volunteer-build-reviewed |
+| M137493 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.NhdsInv` | volunteer-build-reviewed |
+| M137494 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.SmallSub` | volunteer-build-reviewed |
+| M137499 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussSec` | volunteer-build-reviewed |
 | M137500 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.GaussianMomentRealCoords` | volunteer-build-reviewed |
 | M137503 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.IntgPowQuad` | volunteer-build-reviewed |
 | M137506 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.LongWeylFunctional` | volunteer-build-reviewed |
@@ -394,11 +400,5 @@
 | M138529 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfHopf` | build-observed |
 | M138530 | P0459 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfTors` | build-observed |
 | M138533 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RhPull` | volunteer-build-reviewed |
+| M138534 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RiEasy` | volunteer-build-reviewed |
 | M138538 | P0909 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuKodaira` | build-observed |
-| M138539 | P0746 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuSegre` | build-observed |
-| M138540 | P0883 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaKodOf` | build-observed |
-| M138541 | P0065 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaNum` | volunteer-build-reviewed |
-| M138542 | P0720 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiubOf` | build-observed |
-| M138543 | P0693 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SnapperHyperplane` | build-observed |
-| M138546 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TensorSpanLe` | build-observed |
-| M138549 | P1237 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TrivFlagModOfHodgeTateFreeOfRootLines` | worker-kernel-checked |

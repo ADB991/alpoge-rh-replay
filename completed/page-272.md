@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174865 | P1393 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedB` | wave-reused |
+| M174866 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ActDiagMemOfWK` | build-observed |
+| M174867 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdMatConjTranspose` | build-observed |
+| M174868 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdPhysApplySingle` | build-observed |
+| M174869 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdPhysDiagSingle` | build-observed |
+| M174870 | P1000 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AlgebraMapInvFf` | build-observed |
+| M174871 | P0171 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.BlockAnti` | volunteer-build-reviewed |
+| M174872 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CompactLoweringSpanDiagStable` | build-observed |
+| M174873 | P0973 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.CoordSpan` | build-observed |
 | M174874 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.DetOneSubEqSumMinors` | build-observed |
 | M174876 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ExistsNonzeroPhysicalHighestWeightVectorTensFock` | build-observed |
 | M174877 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.FfExpWedgeHasDeriv` | build-observed |

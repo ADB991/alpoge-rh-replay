@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092072 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslateStatement` | volunteer-build-reviewed |
+| M092075 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedDownIsTameThetaFunctional` | volunteer-build-reviewed |
+| M092077 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuous` | volunteer-build-reviewed |
 | M092078 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuousStatement` | volunteer-build-reviewed |
 | M092079 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthData` | volunteer-build-reviewed |
 | M092080 | P2628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthDataStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M092820 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelAdjointEqInvFiniteDimensionalStatement` | volunteer-build-reviewed |
 | M092822 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelConjugateTransferStatement` | volunteer-build-reviewed |
 | M092823 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelIsometryUnitHighestVectorIff` | volunteer-build-reviewed |
-| M092825 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelKFinite` | volunteer-build-reviewed |
-| M092827 | P1205 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelOfDualParameter` | volunteer-build-reviewed |
-| M092830 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelParamShiftedWeightOfCoverDiscStatement` | volunteer-build-reviewed |

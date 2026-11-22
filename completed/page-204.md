@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135667 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafNatPf` | wave-reused |
+| M135669 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafNewtonPf` | wave-reused |
+| M135670 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafNormalModelPf` | volunteer-build-reviewed |
+| M135672 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafObjFPPf` | volunteer-build-reviewed |
+| M135673 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafObjGluePf` | volunteer-build-reviewed |
+| M135676 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafOneHighPf` | build-observed |
 | M135677 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafOneLocPf` | wave-reused |
 | M135678 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafOneSpecPf` | wave-reused |
 | M135679 | P0064 | `Development.EtaleCohomology.EtaleSheaves.LeafOrdInfHomPf` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M136306 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductAssociative` | wave-reused |
 | M136307 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductGradedCommutative` | wave-reused |
 | M136308 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleTwistedResolutionExistsOfFlatSections` | wave-reused |
-| M136309 | P0499 | `Development.EtaleCohomology.TateTwists.ExactLocPf` | wave-reused |
-| M136310 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleKummerChernClassCochainOfDegreeValues` | wave-reused |
-| M136311 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotien` | wave-reused |
-| M136312 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotientAndPreshe` | wave-reused |
-| M136313 | P0534 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfLocalCriterionAn` | wave-reused |
-| M136314 | P0568 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistQuotientOfRootListsLocally` | wave-reused |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087803 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinatesStatement` | volunteer-build-reviewed |
+| M087809 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FullConclusionOfInputs` | volunteer-build-reviewed |
+| M087811 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslate` | volunteer-build-reviewed |
 | M087812 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslateStatement` | volunteer-build-reviewed |
 | M087813 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresented` | volunteer-build-reviewed |
 | M087814 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresentedStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M088859 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemOfPrimeDvdAbsNorm` | volunteer-build-reviewed |
 | M088863 | P0524 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLe` | build-observed |
 | M088864 | P0557 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLeStatement` | build-observed |
-| M088867 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyCoefficientFieldEmbeddingPadicComplex` | volunteer-build-reviewed |
-| M088869 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyEquivEllAdicCohomology` | volunteer-build-reviewed |
-| M088871 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreement` | volunteer-build-reviewed |

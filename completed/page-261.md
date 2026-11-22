@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168829 | P0085 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExampleLimitPolynomialHypothesis` | volunteer-build-reviewed |
+| M168830 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExistsDominantSubSmul` | volunteer-build-reviewed |
+| M168832 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ImportsAlt` | volunteer-build-reviewed |
+| M168834 | P0387 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.LineFIsHomogeneous` | volunteer-build-reviewed |
+| M168835 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PCBounds` | volunteer-build-reviewed |
+| M168840 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPBound` | volunteer-build-reviewed |
+| M168841 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPInert` | volunteer-build-reviewed |
+| M168842 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPSplit` | volunteer-build-reviewed |
+| M168844 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PNormUbar` | volunteer-build-reviewed |
 | M168845 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationBound` | volunteer-build-reviewed |
 | M168846 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPolarisationCoeff` | volunteer-build-reviewed |
 | M168847 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PPrimesLogSum` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M169552 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PSAOpenHolds` | build-observed |
 | M169553 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PTruncation` | build-observed |
 | M169555 | P0231 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauIIsBasisOf` | wave-reused |
-| M169556 | P0085 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauINontrivial` | wave-reused |
-| M169557 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ThetaThreeFamLinearIndependent` | wave-reused |
-| M169558 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ZeroSetFinite` | wave-reused |
-| M169559 | P0578 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Assembly` | wave-reused |
-| M169560 | P0545 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.AssemblyPartial` | wave-reused |
-| M169561 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.ComapMaximalIdealParDVR` | wave-reused |
-| M169562 | P0676 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Imports` | wave-reused |
-| M169563 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.Inhabitants` | wave-reused |
-| M169564 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.IntToFracInjective` | wave-reused |

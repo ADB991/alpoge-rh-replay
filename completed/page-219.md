@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146704 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelCoefficients` | build-observed |
+| M146705 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequality` | build-observed |
+| M146706 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequalitySplitBySize` | build-observed |
+| M146707 | P0721 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneParameterDifferentiable` | wave-reused |
+| M146708 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OnePointBasisFundamentalDomainVolume` | volunteer-build-reviewed |
+| M146711 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OoConvOf` | build-observed |
+| M146717 | P1556 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OpNormPiLe` | volunteer-build-reviewed |
+| M146718 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorPreservesFusionForms` | wave-reused |
 | M146719 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorRepresentations` | wave-reused |
 | M146720 | P0858 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OperatorsCommuteTranslations` | build-observed |
 | M146721 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OppositeWeylSubgroupClosed` | wave-reused |
@@ -394,11 +402,3 @@
 | M147313 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.AltChooseSumEqZero` | build-observed |
 | M147314 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.BaseTermLeTopTerm` | build-observed |
 | M147315 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Cayley` | build-observed |
-| M147316 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.IndexLastReductionHolds` | build-observed |
-| M147317 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaF` | build-observed |
-| M147318 | P0148 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaFd` | build-observed |
-| M147319 | P0148 | `Formalism.IncomingBounds.FlowDegreeBounds.MaxFlowValueAttained` | build-observed |
-| M147320 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.PadicValFactorialRatioProd` | wave-reused |
-| M147321 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.ProdRangeEqFactorialMulProdIco` | wave-reused |
-| M147322 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Series` | build-observed |
-| M147323 | P0327 | `Formalism.IncomingBounds.FlowDegreeBounds.ThmPExp` | wave-reused |

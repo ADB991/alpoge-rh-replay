@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168287 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosSt` | wave-reused |
+| M168288 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LengthQuotientEqLengthH0` | build-observed |
+| M168289 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LineBundleRestrictSt` | wave-reused |
+| M168290 | P0780 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LineBundleTwistVanish` | wave-reused |
+| M168291 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocAtRatio` | wave-reused |
+| M168292 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeBundleSt` | volunteer-build-reviewed |
+| M168293 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeNefAboveSt` | volunteer-build-reviewed |
+| M168294 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeRestrLenSt` | volunteer-build-reviewed |
+| M168295 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LocalizeSubvarSt` | volunteer-build-reviewed |
 | M168296 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MConeMapOverBaseRename` | wave-reused |
 | M168297 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MConeMapOverOfIsMultiHomog` | build-observed |
 | M168298 | P0702 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MIdealOverOneBlockEq` | build-observed |
@@ -393,12 +402,3 @@
 | M168825 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsCusp` | volunteer-build-reviewed |
 | M168826 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsPsh` | volunteer-build-reviewed |
 | M168827 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.TransposeEqOfPosSemidef` | volunteer-build-reviewed |
-| M168829 | P0085 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExampleLimitPolynomialHypothesis` | volunteer-build-reviewed |
-| M168830 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExistsDominantSubSmul` | volunteer-build-reviewed |
-| M168832 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ImportsAlt` | volunteer-build-reviewed |
-| M168834 | P0387 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.LineFIsHomogeneous` | volunteer-build-reviewed |
-| M168835 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PCBounds` | volunteer-build-reviewed |
-| M168840 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPBound` | volunteer-build-reviewed |
-| M168841 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPInert` | volunteer-build-reviewed |
-| M168842 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PKaPSplit` | volunteer-build-reviewed |
-| M168844 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PNormUbar` | volunteer-build-reviewed |

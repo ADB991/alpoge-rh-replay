@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163941 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AffineOfCone` | wave-reused |
+| M163942 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AnalyticGerm` | volunteer-build-reviewed |
+| M163943 | P0725 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly` | wave-reused |
+| M163944 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AuslanderBuchsbaumDepthBound` | volunteer-build-reviewed |
+| M163945 | P0466 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CMDepthAssoc` | volunteer-build-reviewed |
+| M163946 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CoeffEqZeroOfForallEvalEqZero` | volunteer-build-reviewed |
+| M163948 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.CutOffNear` | volunteer-build-reviewed |
+| M163949 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.DetEqZeroOfMulVecEqZero` | volunteer-build-reviewed |
 | M163950 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.EqZeroOfMemZeroLocusLineOriginIdeal` | wave-reused |
 | M163952 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FrameProjEq` | wave-reused |
 | M163953 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.FsLogRegBasic` | wave-reused |
@@ -142,6 +150,7 @@
 | M164170 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |
 | M164175 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIsolatedFibreNear` | volunteer-build-reviewed |
 | M164179 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PIsolatedPointsCount` | volunteer-build-reviewed |
+| M164181 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PJacobianPrimeDerivations` | volunteer-build-reviewed |
 | M164183 | P0466 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLeadIdealDim` | wave-reused |
 | M164184 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLelongLimit` | wave-reused |
 | M164187 | P0466 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PLelongLimitOffZero` | wave-reused |
@@ -393,12 +402,3 @@
 | M164610 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassDivision` | volunteer-build-reviewed |
 | M164611 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassPreparation` | volunteer-build-reviewed |
 | M164612 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphAreaHolomorphic` | wave-reused |
-| M164613 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphJacContinuous` | wave-reused |
-| M164614 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGridProductLowerBound` | volunteer-build-reviewed |
-| M164615 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHausdorffNullComplementConnected` | volunteer-build-reviewed |
-| M164616 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHessCCompPluri` | wave-reused |
-| M164617 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermPointIdealSpan` | volunteer-build-reviewed |
-| M164618 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermsIntegrallyClosed` | volunteer-build-reviewed |
-| M164619 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermsNoetherian` | volunteer-build-reviewed |
-| M164620 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolGermsUFD` | volunteer-build-reviewed |
-| M164621 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicFibreInfinite` | volunteer-build-reviewed |

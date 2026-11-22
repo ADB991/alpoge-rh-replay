@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134293 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFamilyEventuallySmoothPshStatement` | build-observed |
+| M134294 | P0745 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionAnalyticOnChart` | build-observed |
+| M134295 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionAnalyticOnChartStatement` | build-observed |
+| M134296 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockField` | build-observed |
+| M134297 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockFieldStatement` | build-observed |
+| M134298 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRing` | build-observed |
 | M134299 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRingAltBis` | build-observed |
 | M134300 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRingStatement` | build-observed |
 | M134313 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularizedWeightDominatesEventually` | build-observed |
@@ -396,9 +402,3 @@
 | M135064 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDescPfGlue` | build-observed |
 | M135065 | P0143 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiagPf` | volunteer-build-reviewed |
 | M135066 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafDictPf` | build-observed |
-| M135067 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDictPfDbl` | build-observed |
-| M135068 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiscNrmPf` | build-observed |
-| M135069 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiscPf` | build-observed |
-| M135070 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafEqvOfExcPf` | build-observed |
-| M135071 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafEtPf` | build-observed |
-| M135072 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafEvPf` | build-observed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133639 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagHeightPolynomialWeightForm` | volunteer-build-reviewed |
+| M133646 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPoints` | wave-reused |
+| M133647 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPointsStatement` | volunteer-build-reviewed |
+| M133648 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGiven` | volunteer-build-reviewed |
+| M133649 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelExistsOfGivenStatement` | volunteer-build-reviewed |
+| M133652 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentity` | volunteer-build-reviewed |
 | M133653 | P2528 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelGlobalHeightIdentityStatement` | volunteer-build-reviewed |
 | M133654 | P2552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelHeightLowerEstimate` | volunteer-build-reviewed |
 | M133658 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointInMultiprojectivePoints` | build-observed |
@@ -396,9 +402,3 @@
 | M134289 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularChartDataProperties` | wave-reused |
 | M134290 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularChartDataPropertiesStatement` | wave-reused |
 | M134292 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFamilyEventuallySmoothPsh` | build-observed |
-| M134293 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFamilyEventuallySmoothPshStatement` | build-observed |
-| M134294 | P0745 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionAnalyticOnChart` | build-observed |
-| M134295 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionAnalyticOnChartStatement` | build-observed |
-| M134296 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockField` | build-observed |
-| M134297 | P0883 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFunctionInBlockFieldStatement` | build-observed |
-| M134298 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularSystemOfParametersLocalRing` | build-observed |

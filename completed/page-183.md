@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121419 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChiDetPowSplitCentre` | volunteer-build-reviewed |
+| M121420 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CircleZero` | volunteer-build-reviewed |
+| M121422 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassLevelFormula` | volunteer-build-reviewed |
+| M121425 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassZeroCocycleTensorCoboundaryStatement` | volunteer-build-reviewed |
+| M121426 | P1017 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClauseAToL` | build-observed |
 | M121427 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVector` | volunteer-build-reviewed |
 | M121428 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordHighestWeightVectorStatement` | volunteer-build-reviewed |
 | M121430 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CliffordVectorSpinWeightStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M121989 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordsOfEtaleBasicOpenStatement` | volunteer-build-reviewed |
 | M121990 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoreR` | volunteer-build-reviewed |
 | M121991 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CorrESymmCoe` | volunteer-build-reviewed |
-| M121993 | P2174 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotent` | volunteer-build-reviewed |
-| M121994 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotentStatement` | volunteer-build-reviewed |
-| M121995 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinement` | volunteer-build-reviewed |
-| M121996 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinementStatement` | volunteer-build-reviewed |
-| M121999 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetEmptyPlacesLattice` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094941 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndex` | volunteer-build-reviewed |
+| M094942 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeIndexEqLocalComponentIndexStatement` | volunteer-build-reviewed |
+| M094944 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceStabilizersFixWeilLatticeVacuumStatement` | volunteer-build-reviewed |
 | M094945 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfOfMulFinOf` | volunteer-build-reviewed |
 | M094946 | P1232 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfPartOneSubEInfSmul` | volunteer-build-reviewed |
 | M094947 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLe` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M095414 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiStepCoreComponentMemCoreDepthLattice` | volunteer-build-reviewed |
 | M095415 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiStepCoreComponentMemCoreDepthLatticeStatement` | volunteer-build-reviewed |
 | M095416 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCarriesFlagLinesRowPeriodSucc` | volunteer-build-reviewed |
-| M095417 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCarriesFlagLinesRowPeriodSuccStatement` | volunteer-build-reviewed |
-| M095418 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCorePieceNonzeroVacuum` | volunteer-build-reviewed |
-| M095419 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCorePieceNonzeroVacuumStatement` | volunteer-build-reviewed |

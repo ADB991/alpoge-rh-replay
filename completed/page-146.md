@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101866 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDualC` | volunteer-build-reviewed |
+| M101869 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp` | volunteer-build-reviewed |
+| M101870 | P1603 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealTransport.RealTransport` | volunteer-build-reviewed |
 | M101963 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong` | volunteer-build-reviewed |
 | M101967 | P2568 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AlgOfCyc` | volunteer-build-reviewed |
 | M101969 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AutNewform` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M102557 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSqz` | volunteer-build-reviewed |
 | M102558 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSurj` | wave-reused |
 | M102559 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CocycleNormalForm` | volunteer-build-reviewed |
-| M102560 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ContSection` | volunteer-build-reviewed |
-| M102561 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoordGrading` | wave-reused |
-| M102563 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CotFg` | volunteer-build-reviewed |

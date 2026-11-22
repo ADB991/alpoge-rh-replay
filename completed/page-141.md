@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098702 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfPullbackId` | build-observed |
+| M098703 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfRingMaps` | build-observed |
+| M098704 | P1462 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfThickenings` | build-observed |
 | M098705 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfVeryAmpleBy` | build-observed |
 | M098706 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIndepCoords` | volunteer-build-reviewed |
 | M098707 | P1576 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSections` | build-observed |
@@ -399,6 +402,3 @@
 | M099312 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslates` | build-observed |
 | M099313 | P1748 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslatesStatement` | build-observed |
 | M099314 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTerms` | build-observed |
-| M099315 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTermsStatement` | build-observed |
-| M099316 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTerms` | build-observed |
-| M099317 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTermsStatement` | build-observed |

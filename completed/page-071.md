@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048325 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorLocalOperatorsStatement` | volunteer-build-reviewed |
 | M048326 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorSchwartz` | volunteer-build-reviewed |
 | M048329 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorSchwartzStatement` | volunteer-build-reviewed |
 | M048331 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedWittFrameStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M048993 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFactorizationBasePlace` | volunteer-build-reviewed |
 | M048995 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyBoundedUniformly` | volunteer-build-reviewed |
 | M048997 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpan` | volunteer-build-reviewed |
-| M048998 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpanStatement` | volunteer-build-reviewed |

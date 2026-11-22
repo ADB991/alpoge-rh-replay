@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077855 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRatSecOfPull` | volunteer-build-reviewed |
+| M077856 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsResOfTameAt` | volunteer-build-reviewed |
 | M077858 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRestrictedProductTupleMeasureStatement` | volunteer-build-reviewed |
 | M077859 | P2250 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsTrans` | build-observed |
 | M077860 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitSubOfIsSplitting` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M078587 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistedOpenExponentStatement` | volunteer-build-reviewed |
 | M078588 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwoPrimesSameNormOfTrivialFrobenius` | volunteer-build-reviewed |
 | M078590 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypeDimensionAndLocalIntegralsDegreeOne` | volunteer-build-reviewed |
-| M078593 | P0957 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypesIdempotentCoefficients` | build-observed |
-| M078595 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeeds` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149279 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT` | build-observed |
+| M149280 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.Objects` | build-observed |
+| M149281 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.RatDatOfReal` | build-observed |
+| M149282 | P0858 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.TwistedCharacterValue` | build-observed |
+| M149283 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.XiNeZeroOfIsStdGeneric` | build-observed |
+| M149284 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.EigSumLeComapSemi` | build-observed |
+| M149285 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.EigenDecomposition` | build-observed |
+| M149286 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfMemRangeAdjoint` | build-observed |
 | M149287 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfRangeAdjoint` | build-observed |
 | M149288 | P1441 | `Formalism.LocalToGlobal.IndefiniteReal.EqZeroOfVec` | volunteer-build-reviewed |
 | M149289 | P1164 | `Formalism.LocalToGlobal.IndefiniteReal.EquivFunOM` | build-observed |
@@ -394,11 +402,3 @@
 | M150247 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.KerExistsStatement` | volunteer-build-reviewed |
 | M150249 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsPfA` | build-observed |
 | M150250 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsPfB` | volunteer-build-reviewed |
-| M150251 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsSt` | volunteer-build-reviewed |
-| M150256 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.RhoDotSelf` | volunteer-build-reviewed |
-| M150257 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.ThetaDotSelf` | volunteer-build-reviewed |
-| M150258 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.TieLDA` | volunteer-build-reviewed |
-| M150259 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.TieLDB` | volunteer-build-reviewed |
-| M150260 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.AvMono` | wave-reused |
-| M150261 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHInst` | build-observed |
-| M150262 | P1188 | `Formalism.LocalToGlobal.ProjectiveLattices.AxHLAM` | volunteer-build-reviewed |

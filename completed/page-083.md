@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056876 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotentStatement` | build-observed |
 | M056879 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficient` | build-observed |
 | M056880 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficientStatement` | build-observed |
 | M056881 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselForm` | build-observed |
@@ -401,4 +402,3 @@
 | M057666 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMapMulRightEqSmul` | volunteer-build-reviewed |
 | M057667 | P0186 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMassOneCutoffDoubleCosetIntegral` | volunteer-build-reviewed |
 | M057669 | P0481 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaxVector` | build-observed |
-| M057671 | P2070 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalCompactReductionStandardFrameStatement` | volunteer-build-reviewed |

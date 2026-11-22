@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085745 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemRangeOfIsPullback` | volunteer-build-reviewed |
+| M085747 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MinimalAndDimLe` | volunteer-build-reviewed |
+| M085749 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus` | volunteer-build-reviewed |
 | M085752 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModelFiniteOverModuliModelDescends` | volunteer-build-reviewed |
 | M085756 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliFiniteSurjectiveOverGenericFamilyStatement` | volunteer-build-reviewed |
 | M085759 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliRepOfBase` | build-observed |
@@ -399,6 +402,3 @@
 | M086633 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeTwistedCuspPartsStatement` | volunteer-build-reviewed |
 | M086634 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepIntegralAfterScalingAtBadPrime` | volunteer-build-reviewed |
 | M086636 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepresentativeBoundedAtBadPrimes` | volunteer-build-reviewed |
-| M086638 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BcDatumNatural` | volunteer-build-reviewed |
-| M086639 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResidues` | volunteer-build-reviewed |
-| M086640 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResiduesStatement` | build-observed |

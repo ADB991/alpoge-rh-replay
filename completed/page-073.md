@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049719 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SerreVanishingLineBundleInvMixFixedDifferenceStatement` | volunteer-build-reviewed |
 | M049721 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SesquilinearDetOrdSignOnKernelConjGLStatement` | volunteer-build-reviewed |
 | M049722 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAt` | volunteer-build-reviewed |
 | M049723 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAtStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M050384 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectiv` | volunteer-build-reviewed |
 | M050385 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectivStatement` | volunteer-build-reviewed |
 | M050387 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCompositionFormStatement` | volunteer-build-reviewed |
-| M050391 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothConeSumGeneratorsEqOfCommonInteriorPointStatement` | volunteer-build-reviewed |

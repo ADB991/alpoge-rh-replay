@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159611 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudADef` | build-observed |
+| M159612 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudB` | build-observed |
+| M159613 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudC` | build-observed |
+| M159614 | P1442 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudDefs` | build-observed |
+| M159615 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIso` | build-observed |
+| M159616 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIsoDef` | build-observed |
+| M159617 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CoeffSumMonomialLinear` | build-observed |
+| M159618 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ContractionOfPairingLemmas` | build-observed |
 | M159619 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DPsiMonomialIwh` | build-observed |
 | M159620 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DerivativeRepresentation` | build-observed |
 | M159621 | P1687 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.DetFactsP` | build-observed |
@@ -394,11 +402,3 @@
 | M160022 | P1215 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantInjectiveOfCyclic` | wave-reused |
 | M160023 | P1190 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantKillsCyclicOfZero` | wave-reused |
 | M160024 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsClearDenominators` | wave-reused |
-| M160025 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestCoordinateFunctional` | wave-reused |
-| M160026 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestWeightVectorFindim` | wave-reused |
-| M160027 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections` | wave-reused |
-| M160028 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsNonzeroMultipleMemLattice` | wave-reused |
-| M160029 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsScalarMultipleMemDelta` | wave-reused |
-| M160030 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExponentFactorialAddSingleOne` | wave-reused |
-| M160031 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorLatticeScaledMem` | wave-reused |
-| M160032 | P1269 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExtremalProjectorOfReducibility` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169992 | P0471 | `GroundTheory.PAdicHodge.BCrisNewtonApprox` | build-observed |
+| M169993 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonDom` | build-observed |
+| M169994 | P0703 | `GroundTheory.PAdicHodge.BCrisNewtonFrac` | build-observed |
+| M169995 | P0676 | `GroundTheory.PAdicHodge.BCrisNewtonKey` | build-observed |
+| M169996 | P0288 | `GroundTheory.PAdicHodge.BCrisNewtonLift` | build-observed |
+| M169997 | P0388 | `GroundTheory.PAdicHodge.BCrisNewtonNorm` | build-observed |
+| M169998 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonSlope` | build-observed |
+| M169999 | P0645 | `GroundTheory.PAdicHodge.BCrisNewtonValue` | build-observed |
+| M170000 | P0612 | `GroundTheory.PAdicHodge.BCrisPlusInvariants` | build-observed |
 | M170001 | P0645 | `GroundTheory.PAdicHodge.BCrisRegular` | build-observed |
 | M170002 | P1112 | `GroundTheory.PAdicHodge.BCrisRegularFinal` | build-observed |
 | M170003 | P1082 | `GroundTheory.PAdicHodge.BCrisRegularSenTate` | build-observed |
@@ -393,12 +402,3 @@
 | M170869 | P0089 | `Lemmata.MultivariateIntegrals.IntegralMv` | wave-reused |
 | M170870 | P0089 | `Lemmata.NatMulIsIntegral.ExistsNatMulIsIntegral` | build-observed |
 | M170871 | P0089 | `Lemmata.NearbyExistence.ExistsNear` | wave-reused |
-| M170872 | P0232 | `Lemmata.PaddedFamilies.PadFam` | build-observed |
-| M170873 | P0089 | `Lemmata.PadicNatCastNorm.NormNatCastOfNotDvd` | wave-reused |
-| M170874 | P0089 | `Lemmata.PartialDerivativeDegree.PderivTdSuccLe` | wave-reused |
-| M170875 | P0089 | `Lemmata.PeriodicFunctions.PeriodicApplyMulAdd` | build-observed |
-| M170876 | P0676 | `Lemmata.PlaneOverMembership.PlOverOfMem` | build-observed |
-| M170877 | P0089 | `Lemmata.PosDefOfRealQuadratic.QuadFormRealSmul` | wave-reused |
-| M170878 | P0089 | `Lemmata.PowMulVecEigen.PowMulVecEig` | wave-reused |
-| M170879 | P0089 | `Lemmata.PowMulVecEigenvalue.PowMulVecEig` | volunteer-build-reviewed |
-| M170880 | P0089 | `Lemmata.PowerApplication.PowApp` | wave-reused |

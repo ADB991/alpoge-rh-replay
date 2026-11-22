@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127941 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlaces` | build-observed |
+| M127942 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlacesStatement` | build-observed |
+| M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
+| M127947 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveIntertwinerQuotientEquiv` | volunteer-build-reviewed |
+| M127949 | P2472 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveInvTranspose` | volunteer-build-reviewed |
 | M127951 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparability` | wave-reused |
 | M127952 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectivePreservesClosednessComparabilityStatement` | wave-reused |
 | M127953 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveReductionMaximalCompact` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M128682 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThreeStatement` | volunteer-build-reviewed |
 | M128683 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwo` | volunteer-build-reviewed |
 | M128684 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwoStatement` | volunteer-build-reviewed |
-| M128685 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuation` | volunteer-build-reviewed |
-| M128686 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuationStatement` | volunteer-build-reviewed |
-| M128687 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipal` | volunteer-build-reviewed |
-| M128688 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipalStatement` | volunteer-build-reviewed |
-| M128691 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticUniformizerOrder` | volunteer-build-reviewed |

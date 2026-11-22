@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172798 | P1055 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullFEInst` | wave-reused |
+| M172799 | P1026 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullFEPf` | wave-reused |
+| M172800 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullGen` | wave-reused |
+| M172801 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullGenPf` | wave-reused |
+| M172802 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullUUnitsCompatGeneric` | wave-reused |
+| M172803 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullbackValuationInvarianceOf` | wave-reused |
+| M172804 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.QuadTie` | wave-reused |
+| M172805 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.QuadraticAlgebraValuation` | wave-reused |
+| M172810 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.RsAppPullGen` | wave-reused |
 | M172813 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.SectionScalarValuation` | wave-reused |
 | M172814 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWFinal` | volunteer-build-reviewed |
 | M172815 | P0943 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.TWMain` | wave-reused |
@@ -393,12 +402,3 @@
 | M173357 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueBoundRamified` | build-observed |
 | M173358 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueIntegralGood` | build-observed |
 | M173359 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.DiffAtOddSt` | volunteer-build-reviewed |
-| M173362 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ExpBCChart` | volunteer-build-reviewed |
-| M173363 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap` | volunteer-build-reviewed |
-| M173366 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FrMapComp` | volunteer-build-reviewed |
-| M173369 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridge` | build-observed |
-| M173370 | P1113 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeA` | build-observed |
-| M173371 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeB` | build-observed |
-| M173372 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.GenBridgeC` | build-observed |
-| M173376 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartAsm` | build-observed |
-| M173377 | P0863 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.AnChartX` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053342 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataConjugateStatement` | volunteer-build-reviewed |
 | M053345 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactors` | build-observed |
 | M053346 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactorsStatement` | volunteer-build-reviewed |
 | M053348 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionMatchOfCharacterMapOnTorusStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M054070 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedDualPointOfIntegralTorusExtPointStatement` | volunteer-build-reviewed |
 | M054071 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedFiniteDatumEqStandardPairSecondMember` | volunteer-build-reviewed |
 | M054072 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedFiniteDatumEqStandardPairSecondMemberStatement` | volunteer-build-reviewed |
-| M054073 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedKernelLeThetaFunctionRouteBigVertex` | volunteer-build-reviewed |

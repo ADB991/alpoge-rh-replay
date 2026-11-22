@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064176 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1Inte` | volunteer-build-reviewed |
+| M064177 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1InteStatement` | volunteer-build-reviewed |
 | M064184 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOne` | build-observed |
 | M064185 | P1150 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOneStatement` | build-observed |
 | M064186 | P1452 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactor` | build-observed |
@@ -400,5 +402,3 @@
 | M064965 | P2493 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaloisRepTowerRestriction` | volunteer-build-reviewed |
 | M064966 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaussianOddJacobiThetaEqDerivMulSgStar` | volunteer-build-reviewed |
 | M064969 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntry` | volunteer-build-reviewed |
-| M064970 | P2227 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntryStatement` | volunteer-build-reviewed |
-| M064973 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntries` | volunteer-build-reviewed |

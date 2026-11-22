@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127207 | P2243 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreMeasureStatement` | volunteer-build-reviewed |
+| M127208 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarFibrationFormula` | volunteer-build-reviewed |
+| M127210 | P0660 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltration` | build-observed |
+| M127211 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltrationStatement` | build-observed |
+| M127212 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarOnWeightSpace` | volunteer-build-reviewed |
 | M127213 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExists` | volunteer-build-reviewed |
 | M127214 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarSectionExistsStatement` | volunteer-build-reviewed |
 | M127215 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScaledIntegralHermitianInOpenSubgroup` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
 | M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
 | M127940 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportOfExponentOfCasselman` | volunteer-build-reviewed |
-| M127941 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlaces` | build-observed |
-| M127942 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlacesStatement` | build-observed |
-| M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
-| M127947 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveIntertwinerQuotientEquiv` | volunteer-build-reviewed |
-| M127949 | P2472 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SurjectiveInvTranspose` | volunteer-build-reviewed |

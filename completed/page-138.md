@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096922 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatum` | volunteer-build-reviewed |
+| M096923 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatumStatement` | volunteer-build-reviewed |
+| M096924 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowColWeightsAgree` | build-observed |
 | M096925 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepth` | volunteer-build-reviewed |
 | M096926 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepthStatement` | volunteer-build-reviewed |
 | M096927 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDivEqZeroOfMatRepUnipotentFixed` | build-observed |
@@ -399,6 +402,3 @@
 | M097454 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonJacquetOfPerm` | build-observed |
 | M097455 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstMemFg` | volunteer-build-reviewed |
 | M097456 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstitutionTotalDegreeLe` | volunteer-build-reviewed |
-| M097458 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumDiagOrderEqOfIntegralTranslateIndicatorRelati` | volunteer-build-reviewed |
-| M097460 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumEqZeroOfMultilin` | volunteer-build-reviewed |
-| M097461 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumFourSwap` | volunteer-build-reviewed |

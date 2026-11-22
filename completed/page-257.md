@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166099 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergySwap` | build-observed |
+| M166101 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartHessCompare` | volunteer-build-reviewed |
+| M166103 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartIbpSymm` | build-observed |
+| M166104 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartMassInvariant` | volunteer-build-reviewed |
+| M166107 | P0575 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCoordConeArithVar` | wave-reused |
+| M166109 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualArithVar` | build-observed |
+| M166111 | P0726 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualCurvePoint` | build-observed |
+| M166112 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEmbBijective` | build-observed |
+| M166113 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualEnergyCharts` | volunteer-build-reviewed |
 | M166117 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeBasisExists` | build-observed |
 | M166118 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLatticeIndex` | build-observed |
 | M166121 | P0726 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualLineIndex` | build-observed |
@@ -393,12 +402,3 @@
 | M166925 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountLeOfInjOn` | wave-reused |
 | M166927 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountMonoLattice` | build-observed |
 | M166929 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StandardLatticeVecIndep` | volunteer-build-reviewed |
-| M166931 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsAmpleOfGenTwist` | pilot-reused |
-| M166934 | P0544 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith` | pilot-reused |
-| M166935 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArithKleiman` | build-observed |
-| M166936 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsAvoidFormFinite` | build-observed |
-| M166937 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBergman` | build-observed |
-| M166943 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBirationalModelExists` | build-observed |
-| M166945 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockDefectMetricChange` | volunteer-build-reviewed |
-| M166949 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImage` | build-observed |
-| M166950 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsBlockImageArith` | build-observed |

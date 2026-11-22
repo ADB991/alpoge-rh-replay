@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063529 | P0653 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionHeckeUEqSumSlash` | wave-reused |
+| M063530 | P0684 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionHeckeUEqSumSlashStatement` | wave-reused |
 | M063531 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuous` | wave-reused |
 | M063532 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuousStatement` | wave-reused |
 | M063535 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOne` | wave-reused |
@@ -400,5 +402,3 @@
 | M064173 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicMulEqZeroIffStatement` | wave-reused |
 | M064174 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0` | volunteer-build-reviewed |
 | M064175 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0Statement` | volunteer-build-reviewed |
-| M064176 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1Inte` | volunteer-build-reviewed |
-| M064177 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1InteStatement` | volunteer-build-reviewed |

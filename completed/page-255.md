@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165121 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleChartSectionTools` | wave-reused |
+| M165122 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleCut` | wave-reused |
+| M165123 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleDim` | wave-reused |
+| M165124 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleLineBase` | wave-reused |
+| M165125 | P0383 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundlePullbackVanish` | wave-reused |
+| M165126 | P0467 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleSectionDiv` | wave-reused |
+| M165127 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleSectionForms` | wave-reused |
+| M165128 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleSectionFormsTools` | wave-reused |
+| M165129 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagIndependence` | wave-reused |
 | M165130 | P0383 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagIndependenceAlgebra` | wave-reused |
 | M165131 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineDegree` | wave-reused |
 | M165132 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagLineSection` | wave-reused |
@@ -393,12 +402,3 @@
 | M165654 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFiniteAlgebraLengthSum` | wave-reused |
 | M165655 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFunctionFieldFinite` | wave-reused |
 | M165656 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PGradedFinite` | pilot-reused |
-| M165657 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbAddBlock` | pilot-reused |
-| M165658 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbDegreeBound` | pilot-reused |
-| M165659 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbExactDivide` | pilot-reused |
-| M165660 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbIrrelevantZero` | pilot-reused |
-| M165661 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumAdd` | pilot-reused |
-| M165662 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumBase` | pilot-reused |
-| M165663 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumBaseChange` | pilot-reused |
-| M165664 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumSymm` | pilot-reused |
-| M165665 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PIntNumUnique` | pilot-reused |

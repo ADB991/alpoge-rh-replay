@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091345 | P0850 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThickenedPointToTorusExtensionGenerator` | wave-reused |
+| M091346 | P0988 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToFSurjectiveFractionRing` | wave-reused |
+| M091347 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToUnitCompLeft` | build-observed |
 | M091349 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOfSameRatios` | build-observed |
 | M091350 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOneOfTranslationKeepsRatios` | wave-reused |
 | M091357 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharacters` | build-observed |
@@ -399,6 +402,3 @@
 | M092069 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotent` | volunteer-build-reviewed |
 | M092070 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotentStatement` | volunteer-build-reviewed |
 | M092071 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslate` | volunteer-build-reviewed |
-| M092072 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslateStatement` | volunteer-build-reviewed |
-| M092075 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedDownIsTameThetaFunctional` | volunteer-build-reviewed |
-| M092077 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuous` | volunteer-build-reviewed |

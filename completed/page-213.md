@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142863 | P1554 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistClassAssociation.TwClassUnique` | volunteer-build-reviewed |
+| M142864 | P0210 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistedIndependenceLemma.TwistedIndependence` | build-observed |
+| M142865 | P1317 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.SelmerRankBounds.EllipticityFromProductFormula` | build-observed |
+| M142866 | P1292 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.SelmerRankBounds.IsNormAlong` | build-observed |
+| M142870 | P0210 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.TruncatedCuspIrreducibility.ScatteringLimits` | volunteer-build-reviewed |
+| M142871 | P2288 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.BernAll` | volunteer-build-reviewed |
+| M142873 | P1554 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.IsInvForm` | volunteer-build-reviewed |
+| M142874 | P2288 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.BernsteinExponentBounds.ThmBChar0` | volunteer-build-reviewed |
 | M142876 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.CentralGenerators.CentralSubGen` | volunteer-build-reviewed |
 | M142878 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.EigenInjectivity.SubInjective` | volunteer-build-reviewed |
 | M142879 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.LeviScalars.EmbScalarMemLevi` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M143850 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.SplitLatMap` | volunteer-build-reviewed |
 | M143855 | P1497 | `Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq` | volunteer-build-reviewed |
 | M143859 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnfMod` | volunteer-build-reviewed |
-| M143861 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.UnfParH` | volunteer-build-reviewed |
-| M143863 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnipEx` | volunteer-build-reviewed |
-| M143864 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.WittOf` | volunteer-build-reviewed |
-| M143866 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.ChartSt` | volunteer-build-reviewed |
-| M143867 | P0068 | `Development.WeilBound.ThetaLifts.SphericalLattices.DgPerm` | volunteer-build-reviewed |
-| M143870 | P0145 | `Development.WeilBound.ThetaLifts.SphericalLattices.ExistsIsUnitAddMul` | volunteer-build-reviewed |
-| M143874 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunAvg` | volunteer-build-reviewed |
-| M143876 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.FunCount` | volunteer-build-reviewed |

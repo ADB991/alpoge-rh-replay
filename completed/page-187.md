@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123861 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacterStatement` | volunteer-build-reviewed |
+| M123864 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimension` | build-observed |
+| M123865 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimensionStatement` | build-observed |
+| M123866 | P0962 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraWhittaker` | build-observed |
+| M123872 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportEtaOf` | volunteer-build-reviewed |
 | M123874 | P2500 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasCompactSupportTj` | volunteer-build-reviewed |
 | M123875 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtEvalCurveOfDerivation` | volunteer-build-reviewed |
 | M123878 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtOfContinuousHom` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M124544 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroup` | volunteer-build-reviewed |
 | M124545 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroupStatement` | volunteer-build-reviewed |
 | M124546 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupportDcos` | volunteer-build-reviewed |
-| M124548 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsComplNonZeroDivisor` | volunteer-build-reviewed |
-| M124549 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsContent` | volunteer-build-reviewed |
-| M124550 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCovolOne` | volunteer-build-reviewed |
-| M124552 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsDomMonoid` | build-observed |
-| M124554 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsFieldIdemOne` | volunteer-build-reviewed |

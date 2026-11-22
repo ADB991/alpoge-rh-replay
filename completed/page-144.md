@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100588 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.VVAlgebraMapNonnegDvr` | volunteer-build-reviewed |
+| M100589 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelf` | build-observed |
+| M100590 | P1045 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelfStatement` | build-observed |
 | M100592 | P0559 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationCoeEqNorm` | wave-reused |
 | M100593 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationIntegersPadicComplete` | volunteer-build-reviewed |
 | M100594 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeaf` | wave-reused |
@@ -399,6 +402,3 @@
 | M101238 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleGaloisActionContinuous` | build-observed |
 | M101239 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicBoundOfCentralizerLocalization` | build-observed |
 | M101241 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicGLSplitEquiv` | build-observed |
-| M101242 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdicCompletionIntegersBaseChangeIff` | build-observed |
-| M101243 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.BaseChangeTrivialExtension` | build-observed |
-| M101244 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114508 | P2242 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairSmooth` | volunteer-build-reviewed |
+| M114509 | P2194 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairUnitary` | volunteer-build-reviewed |
+| M114510 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilSchwartzDecayBound` | volunteer-build-reviewed |
+| M114511 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylBaseColumn` | volunteer-build-reviewed |
 | M114512 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylConjugateExponentialParabolic` | volunteer-build-reviewed |
 | M114513 | P2263 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeylEmbeddedColumns` | volunteer-build-reviewed |
 | M114515 | P2525 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSDblT` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M114952 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdjoinSqrtEqRatSpan` | volunteer-build-reviewed |
 | M114953 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSchurLemma` | volunteer-build-reviewed |
 | M114954 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSmoothRepresentations` | volunteer-build-reviewed |
-| M114955 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeFundamentalDomain` | volunteer-build-reviewed |
-| M114956 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeTranslateEq` | volunteer-build-reviewed |
-| M114957 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalComm` | volunteer-build-reviewed |
-| M114958 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalEig` | volunteer-build-reviewed |

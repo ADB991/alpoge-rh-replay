@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154183 | P0666 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Assemble` | build-observed |
+| M154184 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ChiEqOneOfClosure` | build-observed |
+| M154185 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Commensurated` | build-observed |
+| M154186 | P0722 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.CommensuratedOfIsOpenIsCompact` | build-observed |
+| M154187 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.CompactLocalGlobal` | build-observed |
+| M154188 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.GLDelta` | build-observed |
+| M154189 | P0776 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.IndexEqOfTraceInt` | build-observed |
+| M154190 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertGen` | build-observed |
 | M154191 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPow` | build-observed |
 | M154192 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowD` | build-observed |
 | M154193 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.InertPowDefs` | build-observed |
@@ -394,11 +402,3 @@
 | M154669 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GzNeOfTotPos` | build-observed |
 | M154670 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.HTIntLeft` | build-observed |
 | M154672 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IndepOf` | build-observed |
-| M154673 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IsIntIntCast` | build-observed |
-| M154675 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanDecompositionExists` | build-observed |
-| M154676 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanExists` | build-observed |
-| M154680 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LinearIndependentOfDetGram` | build-observed |
-| M154681 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LocalDensityIntegral` | build-observed |
-| M154682 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.LocalModelsSplitCofinite` | build-observed |
-| M154683 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MassConstUniqueOne` | volunteer-build-reviewed |
-| M154684 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.MemSmulLatCoord` | build-observed |

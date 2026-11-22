@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152751 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.PderivZeroZeroWeierstrassDifference` | wave-reused |
+| M152752 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.PhENormOf` | build-observed |
+| M152753 | P0570 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.RealAdelicInertTransportTypeFormsEqAlt` | build-observed |
+| M152754 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.RestrictSecondZeroInVarOne` | wave-reused |
+| M152755 | P0636 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.SigmaOneCocycleShifted` | build-observed |
+| M152756 | P0503 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.SimeqPadicIntegers` | wave-reused |
+| M152757 | P1320 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.Th0TwoAnalyticOf` | build-observed |
+| M152758 | P1391 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.ThetaZeroTwoComplexMult` | build-observed |
 | M152759 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoAdicScalarConditions` | build-observed |
 | M152760 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.TwoTorsionCurveToSeries` | build-observed |
 | M152762 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.WeierstrassReducedEquations` | wave-reused |
@@ -394,11 +402,3 @@
 | M153304 | P0803 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IsMackeyPiUpperUnipotentProdCharacter` | build-observed |
 | M153305 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LemmaGG` | build-observed |
 | M153306 | P0886 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsComposeGeneral` | build-observed |
-| M153307 | P0859 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsGlobalForm` | build-observed |
-| M153308 | P0912 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsWeightedConditional` | build-observed |
-| M153309 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.Mirabolic` | build-observed |
-| M153310 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OnExport` | build-observed |
-| M153311 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OnLocal` | build-observed |
-| M153312 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.OrthogonalityOfMackey` | build-observed |
-| M153313 | P0831 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.RamBasic` | wave-reused |
-| M153314 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.ThreeForms` | build-observed |

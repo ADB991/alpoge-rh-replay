@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086638 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BcDatumNatural` | volunteer-build-reviewed |
+| M086639 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResidues` | volunteer-build-reviewed |
+| M086640 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResiduesStatement` | build-observed |
 | M086643 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducible` | volunteer-build-reviewed |
 | M086644 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducibleStatement` | volunteer-build-reviewed |
 | M086645 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfIntertwining` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M087800 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDual` | volunteer-build-reviewed |
 | M087801 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDualStatement` | volunteer-build-reviewed |
 | M087802 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinates` | volunteer-build-reviewed |
-| M087803 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinatesStatement` | volunteer-build-reviewed |
-| M087809 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FullConclusionOfInputs` | volunteer-build-reviewed |
-| M087811 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslate` | volunteer-build-reviewed |
