@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.Jutila",
+  "source_sha256": "0fb83abb3fa3566d8aa3d9f5d5857cfe794d746b4113911a68dbebab7e6edeb1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0312 packet build transcript linked from the PR."
+}

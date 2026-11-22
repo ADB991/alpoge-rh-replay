@@ -1,0 +1,7 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DeterminantRepresentations.InjTest",
+  "source_sha256": "2fbcf290125221710b23a4ef528eee688054a37bb0bd69a26b9ba03d82936ea6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Write the removed index-first MvPolynomial.coeff β (inside the proof of the private injTest_mvInj) as fun q => q.coeff β, the same coefficient. Proof-only change; no statements, definitions or instances changed."
+}
