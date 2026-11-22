@@ -83,6 +83,16 @@
     <div class="bar big-bar" role="img" aria-label="Lean 4.36 porting progress"><div id="portfill" style="width:0%;background:var(--c4)"></div></div>
     <div class="cards" id="port-cards"></div>
     <div id="port-depths" style="margin-top:14px"></div>
+    <div id="port-history-section" hidden>
+      <h3 style="font-size:1rem;margin:20px 0 6px">Live modules ported to Lean 4.36 over time</h3>
+      <p class="sub">Cumulative live (non-pruned) modules in <code>port/patches/</code> from git history.</p>
+      <div id="port-history-chart"></div>
+    </div>
+    <div id="pruning-chart-section" hidden>
+      <h3 style="font-size:1rem;margin:20px 0 6px">Proof Pruning &amp; Simplification Hillclimb</h3>
+      <p class="sub">File count reduction on <a href="https://github.com/leanprover-community/riemann-hypothesis">leanprover-community/riemann-hypothesis</a> (solid = merged on <code>main</code>, translucent = open stacked PRs).</p>
+      <div id="pruning-chart"></div>
+    </div>
   </section>
 
   <section aria-labelledby="rate-heading">
@@ -280,6 +290,27 @@ fetch("data.json")
           '<div class="bar"><div style="width:' + b.percent + '%;background:var(--c4)"></div></div>' +
           '<div class="val" style="width:240px">' + fmt(b.done) + " / " + fmt(b.total) + " (" + b.percent.toFixed(1) + "%)" + extra + "</div></div>";
       }).join("");
+
+      if (pt.history && pt.history.length > 0) {
+        el("port-history-section").hidden = false;
+        var ph = pt.history.map(function (x) { return { t: x.t, with_evidence: x.ported }; });
+        el("port-history-chart").innerHTML = historySvg(ph).replace(/var\(--accent\)/g, "var(--c4)");
+      }
+      if (pr.milestones && pr.milestones.length > 0) {
+        el("pruning-chart-section").hidden = false;
+        var maxFiles = pr.milestones[0].files || 1;
+        el("pruning-chart").innerHTML = pr.milestones.map(function (m) {
+          var pct = (100 * m.files / maxFiles).toFixed(1);
+          var saved = maxFiles - m.files;
+          var savedPct = (100 * saved / maxFiles).toFixed(1);
+          var color = m.status === "baseline" ? "var(--muted)" : (m.status === "merged" ? "var(--accent2)" : "var(--c3)");
+          var opacity = m.status === "open-pr" ? "0.6" : "1";
+          var detail = saved > 0 ? " (−" + savedPct + "%)" : "";
+          return '<div class="rowbar"><div class="lab" style="width:185px;font-size:0.86rem">' + esc(m.label) + '</div>' +
+            '<div class="bar"><div style="width:' + pct + '%;background:' + color + ';opacity:' + opacity + '"></div></div>' +
+            '<div class="val" style="width:190px">' + fmt(m.files) + " files" + detail + "</div></div>";
+        }).join("");
+      }
     }
 
     renderRate(d.ledger_history, t.remaining);

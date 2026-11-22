@@ -159,6 +159,38 @@ def cumulative_history(module_ids, recorded):
         return []
 
 
+def port_cumulative_history(pruned_ids):
+    """Cumulative live ported module count over time from first-parent git log of port/patches/."""
+    try:
+        out = subprocess.check_output(
+            ["git", "log", "--first-parent", "--reverse", "--diff-filter=A",
+             "--name-only", "--format=COMMIT %ct", "--", "port/patches"],
+            cwd=ROOT, text=True, stderr=subprocess.DEVNULL,
+        )
+    except Exception:
+        return []
+    seen = set()
+    points = []
+    cur_ts = None
+    for line in out.splitlines():
+        if line.startswith("COMMIT "):
+            if cur_ts is not None and seen:
+                when = datetime.datetime.fromtimestamp(cur_ts, datetime.timezone.utc)
+                points.append({"t": when.strftime("%Y-%m-%dT%H:%M:%SZ"), "ported": len(seen)})
+            cur_ts = int(line.split()[1])
+        elif line.startswith("port/patches/M") and line.endswith(".json"):
+            mid = Path(line).stem
+            if mid not in pruned_ids:
+                seen.add(mid)
+    if cur_ts is not None and seen:
+        when = datetime.datetime.fromtimestamp(cur_ts, datetime.timezone.utc)
+        points.append({"t": when.strftime("%Y-%m-%dT%H:%M:%SZ"), "ported": len(seen)})
+    if len(points) > 240:
+        keep = sorted({round(i * (len(points) - 1) / 239) for i in range(240)})
+        points = [points[i] for i in keep]
+    return points
+
+
 def main():
     tracker = ROOT / "tracker"
     summary = json.loads((tracker / "summary.json").read_text())
@@ -322,6 +354,14 @@ def main():
         "pruned_modules": len(pruned_ids),
         "pruned_percent": round(100.0 * len(pruned_ids) / total, 2) if total else 0.0,
         "live_modules": live_total,
+        "milestones": [
+            {"label": "Original archive", "files": total, "status": "baseline"},
+            {"label": "Upstream main (pruned)", "files": live_total, "status": "merged"},
+            {"label": "#55 (S1 unused decls)", "files": 150632, "status": "open-pr"},
+            {"label": "#58 (Wave 1 wrappers)", "files": 126605, "status": "open-pr"},
+            {"label": "#61 (Wave 2 wrappers)", "files": 121061, "status": "open-pr"},
+            {"label": "#63 (Antichain bundles)", "files": 10690, "status": "open-pr"},
+        ],
     }
     porting_stats = {
         "lean": port_target.get("lean"),
@@ -334,6 +374,7 @@ def main():
         "unchanged": live_unchanged,
         "claimable_now": claimable_now,
         "depths": port_depths,
+        "history": port_cumulative_history(pruned_ids),
     }
 
     data = {
