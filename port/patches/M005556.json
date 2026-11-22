@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRealTranslateIsMinNormTensorInOrbit",
+  "source_sha256": "7455c27aca600a84a308bfa406ebba3de618391e431fe76e500c17b3aa3a5132",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Matrix.one_apply is protected, so under open Matrix the bare one_apply in one simp call (inside the proof of the private map_conj_mul_conjTranspose_eq_one) now resolves to the function lemma; qualify it as Matrix.one_apply. Proof-only change; no statements, definitions or instances changed."
+}

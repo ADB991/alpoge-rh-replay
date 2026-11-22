@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.GaloisGeometry.DegOneIffSurjective",
+  "source_sha256": "062662fbdd44a2cd646acb7b9abd9abfc99bf2818c15c6c2e6e3ee5205722571",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0295 packet build transcript linked from the PR."
+}

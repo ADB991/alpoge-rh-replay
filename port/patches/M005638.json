@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.HerbrandPrimeOrder",
+  "source_sha256": "ab77dc0bbd603a3a568f2a15769d65748fd0ec79fcc36af653be5bb36777d588",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Use the renamed SubmonoidClass.coe_finsetProd. Proof-only change; no statements, definitions or instances changed."
+}

@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsInvariantSectionMemBasicOpenIff",
+  "source_sha256": "25a0f9dde060f1028d24f211790c1d63204a920f217582ca588950d3f6dbe1ce",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: the target Mathlib turned CategoryTheory.Aut X from a definition (Aut X := X ≅ X) into a one-field structure (Aut.of :: asIso : X ≅ X), so the underlying morphism of an automorphism a is a.asIso.hom instead of a.hom. Every (ρ g).hom and (τ g).hom becomes (ρ g).asIso.hom and (τ g).asIso.hom, including in the class OrbitsInAffineOpens and in theorem statements quantifying over ρ : G →* Aut X. The group structures agree: pinned one = Iso.refl, inv = Iso.symm and mul x y = y.trans x; target one = .of (Iso.refl), inv e = .of e.asIso.symm and mul x y = .of (y.asIso.trans x.asIso). So Aut.isoEquiv is a group isomorphism between the pinned and target Aut X, homomorphisms G →* Aut X correspond, and (ρ g).asIso.hom is the old (ρ g).hom. No hypothesis is added or removed."
+}

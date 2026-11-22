@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Proofs/AdelicLatticeProofs/ExistsRealTranslateIsMinNormTensorInOrbit.lean
++++ b/src/Development/AbelianVarietyTheory/Proofs/AdelicLatticeProofs/ExistsRealTranslateIsMinNormTensorInOrbit.lean
+@@ -94,7 +94,7 @@
+   simp only [Matrix.map_mul] at this
+   convert this using 2
+   · ext i j; simp
+-  · ext i j; by_cases h : i = j <;> simp [one_apply, h]
++  · ext i j; by_cases h : i = j <;> simp [Matrix.one_apply, h]
+ 
+ open Matrix in
+ open scoped Kronecker ComplexOrder TensorProduct MatrixOrder in
