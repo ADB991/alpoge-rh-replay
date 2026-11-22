@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006004 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsInducedIntPrimeToStatement` | wave-reused |
+| M006005 | P0918 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIntCoeffPrimitiveGLCharacter` | build-observed |
+| M006006 | P0946 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIntCoeffPrimitiveGLCharacterStatement` | build-observed |
+| M006007 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIntRelationOfIsIntegralRelation` | wave-reused |
+| M006008 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIntRelationOfIsIntegralRelationStatement` | wave-reused |
+| M006009 | P0348 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIrrCharAdd` | wave-reused |
+| M006010 | P0394 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIrrCharAddStatement` | wave-reused |
+| M006011 | P0348 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIsCharEqAddOfPairNeZero` | wave-reused |
+| M006012 | P0394 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIsCharEqAddOfPairNeZeroStatement` | wave-reused |
+| M006013 | P0240 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisAbelianByPrimePower` | wave-reused |
+| M006014 | P0295 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisAbelianByPrimePowerStatement` | wave-reused |
 | M006015 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisOfImprimitive` | wave-reused |
 | M006016 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamily` | wave-reused |
 | M006017 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamilyStatement` | wave-reused |
@@ -391,14 +402,3 @@
 | M006409 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EncardSmulMemLeEncardSmulInterNonempty` | volunteer-build-reviewed |
 | M006410 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EnormPowLeInvMeasureMulLintegralBall` | wave-reused |
 | M006411 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EntireApplyEqOfPeriodicOfSpanReal` | wave-reused |
-| M006412 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EqZeroOfEvalGridEqZeroOfTotalDegreeLe` | volunteer-build-reviewed |
-| M006413 | P0296 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EqZeroOfSemicharacterMultiplier` | wave-reused |
-| M006414 | P0177 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyExistsMulIsLowerTriangular` | volunteer-build-reviewed |
-| M006415 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyIteratedFDerivEqZeroOfRealSubspace` | volunteer-build-reviewed |
-| M006416 | P0705 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsCompactHaarMeasure` | build-observed |
-| M006417 | P0759 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsConeMeasure` | build-observed |
-| M006418 | P0648 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsConeMeasurePosRank` | build-observed |
-| M006419 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIdealInClassOfNormLeSqrtDiscr` | volunteer-build-reviewed |
-| M006420 | P1170 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsClosedEmbeddingOfAffine` | wave-reused |
-| M006421 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsFundamentalDomainAndQuotMeasureEq` | volunteer-build-reviewed |
-| M006422 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsUnitEvalOfMapResidueNeZero` | wave-reused |

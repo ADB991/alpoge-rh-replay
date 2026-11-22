@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004982 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NoLeak` | wave-reused |
+| M004983 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NormalFormDualOrthogonalLast` | build-observed |
+| M004984 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OfRoots` | build-observed |
+| M004985 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OnePlaceKF` | volunteer-build-reviewed |
+| M004989 | P0239 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Partners` | build-observed |
+| M004991 | P1114 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PlacesOf` | volunteer-build-reviewed |
+| M004992 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PosPartUnitaryMul` | build-observed |
+| M004994 | P0865 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowMinor` | build-observed |
+| M004995 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowsMeanC` | volunteer-build-reviewed |
+| M004997 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SelfDualAt` | build-observed |
+| M004998 | P1502 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SerFixOne` | volunteer-build-reviewed |
 | M004999 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SiegelMeanCc` | build-observed |
 | M005001 | P1812 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.StepLocGenPinnedGP` | volunteer-build-reviewed |
 | M005003 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SymmetricFlagBasisVectorsApplyCentre` | build-observed |
@@ -391,14 +402,3 @@
 | M005493 | P0759 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftTranslationReynoldsOperator` | build-observed |
 | M005494 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftTranslationReynoldsOperatorStatement` | build-observed |
 | M005495 | P0347 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletion` | wave-reused |
-| M005496 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLocalNonnormOfNonsquareAdicCompletionStatement` | wave-reused |
-| M005497 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbit` | volunteer-build-reviewed |
-| M005498 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsMinNormTensorOfIsClosedTensorSLOrbitStatement` | volunteer-build-reviewed |
-| M005501 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNatSmulMem` | build-observed |
-| M005503 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNonzeroIsotropic` | wave-reused |
-| M005505 | P0394 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormOneReflectionCorrectionAtLevelStatement` | build-observed |
-| M005506 | P0295 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormalFormNonsquareAdicCompletion` | wave-reused |
-| M005507 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormaliseMeanSquareOfCocompact` | volunteer-build-reviewed |
-| M005508 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormaliseMeanSquareOfCocompactStatement` | volunteer-build-reviewed |
-| M005509 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNsmulMem` | volunteer-build-reviewed |
-| M005510 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNsmulMulVecMem` | volunteer-build-reviewed |

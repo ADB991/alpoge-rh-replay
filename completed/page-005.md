@@ -385,10 +385,12 @@
 | M003571 | P0238 | `Development.AbelianVarietyTheory.Definitions.Divisors.FibreRankCompOfSurjective` | wave-reused |
 | M003575 | P1084 | `Development.AbelianVarietyTheory.Definitions.Divisors.FirstChernLeviEqConstant` | build-observed |
 | M003577 | P0294 | `Development.AbelianVarietyTheory.Definitions.Divisors.FlatTensorVacuum` | volunteer-build-reviewed |
+| M003578 | P2710 | `Development.AbelianVarietyTheory.Definitions.Divisors.FormalCanLat` | volunteer-build-reviewed |
 | M003579 | P0865 | `Development.AbelianVarietyTheory.Definitions.Divisors.FormalCoboundarySmul` | wave-reused |
 | M003580 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.FormalDegreeUpperC` | volunteer-build-reviewed |
 | M003582 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.FormalModule` | volunteer-build-reviewed |
 | M003584 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.FramedDConst` | volunteer-build-reviewed |
+| M003586 | P2731 | `Development.AbelianVarietyTheory.Definitions.Divisors.FromBaseAlt` | volunteer-build-reviewed |
 | M003587 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.FstTszeSec` | volunteer-build-reviewed |
 | M003588 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.GalMapMul` | wave-reused |
 | M003590 | P1472 | `Development.AbelianVarietyTheory.Definitions.Divisors.GaloisRepOfPolarizedCuspidal` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
-| M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
-| M003611 | P2736 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidCoords` | volunteer-build-reviewed |

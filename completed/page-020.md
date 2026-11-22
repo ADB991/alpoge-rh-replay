@@ -2,6 +2,21 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012794 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianPartIsoThetaSectionScaleStatement` | volunteer-build-reviewed |
+| M012795 | P1504 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasis` | build-observed |
+| M012796 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasisStatement` | build-observed |
+| M012797 | P1220 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisSectionsModK` | build-observed |
+| M012798 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisSectionsModKStatement` | build-observed |
+| M012799 | P1002 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisTestLattice` | volunteer-build-reviewed |
+| M012802 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAddValuation` | build-observed |
+| M012803 | P0099 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAddValuationLeIffEqIff` | build-observed |
+| M012806 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdjoin` | volunteer-build-reviewed |
+| M012809 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAffineOpenRingOnEqAdjoinInv` | build-observed |
+| M012814 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAlgHomLocalizationAwayOfRationalPoints` | volunteer-build-reviewed |
+| M012816 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAlgHomOfFiniteTypeOfIsAlgClosed` | volunteer-build-reviewed |
+| M012818 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAmpleCubicalOfGroupSchemeIso` | volunteer-build-reviewed |
+| M012821 | P1057 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAppEqOfHasWtZero` | build-observed |
+| M012822 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFOver` | build-observed |
 | M012823 | P2034 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLaws` | volunteer-build-reviewed |
 | M012824 | P2052 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLawsStatement` | volunteer-build-reviewed |
 | M012825 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcIsometryTorsionIntegralGauge` | volunteer-build-reviewed |
@@ -387,18 +402,3 @@
 | M013450 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibreStatement` | volunteer-build-reviewed |
 | M013451 | P0785 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FeOfPhiTriv` | build-observed |
 | M013452 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FfDivFfMemOfSpecializes` | volunteer-build-reviewed |
-| M013453 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibLieOfLaws` | volunteer-build-reviewed |
-| M013454 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreEqSpecialFibreOfReductionIndep` | volunteer-build-reviewed |
-| M013456 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreLawOfTestCartesian` | build-observed |
-| M013457 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreLawOfTestCartesianStatement` | volunteer-build-reviewed |
-| M013458 | P1789 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreSectionLinearCombExistsUniqueThetaAction` | build-observed |
-| M013460 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibrewiseNonvanishingOfInvertiblePushforward` | volunteer-build-reviewed |
-| M013462 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibrewiseNonzeroSectionProdAndBaseChange` | volunteer-build-reviewed |
-| M013464 | P0100 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteAbelianWeightDecomposition` | wave-reused |
-| M013465 | P1763 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteMulKTriv` | build-observed |
-| M013466 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteOfIsClosedOfFiniteInterClosedPoints` | build-observed |
-| M013467 | P2134 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteOverClosureOfIsFractionRing` | volunteer-build-reviewed |
-| M013469 | P0583 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteResidueFieldOfIsClosedOfLocallyOfFiniteTyp` | wave-reused |
-| M013472 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanReductionLe` | volunteer-build-reviewed |
-| M013473 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanResidueLe` | wave-reused |
-| M013474 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinsuppEqZeroOfSumTorsionCharactersEqZero` | wave-reused |

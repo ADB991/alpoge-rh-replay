@@ -2,6 +2,21 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M013453 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibLieOfLaws` | volunteer-build-reviewed |
+| M013454 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreEqSpecialFibreOfReductionIndep` | volunteer-build-reviewed |
+| M013456 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreLawOfTestCartesian` | build-observed |
+| M013457 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreLawOfTestCartesianStatement` | volunteer-build-reviewed |
+| M013458 | P1789 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibreSectionLinearCombExistsUniqueThetaAction` | build-observed |
+| M013460 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibrewiseNonvanishingOfInvertiblePushforward` | volunteer-build-reviewed |
+| M013462 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FibrewiseNonzeroSectionProdAndBaseChange` | volunteer-build-reviewed |
+| M013464 | P0100 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteAbelianWeightDecomposition` | wave-reused |
+| M013465 | P1763 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteMulKTriv` | build-observed |
+| M013466 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteOfIsClosedOfFiniteInterClosedPoints` | build-observed |
+| M013467 | P2134 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteOverClosureOfIsFractionRing` | volunteer-build-reviewed |
+| M013469 | P0583 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FiniteResidueFieldOfIsClosedOfLocallyOfFiniteTyp` | wave-reused |
+| M013472 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanReductionLe` | volunteer-build-reviewed |
+| M013473 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanResidueLe` | wave-reused |
+| M013474 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinsuppEqZeroOfSumTorsionCharactersEqZero` | wave-reused |
 | M013477 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelation` | volunteer-build-reviewed |
 | M013478 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelationStatement` | volunteer-build-reviewed |
 | M013479 | P1171 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormVanishesOfTorsionTorusExtension` | wave-reused |
@@ -387,18 +402,3 @@
 | M014129 | P1445 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedLabelsMatchOfLevelGeFourStatement` | volunteer-build-reviewed |
 | M014130 | P1059 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedPowerSectionBasisBaseChange` | build-observed |
 | M014131 | P1086 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedPowerSectionBasisBaseChangeStatement` | build-observed |
-| M014132 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TxCosetCriterion` | volunteer-build-reviewed |
-| M014134 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TxStOfPtSt` | build-observed |
-| M014135 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UnEqOfFineCharts` | volunteer-build-reviewed |
-| M014138 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisationChartValueFormsCorrespondStatement` | volunteer-build-reviewed |
-| M014148 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedModelLabelledTorsionPointsStatement` | volunteer-build-reviewed |
-| M014151 | P1790 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedModelTorsionPointsGroupPairing` | volunteer-build-reviewed |
-| M014152 | P1814 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedModelTorsionPointsGroupPairingStatement` | volunteer-build-reviewed |
-| M014153 | P1790 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedModelValuationData` | volunteer-build-reviewed |
-| M014154 | P1814 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedModelValuationDataStatement` | volunteer-build-reviewed |
-| M014155 | P1790 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedTableLatticeIntegralFamilies` | build-observed |
-| M014156 | P1814 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedTableLatticeIntegralFamiliesStatement` | build-observed |
-| M014157 | P1171 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedTestDimensionsAndSplitFibre` | wave-reused |
-| M014158 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedTestDimensionsAndSplitFibreStatement` | volunteer-build-reviewed |
-| M014160 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UnitOnProductEqOne` | wave-reused |
-| M014161 | P1836 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UnitThetaConstantsGenerateIntegralTorsion` | build-observed |

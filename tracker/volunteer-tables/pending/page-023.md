@@ -4,8 +4,6 @@
 
 | Contributor | Task | Review |
 |---|---|---|
-| [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M164264](https://github.com/rohanarun/alpoge-rh-replay/issues/27387#issuecomment-7070706547) | Pending review |
-| [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M129727](https://github.com/rohanarun/alpoge-rh-replay/issues/27388#issuecomment-7070706935) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M074945](https://github.com/rohanarun/alpoge-rh-replay/issues/27389#issuecomment-7070707339) | Pending review |
 | [@vivekshivarajkumar](https://github.com/vivekshivarajkumar) | [M103711](https://github.com/rohanarun/alpoge-rh-replay/issues/27390#issuecomment-7070707750) | Pending review |
 | [@f10etclawdbot](https://github.com/f10etclawdbot) | [M109831](https://github.com/rohanarun/alpoge-rh-replay/issues/27392#issuecomment-7070668872) | Pending review |
@@ -175,7 +173,6 @@
 | [@f10etclawdbot](https://github.com/f10etclawdbot) | [M038845](https://github.com/rohanarun/alpoge-rh-replay/issues/28029#issuecomment-7071686285) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M109429](https://github.com/rohanarun/alpoge-rh-replay/issues/28031#issuecomment-7071676041) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M135723](https://github.com/rohanarun/alpoge-rh-replay/issues/28032#issuecomment-7071677085) | Pending review |
-| [@CubeJerry](https://github.com/CubeJerry) | [P2646](https://github.com/rohanarun/alpoge-rh-replay/issues/28062#issuecomment-7075668548) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M135728](https://github.com/rohanarun/alpoge-rh-replay/issues/28072#issuecomment-7071727990) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M135925](https://github.com/rohanarun/alpoge-rh-replay/issues/28073#issuecomment-7071717241) | Pending review |
 | [@1337isnot1337](https://github.com/1337isnot1337) | [M171961](https://github.com/rohanarun/alpoge-rh-replay/issues/28074#issuecomment-7071736266) | Pending review |
@@ -254,3 +251,6 @@
 | [@jdenwood](https://github.com/jdenwood) | [M135905](https://github.com/rohanarun/alpoge-rh-replay/issues/28381#issuecomment-7072372513) | Pending review |
 | [@jdenwood](https://github.com/jdenwood) | [M135439](https://github.com/rohanarun/alpoge-rh-replay/issues/28382#issuecomment-7072373557) | Pending review |
 | [@UnityChaos](https://github.com/UnityChaos) | [M031889](https://github.com/rohanarun/alpoge-rh-replay/issues/28383#issuecomment-7072382708) | Pending review |
+| [@UnityChaos](https://github.com/UnityChaos) | [M164257](https://github.com/rohanarun/alpoge-rh-replay/issues/28384#issuecomment-7072376954) | Pending review |
+| [@1337isnot1337](https://github.com/1337isnot1337) | [M064049](https://github.com/rohanarun/alpoge-rh-replay/issues/28386#issuecomment-7072393073) | Pending review |
+| [@user42245](https://github.com/user42245) | [M164515](https://github.com/rohanarun/alpoge-rh-replay/issues/28390#issuecomment-7072427592) | Pending review |

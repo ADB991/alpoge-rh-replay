@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M007261 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBaseChangeEigenBasis` | volunteer-build-reviewed |
+| M007262 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBaseChangeEigenBasisStatement` | build-observed |
+| M007263 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBiextDictionarySecondPartialLaw` | volunteer-build-reviewed |
+| M007267 | P0839 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameRigidificationOfCanonicalAxes` | wave-reused |
+| M007268 | P0865 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameRigidificationOfCanonicalAxesStatement` | wave-reused |
+| M007269 | P1834 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointBaseChangeClauses` | build-observed |
+| M007270 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointBaseChangeLaws` | build-observed |
+| M007271 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointGeneratorRingBaseChange` | build-observed |
+| M007272 | P1170 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointGeneratorRingBaseChangeStatement` | build-observed |
+| M007273 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCover` | volunteer-build-reviewed |
+| M007274 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCoverStatement` | build-observed |
 | M007279 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingCorrMulInvStatement` | volunteer-build-reviewed |
 | M007281 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingPullbackPeriodRigidStatement` | volunteer-build-reviewed |
 | M007284 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GlobalBasisAlgebra` | wave-reused |
@@ -391,14 +402,3 @@
 | M008283 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepValueEqTrilinearTensorValue` | volunteer-build-reviewed |
 | M008289 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleThetaLiftValueBilinear` | volunteer-build-reviewed |
 | M008291 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleThetaLiftValueInvariantMiddleGL` | volunteer-build-reviewed |
-| M008301 | P2177 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleUnfoldingStepAtGluedFinitePlaceStatement` | volunteer-build-reviewed |
-| M008302 | P1736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledBasisSkewColumnMatrixGramInverse` | volunteer-build-reviewed |
-| M008303 | P1761 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledBasisSkewColumnMatrixGramInverseStatement` | volunteer-build-reviewed |
-| M008308 | P1736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledFlatSectionEqTranslateStandardSection` | volunteer-build-reviewed |
-| M008312 | P1956 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightFunProperties` | volunteer-build-reviewed |
-| M008313 | P1974 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightFunPropertiesStatement` | volunteer-build-reviewed |
-| M008314 | P1974 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightSelfDualLatticesEqConj` | volunteer-build-reviewed |
-| M008318 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledPairThetaFunctionEqZeroOfSchrodingerEqZer` | volunteer-build-reviewed |
-| M008319 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledPairThetaFunctionEqZeroOfSchrodingerEqZerStatement` | volunteer-build-reviewed |
-| M008320 | P1688 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledSpaceMaximalLevelLattice` | volunteer-build-reviewed |
-| M008329 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityFlatSectionCuspFormsStatement` | volunteer-build-reviewed |

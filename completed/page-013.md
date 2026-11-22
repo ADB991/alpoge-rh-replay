@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008301 | P2177 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleUnfoldingStepAtGluedFinitePlaceStatement` | volunteer-build-reviewed |
+| M008302 | P1736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledBasisSkewColumnMatrixGramInverse` | volunteer-build-reviewed |
+| M008303 | P1761 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledBasisSkewColumnMatrixGramInverseStatement` | volunteer-build-reviewed |
+| M008308 | P1736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledFlatSectionEqTranslateStandardSection` | volunteer-build-reviewed |
+| M008312 | P1956 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightFunProperties` | volunteer-build-reviewed |
+| M008313 | P1974 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightFunPropertiesStatement` | volunteer-build-reviewed |
+| M008314 | P1974 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledLatticeHeightSelfDualLatticesEqConj` | volunteer-build-reviewed |
+| M008318 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledPairThetaFunctionEqZeroOfSchrodingerEqZer` | volunteer-build-reviewed |
+| M008319 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledPairThetaFunctionEqZeroOfSchrodingerEqZerStatement` | volunteer-build-reviewed |
+| M008320 | P1688 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledSpaceMaximalLevelLattice` | volunteer-build-reviewed |
+| M008329 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityFlatSectionCuspFormsStatement` | volunteer-build-reviewed |
 | M008330 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfolding` | volunteer-build-reviewed |
 | M008331 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfoldingStatement` | volunteer-build-reviewed |
 | M008337 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingEulerProductFarRightStatement` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M008955 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniformIsotypicAverageRealCentre` | volunteer-build-reviewed |
 | M008956 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniformIsotypicAverageRealCentreStatement` | volunteer-build-reviewed |
 | M008957 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnimodularBasisSelfDualLatticeAtPlace` | volunteer-build-reviewed |
-| M008959 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueAdelicMatrixRealComponentsFinitePart` | volunteer-build-reviewed |
-| M008960 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueAdelicMatrixRealComponentsFinitePartStatement` | volunteer-build-reviewed |
-| M008961 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueCompletionMatrixOfRationalTwistAut` | volunteer-build-reviewed |
-| M008962 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueCompletionMatrixOfRationalTwistAutStatement` | volunteer-build-reviewed |
-| M008963 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueSphericalDoublingSectionUnramified` | volunteer-build-reviewed |
-| M008964 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniqueSphericalDoublingSectionUnramifiedStatement` | volunteer-build-reviewed |
-| M008967 | P0706 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitSolutionTwistedFrobeniusSquare` | build-observed |
-| M008968 | P0732 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitSolutionTwistedFrobeniusSquareStatement` | build-observed |
-| M008969 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitWeightRealCenterActionFockMonomial` | volunteer-build-reviewed |
-| M008970 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitWeightRealCenterActionFockMonomialStatement` | volunteer-build-reviewed |
-| M008971 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryChartsAllFinitePlacesFrameLattice` | volunteer-build-reviewed |

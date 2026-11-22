@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009484 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationsDistinctSplitPlacesCollect` | volunteer-build-reviewed |
+| M009485 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationsDistinctSplitPlacesCollectStatement` | volunteer-build-reviewed |
+| M009486 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergDerivWeilTranslateContinuousCombinatio` | volunteer-build-reviewed |
+| M009487 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergDerivWeilTranslateContinuousCombinatioStatement` | volunteer-build-reviewed |
+| M009488 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergDerivativeDiagonalHalfEqSchrodingerDer` | volunteer-build-reviewed |
+| M009489 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergDerivativeDiagonalHalfEqSchrodingerDerStatement` | volunteer-build-reviewed |
+| M009490 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixAndKillThetaOffSupportMove` | volunteer-build-reviewed |
+| M009491 | P1689 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixAndKillThetaOffSupportMoveStatement` | volunteer-build-reviewed |
+| M009492 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixesLatticeVacuumPeriodLattice` | volunteer-build-reviewed |
+| M009493 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixesLatticeVacuumPeriodLatticeStatement` | volunteer-build-reviewed |
+| M009494 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFrameHalfInverse` | volunteer-build-reviewed |
 | M009495 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFrameHalfInverseStatement` | volunteer-build-reviewed |
 | M009496 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIntegralFourierBesselBasePointEqPairin` | volunteer-build-reviewed |
 | M009500 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIsotropicFixesVacuum` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M010006 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexField` | volunteer-build-reviewed |
 | M010007 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexFieldStatement` | volunteer-build-reviewed |
 | M010008 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LamEqOfRed` | volunteer-build-reviewed |
-| M010009 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LamTEqLamTHcW` | volunteer-build-reviewed |
-| M010010 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LambdaValueEdgeSum` | volunteer-build-reviewed |
-| M010011 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LambdaValueEdgeSumStatement` | volunteer-build-reviewed |
-| M010012 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LambdaZeroEqProduct` | volunteer-build-reviewed |
-| M010015 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastColumnDatumTensorMemSchwartzBruhat` | volunteer-build-reviewed |
-| M010016 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastColumnDatumTensorMemSchwartzBruhatStatement` | volunteer-build-reviewed |
-| M010017 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDat` | volunteer-build-reviewed |
-| M010018 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDiagonalEntryTorusIntegralOfFlatMapNeZero` | volunteer-build-reviewed |
-| M010019 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDiagonalEntryTorusIntegralOfFlatMapNeZeroStatement` | volunteer-build-reviewed |
-| M010021 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDoubleThetaLiftIntegrableLinearStatement` | volunteer-build-reviewed |
-| M010022 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastGroupEmbeddingRealComponentsBlockForm` | volunteer-build-reviewed |

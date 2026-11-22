@@ -2,6 +2,21 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011197 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastTwoStepsDoubleLiftPeriodValue` | volunteer-build-reviewed |
+| M011198 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLastTwoStepsDoubleLiftPeriodValueStatement` | volunteer-build-reviewed |
+| M011205 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLatticeShapeExistsProof` | volunteer-build-reviewed |
+| M011210 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawLocalFactorEqIteratedChainDatumStatement` | volunteer-build-reviewed |
+| M011213 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawPeriodsLinearRelationsDoubleStepStatement` | volunteer-build-reviewed |
+| M011221 | P1957 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawTupleKernelBackOfClassKernelDataStatement` | volunteer-build-reviewed |
+| M011238 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawWeilBiActionCommutes` | volunteer-build-reviewed |
+| M011239 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeeSawWeilBiActionCommutesStatement` | volunteer-build-reviewed |
+| M011246 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeesawLastStageCharsUnramifiedAtLevelPrime` | volunteer-build-reviewed |
+| M011247 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SeesawLastStageCharsUnramifiedAtLevelPrimeStatement` | volunteer-build-reviewed |
+| M011260 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualCOf` | volunteer-build-reviewed |
+| M011261 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualCoreComponentGluedAlongPair` | volunteer-build-reviewed |
+| M011262 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualCoreComponentGluedAlongPairStatement` | volunteer-build-reviewed |
+| M011269 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSmulIntegralMem` | volunteer-build-reviewed |
+| M011271 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSplitsHyperbolicPlusCore` | volunteer-build-reviewed |
 | M011272 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSplitsHyperbolicPlusCoreStatement` | volunteer-build-reviewed |
 | M011274 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeEqOfSplitPlaceFrameSpanStatement` | volunteer-build-reviewed |
 | M011276 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeFrameChainStatement` | volunteer-build-reviewed |
@@ -387,18 +402,3 @@
 | M011990 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerSiegelUnipotentActionStatement` | volunteer-build-reviewed |
 | M011991 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerStandardLeviAction` | volunteer-build-reviewed |
 | M011992 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerStandardLeviActionStatement` | volunteer-build-reviewed |
-| M011994 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionInvariantPairFunctionalResidueStatement` | volunteer-build-reviewed |
-| M011996 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionIsUnitaryAdelicStatement` | volunteer-build-reviewed |
-| M011997 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionLemmaOfWittCoreDescent` | volunteer-build-reviewed |
-| M011998 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionLemmaOfWittCoreDescentStatement` | volunteer-build-reviewed |
-| M012000 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionStableLocalLatticeShapeStatement` | volunteer-build-reviewed |
-| M012001 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionStrictUpperMemFlagUnipotentRadical` | volunteer-build-reviewed |
-| M012003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionTrivialAfterFlagUnipotentFixing` | volunteer-build-reviewed |
-| M012004 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionTrivialAfterFlagUnipotentFixingStatement` | volunteer-build-reviewed |
-| M012009 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueChainKernelEqClassSumJetsStatement` | volunteer-build-reviewed |
-| M012011 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnStepsAreStandardHermitianPairsStatement` | volunteer-build-reviewed |
-| M012012 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnWeightSpreadLeTwoMulScale` | volunteer-build-reviewed |
-| M012015 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsBranchingMapEquivariantNonzeroCommonStatement` | volunteer-build-reviewed |
-| M012018 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpec` | volunteer-build-reviewed |
-| M012019 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpecStatement` | volunteer-build-reviewed |
-| M012023 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumData` | volunteer-build-reviewed |

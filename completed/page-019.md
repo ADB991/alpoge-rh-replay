@@ -2,6 +2,21 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011994 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionInvariantPairFunctionalResidueStatement` | volunteer-build-reviewed |
+| M011996 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionIsUnitaryAdelicStatement` | volunteer-build-reviewed |
+| M011997 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionLemmaOfWittCoreDescent` | volunteer-build-reviewed |
+| M011998 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionLemmaOfWittCoreDescentStatement` | volunteer-build-reviewed |
+| M012000 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionStableLocalLatticeShapeStatement` | volunteer-build-reviewed |
+| M012001 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionStrictUpperMemFlagUnipotentRadical` | volunteer-build-reviewed |
+| M012003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionTrivialAfterFlagUnipotentFixing` | volunteer-build-reviewed |
+| M012004 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransvectionTrivialAfterFlagUnipotentFixingStatement` | volunteer-build-reviewed |
+| M012009 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueChainKernelEqClassSumJetsStatement` | volunteer-build-reviewed |
+| M012011 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnStepsAreStandardHermitianPairsStatement` | volunteer-build-reviewed |
+| M012012 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnWeightSpreadLeTwoMulScale` | volunteer-build-reviewed |
+| M012015 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsBranchingMapEquivariantNonzeroCommonStatement` | volunteer-build-reviewed |
+| M012018 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpec` | volunteer-build-reviewed |
+| M012019 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpecStatement` | volunteer-build-reviewed |
+| M012023 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumData` | volunteer-build-reviewed |
 | M012024 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumDataStatement` | volunteer-build-reviewed |
 | M012025 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescent` | volunteer-build-reviewed |
 | M012026 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescentStatement` | volunteer-build-reviewed |
@@ -387,18 +402,3 @@
 | M012785 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOnPoints` | volunteer-build-reviewed |
 | M012790 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EvalTwistTxEqZeroOfAevalArcTx` | volunteer-build-reviewed |
 | M012792 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianFibreIsoOfMatchedTorsionThetaStatement` | volunteer-build-reviewed |
-| M012794 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAbelianPartIsoThetaSectionScaleStatement` | volunteer-build-reviewed |
-| M012795 | P1504 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasis` | build-observed |
-| M012796 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisAtTraitVsGenericBasisStatement` | build-observed |
-| M012797 | P1220 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisSectionsModK` | build-observed |
-| M012798 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisSectionsModKStatement` | build-observed |
-| M012799 | P1002 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdaptedBasisTestLattice` | volunteer-build-reviewed |
-| M012802 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAddValuation` | build-observed |
-| M012803 | P0099 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAddValuationLeIffEqIff` | build-observed |
-| M012806 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAdjoin` | volunteer-build-reviewed |
-| M012809 | P0947 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAffineOpenRingOnEqAdjoinInv` | build-observed |
-| M012814 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAlgHomLocalizationAwayOfRationalPoints` | volunteer-build-reviewed |
-| M012816 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAlgHomOfFiniteTypeOfIsAlgClosed` | volunteer-build-reviewed |
-| M012818 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAmpleCubicalOfGroupSchemeIso` | volunteer-build-reviewed |
-| M012821 | P1057 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAppEqOfHasWtZero` | build-observed |
-| M012822 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFOver` | build-observed |

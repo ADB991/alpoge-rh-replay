@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004278 | P0946 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MtType` | volunteer-build-reviewed |
+| M004280 | P0173 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NegOnePowBoundaryTermsCancel` | build-observed |
+| M004282 | P1272 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NormalFam` | build-observed |
+| M004283 | P0784 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NotDvdCondN` | volunteer-build-reviewed |
+| M004288 | P0002 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OfNatTrans` | wave-reused |
+| M004290 | P0648 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OverOnePrimeOfCardLeOne` | build-observed |
+| M004296 | P0095 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PolyApproxZeroPadic` | wave-reused |
 | M004299 | P0347 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullHXApply` | volunteer-build-reviewed |
 | M004300 | P0549 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullTotMemBTot` | build-observed |
 | M004302 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RankOneUnitary` | volunteer-build-reviewed |
@@ -31,6 +38,7 @@
 | M004351 | P2187 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.CountsIrreducibilityConstants` | build-observed |
 | M004352 | P2235 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DRS` | build-observed |
 | M004353 | P1218 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DecayZero` | volunteer-build-reviewed |
+| M004354 | P2714 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DepthZeroSupport` | volunteer-build-reviewed |
 | M004355 | P1029 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DifferentiableAtChart` | volunteer-build-reviewed |
 | M004356 | P2706 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DiscreteSeriesCoefficientsCuspidal` | volunteer-build-reviewed |
 | M004357 | P2706 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DiscreteSeriesCoefficientsCuspidalBis` | volunteer-build-reviewed |
@@ -39,10 +47,12 @@
 | M004362 | P1736 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.EventuallyAllScaleContextsAndOfBoth` | volunteer-build-reviewed |
 | M004364 | P1001 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ExistsBranchingCoordinatesIff` | volunteer-build-reviewed |
 | M004369 | P1193 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FamilyClassSevenDutiesAndStableLattices` | build-observed |
+| M004370 | P2726 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FinitelyManyWithInfinitesimalCharacter` | volunteer-build-reviewed |
 | M004371 | P1001 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.FormsStable` | volunteer-build-reviewed |
 | M004375 | P0295 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.GoodTopBot` | volunteer-build-reviewed |
 | M004376 | P0891 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IdxMatNF` | build-observed |
 | M004381 | P0891 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.IsRationalUnitaryDeterminantMap` | build-observed |
+| M004382 | P2710 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.JacquetShalikaRigidity` | volunteer-build-reviewed |
 | M004386 | P1001 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LFunctionPositiveConductorFourEight` | build-observed |
 | M004387 | P0295 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LamIdealOfNotPrimePow` | build-observed |
 | M004388 | P0173 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.LatIntZero` | volunteer-build-reviewed |
@@ -58,6 +68,7 @@
 | M004405 | P1029 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.RedPEqZeroOfDiv` | build-observed |
 | M004406 | P2198 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.ReferenceChainEvaluationAtBundlePoints` | build-observed |
 | M004407 | P1169 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SetUnipotentTranslate` | build-observed |
+| M004408 | P2731 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SiegelWeilUnitaryConvergent2` | volunteer-build-reviewed |
 | M004409 | P0974 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SmulCommClassGalIntegers` | build-observed |
 | M004410 | P1834 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SquareIntegrableColumnsCompatible` | build-observed |
 | M004411 | P0003 | `Development.AbelianVarietyTheory.Definitions.GlobalTwisting.SubClosed` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M004978 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MemConfTOfDetNeZero` | build-observed |
 | M004980 | P0946 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NCoords` | build-observed |
 | M004981 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NcardImageOfLe` | wave-reused |
-| M004982 | P0295 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NoLeak` | wave-reused |
-| M004983 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.NormalFormDualOrthogonalLast` | build-observed |
-| M004984 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OfRoots` | build-observed |
-| M004985 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.OnePlaceKF` | volunteer-build-reviewed |
-| M004989 | P0239 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.Partners` | build-observed |
-| M004991 | P1114 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PlacesOf` | volunteer-build-reviewed |
-| M004992 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.PosPartUnitaryMul` | build-observed |
-| M004994 | P0865 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowMinor` | build-observed |
-| M004995 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowsMeanC` | volunteer-build-reviewed |
-| M004997 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SelfDualAt` | build-observed |
-| M004998 | P1502 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SerFixOne` | volunteer-build-reviewed |

@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006412 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EqZeroOfEvalGridEqZeroOfTotalDegreeLe` | volunteer-build-reviewed |
+| M006413 | P0296 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EqZeroOfSemicharacterMultiplier` | wave-reused |
+| M006414 | P0177 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyExistsMulIsLowerTriangular` | volunteer-build-reviewed |
+| M006415 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.EventuallyIteratedFDerivEqZeroOfRealSubspace` | volunteer-build-reviewed |
+| M006416 | P0705 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsCompactHaarMeasure` | build-observed |
+| M006417 | P0759 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsConeMeasure` | build-observed |
+| M006418 | P0648 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsConeMeasurePosRank` | build-observed |
+| M006419 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIdealInClassOfNormLeSqrtDiscr` | volunteer-build-reviewed |
+| M006420 | P1170 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsClosedEmbeddingOfAffine` | wave-reused |
+| M006421 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsFundamentalDomainAndQuotMeasureEq` | volunteer-build-reviewed |
+| M006422 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsUnitEvalOfMapResidueNeZero` | wave-reused |
 | M006423 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsLinearIndependentSqrtEqSuccMinQuad` | volunteer-build-reviewed |
 | M006424 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMinorProdEqSmulColActBasePoly` | volunteer-build-reviewed |
 | M006425 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMulMulConjTransposeEqOne` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M007257 | P0296 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FirstRaisingMemEquivariant` | wave-reused |
 | M007259 | P0099 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FockTranslationLaws` | volunteer-build-reviewed |
 | M007260 | P0241 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FormalPointSubstitutionSeriesValueAtTwoPoints` | wave-reused |
-| M007261 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBaseChangeEigenBasis` | volunteer-build-reviewed |
-| M007262 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBaseChangeEigenBasisStatement` | build-observed |
-| M007263 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameBiextDictionarySecondPartialLaw` | volunteer-build-reviewed |
-| M007267 | P0839 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameRigidificationOfCanonicalAxes` | wave-reused |
-| M007268 | P0865 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FrameRigidificationOfCanonicalAxesStatement` | wave-reused |
-| M007269 | P1834 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointBaseChangeClauses` | build-observed |
-| M007270 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointBaseChangeLaws` | build-observed |
-| M007271 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointGeneratorRingBaseChange` | build-observed |
-| M007272 | P1170 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointGeneratorRingBaseChangeStatement` | build-observed |
-| M007273 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCover` | volunteer-build-reviewed |
-| M007274 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCoverStatement` | build-observed |
