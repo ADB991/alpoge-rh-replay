@@ -1,0 +1,25 @@
+--- a/src/Development/AutomorphicArithmetic/IntegralCasts/CrystallinePeriods/ExistsFactorialMulEqPow.lean
++++ b/src/Development/AutomorphicArithmetic/IntegralCasts/CrystallinePeriods/ExistsFactorialMulEqPow.lean
+@@ -19,9 +19,10 @@
+   have hp : p.Prime := Fact.out
+   obtain ⟨v, m, hm, h⟩ := Nat.exists_eq_pow_mul_and_not_dvd (Nat.factorial_ne_zero n) p hp.ne_one
+   have hv : v ≤ n := by
+-    have h1 : v ≤ padicValNat p n ! :=
+-      (padicValNat_dvd_iff_le (Nat.factorial_ne_zero n)).1 ⟨m, h⟩
+-    exact h1.trans (padicValNat_factorial_le p n)
++    have h1 : v ≤ padicValNat p n ! := by
++      rw [Nat.padicValNat_def]
++      exact (padicValNat_dvd_iff_le (Nat.factorial_ne_zero n)).1 ⟨m, h⟩
++    exact h1.trans (by rw [Nat.padicValNat_def]; exact padicValNat_factorial_le p n)
+   have hu : IsUnit (m : ℤ_[p]) := by
+     rw [PadicInt.isUnit_iff, PadicInt.norm_natCast_eq_one_iff]
+     exact hp.coprime_iff_not_dvd.2 hm
+@@ -198,7 +199,7 @@
+   refine ext_eval fun n => ?_
+   obtain ⟨l, hl, hl'⟩ := exists_quot u hu n
+   rw [eval_extend, hl', Ideal.quotientMap_mk, eval_log_of_mul_eq v hv n (g l)]
+-  rw [← h, ← map_natCast g, ← map_pow, ← map_mul, hl, map_sub, map_pow, map_one]
++  rw [← h, ← map_natCast g, ← map_pow, ← map_mul, hl, g.map_sub, map_pow, map_one]
+ 
+ variable (p) in
+ 

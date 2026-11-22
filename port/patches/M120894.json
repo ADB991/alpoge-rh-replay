@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnnihilatorIntersectionCardStatement",
+  "source_sha256": "0fab7ae80862c353e4bf4390cd9d354f0a9e1ce9e807ca6d7a2eeb244bb0a22a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0264-lean436-20261122-b/P0264-receipt.json"
+}

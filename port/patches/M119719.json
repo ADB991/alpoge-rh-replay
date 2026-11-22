@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsPowSubMemSpanOfIsUnitModOfIsAlgClosed",
+  "source_sha256": "c5206d7285e14613588e446e2180410902a18b90c58e59e1199688a11dc2b7fb",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0264-lean436-20261122-b/P0264-receipt.json"
+}

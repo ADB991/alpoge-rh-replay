@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.AlgebraProofs.UltrametricDetNormLe",
+  "source_sha256": "da7c77c98640f0c2fb52da4be0b03c5a51298940931456051287f5895cf98f1a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Finset.prod_le_prod for nonnegative factors is now Finset.prod_le_prod₀, with the same arguments.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0264-lean436-20261122-b/P0264-receipt.json"
+}

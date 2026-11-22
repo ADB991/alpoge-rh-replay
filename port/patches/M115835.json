@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.ExistsFactorialMulEqPow",
+  "source_sha256": "36386886b4cfcd3da51530923544f79f53b965db29e3cbb67b1a7c07da86ff7e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: padicValNat_dvd_iff_le and padicValNat_factorial_le now state results about multiplicity, so the two steps in the proof of hv rewrite with Nat.padicValNat_def (padicValNat p n = multiplicity p n) before using them; in extend_log, map_sub is replaced by g.map_sub (RingHom.map_sub, the same lemma) because generic AddMonoidHomClass synthesis for AcrisZero ring homs now times out.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0264-lean436-20261122-b/P0264-receipt.json"
+}
