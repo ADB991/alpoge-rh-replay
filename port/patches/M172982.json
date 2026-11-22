@@ -1,0 +1,8 @@
+{
+  "module": "ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.CuspidalExponentialDecay",
+  "source_sha256": "32d2b21d834806a4ae879f8fbbe3b14664aecb72dbd52079e11c0e96681a6b1d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0291 packet build transcript linked from the PR."
+}
