@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011272 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSplitsHyperbolicPlusCoreStatement` | volunteer-build-reviewed |
+| M011274 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeEqOfSplitPlaceFrameSpanStatement` | volunteer-build-reviewed |
+| M011276 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeFrameChainStatement` | volunteer-build-reviewed |
+| M011277 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeHyperbolicLineIdealsAtPlace` | volunteer-build-reviewed |
+| M011278 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeHyperbolicLineIdealsAtPlaceStatement` | volunteer-build-reviewed |
+| M011279 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticePrescribedFinitelyManySplitPlaces` | volunteer-build-reviewed |
+| M011280 | P2015 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticePrescribedFinitelyManySplitPlacesStatement` | volunteer-build-reviewed |
+| M011281 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeRationalLineTraceFractionalIdeal` | volunteer-build-reviewed |
+| M011282 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeRationalLineTraceFractionalIdealStatement` | volunteer-build-reviewed |
+| M011283 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeSplitsOffUnitNormLineAtPlace` | volunteer-build-reviewed |
+| M011284 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeSplitsOffUnitNormLineAtPlaceStatement` | volunteer-build-reviewed |
 | M011285 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeStabilizersFixWeilVacuumOnPlaceSe` | volunteer-build-reviewed |
 | M011286 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeStabilizersFixWeilVacuumOnPlaceSeStatement` | volunteer-build-reviewed |
 | M011287 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticesConjugateAtFinitePlace` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M012018 | P2134 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpec` | volunteer-build-reviewed |
 | M012019 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueColumnsRealDataSpecStatement` | volunteer-build-reviewed |
 | M012023 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumData` | volunteer-build-reviewed |
-| M012024 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumDataStatement` | volunteer-build-reviewed |
-| M012025 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescent` | volunteer-build-reviewed |
-| M012026 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescentStatement` | volunteer-build-reviewed |
-| M012029 | P2662 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainStepValue` | volunteer-build-reviewed |
-| M012031 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryClassRelation` | volunteer-build-reviewed |
-| M012032 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryClassRelationStatement` | volunteer-build-reviewed |
-| M012039 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationTwist` | volunteer-build-reviewed |
-| M012040 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationTwistStatement` | volunteer-build-reviewed |
-| M012041 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationValue` | volunteer-build-reviewed |
-| M012043 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCompactLevelProperty` | volunteer-build-reviewed |
-| M012044 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCompactLevelPropertyStatement` | volunteer-build-reviewed |

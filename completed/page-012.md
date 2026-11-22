@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M007279 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingCorrMulInvStatement` | volunteer-build-reviewed |
+| M007281 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingPullbackPeriodRigidStatement` | volunteer-build-reviewed |
+| M007284 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GlobalBasisAlgebra` | wave-reused |
+| M007286 | P1350 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HalfIntegralGeneratorTraceEqOne` | build-observed |
+| M007288 | P1002 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HalvesFreeAndAdjoint` | volunteer-build-reviewed |
+| M007292 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueBaseChange` | volunteer-build-reviewed |
+| M007293 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueBaseChangeStatement` | build-observed |
 | M007294 | P1420 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueCanonicalConnectionEqPolyDeriv` | worker-kernel-checked |
 | M007295 | P1445 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueCanonicalConnectionEqPolyDerivStatement` | volunteer-build-reviewed |
 | M007296 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValuesInvariantUniversalEndomorphism` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M008319 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledPairThetaFunctionEqZeroOfSchrodingerEqZerStatement` | volunteer-build-reviewed |
 | M008320 | P1688 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubledSpaceMaximalLevelLattice` | volunteer-build-reviewed |
 | M008329 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityFlatSectionCuspFormsStatement` | volunteer-build-reviewed |
-| M008330 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfolding` | volunteer-build-reviewed |
-| M008331 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfoldingStatement` | volunteer-build-reviewed |
-| M008337 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingEulerProductFarRightStatement` | volunteer-build-reviewed |
-| M008340 | P1665 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingHeightAtRealPlaceLeOne` | volunteer-build-reviewed |
-| M008345 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingHeightSplitPlaceChartBiInvariantTorusValStatement` | volunteer-build-reviewed |
-| M008348 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingIntegralsVanishOfAllLiftsVanish` | volunteer-build-reviewed |
-| M008351 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingMapSpanDenseHeisenbergStableStatement` | volunteer-build-reviewed |

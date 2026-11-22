@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010545 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantRationalFiniteParts` | volunteer-build-reviewed |
+| M010546 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantRationalFinitePartsStatement` | volunteer-build-reviewed |
+| M010547 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderSingleSplitPlace` | volunteer-build-reviewed |
+| M010548 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderSingleSplitPlaceStatement` | volunteer-build-reviewed |
+| M010549 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderStdLatticeStabilizers` | volunteer-build-reviewed |
+| M010550 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderStdLatticeStabilizersStatement` | volunteer-build-reviewed |
+| M010551 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedWeilVacuumEqVacuumOfMovedLattices` | volunteer-build-reviewed |
+| M010552 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedWeilVacuumEqVacuumOfMovedLatticesStatement` | volunteer-build-reviewed |
+| M010553 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesLocalSuppIff` | volunteer-build-reviewed |
+| M010554 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesOfMatrixMemLevelZero` | volunteer-build-reviewed |
+| M010555 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesOfMemLev` | volunteer-build-reviewed |
 | M010557 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MulFractionalIdealCompletionSubsetIffMemQuotient` | volunteer-build-reviewed |
 | M010558 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MulFractionalIdealCompletionSubsetIffMemQuotientStatement` | volunteer-build-reviewed |
 | M010560 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MulMulDivCancelLeft` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M011262 | P2121 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualCoreComponentGluedAlongPairStatement` | volunteer-build-reviewed |
 | M011269 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSmulIntegralMem` | volunteer-build-reviewed |
 | M011271 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSplitsHyperbolicPlusCore` | volunteer-build-reviewed |
-| M011272 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeAtPlaceSplitsHyperbolicPlusCoreStatement` | volunteer-build-reviewed |
-| M011274 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeEqOfSplitPlaceFrameSpanStatement` | volunteer-build-reviewed |
-| M011276 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeFrameChainStatement` | volunteer-build-reviewed |
-| M011277 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeHyperbolicLineIdealsAtPlace` | volunteer-build-reviewed |
-| M011278 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeHyperbolicLineIdealsAtPlaceStatement` | volunteer-build-reviewed |
-| M011279 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticePrescribedFinitelyManySplitPlaces` | volunteer-build-reviewed |
-| M011280 | P2015 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticePrescribedFinitelyManySplitPlacesStatement` | volunteer-build-reviewed |
-| M011281 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeRationalLineTraceFractionalIdeal` | volunteer-build-reviewed |
-| M011282 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeRationalLineTraceFractionalIdealStatement` | volunteer-build-reviewed |
-| M011283 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeSplitsOffUnitNormLineAtPlace` | volunteer-build-reviewed |
-| M011284 | P2052 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.SelfDualLatticeSplitsOffUnitNormLineAtPlaceStatement` | volunteer-build-reviewed |

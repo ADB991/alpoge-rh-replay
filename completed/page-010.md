@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006015 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisOfImprimitive` | wave-reused |
+| M006016 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamily` | wave-reused |
+| M006017 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamilyStatement` | wave-reused |
+| M006019 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsStandardUnipotentRadicalBijOnNilradical` | volunteer-build-reviewed |
+| M006020 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsStandardUnipotentRadicalBijOnNilradicalStatement` | volunteer-build-reviewed |
+| M006021 | P0004 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsSylowOverSubgroup` | wave-reused |
+| M006022 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsSylowOverSubgroupStatement` | wave-reused |
 | M006023 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsTeichmullerMapAlgebraicClosureFiniteField` | volunteer-build-reviewed |
 | M006024 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsTeichmullerMapAlgebraicClosureFiniteFieldStatement` | build-observed |
 | M006025 | P0004 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsWeightIdempotent` | wave-reused |
@@ -395,10 +402,3 @@
 | M006420 | P1170 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsClosedEmbeddingOfAffine` | wave-reused |
 | M006421 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsFundamentalDomainAndQuotMeasureEq` | volunteer-build-reviewed |
 | M006422 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsIsUnitEvalOfMapResidueNeZero` | wave-reused |
-| M006423 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsLinearIndependentSqrtEqSuccMinQuad` | volunteer-build-reviewed |
-| M006424 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMinorProdEqSmulColActBasePoly` | volunteer-build-reviewed |
-| M006425 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMulMulConjTransposeEqOne` | volunteer-build-reviewed |
-| M006426 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsNeZeroForallNormLeOfCovolumeLe` | build-observed |
-| M006427 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsNeZeroMemFractionalIdealNormSqLe` | build-observed |
-| M006429 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsOrthonormalOfLinearIndependent` | volunteer-build-reviewed |
-| M006430 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsQr` | volunteer-build-reviewed |

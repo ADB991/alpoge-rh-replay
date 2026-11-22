@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003612 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasSumZeroOfTwoLe` | build-observed |
 | M003613 | P2747 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasTraitsOnOfHasTraitsP` | volunteer-build-reviewed |
 | M003617 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff` | volunteer-build-reviewed |
 | M003619 | P2654 | `Development.AbelianVarietyTheory.Definitions.Divisors.HolCuspLevDeltaNeBot` | volunteer-build-reviewed |
@@ -59,9 +60,11 @@
 | M003696 | P1834 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsLocalRingTrivSqZeroExt` | build-observed |
 | M003697 | P2133 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsLocallyConstantLinOm` | volunteer-build-reviewed |
 | M003698 | P0294 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsLocallyConstantSplitOm` | volunteer-build-reviewed |
+| M003700 | P2753 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsMemberPOfIsMember` | volunteer-build-reviewed |
 | M003705 | P0393 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsNilDPOfCube` | wave-reused |
 | M003706 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsNoetherianRingCompletedStalkSiegelFibrePower` | volunteer-build-reviewed |
 | M003707 | P1974 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsPairOfIsTriple` | volunteer-build-reviewed |
+| M003708 | P2741 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsPeriodGens` | volunteer-build-reviewed |
 | M003709 | P0946 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsPeriodHom` | build-observed |
 | M003710 | P1271 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsPolAVSectionInverseImage` | build-observed |
 | M003711 | P1298 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsPow8F` | build-observed |
@@ -126,6 +129,7 @@
 | M003825 | P0435 | `Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne` | build-observed |
 | M003826 | P1472 | `Development.AbelianVarietyTheory.Definitions.Divisors.NotDominatesTopPlace` | volunteer-build-reviewed |
 | M003833 | P1245 | `Development.AbelianVarietyTheory.Definitions.Divisors.NotIsIsoSpMapDnFst` | volunteer-build-reviewed |
+| M003837 | P2759 | `Development.AbelianVarietyTheory.Definitions.Divisors.NotTwistSumZeroFamily` | volunteer-build-reviewed |
 | M003839 | P1298 | `Development.AbelianVarietyTheory.Definitions.Divisors.OfCore` | volunteer-build-reviewed |
 | M003843 | P0294 | `Development.AbelianVarietyTheory.Definitions.Divisors.OmAUnipFourierInv` | volunteer-build-reviewed |
 | M003844 | P0347 | `Development.AbelianVarietyTheory.Definitions.Divisors.OneFormMapEqKaehlerDifferentialMap` | wave-reused |
@@ -190,12 +194,15 @@
 | M003944 | P0917 | `Development.AbelianVarietyTheory.Definitions.Divisors.TorsionTowersOfDivisibleGroup` | build-observed |
 | M003945 | P0705 | `Development.AbelianVarietyTheory.Definitions.Divisors.Torsor` | volunteer-build-reviewed |
 | M003946 | P1169 | `Development.AbelianVarietyTheory.Definitions.Divisors.TorusExt` | volunteer-build-reviewed |
+| M003947 | P2736 | `Development.AbelianVarietyTheory.Definitions.Divisors.TorusMemOfSepAtBTate` | volunteer-build-reviewed |
 | M003948 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.TorusNoLeClassNoRankOne` | volunteer-build-reviewed |
+| M003949 | P2794 | `Development.AbelianVarietyTheory.Definitions.Divisors.TowerRedToBaseIff` | volunteer-build-reviewed |
 | M003950 | P1472 | `Development.AbelianVarietyTheory.Definitions.Divisors.Tpr` | volunteer-build-reviewed |
 | M003951 | P1349 | `Development.AbelianVarietyTheory.Definitions.Divisors.TransSec` | build-observed |
 | M003952 | P2623 | `Development.AbelianVarietyTheory.Definitions.Divisors.TransferToDefiniteQuaternion` | volunteer-build-reviewed |
 | M003953 | P2177 | `Development.AbelianVarietyTheory.Definitions.Divisors.TupleReadBaseTupleEqFamily` | volunteer-build-reviewed |
 | M003954 | P1323 | `Development.AbelianVarietyTheory.Definitions.Divisors.TwOrbMEqTwOrbUOfNormal` | build-observed |
+| M003955 | P2753 | `Development.AbelianVarietyTheory.Definitions.Divisors.TwistAtEach` | volunteer-build-reviewed |
 | M003962 | P1787 | `Development.AbelianVarietyTheory.Definitions.Divisors.UnifOfSpaceEq` | build-observed |
 | M003963 | P1245 | `Development.AbelianVarietyTheory.Definitions.Divisors.Uniformised` | volunteer-build-reviewed |
 | M003964 | P0294 | `Development.AbelianVarietyTheory.Definitions.Divisors.UnipVal` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M004288 | P0002 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OfNatTrans` | wave-reused |
 | M004290 | P0648 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.OverOnePrimeOfCardLeOne` | build-observed |
 | M004296 | P0095 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PolyApproxZeroPadic` | wave-reused |
-| M004299 | P0347 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullHXApply` | volunteer-build-reviewed |
-| M004300 | P0549 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullTotMemBTot` | build-observed |
-| M004302 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RankOneUnitary` | volunteer-build-reviewed |
-| M004303 | P1974 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReadsMove` | volunteer-build-reviewed |
-| M004307 | P0002 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReductionUniformizerPoint` | volunteer-build-reviewed |
-| M004309 | P1901 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RegPolOfRepOf` | volunteer-build-reviewed |
-| M004310 | P2120 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ResidualIrreducibilityFormsEquivalent` | build-observed |

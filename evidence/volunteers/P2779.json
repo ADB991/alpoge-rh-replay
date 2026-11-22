@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    "M137254",
+    "M141080"
+  ],
+  "started_utc": "2026-11-22T08:18:23.681024+00:00",
+  "ended_utc": "2026-11-22T08:19:11.923049+00:00",
+  "elapsed_seconds": 48.0,
+  "host": {
+    "cpu_count": 16,
+    "mem_total_kib": 127373860,
+    "peak_child_rss_kib": 22845996
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.GoodTowerVolumeTheoremBis:olean",
+    "+Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.FinalAllB:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "40b2a0db1746cb26fe658b8ea196ec5d913b726bda668fc4adb09ff0ad529500",
+  "rebuilt_project_modules": [
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.ArithmeticHilbertSamuelOfSystems",
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.GivenOfUse",
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.NineFreeOfUse",
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.ProvHSOfUse",
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.SelfIntersectionLeOfBoundedInjectionUse",
+    "Development.WeilBound.CoreStatements.AutomorphicKernels.MoriwakiBigness.HilbertSamuelApplications.SmallSectionsUpperOfUse",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.BlockCandidates.BlockCandidatesHolds",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.BlockCandidates.PChiTrS",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.BlockCandidates.PIdentN",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.BlockCandidates.PLimAtOf",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.FrameReading.DetGelfandMatrixEq",
+    "Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.CandFinOfJEigFin"
+  ],
+  "objects": {
+    "M137254": "e394f44b50b065e89153a0b3ac472c0d95f08de3576ba65aad54037f9fc63a41",
+    "M141080": "77c3315c3833d0858f21d7f723913e72705dfa621b164a32feed3131b7b9153b"
+  },
+  "project_root": "/home/user/rh-replay-vol/lean",
+  "bundle_sha256": "703acb101fec3acd80e86ad6da7349cf0ea0f6a460400f98a9af2903989ffb2c",
+  "packet": "P2779",
+  "contributor": "hipotures",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/30785#issuecomment-7076447656",
+  "reviewed_utc": "2026-11-22T10:16:05.959745+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008972 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryChartsAllFinitePlacesFrameLatticeStatement` | volunteer-build-reviewed |
+| M008973 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryEmbeddingPreimageOfFixesAnisotropic` | volunteer-build-reviewed |
+| M008974 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryEmbeddingPreimageOfFixesAnisotropicStatement` | volunteer-build-reviewed |
+| M008977 | P0811 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIntegralOfSplitPlaceComponent` | build-observed |
+| M008978 | P0839 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIntegralOfSplitPlaceComponentStatement` | build-observed |
+| M008979 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIsometryIsotropicFrameLocalRing` | volunteer-build-reviewed |
+| M008980 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIsometryIsotropicFrameLocalRingStatement` | volunteer-build-reviewed |
 | M008981 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryScalarBlendSelfAdjointIdempotent` | volunteer-build-reviewed |
 | M008982 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryScalarBlendSelfAdjointIdempotentStatement` | volunteer-build-reviewed |
 | M008983 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitarySupportedAtPlaceOfDualIsotropicFram` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M009492 | P1975 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixesLatticeVacuumPeriodLattice` | volunteer-build-reviewed |
 | M009493 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFixesLatticeVacuumPeriodLatticeStatement` | volunteer-build-reviewed |
 | M009494 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFrameHalfInverse` | volunteer-build-reviewed |
-| M009495 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFrameHalfInverseStatement` | volunteer-build-reviewed |
-| M009496 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIntegralFourierBesselBasePointEqPairin` | volunteer-build-reviewed |
-| M009500 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIsotropicFixesVacuum` | volunteer-build-reviewed |
-| M009501 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOneParamDerivOrthDecJoinedEqSum` | volunteer-build-reviewed |
-| M009502 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOneParamDerivOrthDecJoinedEqSumStatement` | volunteer-build-reviewed |
-| M009504 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorConjugateHalfVacuumEqSemicharaStatement` | volunteer-build-reviewed |
-| M009505 | P1473 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorDisjointSupportSmulAdd` | volunteer-build-reviewed |

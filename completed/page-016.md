@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010023 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastGroupEmbeddingRealComponentsBlockFormStatement` | volunteer-build-reviewed |
+| M010024 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastIsotropicLineHomothetyMatchesLattices` | volunteer-build-reviewed |
+| M010026 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastKernelDatumInLastLineFrameAtLevelPrime` | volunteer-build-reviewed |
+| M010027 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastKernelDatumInLastLineFrameAtLevelPrimeStatement` | volunteer-build-reviewed |
+| M010030 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodClassesGiveTailReading` | volunteer-build-reviewed |
+| M010031 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodClassesGiveTailReadingStatement` | volunteer-build-reviewed |
+| M010032 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodLawMovedLevel` | volunteer-build-reviewed |
 | M010033 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodLawMovedLevelStatement` | volunteer-build-reviewed |
 | M010034 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodTailEqLoweredEvaluationPeriod` | volunteer-build-reviewed |
 | M010036 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastRowInvFrame` | volunteer-build-reviewed |
@@ -248,6 +255,10 @@
 | M010348 | P0839 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LowerUnipotentDiagDoubleCosetRepresentativesStatement` | build-observed |
 | M010349 | P1666 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LowestKTypeMemDiscreteSeriesKFiniteVectors` | volunteer-build-reviewed |
 | M010350 | P1689 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LowestKTypeMemDiscreteSeriesKFiniteVectorsStatement` | volunteer-build-reviewed |
+| M010358 | P2753 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainTheoremPublishedInputsThird` | volunteer-build-reviewed |
+| M010359 | P2759 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainTheoremPublishedInputsThirdStatement` | volunteer-build-reviewed |
+| M010360 | P2741 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainTheoremPublishedInputsVariant` | volunteer-build-reviewed |
+| M010363 | P2736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainTheoremPublishedResultsFinalStatement` | volunteer-build-reviewed |
 | M010364 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MainXOfStepXLastX` | volunteer-build-reviewed |
 | M010365 | P1689 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MajorantExistsAndWittDecomposition` | volunteer-build-reviewed |
 | M010366 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MajorantExistsAndWittDecompositionStatement` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M010542 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedLatticeIndexZeroNormalFrameComponentStatement` | volunteer-build-reviewed |
 | M010543 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumAtIdentityNonzeroConstant` | volunteer-build-reviewed |
 | M010544 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumAtIdentityNonzeroConstantStatement` | volunteer-build-reviewed |
-| M010545 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantRationalFiniteParts` | volunteer-build-reviewed |
-| M010546 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantRationalFinitePartsStatement` | volunteer-build-reviewed |
-| M010547 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderSingleSplitPlace` | volunteer-build-reviewed |
-| M010548 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderSingleSplitPlaceStatement` | volunteer-build-reviewed |
-| M010549 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderStdLatticeStabilizers` | volunteer-build-reviewed |
-| M010550 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedVacuumInvariantUnderStdLatticeStabilizersStatement` | volunteer-build-reviewed |
-| M010551 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedWeilVacuumEqVacuumOfMovedLattices` | volunteer-build-reviewed |
-| M010552 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovedWeilVacuumEqVacuumOfMovedLatticesStatement` | volunteer-build-reviewed |
-| M010553 | P1995 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesLocalSuppIff` | volunteer-build-reviewed |
-| M010554 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesOfMatrixMemLevelZero` | volunteer-build-reviewed |
-| M010555 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MovesOfMemLev` | volunteer-build-reviewed |

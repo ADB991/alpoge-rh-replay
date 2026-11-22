@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008330 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfolding` | volunteer-build-reviewed |
+| M008331 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingBasicIdentityUnfoldingStatement` | volunteer-build-reviewed |
+| M008337 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingEulerProductFarRightStatement` | volunteer-build-reviewed |
+| M008340 | P1665 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingHeightAtRealPlaceLeOne` | volunteer-build-reviewed |
+| M008345 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingHeightSplitPlaceChartBiInvariantTorusValStatement` | volunteer-build-reviewed |
+| M008348 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingIntegralsVanishOfAllLiftsVanish` | volunteer-build-reviewed |
+| M008351 | P2050 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingMapSpanDenseHeisenbergStableStatement` | volunteer-build-reviewed |
 | M008356 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingNegligibleOrbitUnfoldedIntegralEqZero` | volunteer-build-reviewed |
 | M008357 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingNegligibleOrbitUnfoldedIntegralEqZeroStatement` | volunteer-build-reviewed |
 | M008361 | P1736 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoublingSeesawTensorMapPolynomialFockVectorStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M008969 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitWeightRealCenterActionFockMonomial` | volunteer-build-reviewed |
 | M008970 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitWeightRealCenterActionFockMonomialStatement` | volunteer-build-reviewed |
 | M008971 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryChartsAllFinitePlacesFrameLattice` | volunteer-build-reviewed |
-| M008972 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryChartsAllFinitePlacesFrameLatticeStatement` | volunteer-build-reviewed |
-| M008973 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryEmbeddingPreimageOfFixesAnisotropic` | volunteer-build-reviewed |
-| M008974 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryEmbeddingPreimageOfFixesAnisotropicStatement` | volunteer-build-reviewed |
-| M008977 | P0811 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIntegralOfSplitPlaceComponent` | build-observed |
-| M008978 | P0839 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIntegralOfSplitPlaceComponentStatement` | build-observed |
-| M008979 | P1737 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIsometryIsotropicFrameLocalRing` | volunteer-build-reviewed |
-| M008980 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUnitaryIsometryIsotropicFrameLocalRingStatement` | volunteer-build-reviewed |

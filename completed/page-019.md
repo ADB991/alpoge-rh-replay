@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012024 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueFamilyVacuumDataStatement` | volunteer-build-reviewed |
+| M012025 | P2067 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescent` | volunteer-build-reviewed |
+| M012026 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainDescentStatement` | volunteer-build-reviewed |
+| M012029 | P2662 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryChainStepValue` | volunteer-build-reviewed |
+| M012031 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryClassRelation` | volunteer-build-reviewed |
+| M012032 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryClassRelationStatement` | volunteer-build-reviewed |
+| M012039 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationTwist` | volunteer-build-reviewed |
+| M012040 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationTwistStatement` | volunteer-build-reviewed |
+| M012041 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCommutationValue` | volunteer-build-reviewed |
+| M012043 | P2145 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCompactLevelProperty` | volunteer-build-reviewed |
+| M012044 | P2156 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryCompactLevelPropertyStatement` | volunteer-build-reviewed |
 | M012047 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryExistsKernel` | volunteer-build-reviewed |
 | M012048 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryExistsKernelStatement` | volunteer-build-reviewed |
 | M012050 | P2177 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TrueGeometryExistsVolumeConstantStatement` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M012818 | P1145 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAmpleCubicalOfGroupSchemeIso` | volunteer-build-reviewed |
 | M012821 | P1057 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAppEqOfHasWtZero` | build-observed |
 | M012822 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFOver` | build-observed |
-| M012823 | P2034 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLaws` | volunteer-build-reviewed |
-| M012824 | P2052 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLawsStatement` | volunteer-build-reviewed |
-| M012825 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcIsometryTorsionIntegralGauge` | volunteer-build-reviewed |
-| M012827 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcLiftExtensionLargerClosedField` | volunteer-build-reviewed |
-| M012831 | P1504 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcSeriesIntegralAlgebraicOverPowerSeries` | worker-kernel-checked |
-| M012833 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArithFrobeniusAbsGalois` | volunteer-build-reviewed |
-| M012834 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAtTestOfCen` | volunteer-build-reviewed |
-| M012836 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAutomorphismPermutationMaxOrderMembersStatement` | volunteer-build-reviewed |
-| M012840 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisAdaptedToIdempotents` | wave-reused |
-| M012841 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisLatticeNear` | volunteer-build-reviewed |
-| M012842 | P1273 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisRecombinationInvertibleMatrixTrait` | build-observed |

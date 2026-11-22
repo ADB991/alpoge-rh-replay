@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M013477 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelation` | volunteer-build-reviewed |
+| M013478 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelationStatement` | volunteer-build-reviewed |
+| M013479 | P1171 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormVanishesOfTorsionTorusExtension` | wave-reused |
+| M013480 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormVanishesOfTorsionTorusExtensionStatement` | volunteer-build-reviewed |
+| M013481 | P0550 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormallyUnramifiedOfCompOfEtaleOfSurjective` | wave-reused |
+| M013482 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierExtractionTsumClass` | volunteer-build-reviewed |
+| M013483 | P1445 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierSeriesProductEqProductSeries` | volunteer-build-reviewed |
+| M013484 | P1474 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierSeriesProductEqProductSeriesStatement` | volunteer-build-reviewed |
+| M013485 | P1002 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourthSideRespectsRigSymmetryCube` | volunteer-build-reviewed |
+| M013486 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourthSideRespectsRigSymmetryCubeStatement` | volunteer-build-reviewed |
+| M013487 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FrameUnit` | volunteer-build-reviewed |
 | M013494 | P1691 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FromGtOfMemUnitGrp` | build-observed |
 | M013496 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FullTorsionObjectExistsUniqueModuliPointStatement` | volunteer-build-reviewed |
 | M013498 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FullTorsionPolarizedCMObjectExtendsAlgClosedStatement` | volunteer-build-reviewed |
@@ -391,14 +402,3 @@
 | M014158 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniformisedTestDimensionsAndSplitFibreStatement` | volunteer-build-reviewed |
 | M014160 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UnitOnProductEqOne` | wave-reused |
 | M014161 | P1836 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UnitThetaConstantsGenerateIntegralTorsion` | build-observed |
-| M014164 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.UniversalBasisMoveBaseChange` | volunteer-build-reviewed |
-| M014169 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.VFCorr` | build-observed |
-| M014170 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.VFEqGenValMul` | build-observed |
-| M014171 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValIso` | build-observed |
-| M014172 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValIsoChart` | build-observed |
-| M014174 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValUnitNeZero` | volunteer-build-reviewed |
-| M014175 | P1059 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValuationEqPolarFormOfWeightZeroMax` | wave-reused |
-| M014176 | P1086 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValuationEqPolarFormOfWeightZeroMaxStatement` | wave-reused |
-| M014179 | P1059 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValuationsTorusExtensionPoints` | build-observed |
-| M014183 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ValuesIsoRespectsEndomorphismOfTorsionCompat` | build-observed |
-| M014185 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.VanishingIdealConePrimeHomogeneous` | wave-reused |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M005511 | P0678 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceIsSquareAndNotIsSquare` | wave-reused |
+| M005512 | P0616 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceNotIsSquareAdicCompletion` | wave-reused |
+| M005513 | P0648 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceNotIsSquareAdicCompletionStatement` | wave-reused |
+| M005518 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceValuationAut` | volunteer-build-reviewed |
+| M005519 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMap` | build-observed |
+| M005520 | P0811 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMapStatement` | build-observed |
+| M005521 | P0839 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalRational` | build-observed |
 | M005522 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPosMulNormSqLe` | volunteer-build-reviewed |
 | M005523 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPosNatMulMemRingOfIntegers` | build-observed |
 | M005524 | P0865 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPrimeIdempotentCMField` | build-observed |
@@ -395,10 +402,3 @@
 | M006012 | P0394 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsIsCharEqAddOfPairNeZeroStatement` | wave-reused |
 | M006013 | P0240 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisAbelianByPrimePower` | wave-reused |
 | M006014 | P0295 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisAbelianByPrimePowerStatement` | wave-reused |
-| M006015 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsMonomialBasisOfImprimitive` | wave-reused |
-| M006016 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamily` | wave-reused |
-| M006017 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsPermOfSumMinEqPositiveFamilyStatement` | wave-reused |
-| M006019 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsStandardUnipotentRadicalBijOnNilradical` | volunteer-build-reviewed |
-| M006020 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsStandardUnipotentRadicalBijOnNilradicalStatement` | volunteer-build-reviewed |
-| M006021 | P0004 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsSylowOverSubgroup` | wave-reused |
-| M006022 | P0098 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsSylowOverSubgroupStatement` | wave-reused |

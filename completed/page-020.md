@@ -2,6 +2,17 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012823 | P2034 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLaws` | volunteer-build-reviewed |
+| M012824 | P2052 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcFamilyPointWithFramesOfLawsStatement` | volunteer-build-reviewed |
+| M012825 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcIsometryTorsionIntegralGauge` | volunteer-build-reviewed |
+| M012827 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcLiftExtensionLargerClosedField` | volunteer-build-reviewed |
+| M012831 | P1504 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArcSeriesIntegralAlgebraicOverPowerSeries` | worker-kernel-checked |
+| M012833 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsArithFrobeniusAbsGalois` | volunteer-build-reviewed |
+| M012834 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAtTestOfCen` | volunteer-build-reviewed |
+| M012836 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsAutomorphismPermutationMaxOrderMembersStatement` | volunteer-build-reviewed |
+| M012840 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisAdaptedToIdempotents` | wave-reused |
+| M012841 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisLatticeNear` | volunteer-build-reviewed |
+| M012842 | P1273 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisRecombinationInvertibleMatrixTrait` | build-observed |
 | M012843 | P1300 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisRecombinationInvertibleMatrixTraitStatement` | volunteer-build-reviewed |
 | M012844 | P0394 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBasisUniqueMinAndSumsSeparated` | wave-reused |
 | M012846 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsBundleOfDividingMaximalMinor` | build-observed |
@@ -391,14 +402,3 @@
 | M013472 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanReductionLe` | volunteer-build-reviewed |
 | M013473 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinrankSpanResidueLe` | wave-reused |
 | M013474 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FinsuppEqZeroOfSumTorsionCharactersEqZero` | wave-reused |
-| M013477 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelation` | volunteer-build-reviewed |
-| M013478 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ForallTermNeZeroOfPsiRelationStatement` | volunteer-build-reviewed |
-| M013479 | P1171 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormVanishesOfTorsionTorusExtension` | wave-reused |
-| M013480 | P1195 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormVanishesOfTorsionTorusExtensionStatement` | volunteer-build-reviewed |
-| M013481 | P0550 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FormallyUnramifiedOfCompOfEtaleOfSurjective` | wave-reused |
-| M013482 | P0007 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierExtractionTsumClass` | volunteer-build-reviewed |
-| M013483 | P1445 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierSeriesProductEqProductSeries` | volunteer-build-reviewed |
-| M013484 | P1474 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourierSeriesProductEqProductSeriesStatement` | volunteer-build-reviewed |
-| M013485 | P1002 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourthSideRespectsRigSymmetryCube` | volunteer-build-reviewed |
-| M013486 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FourthSideRespectsRigSymmetryCubeStatement` | volunteer-build-reviewed |
-| M013487 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FrameUnit` | volunteer-build-reviewed |

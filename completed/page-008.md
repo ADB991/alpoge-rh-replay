@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004999 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SiegelMeanCc` | build-observed |
+| M005001 | P1812 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.StepLocGenPinnedGP` | volunteer-build-reviewed |
+| M005003 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SymmetricFlagBasisVectorsApplyCentre` | build-observed |
+| M005004 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ThresholdProductsBounded` | volunteer-build-reviewed |
+| M005005 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ToGlob0` | volunteer-build-reviewed |
+| M005006 | P0475 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.TopfBasis` | volunteer-build-reviewed |
+| M005010 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.UpperOff` | build-observed |
 | M005011 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.AwayLiftCompFromZeroRingHom` | wave-reused |
 | M005012 | P0003 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAdaptedOfIsLocalRing` | volunteer-build-reviewed |
 | M005013 | P0347 | `Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAffineOpenOfFiniteOpensProj` | build-observed |
@@ -395,10 +402,3 @@
 | M005508 | P0239 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNormaliseMeanSquareOfCocompactStatement` | volunteer-build-reviewed |
 | M005509 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNsmulMem` | volunteer-build-reviewed |
 | M005510 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsNsmulMulVecMem` | volunteer-build-reviewed |
-| M005511 | P0678 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceIsSquareAndNotIsSquare` | wave-reused |
-| M005512 | P0616 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceNotIsSquareAdicCompletion` | wave-reused |
-| M005513 | P0648 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceNotIsSquareAdicCompletionStatement` | wave-reused |
-| M005518 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPlaceValuationAut` | volunteer-build-reviewed |
-| M005519 | P0784 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMap` | build-observed |
-| M005520 | P0811 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalMapStatement` | build-observed |
-| M005521 | P0839 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsPolynomialSectionBlockDiagonalRational` | build-observed |

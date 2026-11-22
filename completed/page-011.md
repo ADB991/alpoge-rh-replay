@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006423 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsLinearIndependentSqrtEqSuccMinQuad` | volunteer-build-reviewed |
+| M006424 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMinorProdEqSmulColActBasePoly` | volunteer-build-reviewed |
+| M006425 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsMulMulConjTransposeEqOne` | volunteer-build-reviewed |
+| M006426 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsNeZeroForallNormLeOfCovolumeLe` | build-observed |
+| M006427 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsNeZeroMemFractionalIdealNormSqLe` | build-observed |
+| M006429 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsOrthonormalOfLinearIndependent` | volunteer-build-reviewed |
+| M006430 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsQr` | volunteer-build-reviewed |
 | M006431 | P0177 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsShortBasisAdaptedOfSubsetSpan` | volunteer-build-reviewed |
 | M006434 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FderivIntegralApplyOfHolomorphicOfDominated` | volunteer-build-reviewed |
 | M006435 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.FiniteAndFinrankLeOfPointwise` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M007272 | P1170 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointGeneratorRingBaseChangeStatement` | build-observed |
 | M007273 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCover` | volunteer-build-reviewed |
 | M007274 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FramedPointsLiftToLevelCoverStatement` | build-observed |
-| M007279 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingCorrMulInvStatement` | volunteer-build-reviewed |
-| M007281 | P0975 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GeneratorReadingPullbackPeriodRigidStatement` | volunteer-build-reviewed |
-| M007284 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.GlobalBasisAlgebra` | wave-reused |
-| M007286 | P1350 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HalfIntegralGeneratorTraceEqOne` | build-observed |
-| M007288 | P1002 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HalvesFreeAndAdjoint` | volunteer-build-reviewed |
-| M007292 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueBaseChange` | volunteer-build-reviewed |
-| M007293 | P1144 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.HarmonicValueBaseChangeStatement` | build-observed |

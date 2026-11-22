@@ -401,4 +401,4 @@
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
 | M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
-| M003612 | P1218 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasSumZeroOfTwoLe` | build-observed |
+| M003611 | P2736 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidCoords` | volunteer-build-reviewed |

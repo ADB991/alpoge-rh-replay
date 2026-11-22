@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004299 | P0347 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullHXApply` | volunteer-build-reviewed |
+| M004300 | P0549 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PullTotMemBTot` | build-observed |
+| M004302 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RankOneUnitary` | volunteer-build-reviewed |
+| M004303 | P1974 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReadsMove` | volunteer-build-reviewed |
+| M004307 | P0002 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ReductionUniformizerPoint` | volunteer-build-reviewed |
+| M004309 | P1901 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.RegPolOfRepOf` | volunteer-build-reviewed |
+| M004310 | P2120 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ResidualIrreducibilityFormsEquivalent` | build-observed |
 | M004318 | P2654 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SortSign` | volunteer-build-reviewed |
 | M004321 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.SplitRep` | build-observed |
 | M004323 | P0946 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.StdBases` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M004995 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.RowsMeanC` | volunteer-build-reviewed |
 | M004997 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SelfDualAt` | build-observed |
 | M004998 | P1502 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SerFixOne` | volunteer-build-reviewed |
-| M004999 | P0918 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SiegelMeanCc` | build-observed |
-| M005001 | P1812 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.StepLocGenPinnedGP` | volunteer-build-reviewed |
-| M005003 | P0615 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.SymmetricFlagBasisVectorsApplyCentre` | build-observed |
-| M005004 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ThresholdProductsBounded` | volunteer-build-reviewed |
-| M005005 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ToGlob0` | volunteer-build-reviewed |
-| M005006 | P0475 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.TopfBasis` | volunteer-build-reviewed |
-| M005010 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.UpperOff` | build-observed |

@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    "M031427",
+    "M113322"
+  ],
+  "started_utc": "2026-11-22T05:18:42.866183+00:00",
+  "ended_utc": "2026-11-22T05:20:01.506028+00:00",
+  "elapsed_seconds": 78.3,
+  "host": {
+    "cpu_count": 32,
+    "mem_total_kib": 131974984,
+    "peak_child_rss_kib": 21113120
+  },
+  "toolchain": "Lean (version 4.33.1, x86_64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitePointsClosureGenericCorrespondenceSndStatement:olean",
+    "+Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.SpecTopG:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "783ed00be350235fce572ac817ae0884d3ceaba7a3f637e1a82257fd8035ed75",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.AuxiliaryInertOddPrime",
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.CnjApply",
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.FacEx",
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.RelIndexNeZeroOfOpen",
+    "Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ScalarCommutation.ValOfNotMem",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ExistsPlace",
+    "GroundTheory.AutomorphicForms.StableConjTorus"
+  ],
+  "objects": {
+    "M031427": "9f585ae258eb933dd6e270e3b81f47eb8a84b34ed8c85e3bff898598985f2350",
+    "M113322": "71f7d6a65711631ea71677df8c91b65dcb73c5013a1edf2ea5485632169e8709"
+  },
+  "project_root": "/home/emsi/rh-worker-codex-03/volume/lean",
+  "bundle_sha256": "f0d1cf7e033f0b4918b495edfa576dd4252054ab14dba2f8f78f57bef747ff42",
+  "packet": "P2844",
+  "contributor": "emsi",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/29902#issuecomment-7074691493",
+  "reviewed_utc": "2026-11-22T10:22:54.459129+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. Verified the supplied bundle checksum and every target .olean checksum."
+}

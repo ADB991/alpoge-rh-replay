@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009495 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergFrameHalfInverseStatement` | volunteer-build-reviewed |
+| M009496 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIntegralFourierBesselBasePointEqPairin` | volunteer-build-reviewed |
+| M009500 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergIsotropicFixesVacuum` | volunteer-build-reviewed |
+| M009501 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOneParamDerivOrthDecJoinedEqSum` | volunteer-build-reviewed |
+| M009502 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOneParamDerivOrthDecJoinedEqSumStatement` | volunteer-build-reviewed |
+| M009504 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorConjugateHalfVacuumEqSemicharaStatement` | volunteer-build-reviewed |
+| M009505 | P1473 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorDisjointSupportSmulAdd` | volunteer-build-reviewed |
 | M009506 | P1503 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorDisjointSupportSmulAddStatement` | volunteer-build-reviewed |
 | M009508 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorFinitePartRestActsBySemicharacStatement` | volunteer-build-reviewed |
 | M009511 | P1713 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergOperatorThetaFunctionalMixedSourceMode` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M010019 | P1560 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDiagonalEntryTorusIntegralOfFlatMapNeZeroStatement` | volunteer-build-reviewed |
 | M010021 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastDoubleThetaLiftIntegrableLinearStatement` | volunteer-build-reviewed |
 | M010022 | P2014 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastGroupEmbeddingRealComponentsBlockForm` | volunteer-build-reviewed |
-| M010023 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastGroupEmbeddingRealComponentsBlockFormStatement` | volunteer-build-reviewed |
-| M010024 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastIsotropicLineHomothetyMatchesLattices` | volunteer-build-reviewed |
-| M010026 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastKernelDatumInLastLineFrameAtLevelPrime` | volunteer-build-reviewed |
-| M010027 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastKernelDatumInLastLineFrameAtLevelPrimeStatement` | volunteer-build-reviewed |
-| M010030 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodClassesGiveTailReading` | volunteer-build-reviewed |
-| M010031 | P1881 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodClassesGiveTailReadingStatement` | volunteer-build-reviewed |
-| M010032 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LastPeriodLawMovedLevel` | volunteer-build-reviewed |
