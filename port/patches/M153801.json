@@ -1,0 +1,7 @@
+{
+ "module": "Formalism.PeriodIntegrals.OrbitalBoundsConclusion.KerSelfDual",
+ "source_sha256": "428c6da1b49b48aa3f849c1a89c8d82cae6cb5122f272265d09af11256ca425e",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
