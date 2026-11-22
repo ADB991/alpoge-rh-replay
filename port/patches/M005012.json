@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.ShimuraVarieties.ExistsIsAdaptedOfIsLocalRing",
+  "source_sha256": "2dc6103a9e5d55a8175223b63a57fa132ce40c34711a4a4985d43dbb6d93130b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Finsupp.finset_sum_apply is now Finsupp.finsetSum_apply, and the tensor-product induction eliminator no longer has a zero case, so the four | zero => simp alternatives are removed. Proof-only change. Candidate patch by @1337isnot1337 in #22877.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

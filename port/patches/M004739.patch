@@ -1,0 +1,28 @@
+--- a/src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/FiniteCocycles.lean
++++ b/src/Development/AbelianVarietyTheory/Definitions/NonGaloisDescent/FiniteCocycles.lean
+@@ -112,8 +112,7 @@
+ 
+ def CH : Set (MonoidAlgebra A G) :=
+   {z | ∃ (m : ℕ) (y : Fin m → MonoidAlgebra A G) (β : Fin m →₀ ℕ), ∀ g : G,
+-    z.coeff g = MvPolynomial.coeff β
+-      ((Polynomial.aeval (gen y) ((D.map (MvPolynomial.C : A →+* MvPolynomial (Fin m) A)).chi (gen y))).coeff g)}
++    z.coeff g = ((Polynomial.aeval (gen y) ((D.map (MvPolynomial.C : A →+* MvPolynomial (Fin m) A)).chi (gen y))).coeff g).coeff β}
+ 
+ variable [TopologicalSpace G]
+ 
+@@ -151,12 +150,13 @@
+   set D := Subgroup.closure (S : Set G) with hD
+   have hDd : Dense (D : Set G) := by
+     rw [dense_iff_closure_eq, ← Subgroup.topologicalClosure_coe, hS]; rfl
+-  haveI : Group.FG D := (Group.fg_iff_subgroup_fg D).2 ⟨S, rfl⟩
++  haveI : Group.FG D := (Subgroup.isMulFG_iff (H := D)).2 ⟨S, rfl⟩
+   haveI : Finite (G ⧸ H) := Subgroup.quotient_finite_of_isOpen H hH
+   haveI : H.FiniteIndex := Subgroup.finiteIndex_of_finite_quotient
+   haveI : (H.subgroupOf D).FiniteIndex := inferInstance
+   haveI : Group.FG (H.subgroupOf D) := Subgroup.fg_of_index_ne_zero _
+-  obtain ⟨T, hT⟩ := Group.fg_def.1 ‹Group.FG (H.subgroupOf D)›
++  obtain ⟨T, hT⟩ := (Subgroup.isMulFG_iff (H := (⊤ : Subgroup (H.subgroupOf D)))).1
++    (Group.fg_def.1 ‹Group.FG (H.subgroupOf D)›)
+   let ι : H.subgroupOf D →* H :=
+     (D.subtype.comp (H.subgroupOf D).subtype).codRestrict H (fun x => x.2)
+   refine Set.Finite.of_finite_image (f := fun f => fun t : T => f (ι t)) (Set.toFinite _) ?_

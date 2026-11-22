@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/MemIffConjugateNotMem.lean
++++ b/src/Development/AbelianVarietyTheory/Definitions/ThetaMetrics/MemIffConjugateNotMem.lean
+@@ -23,7 +23,7 @@
+     rintro ⟨a, _⟩ ⟨b, _⟩ h
+     congr
+ 
+-instance : PartialOrder (CMType E) := .ofSetLike (CMType E) (E →+* ℂ)
++instance : PartialOrder (CMType E) := .ofSetLike (CMType E)
+ 
+ theorem mem_iff_conjugate_notMem (Φ : CMType E) (τ : E →+* ℂ) :
+     τ ∈ Φ ↔ ComplexEmbedding.conjugate τ ∉ Φ := Φ.mem_iff_conjugate_notMem' τ

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormPowLeNormFactorial",
+  "source_sha256": "e96405502d821a837cd7d95cbdce582e17421282ecb452cfaa1d3a5794a5b678",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "IsUltrametricDist.exists_norm_finset_sum_le_of_nonempty is now exists_norm_finsetSum_le_of_nonempty, and PowerSeries.derivative now takes its coefficient ring implicitly, so the definition N and the statements pass it by name as (R := K); the terms are the same, so the definitions and propositions are unchanged. Candidate patch by @1337isnot1337 in #22877.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

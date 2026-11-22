@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.ThetaMetrics.MemIffConjugateNotMem",
+  "source_sha256": "630a3fe60153918a7b02fefe0db56de8d69a8f881ce4c968524898d2a320feda",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "PartialOrder.ofSetLike now infers the element type from the SetLike instance, so the explicit (E →+* ℂ) argument is dropped; the instance is the same term.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

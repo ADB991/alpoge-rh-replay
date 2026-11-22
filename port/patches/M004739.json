@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FiniteCocycles",
+  "source_sha256": "2f079271472293907e75f74d71d7e9d212a05d9ef9e0a1d7c25d27e1ee1687b0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff was removed, so the definition CH writes (Polynomial.aeval ... ).coeff g).coeff β in place of MvPolynomial.coeff β (...); p.coeff m elaborates to the term the old MvPolynomial.coeff m p unfolded to, so the set is unchanged. Group.fg_iff_subgroup_fg is now Subgroup.isMulFG_iff, and Group.fg_def yields the finite generation of ⊤, which isMulFG_iff unpacks. Candidate patch by @1337isnot1337 in #22877.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

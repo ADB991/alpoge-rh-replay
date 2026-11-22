@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.ThetaMetrics.SumFinsuppAntidiagProdPowDivMultiFactorial",
+  "source_sha256": "d1db6c58d1525772387a7b11545d341c601386a154296c2a0c0eaae7b688c98e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff_add is now protected, so name it, and the nonnegative-factor form of Finset.prod_le_prod is now Finset.prod_le_prod₀ with the same arguments. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

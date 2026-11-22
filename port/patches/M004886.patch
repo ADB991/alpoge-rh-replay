@@ -1,0 +1,11 @@
+--- a/src/Development/AbelianVarietyTheory/Definitions/QuasicoherentCohomology/AlgebraMapBaseMemMaximalIdealIff.lean
++++ b/src/Development/AbelianVarietyTheory/Definitions/QuasicoherentCohomology/AlgebraMapBaseMemMaximalIdealIff.lean
+@@ -81,7 +81,7 @@
+   Localization.AtPrime.algebraOfLiesOver p (gaussIdeal p σ)
+ 
+ instance isLiesOverAlgebra : Localization.AtPrime.IsLiesOverAlgebra p (gaussIdeal p σ) :=
+-  ⟨rfl⟩
++  inferInstance
+ 
+ theorem algebraMap_C (a : O) :
+     algebraMap (MvPolynomial σ O) (GaussLocal O p σ) (C a) = algebraMap O (GaussLocal O p σ) a :=
