@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.TwistedOperators.CoeffMatrixFamilyBilateralSubstitutionMonomialCo",
+  "source_sha256": "c5cb28c68f5fb2a6ccbca34a71fa24ebe46ab297d4d5c1048de8cc51b5165fe0",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statements of this module's helper theorems and of coeff_substF_monomial_continuous_algebraic change in notation only. MvPolynomial is now an abbrev for AddMonoidAlgebra, so the bare `coeff m p` and `MvPolynomial.coeff m p` no longer resolve, and each is written `p.coeff m`. That is the same coefficient of monomial m in p, with identical hypotheses and conclusions. In the proofs, `continuous_finset_sum` is renamed to `continuous_finsetSum`.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0195-lean436-20261122/P0195-receipt.json"
+}
