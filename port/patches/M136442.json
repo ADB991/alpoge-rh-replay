@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.EmbeddedResolution.DerivativeIdeal.DerivativeIdealSheafOrderDecrease",
+  "source_sha256": "2f3ee4fc82cf9e3320433ffe09a8bb66996c2cd670d23bcc22ba74b1f5a16097",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

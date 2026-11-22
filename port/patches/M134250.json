@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MetricProofs.PshExtensionAcrossClosedDense",
+  "source_sha256": "f86b75ec8a1a315fce9a3f5bc0acdbb8e8301792bef292585c47e32ab6aa00a9",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

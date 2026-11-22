@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.EmbeddedResolution.IdealPrincipalization.OrderReduction.IsomorphismTransport",
+  "source_sha256": "2c22e529a60ae4253ef2d6b6c46c90cf4a2980021605fa8964639404a7db0801",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

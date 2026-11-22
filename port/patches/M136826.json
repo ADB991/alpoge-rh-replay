@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.SupportFlatPullback",
+  "source_sha256": "2d3f9f2c24afedab93d2cd4e7884f6523e1c546a6111fafa427939024054dd53",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

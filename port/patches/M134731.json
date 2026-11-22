@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.PublishedTheorems.Metrics₂.PoincareLelongInv",
+  "source_sha256": "9ab9e727e4f23f465c18a76dff1bdb873eab9dda2d8d4f9833ba7e25ae55ad0c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

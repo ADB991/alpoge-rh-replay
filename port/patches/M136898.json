@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.Foundations.Blowup.BlowupOpenCover",
+  "source_sha256": "ab266641788ec22fd207e51d4011acadd6d656fcd536ce5b79de0ef4b4e2573e",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

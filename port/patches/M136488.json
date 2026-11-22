@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.LocalNormalForm",
+  "source_sha256": "994d91a5b6df7b8418d6a1abd9f9a7b44134f4cb2e7ca85fec2b49ffb4d92a80",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

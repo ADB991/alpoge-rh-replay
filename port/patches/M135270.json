@@ -1,0 +1,8 @@
+{
+  "module": "Development.EtaleCohomology.DivisorCycles.SepPolyProof",
+  "source_sha256": "b7750ad7877db9d371f28aff044a38fd14bef5a3aa86da821b7a8f37d9e95bd1",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}
