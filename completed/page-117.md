@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081245 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrdSubConjEqNeg` | volunteer-build-reviewed |
+| M081247 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrdSubDetSubStdL` | volunteer-build-reviewed |
+| M081248 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalFramesBoundedOfDefinite` | build-observed |
+| M081253 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalNegFirstFamilyFrameCartanMove` | volunteer-build-reviewed |
+| M081256 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OtherInstanceCharacterEqPsiSymmetricArgument` | volunteer-build-reviewed |
 | M081258 | P0765 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PadicIntHomUnique` | wave-reused |
 | M081260 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PairingComplexFormsConstOnRowClassesStatement` | volunteer-build-reviewed |
 | M081269 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ParameterOfDiscreteSeriesReciprocityStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M082347 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SquarefreePrimeSumExceptional` | build-observed |
 | M082348 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SquarefreePrimeSumExceptionalStatement` | volunteer-build-reviewed |
 | M082349 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StabIffMemConj` | volunteer-build-reviewed |
-| M082352 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StabiliserMapHyperplaneEqConjClassMapStatement` | volunteer-build-reviewed |
-| M082355 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StableHeckeLevelCharacter` | volunteer-build-reviewed |
-| M082359 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompat` | volunteer-build-reviewed |
-| M082360 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompatStatement` | volunteer-build-reviewed |
-| M082366 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerization` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M066433 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsAppTopEqOfEffectiveEpi` | wave-reused |
+| M066434 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsApplyEqZeroAndEqOne` | wave-reused |
+| M066435 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsBasisEmbedding` | wave-reused |
+| M066436 | P0522 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsChartOfMemRedKer` | wave-reused |
+| M066437 | P0307 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsCounitEqOneMulEqZeroOfIsNilpotent` | wave-reused |
 | M066438 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsEqTransposeMulDiagonalMul` | wave-reused |
 | M066439 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsHomDivMulRefine` | volunteer-build-reviewed |
 | M066440 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIntegralModelOfForms` | build-observed |
@@ -397,8 +402,3 @@
 | M067081 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEnvelopePointFactorsThroughSection` | build-observed |
 | M067082 | P1151 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEnvelopePointFactorsThroughSectionStatement` | build-observed |
 | M067083 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEnvelopesAdicTopologicalBasis` | build-observed |
-| M067084 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEnvelopesAdicTopologicalBasisStatement` | build-observed |
-| M067085 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEvWIsUnitInjectiveDvd` | wave-reused |
-| M067086 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEvWIsUnitInjectiveDvdStatement` | build-observed |
-| M067092 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFacts` | wave-reused |
-| M067093 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFactsStatement` | wave-reused |

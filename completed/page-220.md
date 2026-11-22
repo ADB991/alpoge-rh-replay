@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147309 | P0327 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.SesquilinearDeterminantHolds` | build-observed |
+| M147310 | P0148 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.SubgroupCount` | build-observed |
+| M147311 | P0213 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.TheoremBEntryFormula` | build-observed |
+| M147312 | P0273 | `Formalism.IncomingBounds.DefsThmP` | wave-reused |
+| M147313 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.AltChooseSumEqZero` | build-observed |
+| M147314 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.BaseTermLeTopTerm` | build-observed |
+| M147315 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Cayley` | build-observed |
 | M147316 | P0273 | `Formalism.IncomingBounds.FlowDegreeBounds.IndexLastReductionHolds` | build-observed |
 | M147317 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaF` | build-observed |
 | M147318 | P0148 | `Formalism.IncomingBounds.FlowDegreeBounds.LemmaFd` | build-observed |
@@ -395,10 +402,3 @@
 | M147746 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.CanonicalGaugeFirstPartialLawEq` | build-observed |
 | M147747 | P0462 | `Formalism.LocalToGlobal.CharacterGerms.CartesianBoundOnCurves` | wave-reused |
 | M147748 | P1266 | `Formalism.LocalToGlobal.CharacterGerms.CharacterHypothesisUnramified` | build-observed |
-| M147749 | P0421 | `Formalism.LocalToGlobal.CharacterGerms.CharacteristicFromRanks` | wave-reused |
-| M147750 | P1077 | `Formalism.LocalToGlobal.CharacterGerms.ChartHypothesisOfCharacters` | build-observed |
-| M147751 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.CoeffAlongCvCongr` | wave-reused |
-| M147752 | P0966 | `Formalism.LocalToGlobal.CharacterGerms.CoeffFirstPairingLinear` | build-observed |
-| M147753 | P0462 | `Formalism.LocalToGlobal.CharacterGerms.CoeffIterateZero` | wave-reused |
-| M147754 | P0966 | `Formalism.LocalToGlobal.CharacterGerms.CoeffLMulCvFrob` | build-observed |
-| M147755 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.CoeffOneSubstCurve` | build-observed |

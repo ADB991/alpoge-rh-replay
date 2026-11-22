@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143816 | P1732 | `Development.WeilBound.ThetaLifts.SmallCones.FourierUniq` | volunteer-build-reviewed |
+| M143820 | P1467 | `Development.WeilBound.ThetaLifts.SmallCones.IdeleTop` | volunteer-build-reviewed |
+| M143839 | P0068 | `Development.WeilBound.ThetaLifts.SmallCones.RightOfCompact` | volunteer-build-reviewed |
+| M143842 | P0068 | `Development.WeilBound.ThetaLifts.SmallCones.SliceArch` | volunteer-build-reviewed |
+| M143850 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.SplitLatMap` | volunteer-build-reviewed |
+| M143855 | P1497 | `Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq` | volunteer-build-reviewed |
+| M143859 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnfMod` | volunteer-build-reviewed |
 | M143861 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.UnfParH` | volunteer-build-reviewed |
 | M143863 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnipEx` | volunteer-build-reviewed |
 | M143864 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.WittOf` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M144321 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.IntegralPSBserSubOne` | wave-reused |
 | M144322 | P0146 | `Formalism.EllipticTorsion.EllipticTorsionProofs.IsogenyExpansion` | wave-reused |
 | M144323 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.JetsCube` | wave-reused |
-| M144324 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.JetsOne` | wave-reused |
-| M144325 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.JetsTwo` | wave-reused |
-| M144326 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.Legendre` | wave-reused |
-| M144327 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.LegendreInvariant` | wave-reused |
-| M144328 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.LogWeight` | wave-reused |
-| M144329 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.ModelUnitOf` | wave-reused |
-| M144330 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.NDeriv` | wave-reused |

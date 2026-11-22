@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148193 | P1785 | `Formalism.LocalToGlobal.Columns.QthPrincInv` | build-observed |
+| M148194 | P1136 | `Formalism.LocalToGlobal.Columns.RamifiedOperatorsNonvacuous` | build-observed |
+| M148195 | P1440 | `Formalism.LocalToGlobal.Columns.RecChainCUnfPol` | build-observed |
+| M148196 | P1415 | `Formalism.LocalToGlobal.Columns.RecChainUnfOne` | build-observed |
+| M148197 | P1468 | `Formalism.LocalToGlobal.Columns.RecChainYKmap` | build-observed |
+| M148198 | P1440 | `Formalism.LocalToGlobal.Columns.RecChainYUnfPol` | build-observed |
+| M148199 | P0967 | `Formalism.LocalToGlobal.Columns.RecLevel` | build-observed |
 | M148200 | P1021 | `Formalism.LocalToGlobal.Columns.RecLevelAsm` | build-observed |
 | M148201 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelCls` | build-observed |
 | M148202 | P0994 | `Formalism.LocalToGlobal.Columns.RecLevelDiv` | build-observed |
@@ -395,10 +402,3 @@
 | M148761 | P1614 | `Formalism.LocalToGlobal.GlobalTheory.GL5.PNamed` | build-observed |
 | M148762 | P1785 | `Formalism.LocalToGlobal.GlobalTheory.GL5.PacketStatementOfGenusClasses` | build-observed |
 | M148763 | P1810 | `Formalism.LocalToGlobal.GlobalTheory.GL5.PacketStatementOfIndependence` | build-observed |
-| M148764 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL5.Statement` | build-observed |
-| M148765 | P1107 | `Formalism.LocalToGlobal.GlobalTheory.GL5.TheoremThreeAllUnitary` | build-observed |
-| M148766 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL5.TheoremTwoFamilyOfVolume` | build-observed |
-| M148767 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL5.VolumeAndDsigCompatOfCompatibleData` | build-observed |
-| M148768 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionExtendsFromClasses` | build-observed |
-| M148769 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionRightTranslateDiamond` | build-observed |
-| M148770 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleOfSplitAndRoundTrips` | build-observed |

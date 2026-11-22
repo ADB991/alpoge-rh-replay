@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029214 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectLoweredLevelStatement` | volunteer-build-reviewed |
 | M029216 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectOfGaloisDescendedDataStatement` | volunteer-build-reviewed |
 | M029219 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTranspose` | volunteer-build-reviewed |
 | M029220 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTransposeStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M029768 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaReNonneg` | volunteer-build-reviewed |
 | M029769 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaRealisationLabelPermOfRingEndo` | volunteer-build-reviewed |
 | M029771 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaRealisationLabelsOfGrpPullback` | volunteer-build-reviewed |
-| M029773 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraits` | volunteer-build-reviewed |

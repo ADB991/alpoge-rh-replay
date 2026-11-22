@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139387 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.EvalFam` | build-observed |
+| M139388 | P0883 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsFlagFrame` | build-observed |
+| M139390 | P0693 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsHoloOnOfGerm` | build-observed |
+| M139392 | P0937 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsPenFrame` | build-observed |
+| M139396 | P2501 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.FamilyPeriod` | volunteer-build-reviewed |
+| M139401 | P0883 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsBlockMapInitialVertex` | build-observed |
+| M139403 | P2472 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsDerivAt0Congr` | volunteer-build-reviewed |
 | M139414 | P0800 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MCoordIdealLeOfHomog` | build-observed |
 | M139416 | P0909 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MapSumMinor` | build-observed |
 | M139418 | P0856 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.MinorColsBEqZero` | build-observed |
@@ -395,10 +402,3 @@
 | M140369 | P1876 | `Development.WeilBound.CoreStatements.ThetaDilations.BoundedA` | build-observed |
 | M140371 | P1266 | `Development.WeilBound.CoreStatements.ThetaDilations.EulerMove` | build-observed |
 | M140372 | P1783 | `Development.WeilBound.CoreStatements.ThetaDilations.FstarDil` | build-observed |
-| M140373 | P1708 | `Development.WeilBound.CoreStatements.ThetaDilations.IntFou` | build-observed |
-| M140374 | P0145 | `Development.WeilBound.CoreStatements.ThetaDilations.IsOpenCoset` | volunteer-build-reviewed |
-| M140375 | P0066 | `Development.WeilBound.CoreStatements.ThetaDilations.Nuabs` | volunteer-build-reviewed |
-| M140376 | P1660 | `Development.WeilBound.CoreStatements.ThetaDilations.OrbitAdelic` | build-observed |
-| M140377 | P0323 | `Development.WeilBound.CoreStatements.ThetaDilations.ParAlg` | volunteer-build-reviewed |
-| M140378 | P1660 | `Development.WeilBound.CoreStatements.ThetaDilations.ProdRho` | build-observed |
-| M140379 | P0459 | `Development.WeilBound.CoreStatements.ThetaDilations.SdTransport` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113010 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTwGal` | volunteer-build-reviewed |
+| M113012 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTwSplit` | volunteer-build-reviewed |
+| M113017 | P2837 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PWitForget` | volunteer-build-reviewed |
+| M113022 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PullIdentityMove` | volunteer-build-reviewed |
+| M113023 | P1314 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PullIsBC` | volunteer-build-reviewed |
 | M113024 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.SplitDesc` | volunteer-build-reviewed |
 | M113025 | P1314 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.SplitsBasic` | volunteer-build-reviewed |
 | M113027 | P2812 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.TraceSplitHolds` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M113583 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PCorrChart` | volunteer-build-reviewed |
 | M113585 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PDetOfCharpoly` | volunteer-build-reviewed |
 | M113586 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PDetReal` | volunteer-build-reviewed |
-| M113588 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PEigSame` | volunteer-build-reviewed |
-| M113590 | P2673 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PEmbAll` | volunteer-build-reviewed |
-| M113592 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PExpImm` | volunteer-build-reviewed |
-| M113594 | P2673 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFApprox` | volunteer-build-reviewed |
-| M113595 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PFForm` | volunteer-build-reviewed |

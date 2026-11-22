@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103256 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SoCls` | volunteer-build-reviewed |
+| M103258 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SqrtDiscr` | volunteer-build-reviewed |
+| M103259 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StConj` | volunteer-build-reviewed |
+| M103260 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StCount` | volunteer-build-reviewed |
+| M103261 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StDesc` | volunteer-build-reviewed |
 | M103262 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StDual` | volunteer-build-reviewed |
 | M103263 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StEta` | volunteer-build-reviewed |
 | M103264 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StMu` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M103797 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.LatticeGaussSumTwistDualEqIndicator` | volunteer-build-reviewed |
 | M103798 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.LatticeNormalizedGaussSumEighthRoot` | volunteer-build-reviewed |
 | M103799 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.LatticePeriodicFunctionRangeFinite` | volunteer-build-reviewed |
-| M103800 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.MaximalCompactGL2FiniteAdeleCharacterization` | volunteer-build-reviewed |
-| M103801 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.NormSumFreeOrbitsLeInvPrime` | volunteer-build-reviewed |
-| M103802 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.NotDvdAbsNormOfNotMem` | volunteer-build-reviewed |
-| M103803 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.PoissonSummationGaussianConstantOnEvenBlocks` | volunteer-build-reviewed |
-| M103804 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.QExpansionLinearCombination` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169984 | P0807 | `GroundTheory.PAdicHodge.BCrisEigen` | build-observed |
+| M169985 | P0676 | `GroundTheory.PAdicHodge.BCrisEigenChar` | build-observed |
+| M169986 | P0754 | `GroundTheory.PAdicHodge.BCrisEigenFixed` | build-observed |
+| M169987 | P0645 | `GroundTheory.PAdicHodge.BCrisEigenFrob` | build-observed |
+| M169988 | P0781 | `GroundTheory.PAdicHodge.BCrisEigenMaps` | build-observed |
+| M169989 | P0431 | `GroundTheory.PAdicHodge.BCrisEigenWitt` | build-observed |
+| M169990 | P0546 | `GroundTheory.PAdicHodge.BCrisGalois` | build-observed |
+| M169991 | P0729 | `GroundTheory.PAdicHodge.BCrisNewton` | build-observed |
 | M169992 | P0471 | `GroundTheory.PAdicHodge.BCrisNewtonApprox` | build-observed |
 | M169993 | P0512 | `GroundTheory.PAdicHodge.BCrisNewtonDom` | build-observed |
 | M169994 | P0703 | `GroundTheory.PAdicHodge.BCrisNewtonFrac` | build-observed |
@@ -394,11 +402,3 @@
 | M170861 | P0089 | `Lemmata.MiscLemmasL.Imports` | wave-reused |
 | M170862 | P0089 | `Lemmata.MiscLemmasM.Imports` | volunteer-build-reviewed |
 | M170863 | P0089 | `Lemmata.MiscLemmasN.Imports` | volunteer-build-reviewed |
-| M170864 | P0089 | `Lemmata.MiscLemmasO.Imports` | build-observed |
-| M170865 | P0089 | `Lemmata.MiscLemmasP.Imports` | wave-reused |
-| M170866 | P0089 | `Lemmata.MiscLemmasQ.Imports` | wave-reused |
-| M170867 | P0089 | `Lemmata.MiscLemmasR.Imports` | wave-reused |
-| M170868 | P0089 | `Lemmata.MovedPointExistence.ExistsMoved` | wave-reused |
-| M170869 | P0089 | `Lemmata.MultivariateIntegrals.IntegralMv` | wave-reused |
-| M170870 | P0089 | `Lemmata.NatMulIsIntegral.ExistsNatMulIsIntegral` | build-observed |
-| M170871 | P0089 | `Lemmata.NearbyExistence.ExistsNear` | wave-reused |

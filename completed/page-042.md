@@ -58,6 +58,7 @@
 | M028078 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionNormalisingSchrodingerStatement` | volunteer-build-reviewed |
 | M028079 | P0180 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionOfGaussianPairings` | volunteer-build-reviewed |
 | M028080 | P0243 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionOfGaussianPairingsStatement` | volunteer-build-reviewed |
+| M028081 | P0350 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionUnitaryGroupHermitian` | volunteer-build-reviewed |
 | M028083 | P1302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOverBoth` | volunteer-build-reviewed |
 | M028087 | P1031 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPDivGroupFormalChartOfConnected` | build-observed |
 | M028088 | P1059 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsPDivGroupFormalChartOfConnectedStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M028613 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankFormMinimalTuplesAtClosedPointStatement` | volunteer-build-reviewed |
 | M028614 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankIdealOfIdempotent` | volunteer-build-reviewed |
 | M028615 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankIdealOfIdempotentStatement` | volunteer-build-reviewed |
-| M028618 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankNormalFormMatrixField` | volunteer-build-reviewed |

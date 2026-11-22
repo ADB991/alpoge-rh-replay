@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044167 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NearOpenPullbackToSelfProductSurjectiveStatement` | volunteer-build-reviewed |
+| M044168 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NearOpenSumEqEmbeddingDescendedMultiplication` | volunteer-build-reviewed |
 | M044173 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NeatLevelActionUnipotentStatement` | volunteer-build-reviewed |
 | M044180 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefDominantWeightPositivityStatement` | volunteer-build-reviewed |
 | M044187 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequality` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M044874 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneCocycleUpwardFamilyIsCoboundaryStatement` | wave-reused |
 | M044875 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneCompOfIsGrpPullback` | volunteer-build-reviewed |
 | M044876 | P0399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneCosetOfIsTensor` | volunteer-build-reviewed |
-| M044888 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneFormsTwoCocycleCoboundaryOfRestrict` | wave-reused |
-| M044889 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneFormsTwoCocycleCoboundaryOfRestrictStatement` | wave-reused |

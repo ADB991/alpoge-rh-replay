@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084305 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdDetMemHaO` | volunteer-build-reviewed |
+| M084307 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdLeOfInterlacingPairing` | volunteer-build-reviewed |
+| M084309 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOne` | build-observed |
+| M084310 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOneStatement` | volunteer-build-reviewed |
+| M084314 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctional` | wave-reused |
 | M084315 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctionalStatement` | wave-reused |
 | M084316 | P0766 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PsJetTwistedSeriesOfLeOne` | volunteer-build-reviewed |
 | M084317 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PullAlValueIntegralPoint` | wave-reused |
@@ -397,8 +402,3 @@
 | M085031 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsHomogeneousVolumeVeryAmpleProducts` | volunteer-build-reviewed |
 | M085032 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsHomogeneousVolumeVeryAmpleProductsStatement` | volunteer-build-reviewed |
 | M085035 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInducedLocus` | volunteer-build-reviewed |
-| M085037 | P0256 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIntegralOfLocalPresentationPowStatement` | volunteer-build-reviewed |
-| M085038 | P1773 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInversionEndomorphismsThetaLevelFamily` | volunteer-build-reviewed |
-| M085039 | P1798 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInversionEndomorphismsThetaLevelFamilyStatement` | build-observed |
-| M085040 | P0361 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsAffineOpenLeOfIsQProjOver` | build-observed |
-| M085042 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsClopenEqualizer` | volunteer-build-reviewed |

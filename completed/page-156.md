@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107468 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AbStruct` | volunteer-build-reviewed |
+| M107469 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmBilin` | volunteer-build-reviewed |
+| M107471 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmHom` | volunteer-build-reviewed |
+| M107473 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmRes` | volunteer-build-reviewed |
+| M107474 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmSub` | volunteer-build-reviewed |
 | M107476 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.BasisOfUnit` | volunteer-build-reviewed |
 | M107478 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardCoinvariantsModPowEqModPowCoinvariants` | volunteer-build-reviewed |
 | M107479 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CardQuotientPowSubmoduleGrowsFinrank` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M108330 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SmoothPtPartOfSmoothPtAssociatedGraded` | volunteer-build-reviewed |
 | M108331 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SmoothPtWeightedPresentationOfPointDerivations` | volunteer-build-reviewed |
 | M108333 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SpanMono` | volunteer-build-reviewed |
-| M108334 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SpanZero` | volunteer-build-reviewed |
-| M108336 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TanScale` | volunteer-build-reviewed |
-| M108338 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TorusConjugateCornerEntryEq` | volunteer-build-reviewed |
-| M108340 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoIrr` | volunteer-build-reviewed |
-| M108341 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowClogLe` | volunteer-build-reviewed |

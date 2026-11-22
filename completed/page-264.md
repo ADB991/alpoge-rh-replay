@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170864 | P0089 | `Lemmata.MiscLemmasO.Imports` | build-observed |
+| M170865 | P0089 | `Lemmata.MiscLemmasP.Imports` | wave-reused |
+| M170866 | P0089 | `Lemmata.MiscLemmasQ.Imports` | wave-reused |
+| M170867 | P0089 | `Lemmata.MiscLemmasR.Imports` | wave-reused |
+| M170868 | P0089 | `Lemmata.MovedPointExistence.ExistsMoved` | wave-reused |
+| M170869 | P0089 | `Lemmata.MultivariateIntegrals.IntegralMv` | wave-reused |
+| M170870 | P0089 | `Lemmata.NatMulIsIntegral.ExistsNatMulIsIntegral` | build-observed |
+| M170871 | P0089 | `Lemmata.NearbyExistence.ExistsNear` | wave-reused |
 | M170872 | P0232 | `Lemmata.PaddedFamilies.PadFam` | build-observed |
 | M170873 | P0089 | `Lemmata.PadicNatCastNorm.NormNatCastOfNotDvd` | wave-reused |
 | M170874 | P0089 | `Lemmata.PartialDerivativeDegree.PderivTdSuccLe` | wave-reused |
@@ -394,11 +402,3 @@
 | M171392 | P0579 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.ProjectiveLineZeroFormHolds` | wave-reused |
 | M171393 | P0289 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshBasic` | wave-reused |
 | M171394 | P0289 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExt` | wave-reused |
-| M171395 | P0167 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExtA` | wave-reused |
-| M171396 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExtB` | wave-reused |
-| M171397 | P0089 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshLap` | wave-reused |
-| M171398 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMean` | wave-reused |
-| M171399 | P0389 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMoll` | wave-reused |
-| M171400 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollA` | wave-reused |
-| M171401 | P0342 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollB` | wave-reused |
-| M171402 | P0089 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshPoisson` | wave-reused |

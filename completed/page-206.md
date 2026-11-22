@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136733 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.ClopenRestriction` | wave-reused |
+| M136734 | P0372 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.IsoAwayFromCenters` | wave-reused |
+| M136735 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.NoetherianBlowup` | wave-reused |
+| M136736 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowups` | wave-reused |
+| M136737 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowupsComparison` | wave-reused |
+| M136738 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.Saturation` | wave-reused |
 | M136739 | P0417 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransform` | wave-reused |
 | M136740 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.StrictTransformOffCenter` | wave-reused |
 | M136741 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.EtaleMaxContactComparison` | wave-reused |
@@ -396,9 +402,3 @@
 | M137463 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelA` | volunteer-build-reviewed |
 | M137464 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelB` | volunteer-build-reviewed |
 | M137465 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelC` | volunteer-build-reviewed |
-| M137466 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelD` | volunteer-build-reviewed |
-| M137468 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelSmall` | volunteer-build-reviewed |
-| M137472 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSA` | volunteer-build-reviewed |
-| M137475 | P2264 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSTop` | volunteer-build-reviewed |
-| M137476 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SplitPoint` | volunteer-build-reviewed |
-| M137477 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SubSplit` | volunteer-build-reviewed |

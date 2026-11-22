@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092817 | P1259 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesIntegrableCoefficientProjector` | build-observed |
+| M092818 | P1286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesIntegrableCoefficientProjectorStatement` | build-observed |
+| M092820 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelAdjointEqInvFiniteDimensionalStatement` | volunteer-build-reviewed |
+| M092822 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelConjugateTransferStatement` | volunteer-build-reviewed |
+| M092823 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelIsometryUnitHighestVectorIff` | volunteer-build-reviewed |
 | M092825 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelKFinite` | volunteer-build-reviewed |
 | M092827 | P1205 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelOfDualParameter` | volunteer-build-reviewed |
 | M092830 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelParamShiftedWeightOfCoverDiscStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M093390 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntEqExponentAddHalfIndexStatement` | volunteer-build-reviewed |
 | M093391 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntLevelSchwartzBruhatFiniteAdelic` | volunteer-build-reviewed |
 | M093392 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntLevelSchwartzBruhatFiniteAdelicStatement` | volunteer-build-reviewed |
-| M093393 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegerConjPrescribedResiduesPlaces` | volunteer-build-reviewed |
-| M093396 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralForm` | volunteer-build-reviewed |
-| M093397 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtension` | volunteer-build-reviewed |
-| M093398 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtensionStatement` | volunteer-build-reviewed |
-| M093400 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseAtSplitPlacesOfUnitsStatement` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090646 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsLevBasisReal` | volunteer-build-reviewed |
+| M090647 | P1259 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsLocalPeriodMatrix` | build-observed |
+| M090648 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNatMulQuadraticLt` | volunteer-build-reviewed |
+| M090649 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNhdsSubsetImage` | build-observed |
+| M090650 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalOfWeil` | build-observed |
 | M090651 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByM` | wave-reused |
 | M090652 | P0903 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedIsoPullbackMulByMStatement` | wave-reused |
 | M090654 | P1285 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedKeyInvariantRuleCharZeroStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M091323 | P1232 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TangentConstantDirectionSpecialisesDerivStatement` | build-observed |
 | M091324 | P1180 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TangentValueEqJetConstantExpansion` | build-observed |
 | M091325 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TangentValueEqJetConstantExpansionStatement` | build-observed |
-| M091329 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TangentVectorsThetaSectionArcWitnessBaseChangeStatement` | build-observed |
-| M091341 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSectionsExtendGermRingsAndSpanFibres` | build-observed |
-| M091342 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSectionsExtendGermRingsAndSpanFibresStatement` | build-observed |
-| M091343 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShift` | build-observed |
-| M091344 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShiftStatement` | build-observed |

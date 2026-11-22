@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095878 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierTransform` | volunteer-build-reviewed |
+| M095879 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierTransformStatement` | volunteer-build-reviewed |
+| M095880 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianIdentity` | volunteer-build-reviewed |
+| M095881 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianIdentityStatement` | volunteer-build-reviewed |
+| M095882 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernel` | volunteer-build-reviewed |
 | M095883 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernelStatement` | volunteer-build-reviewed |
 | M095886 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransform` | volunteer-build-reviewed |
 | M095887 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransformStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M096384 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.OuterTensorIntertwiningEqZeroOfLeft` | build-observed |
 | M096385 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PGEquivOfBaseW` | volunteer-build-reviewed |
 | M096386 | P2691 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PPrimeEqZeroIffPolMatch` | volunteer-build-reviewed |
-| M096387 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PadOneMemSecondBlockTriangular` | volunteer-build-reviewed |
-| M096388 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairChangeBasis` | volunteer-build-reviewed |
-| M096389 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctoriality` | volunteer-build-reviewed |
-| M096390 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctorialityStatement` | volunteer-build-reviewed |
-| M096391 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateLinear` | volunteer-build-reviewed |

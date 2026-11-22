@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108334 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.SpanZero` | volunteer-build-reviewed |
+| M108336 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TanScale` | volunteer-build-reviewed |
+| M108338 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TorusConjugateCornerEntryEq` | volunteer-build-reviewed |
+| M108340 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoIrr` | volunteer-build-reviewed |
+| M108341 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowClogLe` | volunteer-build-reviewed |
 | M108342 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.TwoPowLtSqMulOfPrimitiveCharPowEqOne` | volunteer-build-reviewed |
 | M108343 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.ValProd` | volunteer-build-reviewed |
 | M108347 | P0134 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.DedekindSR` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M108886 | P0262 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CmplPt` | volunteer-build-reviewed |
 | M108887 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AffSmulOne` | volunteer-build-reviewed |
 | M108888 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AlLoc` | volunteer-build-reviewed |
-| M108889 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AlgHomResUnique` | volunteer-build-reviewed |
-| M108890 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AmbZero` | volunteer-build-reviewed |
-| M108891 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.BlockDet` | volunteer-build-reviewed |
-| M108894 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Chain3` | volunteer-build-reviewed |
-| M108895 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainDesc` | volunteer-build-reviewed |

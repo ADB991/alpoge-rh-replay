@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161651 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ABArith` | build-observed |
+| M161652 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.CoeffSubstLgFOfDegreeOne` | wave-reused |
+| M161653 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ConstantCoeffFirstTwoOfThree` | wave-reused |
+| M161654 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ConstantCoeffLawFirstTwoOfThree` | wave-reused |
+| M161655 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EChain` | build-observed |
+| M161656 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EDecomp` | build-observed |
+| M161657 | P0860 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGauss` | build-observed |
 | M161658 | P0914 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGaussK` | build-observed |
 | M161659 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EJoint` | build-observed |
 | M161660 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EKernel` | build-observed |
@@ -395,10 +402,3 @@
 | M162059 | P0778 | `Formalism.WachLatticeTwists.SplitClassesAll.Statement` | wave-reused |
 | M162060 | P0805 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremAllTwists` | wave-reused |
 | M162061 | P0860 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremLiftCondition` | wave-reused |
-| M162062 | P0942 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremLiftHypothesis` | wave-reused |
-| M162063 | P0833 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremRankForm` | wave-reused |
-| M162064 | P0669 | `Formalism.WachLatticeTwists.SplitLocalLifts.Cocycles1MapOfEquivariant` | wave-reused |
-| M162065 | P0751 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.CompColk` | wave-reused |
-| M162066 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.LocLift` | wave-reused |
-| M162067 | P0606 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.NatCastPowSmul` | wave-reused |
-| M162068 | P0698 | `Formalism.WachLatticeTwists.SplitLocalLifts.StatCompColk` | wave-reused |

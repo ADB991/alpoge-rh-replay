@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167627 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundle` | wave-reused |
+| M167628 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundleNbhd` | wave-reused |
+| M167630 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHom` | wave-reused |
+| M167631 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHomInj` | wave-reused |
+| M167634 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHomNbhd` | wave-reused |
+| M167637 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadIso` | wave-reused |
+| M167638 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadIsoLoc` | volunteer-build-reviewed |
+| M167639 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadLocal` | wave-reused |
 | M167641 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSumCp` | wave-reused |
 | M167642 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PTorsionFreeQuotientLength` | wave-reused |
 | M167643 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PVectorBundleLocal` | wave-reused |
@@ -394,11 +402,3 @@
 | M168274 | P0702 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.IsMultiProjPrimeSegreLift` | build-observed |
 | M168277 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHCombContractSt` | wave-reused |
 | M168278 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHCombCyclicSt` | wave-reused |
-| M168279 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeBadFiniteSt` | wave-reused |
-| M168280 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeDecompSt` | wave-reused |
-| M168281 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeEmbedSt` | wave-reused |
-| M168282 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeIndepSt` | wave-reused |
-| M168283 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeObj` | wave-reused |
-| M168284 | P0728 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAevalRatiosLe` | build-observed |
-| M168285 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAltSucc` | wave-reused |
-| M168286 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosCut` | wave-reused |

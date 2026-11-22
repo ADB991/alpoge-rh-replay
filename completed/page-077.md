@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052668 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRank` | volunteer-build-reviewed |
+| M052669 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRankStatement` | volunteer-build-reviewed |
 | M052671 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceOffTypePrimeDescriptionStatement` | volunteer-build-reviewed |
 | M052673 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceTypePrimeDescriptionStatement` | volunteer-build-reviewed |
 | M052674 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBaseP` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M053337 | P2311 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFamilyEstimateStatement` | volunteer-build-reviewed |
 | M053338 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataAbelian` | volunteer-build-reviewed |
 | M053339 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataAbelianStatement` | volunteer-build-reviewed |
-| M053340 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataCm` | volunteer-build-reviewed |
-| M053341 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataConjugate` | volunteer-build-reviewed |

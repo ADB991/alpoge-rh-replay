@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127200 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarActionFifthReal` | volunteer-build-reviewed |
+| M127201 | P2164 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarActionFifthRealStatement` | volunteer-build-reviewed |
+| M127202 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreFormula` | volunteer-build-reviewed |
+| M127203 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreFormulaStatement` | volunteer-build-reviewed |
+| M127204 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegral` | volunteer-build-reviewed |
+| M127205 | P2264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegralStatement` | volunteer-build-reviewed |
 | M127207 | P2243 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreMeasureStatement` | volunteer-build-reviewed |
 | M127208 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarFibrationFormula` | volunteer-build-reviewed |
 | M127210 | P0660 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarMultiplicationShiftsFiltration` | build-observed |
@@ -396,9 +402,3 @@
 | M127930 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficients` | volunteer-build-reviewed |
 | M127931 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SummableTwistedSquareCoefficientsStatement` | volunteer-build-reviewed |
 | M127932 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotient` | volunteer-build-reviewed |
-| M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
-| M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |
-| M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
-| M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
-| M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
-| M127940 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportOfExponentOfCasselman` | volunteer-build-reviewed |

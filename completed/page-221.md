@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147749 | P0421 | `Formalism.LocalToGlobal.CharacterGerms.CharacteristicFromRanks` | wave-reused |
+| M147750 | P1077 | `Formalism.LocalToGlobal.CharacterGerms.ChartHypothesisOfCharacters` | build-observed |
+| M147751 | P0775 | `Formalism.LocalToGlobal.CharacterGerms.CoeffAlongCvCongr` | wave-reused |
+| M147752 | P0966 | `Formalism.LocalToGlobal.CharacterGerms.CoeffFirstPairingLinear` | build-observed |
+| M147753 | P0462 | `Formalism.LocalToGlobal.CharacterGerms.CoeffIterateZero` | wave-reused |
+| M147754 | P0966 | `Formalism.LocalToGlobal.CharacterGerms.CoeffLMulCvFrob` | build-observed |
+| M147755 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.CoeffOneSubstCurve` | build-observed |
 | M147756 | P0695 | `Formalism.LocalToGlobal.CharacterGerms.CoeffPowCharFrobenius` | build-observed |
 | M147757 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.CoeffSingleSubstOfLowDegree` | wave-reused |
 | M147758 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.CoeffSliceMultiplication` | build-observed |
@@ -395,10 +402,3 @@
 | M148190 | P1757 | `Formalism.LocalToGlobal.Columns.QthCloseScl` | build-observed |
 | M148191 | P1810 | `Formalism.LocalToGlobal.Columns.QthConjClose` | build-observed |
 | M148192 | P1733 | `Formalism.LocalToGlobal.Columns.QthExistsBound` | build-observed |
-| M148193 | P1785 | `Formalism.LocalToGlobal.Columns.QthPrincInv` | build-observed |
-| M148194 | P1136 | `Formalism.LocalToGlobal.Columns.RamifiedOperatorsNonvacuous` | build-observed |
-| M148195 | P1440 | `Formalism.LocalToGlobal.Columns.RecChainCUnfPol` | build-observed |
-| M148196 | P1415 | `Formalism.LocalToGlobal.Columns.RecChainUnfOne` | build-observed |
-| M148197 | P1468 | `Formalism.LocalToGlobal.Columns.RecChainYKmap` | build-observed |
-| M148198 | P1440 | `Formalism.LocalToGlobal.Columns.RecChainYUnfPol` | build-observed |
-| M148199 | P0967 | `Formalism.LocalToGlobal.Columns.RecLevel` | build-observed |

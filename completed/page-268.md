@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M172790 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdBox` | wave-reused |
+| M172791 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdExp` | wave-reused |
+| M172792 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdExpPf` | wave-reused |
+| M172793 | P0835 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdFam` | wave-reused |
+| M172794 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdIso` | wave-reused |
+| M172795 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdNeg` | wave-reused |
+| M172796 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.ProdScalB` | volunteer-build-reviewed |
+| M172797 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullExp` | wave-reused |
 | M172798 | P1055 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullFEInst` | wave-reused |
 | M172799 | P1026 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullFEPf` | wave-reused |
 | M172800 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.DiscreteValuationRings.PullGen` | wave-reused |
@@ -370,6 +378,7 @@
 | M173295 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.PTNonempty` | volunteer-build-reviewed |
 | M173298 | P0169 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.PrimeAvoidanceFibre` | volunteer-build-reviewed |
 | M173301 | P0291 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.RegAVpt` | volunteer-build-reviewed |
+| M173302 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.RegHor` | volunteer-build-reviewed |
 | M173304 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.RegKrull` | volunteer-build-reviewed |
 | M173305 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.RegLaw` | build-observed |
 | M173306 | P0344 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.RegVert` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M173348 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StAvDefs` | wave-reused |
 | M173349 | P0473 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StChartF` | wave-reused |
 | M173350 | P0514 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StChartFH` | wave-reused |
-| M173351 | P0473 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StSiegPull` | wave-reused |
-| M173352 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.ThmASt` | wave-reused |
-| M173353 | P0514 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.TopLimitModules.FmodConst` | build-observed |
-| M173354 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.TopLimitModules.LimJMemSmulTop` | build-observed |
-| M173355 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.AnChart` | build-observed |
-| M173356 | P1191 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.BcField` | build-observed |
-| M173357 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueBoundRamified` | build-observed |
-| M173358 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueIntegralGood` | build-observed |
-| M173359 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.DiffAtOddSt` | volunteer-build-reviewed |

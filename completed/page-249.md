@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162062 | P0942 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremLiftHypothesis` | wave-reused |
+| M162063 | P0833 | `Formalism.WachLatticeTwists.SplitClassesAll.WachTwistSplitTheoremRankForm` | wave-reused |
+| M162064 | P0669 | `Formalism.WachLatticeTwists.SplitLocalLifts.Cocycles1MapOfEquivariant` | wave-reused |
+| M162065 | P0751 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.CompColk` | wave-reused |
+| M162066 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.LocLift` | wave-reused |
+| M162067 | P0606 | `Formalism.WachLatticeTwists.SplitLocalLifts.SplitLocalLiftProofs.NatCastPowSmul` | wave-reused |
+| M162068 | P0698 | `Formalism.WachLatticeTwists.SplitLocalLifts.StatCompColk` | wave-reused |
 | M162069 | P0281 | `Formalism.WachLatticeTwists.SplitLocalLifts.Statement` | wave-reused |
 | M162070 | P0725 | `Formalism.WachLatticeTwists.SplitLocalLifts.WachTwistTheoremLift` | wave-reused |
 | M162071 | P0159 | `Formalism.WachLatticeTwists.Statement` | wave-reused |
@@ -395,10 +402,3 @@
 | M162505 | P1141 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsHeight` | wave-reused |
 | M162506 | P1168 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsSiegel` | wave-reused |
 | M162507 | P1141 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.DecayUniform` | wave-reused |
-| M162508 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.DiffBound` | wave-reused |
-| M162509 | P1270 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsIsOpenForallCuspRepTFinOneEq` | wave-reused |
-| M162510 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsLintegralConstantTermL2SqLe` | wave-reused |
-| M162511 | P1112 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsNormRconvLeSiegel` | wave-reused |
-| M162512 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.FixedOpen` | wave-reused |
-| M162513 | P0465 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.IsHilbertSchmidtOfAeEqDual` | wave-reused |
-| M162514 | P0159 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.MixedDifference` | wave-reused |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072513 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapPiEqOfMapAddHaarEq` | volunteer-build-reviewed |
+| M072515 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapVVSymmMapVV` | volunteer-build-reviewed |
+| M072516 | P2057 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMul` | volunteer-build-reviewed |
+| M072517 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMulStatement` | volunteer-build-reviewed |
+| M072518 | P0622 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecomposition` | build-observed |
 | M072519 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecompositionStatement` | build-observed |
 | M072520 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpoly` | volunteer-build-reviewed |
 | M072521 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpolyStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M073190 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PeterssonIntegralFormula` | volunteer-build-reviewed |
 | M073191 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PeterssonIntegralFormulaStatement` | volunteer-build-reviewed |
 | M073194 | P0622 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaLatticeFamiliesShiftInclusion` | build-observed |
-| M073195 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaLatticeFamiliesShiftInclusionStatement` | build-observed |
-| M073196 | P0123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaLatticeFamilyImageOfSurjective` | build-observed |
-| M073197 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaLatticeFamilyImageOfSurjectiveStatement` | build-observed |
-| M073198 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaModuleSaturationTheorem` | build-observed |
-| M073199 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiGammaModuleSaturationTheoremStatement` | volunteer-build-reviewed |

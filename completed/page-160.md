@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109983 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.MassNumeric` | volunteer-build-reviewed |
+| M109984 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.Monomial` | volunteer-build-reviewed |
+| M109985 | P0627 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuLe` | build-observed |
+| M109986 | P0627 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuQDUnit` | build-observed |
+| M109987 | P0797 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuRecord` | build-observed |
 | M109989 | P0593 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.SplitNotDvd` | build-observed |
 | M109990 | P0658 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.SumFactorizationMulLogLe` | build-observed |
 | M109991 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.TorsionReduceInjective` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M110437 | P1892 | `Development.AutomorphicArithmetic.DivisorFrames.UnipotentRationalHeightBound` | volunteer-build-reviewed |
 | M110438 | P2150 | `Development.AutomorphicArithmetic.DivisorFrames.UnipotentSchwartzLocallyConstant` | volunteer-build-reviewed |
 | M110439 | P2713 | `Development.AutomorphicArithmetic.DivisorFrames.UnitAtPowDivFnMapOfReadsOfGReads` | volunteer-build-reviewed |
-| M110440 | P2140 | `Development.AutomorphicArithmetic.DivisorFrames.UnitCharIdempotentSumEqProdOverSplitPlaces` | volunteer-build-reviewed |
-| M110441 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.UnitCharIdempotentSumEqProdUnitInd` | volunteer-build-reviewed |
-| M110442 | P2150 | `Development.AutomorphicArithmetic.DivisorFrames.UnitaryStabilizerLiftsToSmallerSpace` | volunteer-build-reviewed |
-| M110443 | P2102 | `Development.AutomorphicArithmetic.DivisorFrames.UnramifiedCharacterInvariant` | volunteer-build-reviewed |
-| M110445 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRegularFunctionAtPoint` | volunteer-build-reviewed |

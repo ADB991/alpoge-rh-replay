@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088852 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.MultiplicitySpaceAllLevelsValuesSmoothCuspidal` | volunteer-build-reviewed |
+| M088856 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCardMatricesMulEqZero` | volunteer-build-reviewed |
+| M088859 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemOfPrimeDvdAbsNorm` | volunteer-build-reviewed |
+| M088863 | P0524 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLe` | build-observed |
+| M088864 | P0557 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLeStatement` | build-observed |
 | M088867 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyCoefficientFieldEmbeddingPadicComplex` | volunteer-build-reviewed |
 | M088869 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyEquivEllAdicCohomology` | volunteer-build-reviewed |
 | M088871 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M089719 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceFibreRingEqFinsumFibrePoints` | volunteer-build-reviewed |
 | M089720 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceFibreRingEqFinsumFibrePointsStatement` | volunteer-build-reviewed |
 | M089721 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceMulEq` | volunteer-build-reviewed |
-| M089722 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceQuotientEqOfProjective` | volunteer-build-reviewed |
-| M089723 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceRMulPowEqZero` | volunteer-build-reviewed |
-| M089731 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFramePolynomialComplexValuesAtPointStatement` | volunteer-build-reviewed |
-| M089732 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFrameStandardLocalEqLocalization` | volunteer-build-reviewed |
-| M089733 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFrameStandardLocalEqLocalizationStatement` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133031 | P0208 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumStarAndSchAStar` | volunteer-build-reviewed |
+| M133032 | P1782 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumTensorProduct` | volunteer-build-reviewed |
+| M133035 | P1755 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivariance` | volunteer-build-reviewed |
+| M133036 | P1782 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivarianceStatement` | volunteer-build-reviewed |
+| M133037 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbelianPartHeightLinear` | build-observed |
+| M133038 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbsCoeffProdXLeOne` | volunteer-build-reviewed |
 | M133039 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocal` | build-observed |
 | M133040 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedAtlasSmoothPotentialLocalStatement` | build-observed |
 | M133043 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameBallCoordinate` | build-observed |
@@ -396,9 +402,3 @@
 | M133627 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackFirstStatement` | build-observed |
 | M133628 | P0992 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackSecond` | build-observed |
 | M133629 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackSecondStatement` | build-observed |
-| M133630 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackThird` | build-observed |
-| M133631 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackThirdStatement` | build-observed |
-| M133632 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapSameBaseOrbit` | build-observed |
-| M133633 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapSameBaseOrbitStatement` | build-observed |
-| M133634 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariant` | build-observed |
-| M133635 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariantStatement` | build-observed |

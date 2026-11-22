@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096387 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PadOneMemSecondBlockTriangular` | volunteer-build-reviewed |
+| M096388 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairChangeBasis` | volunteer-build-reviewed |
+| M096389 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctoriality` | volunteer-build-reviewed |
+| M096390 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairExistenceOfFunctorialityStatement` | volunteer-build-reviewed |
+| M096391 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateLinear` | volunteer-build-reviewed |
 | M096392 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairFnUpdateMoveV` | volunteer-build-reviewed |
 | M096393 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairInfApply` | volunteer-build-reviewed |
 | M096394 | P1103 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairKEquivariantOfLieAlgebraCompat` | build-observed |
@@ -397,8 +402,3 @@
 | M096912 | P0449 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentExistsResidueCardPowMemNhdsStatement` | build-observed |
 | M096913 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentHaarAndModulus` | volunteer-build-reviewed |
 | M096914 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentHaarAndModulusStatement` | build-observed |
-| M096915 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentSubgroupSuccDecomposition` | build-observed |
-| M096916 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentSubgroupSuccDecompositionStatement` | volunteer-build-reviewed |
-| M096917 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootsWeightsPairwiseIndependent` | volunteer-build-reviewed |
-| M096919 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RouteDatumMemAlgebraicVectorsGridFrames` | volunteer-build-reviewed |
-| M096921 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowBesZeroE` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102555 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoRes` | wave-reused |
+| M102556 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSpan` | wave-reused |
+| M102557 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSqz` | volunteer-build-reviewed |
+| M102558 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSurj` | wave-reused |
+| M102559 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CocycleNormalForm` | volunteer-build-reviewed |
 | M102560 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ContSection` | volunteer-build-reviewed |
 | M102561 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoordGrading` | wave-reused |
 | M102563 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CotFg` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M103253 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SmoothDualExact` | wave-reused |
 | M103254 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SmoothHomWeightSumNeg` | wave-reused |
 | M103255 | P0450 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SmoothVectorFixedByOpenSubgroup` | wave-reused |
-| M103256 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SoCls` | volunteer-build-reviewed |
-| M103258 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SqrtDiscr` | volunteer-build-reviewed |
-| M103259 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StConj` | volunteer-build-reviewed |
-| M103260 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StCount` | volunteer-build-reviewed |
-| M103261 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StDesc` | volunteer-build-reviewed |

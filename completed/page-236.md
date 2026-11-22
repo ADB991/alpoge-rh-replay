@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156048 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerShearHaar.MeasurePreservingOfCard` | build-observed |
+| M156049 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerShearHaar.TriShear` | build-observed |
+| M156050 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup` | wave-reused |
+| M156051 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerUnipotentSplit.SecondFactorMemLowerTriangular` | build-observed |
+| M156053 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.AlgebraMapMemOv` | build-observed |
+| M156054 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.Assembly` | build-observed |
+| M156055 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BcTensMapInclR` | build-observed |
 | M156056 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BridgeKHolds` | build-observed |
 | M156057 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ContinuousCrdAllSymm` | build-observed |
 | M156058 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ContinuousSplitA` | build-observed |
@@ -395,10 +402,3 @@
 | M156484 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.BoxEqConvexBodyLT` | build-observed |
 | M156485 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.DvdSpanOfIdealSet` | build-observed |
 | M156486 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.FactorizationMultisetProd` | build-observed |
-| M156487 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.HeckeLower` | build-observed |
-| M156488 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.HeckeLowerOf` | build-observed |
-| M156489 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.IdealEquiv` | build-observed |
-| M156490 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.LatticeCountGen` | build-observed |
-| M156491 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.MemSmulNormLeOne` | build-observed |
-| M156492 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.NnrealOfEnnreal` | build-observed |
-| M156493 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.NormAtPlacePosOfNormPos` | build-observed |

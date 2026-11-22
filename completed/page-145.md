@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101236 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleBaseChangeLocalIsClosedEmbedding` | build-observed |
+| M101237 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleGaloisActionBaseChangeCompat` | build-observed |
+| M101238 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleGaloisActionContinuous` | build-observed |
+| M101239 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicBoundOfCentralizerLocalization` | build-observed |
+| M101241 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicGLSplitEquiv` | build-observed |
 | M101242 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdicCompletionIntegersBaseChangeIff` | build-observed |
 | M101243 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.BaseChangeTrivialExtension` | build-observed |
 | M101244 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionBaseChange` | build-observed |
@@ -397,8 +402,3 @@
 | M101845 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.Places` | volunteer-build-reviewed |
 | M101846 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatComp` | volunteer-build-reviewed |
 | M101847 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatHol` | volunteer-build-reviewed |
-| M101848 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatOfU` | volunteer-build-reviewed |
-| M101849 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatOfVec` | volunteer-build-reviewed |
-| M101850 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SmCont` | volunteer-build-reviewed |
-| M101851 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformModel` | build-observed |
-| M101865 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDual2` | volunteer-build-reviewed |

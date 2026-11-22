@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163913 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PIntSeriesRing` | volunteer-build-reviewed |
+| M163922 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PPhScale` | build-observed |
+| M163926 | P1786 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PSuperlatticeRatio` | build-observed |
+| M163928 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PWIdealField` | volunteer-build-reviewed |
+| M163936 | P1711 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.Statements` | build-observed |
+| M163938 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.StatementsWitness` | build-observed |
+| M163939 | P1759 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.SuperlatticeRatio` | build-observed |
 | M163941 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AffineOfCone` | wave-reused |
 | M163942 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AnalyticGerm` | volunteer-build-reviewed |
 | M163943 | P0725 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Assembly` | wave-reused |
@@ -138,6 +145,7 @@
 | M164147 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHolGermsIntegrallyClosed` | volunteer-build-reviewed |
 | M164148 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHolGermsNoetherian` | volunteer-build-reviewed |
 | M164152 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHolomorphicIsolatedFibreOpen` | volunteer-build-reviewed |
+| M164154 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHolomorphicZeroSetDimH` | volunteer-build-reviewed |
 | M164155 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHomogDimZeroPow` | wave-reused |
 | M164156 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHypersurfacePresentation` | volunteer-build-reviewed |
 | M164159 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PImplicitCurve` | wave-reused |
@@ -394,11 +402,3 @@
 | M164602 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGenericNoetherNormalisation` | volunteer-build-reviewed |
 | M164603 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGenericPrimitive` | wave-reused |
 | M164604 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermCentredIntegralEquation` | volunteer-build-reviewed |
-| M164605 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermCompletionEquiv` | volunteer-build-reviewed |
-| M164606 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermFiniteProjection` | volunteer-build-reviewed |
-| M164607 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermGeneralCoordinates` | volunteer-build-reviewed |
-| M164608 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermMinimalPolynomialDivides` | volunteer-build-reviewed |
-| M164609 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermProjectionFunctionForm` | volunteer-build-reviewed |
-| M164610 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassDivision` | volunteer-build-reviewed |
-| M164611 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassPreparation` | volunteer-build-reviewed |
-| M164612 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphAreaHolomorphic` | wave-reused |

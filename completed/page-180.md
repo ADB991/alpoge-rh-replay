@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119553 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.FunctionalVanishesInvariant` | volunteer-build-reviewed |
+| M119555 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasDerivAtWhittakerPeriodOneParameter` | volunteer-build-reviewed |
+| M119556 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasLevelOfUnitIdeleCongruentOne` | volunteer-build-reviewed |
+| M119558 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumCoprimeInvPowTwoMulEqLSeries` | volunteer-build-reviewed |
+| M119559 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumTwistedZetaIntegralDirichletSeries` | volunteer-build-reviewed |
 | M119560 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumWhittakerDiagTorusRatEqUnipotentConstantTe` | volunteer-build-reviewed |
 | M119563 | P2552 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceArchIdeleMulFiniteNatIdele` | volunteer-build-reviewed |
 | M119564 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IdeleCongruenceConditionMulCongruenceUnitIff` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M120132 | P2151 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsOrthogonalLocalBasis` | volunteer-build-reviewed |
 | M120133 | P2163 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsOrthogonalLocalBasisStatement` | volunteer-build-reviewed |
 | M120134 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsPowPrincipal` | build-observed |
-| M120135 | P2046 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsRealDifferentGenerator` | volunteer-build-reviewed |
-| M120136 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsRealDifferentGeneratorStatement` | volunteer-build-reviewed |
-| M120137 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSectionLevel` | volunteer-build-reviewed |
-| M120139 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSurjectiveZmodOfNeZero` | volunteer-build-reviewed |
-| M120140 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSymplecticBasisLagrangianBetween` | volunteer-build-reviewed |

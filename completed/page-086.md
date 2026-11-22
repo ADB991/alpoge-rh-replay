@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059023 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentRatTupOfDetNeZero` | volunteer-build-reviewed |
+| M059024 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentSkew` | build-observed |
 | M059027 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBesselCoefficientCompactLe` | build-observed |
 | M059028 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBesselCoefficientCompactLeStatement` | build-observed |
 | M059029 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstant` | build-observed |
@@ -400,5 +402,3 @@
 | M059685 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimitiveTuplesHermitianGramCosetContent` | wave-reused |
 | M059686 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimitiveTuplesHermitianGramCosetContentStatement` | wave-reused |
 | M059687 | P0186 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimitiveTuplesWithGramMatrixHenselCount` | wave-reused |
-| M059688 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimitiveTuplesWithGramMatrixHenselCountStatement` | wave-reused |
-| M059692 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdFirstBlocksByLayers` | volunteer-build-reviewed |

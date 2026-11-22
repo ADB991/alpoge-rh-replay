@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064954 | P1150 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FormsStableOfTgtEq` | build-observed |
+| M064961 | P1175 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FundamentalDomainNeZero` | volunteer-build-reviewed |
+| M064965 | P2493 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaloisRepTowerRestriction` | volunteer-build-reviewed |
+| M064966 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaussianOddJacobiThetaEqDerivMulSgStar` | volunteer-build-reviewed |
+| M064969 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntry` | volunteer-build-reviewed |
 | M064970 | P2227 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntryStatement` | volunteer-build-reviewed |
 | M064973 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntries` | volunteer-build-reviewed |
 | M064974 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodFtEntriesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M065773 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeberFunctionsRootsOfCubicOfHalfPeriodDiff` | volunteer-build-reviewed |
 | M065778 | P1093 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightRequirementOfValid` | build-observed |
 | M065779 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightRequirementOfValidStatement` | build-observed |
-| M065781 | P0981 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedBoxSumAtPrimeEqOfBoundedSchwartz` | build-observed |
-| M065782 | P1009 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedBoxSumAtPrimeEqOfBoundedSchwartzStatement` | build-observed |
-| M065783 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedFejerPositivity` | volunteer-build-reviewed |
-| M065788 | P0190 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpace` | volunteer-build-reviewed |
-| M065789 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpaceStatement` | volunteer-build-reviewed |

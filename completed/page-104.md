@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070983 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeQuotientFrameChangeOfTriangularFrameChange` | volunteer-build-reviewed |
+| M070987 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeReadOfDeltaFrob` | volunteer-build-reviewed |
+| M070988 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeReadOfReadsExist` | volunteer-build-reviewed |
+| M070991 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeSameMap` | volunteer-build-reviewed |
+| M071001 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeightsoundQdPlacesUniformConst` | volunteer-build-reviewed |
 | M071003 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisOFixOfIsThetaAt` | volunteer-build-reviewed |
 | M071005 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisenbergRealPointFockVacuumPairingScalarStatement` | volunteer-build-reviewed |
 | M071009 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HenselRootsOfLocalFamilyStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M071721 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemilinearBaseChangeLocalizedOfTorsionBounded` | wave-reused |
 | M071722 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemilinearBaseChangeLocalizedOfTorsionBoundedStatement` | wave-reused |
 | M071725 | P0523 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemisimpleRepOfIsSemisimpleRingRange` | build-observed |
-| M071727 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemistableLatticeInMatrixAlgebraLayer` | volunteer-build-reviewed |
-| M071728 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemistableLatticeInMatrixAlgebraLayerStatement` | volunteer-build-reviewed |
-| M071731 | P1405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSmoothCharCompNorm` | volunteer-build-reviewed |
-| M071733 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalFactorOfSphericalSubquotientStatement` | volunteer-build-reviewed |
-| M071734 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalIffUnrOfLawsT` | volunteer-build-reviewed |

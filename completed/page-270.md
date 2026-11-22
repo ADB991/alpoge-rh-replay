@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173873 | P0170 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.TangentEqLcZero` | wave-reused |
+| M173874 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.TypicalCurveStructureConstants` | wave-reused |
+| M173875 | P0434 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.WtSubOneLe` | wave-reused |
+| M173876 | P0730 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Analytic` | wave-reused |
+| M173877 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Closure` | wave-reused |
+| M173878 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ClosureK` | wave-reused |
+| M173879 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ConjTransposeEqOfInG` | wave-reused |
+| M173880 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ExistsExpEqOfMemKset` | wave-reused |
+| M173881 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Growth` | wave-reused |
 | M173882 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.IteratedDerivOrbit` | wave-reused |
 | M173883 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.LayerSpan` | wave-reused |
 | M173884 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.NcBound` | wave-reused |
@@ -393,12 +402,3 @@
 | M174280 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.SumInnerBasisSqEqAdjoint` | build-observed |
 | M174281 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.SumNormAdjointSqEqHsOp` | build-observed |
 | M174282 | P1937 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.ThmFD` | build-observed |
-| M174283 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.TraceMulSelfEqSumEigenvaluesSq` | wave-reused |
-| M174284 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.VolUFactProdMulLe` | build-observed |
-| M174286 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Blocks` | wave-reused |
-| M174287 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Decomp` | wave-reused |
-| M174288 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.DerivExistsAllPosStatement` | wave-reused |
-| M174289 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.DerivK` | wave-reused |
-| M174290 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.EntryEqZeroOfComm` | wave-reused |
-| M174291 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.RelOpCurve` | wave-reused |
-| M174292 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Stable` | wave-reused |

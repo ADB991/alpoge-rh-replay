@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131567 | P2661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemPtsOverOfMemMcPts` | volunteer-build-reviewed |
+| M131568 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemRegAtOfCodimOne` | build-observed |
+| M131569 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemSpanOfIotaMultiProportional` | volunteer-build-reviewed |
+| M131570 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemSpanOfIotaMultiProportionalStatement` | volunteer-build-reviewed |
+| M131571 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertible` | volunteer-build-reviewed |
+| M131572 | P0415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertibleStatement` | volunteer-build-reviewed |
 | M131576 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentGenericFibreStatement` | volunteer-build-reviewed |
 | M131580 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelDescentValuationFibreStatement` | volunteer-build-reviewed |
 | M131581 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelFibresPowerFree` | wave-reused |
@@ -396,9 +402,3 @@
 | M132250 | P1316 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorsionValueLineBundleSectionStatement` | build-observed |
 | M132251 | P1316 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorsionValueUniqueBaseChange` | build-observed |
 | M132252 | P1343 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorsionValueUniqueBaseChangeStatement` | build-observed |
-| M132253 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusEmbeddingLieInjective` | build-observed |
-| M132254 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusEmbeddingLieInjectiveStatement` | build-observed |
-| M132255 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionAbelianQuotient` | volunteer-build-reviewed |
-| M132256 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionAbelianQuotientStatement` | volunteer-build-reviewed |
-| M132257 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionLieLattice` | volunteer-build-reviewed |
-| M132267 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsion` | volunteer-build-reviewed |

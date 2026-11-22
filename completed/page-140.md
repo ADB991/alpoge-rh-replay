@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098087 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEmbeddingContinuousMulRationalStatement` | volunteer-build-reviewed |
+| M098088 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEquivEqSmul` | volunteer-build-reviewed |
+| M098089 | P0042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLog` | volunteer-build-reviewed |
+| M098090 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLogStatement` | volunteer-build-reviewed |
+| M098097 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGeneratedByQuasiReflectionsAndWitt` | volunteer-build-reviewed |
 | M098099 | P1410 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupAdelicClassesViaFiniteAdelicPart` | volunteer-build-reviewed |
 | M098101 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGroupCommutantScalars` | volunteer-build-reviewed |
 | M098105 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinates` | build-observed |
@@ -397,8 +402,3 @@
 | M098686 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGenV` | build-observed |
 | M098687 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGeneratorNeZero` | build-observed |
 | M098690 | P1232 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGenericFibreIsoOfCompatibleThickenings` | build-observed |
-| M098693 | P0042 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGradedRingKernelLift` | wave-reused |
-| M098694 | P0768 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGroupQuotientPullback` | build-observed |
-| M098695 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGrpPullbackThick` | wave-reused |
-| M098697 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPt` | volunteer-build-reviewed |
-| M098698 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPtOfCharacter` | wave-reused |

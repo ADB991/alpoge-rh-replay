@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155601 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatBasisAllOf` | build-observed |
+| M155602 | P1295 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatBasisAllOfBack` | build-observed |
+| M155603 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatBasisAllOfParts` | build-observed |
+| M155604 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatFreeHolds` | build-observed |
+| M155605 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LatOpenCompact` | build-observed |
+| M155606 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LeviEmbeddingBlock32` | build-observed |
+| M155607 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocCongIffEnt` | build-observed |
 | M155608 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocDegOneBelow` | build-observed |
 | M155609 | P1734 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.LocOpenHolds` | build-observed |
 | M155610 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.MassDataIndicesOfSteps` | build-observed |
@@ -395,10 +402,3 @@
 | M156045 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalVolumeIndices.LocLocGLInvVal` | build-observed |
 | M156046 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalVolumeIndices.MassDataKppVolOf` | build-observed |
 | M156047 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalVolumeIndices.Single` | build-observed |
-| M156048 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerShearHaar.MeasurePreservingOfCard` | build-observed |
-| M156049 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerShearHaar.TriShear` | build-observed |
-| M156050 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup` | wave-reused |
-| M156051 | P0637 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerUnipotentSplit.SecondFactorMemLowerTriangular` | build-observed |
-| M156053 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.AlgebraMapMemOv` | build-observed |
-| M156054 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.Assembly` | build-observed |
-| M156055 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.BcTensMapInclR` | build-observed |

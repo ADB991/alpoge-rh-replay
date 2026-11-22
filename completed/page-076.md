@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051862 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairRankOneTraceStatement` | volunteer-build-reviewed |
+| M051864 | P1863 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingAdaptedFormulaStatement` | volunteer-build-reviewed |
 | M051865 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReduction` | volunteer-build-reviewed |
 | M051866 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReductionStatement` | volunteer-build-reviewed |
 | M051867 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOne` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M052665 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGeneratorTorsionFrameValueEqScalarMulRootStatement` | volunteer-build-reviewed |
 | M052666 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGeneratorValuesScalarMulLocalUnit` | volunteer-build-reviewed |
 | M052667 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGeneratorValuesScalarMulLocalUnitStatement` | volunteer-build-reviewed |
-| M052668 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRank` | volunteer-build-reviewed |
-| M052669 | P2039 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridAlphaBetaRestrictQuadraticPowRankStatement` | volunteer-build-reviewed |

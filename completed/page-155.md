@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M106990 | P2756 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSatFrobT` | volunteer-build-reviewed |
+| M106991 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSatLoc` | volunteer-build-reviewed |
+| M106993 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSelfDualC` | volunteer-build-reviewed |
+| M106994 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSelfDualR` | volunteer-build-reviewed |
+| M106995 | P2704 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSelfTwGal` | volunteer-build-reviewed |
 | M106996 | P2772 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSolDescent` | volunteer-build-reviewed |
 | M106997 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSpanEig` | volunteer-build-reviewed |
 | M106998 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TSphSame` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M107465 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.YNear` | build-observed |
 | M107466 | P1801 | `Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.ZKill` | build-observed |
 | M107467 | P0626 | `Development.AutomorphicArithmetic.AutomorphicVarieties.OddResidueBounds.ZeroMemUnrHom` | wave-reused |
-| M107468 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AbStruct` | volunteer-build-reviewed |
-| M107469 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmBilin` | volunteer-build-reviewed |
-| M107471 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmHom` | volunteer-build-reviewed |
-| M107473 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmRes` | volunteer-build-reviewed |
-| M107474 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.AdmSub` | volunteer-build-reviewed |

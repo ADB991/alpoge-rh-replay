@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065781 | P0981 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedBoxSumAtPrimeEqOfBoundedSchwartz` | build-observed |
+| M065782 | P1009 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedBoxSumAtPrimeEqOfBoundedSchwartzStatement` | build-observed |
+| M065783 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeightedFejerPositivity` | volunteer-build-reviewed |
+| M065788 | P0190 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpace` | volunteer-build-reviewed |
+| M065789 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilCriterionInvariantMeasureHomogeneousSpaceStatement` | volunteer-build-reviewed |
 | M065790 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntries` | volunteer-build-reviewed |
 | M065791 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeilUnitaryEntriesStatement` | volunteer-build-reviewed |
 | M065793 | P1122 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WeylHeisenbergOperatorCalculusRationalStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M066430 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.EqZeroOfForallLTensorEqZero` | wave-reused |
 | M066431 | P0954 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.EssFiniteTypeOfFiniteDimensional` | build-observed |
 | M066432 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsAbsoluteValueOfIsDiscreteValuationRing` | wave-reused |
-| M066433 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsAppTopEqOfEffectiveEpi` | wave-reused |
-| M066434 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsApplyEqZeroAndEqOne` | wave-reused |
-| M066435 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsBasisEmbedding` | wave-reused |
-| M066436 | P0522 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsChartOfMemRedKer` | wave-reused |
-| M066437 | P0307 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsCounitEqOneMulEqZeroOfIsNilpotent` | wave-reused |

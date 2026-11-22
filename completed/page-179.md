@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119061 | P2207 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepXWeilVecStatement` | volunteer-build-reviewed |
+| M119062 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYIntegrableAndEq` | volunteer-build-reviewed |
+| M119063 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYIntegrableAndEqStatement` | volunteer-build-reviewed |
+| M119064 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYThetaFunIsItW` | volunteer-build-reviewed |
+| M119065 | P2551 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYThetaFunIsItWStatement` | volunteer-build-reviewed |
 | M119066 | P2195 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYWeilVec` | volunteer-build-reviewed |
 | M119067 | P2207 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepYWeilVecStatement` | volunteer-build-reviewed |
 | M119068 | P1751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StepsNoCut` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M119548 | P0136 | `Development.AutomorphicArithmetic.WhittakerHecke.FiniteTranslatesMatrixCoefficient` | volunteer-build-reviewed |
 | M119551 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.FixedAndHeckeEigenOfFinsetLinearCombination` | volunteer-build-reviewed |
 | M119552 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.FunctionalQdetEqAevalShiftedPolynomial` | volunteer-build-reviewed |
-| M119553 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.FunctionalVanishesInvariant` | volunteer-build-reviewed |
-| M119555 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasDerivAtWhittakerPeriodOneParameter` | volunteer-build-reviewed |
-| M119556 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasLevelOfUnitIdeleCongruentOne` | volunteer-build-reviewed |
-| M119558 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumCoprimeInvPowTwoMulEqLSeries` | volunteer-build-reviewed |
-| M119559 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.HasSumTwistedZetaIntegralDirichletSeries` | volunteer-build-reviewed |

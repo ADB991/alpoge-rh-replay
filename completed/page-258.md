@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166910 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ProjectiveSpaceIncrementHyp` | wave-reused |
+| M166920 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionL2NormSq` | volunteer-build-reviewed |
+| M166921 | P0753 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.EventuallyDifferentiableAt` | build-observed |
+| M166922 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.ExistsFormOfMemChartRingZ` | build-observed |
+| M166923 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.Pointwise` | build-observed |
+| M166925 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountLeOfInjOn` | wave-reused |
+| M166927 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountMonoLattice` | build-observed |
+| M166929 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StandardLatticeVecIndep` | volunteer-build-reviewed |
 | M166931 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsAmpleOfGenTwist` | pilot-reused |
 | M166934 | P0544 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArith` | pilot-reused |
 | M166935 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsArithKleiman` | build-observed |
@@ -394,11 +402,3 @@
 | M167624 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PRatDenominators` | volunteer-build-reviewed |
 | M167625 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PRatLocalAffine` | wave-reused |
 | M167626 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSectionNef` | wave-reused |
-| M167627 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundle` | wave-reused |
-| M167628 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadBundleNbhd` | wave-reused |
-| M167630 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHom` | wave-reused |
-| M167631 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHomInj` | wave-reused |
-| M167634 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadHomNbhd` | wave-reused |
-| M167637 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadIso` | wave-reused |
-| M167638 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadIsoLoc` | volunteer-build-reviewed |
-| M167639 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.PSpreadLocal` | wave-reused |

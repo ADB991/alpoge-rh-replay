@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159604 | P1370 | `Formalism.SharpRestriction.GrowthBounds.GLWeightTheory` | wave-reused |
+| M159605 | P0970 | `Formalism.SharpRestriction.GrowthBounds.GenIntSPsubst` | build-observed |
+| M159606 | P1734 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor` | build-observed |
+| M159607 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionBlockEmb` | build-observed |
+| M159608 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionEmbedding` | build-observed |
+| M159609 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CcDualWtAnti` | build-observed |
+| M159610 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudA` | build-observed |
 | M159611 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudADef` | build-observed |
 | M159612 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudB` | build-observed |
 | M159613 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudC` | build-observed |
@@ -395,10 +402,3 @@
 | M160015 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DescendingProdEqFactorialChoose` | wave-reused |
 | M160016 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DividedPowerMonomialExpansion` | wave-reused |
 | M160017 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DividedPowerPadicValuationBound` | wave-reused |
-| M160018 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DividedPowersPreserveZero` | wave-reused |
-| M160019 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DvrFractionFieldCharZeroPrime` | wave-reused |
-| M160020 | P0941 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EBeta` | wave-reused |
-| M160021 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EnvelopingMonoidPreservesStable` | wave-reused |
-| M160022 | P1215 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantInjectiveOfCyclic` | wave-reused |
-| M160023 | P1190 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantKillsCyclicOfZero` | wave-reused |
-| M160024 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsClearDenominators` | wave-reused |

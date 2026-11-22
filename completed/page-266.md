@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171864 | P0513 | `ReciprocityTheory.DualLattices.TowerZeroSurjective` | wave-reused |
+| M171865 | P0168 | `ReciprocityTheory.DualLattices.TransposeMulSelf` | wave-reused |
+| M171866 | P0703 | `ReciprocityTheory.DualLattices.U10` | wave-reused |
+| M171867 | P0547 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLengthOfLengthEigenLengthProduct` | wave-reused |
+| M171868 | P0233 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLengthStatement` | wave-reused |
+| M171869 | P0342 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundOf` | wave-reused |
+| M171870 | P0290 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundStatement` | wave-reused |
+| M171872 | P0233 | `ReciprocityTheory.DualLattices.UpSmith` | wave-reused |
 | M171873 | P0168 | `ReciprocityTheory.DualLattices.VDetEqOneOfIntegral` | wave-reused |
 | M171874 | P0090 | `ReciprocityTheory.DualLattices.VEqZeroOfPowEqOne` | volunteer-build-reviewed |
 | M171875 | P0090 | `ReciprocityTheory.DualLattices.VIntCastLtOneOfDvd` | wave-reused |
@@ -394,11 +402,3 @@
 | M172336 | P0472 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.DetOfBlockDiag` | build-observed |
 | M172338 | P0472 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.DiagonalCurvatureCoefficient` | build-observed |
 | M172341 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.IsStrictDom` | wave-reused |
-| M172348 | P0433 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.PnormInvStatement` | wave-reused |
-| M172349 | P0835 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.PointwiseNormInvarianceHolds` | wave-reused |
-| M172350 | P0433 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.ArakelovInstances.QuotientIsHausdorff` | wave-reused |
-| M172352 | P0343 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.BasePsiLeviLowerBound` | wave-reused |
-| M172353 | P0091 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.DiffIndepStatement` | volunteer-build-reviewed |
-| M172354 | P0290 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.FirstMinimumPos` | wave-reused |
-| M172355 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.IndependentSectionsUpperCount` | wave-reused |
-| M172356 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.IntegralModuleBases.DetToMatrixSq` | wave-reused |

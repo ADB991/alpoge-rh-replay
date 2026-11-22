@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100579 | P0487 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TwoMulChainStartIndexAddOneOfOdd` | wave-reused |
+| M100580 | P0449 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TypicalBasisCoordinates` | build-observed |
+| M100581 | P0449 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TypicalCurvesOfTypeOfTypicalTangents` | build-observed |
+| M100584 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.UniversalChartPointsOverFieldPoint` | volunteer-build-reviewed |
+| M100587 | P2129 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.UnramifiedCompanionChartCharacters` | volunteer-build-reviewed |
 | M100588 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.VVAlgebraMapNonnegDvr` | volunteer-build-reviewed |
 | M100589 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelf` | build-observed |
 | M100590 | P1045 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValEqSelfStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M101214 | P0740 | `Development.AbelianVarietyTheory.Statements.WeilDeligneCrystalline.ColmezLT` | volunteer-build-reviewed |
 | M101221 | P1913 | `Development.AutomorphicArithmetic.AdelicGluing.CommuteHeckeOperatorFiniteConvolutionOfFreeIndic` | volunteer-build-reviewed |
 | M101230 | P1892 | `Development.AutomorphicArithmetic.AdelicGluing.HeckeOperatorAdjointInvEqHeckeOperator` | volunteer-build-reviewed |
-| M101236 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleBaseChangeLocalIsClosedEmbedding` | build-observed |
-| M101237 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleGaloisActionBaseChangeCompat` | build-observed |
-| M101238 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdeleGaloisActionContinuous` | build-observed |
-| M101239 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicBoundOfCentralizerLocalization` | build-observed |
-| M101241 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.AdelicGLSplitEquiv` | build-observed |

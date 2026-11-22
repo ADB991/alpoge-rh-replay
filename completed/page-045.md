@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029773 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraits` | volunteer-build-reviewed |
 | M029774 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraitsStatement` | volunteer-build-reviewed |
 | M029776 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupIdealOverClopenComponentStatement` | volunteer-build-reviewed |
 | M029777 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupLevelCoverEveryPoint` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M030381 | P1447 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryOfFrameNormConj` | build-observed |
 | M030382 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryOsc` | build-observed |
 | M030383 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPELTypeFactorDegData` | volunteer-build-reviewed |
-| M030384 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPELTypeFactorDegDataStatement` | volunteer-build-reviewed |

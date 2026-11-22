@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110440 | P2140 | `Development.AutomorphicArithmetic.DivisorFrames.UnitCharIdempotentSumEqProdOverSplitPlaces` | volunteer-build-reviewed |
+| M110441 | P2129 | `Development.AutomorphicArithmetic.DivisorFrames.UnitCharIdempotentSumEqProdUnitInd` | volunteer-build-reviewed |
+| M110442 | P2150 | `Development.AutomorphicArithmetic.DivisorFrames.UnitaryStabilizerLiftsToSmallerSpace` | volunteer-build-reviewed |
+| M110443 | P2102 | `Development.AutomorphicArithmetic.DivisorFrames.UnramifiedCharacterInvariant` | volunteer-build-reviewed |
+| M110445 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRegularFunctionAtPoint` | volunteer-build-reviewed |
 | M110446 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationRingOfFiniteDominating` | volunteer-build-reviewed |
 | M110447 | P0135 | `Development.AutomorphicArithmetic.DivisorFrames.ValuationSubringUniqueOfPrime` | volunteer-build-reviewed |
 | M110448 | P2686 | `Development.AutomorphicArithmetic.DivisorFrames.VanishingSectionsToroidalFlagIndependent` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M110968 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.Imports` | volunteer-build-reviewed |
 | M110969 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.LiftPow` | volunteer-build-reviewed |
 | M110970 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.LiftSum` | volunteer-build-reviewed |
-| M110971 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.LogAsym` | volunteer-build-reviewed |
-| M110972 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPow` | volunteer-build-reviewed |
-| M110973 | P2766 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPowHolds` | volunteer-build-reviewed |
-| M110974 | P0135 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.OrderAsym` | volunteer-build-reviewed |
-| M110975 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.PartBOfDecomposition` | volunteer-build-reviewed |

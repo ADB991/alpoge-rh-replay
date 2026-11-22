@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168279 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeBadFiniteSt` | wave-reused |
+| M168280 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeDecompSt` | wave-reused |
+| M168281 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeEmbedSt` | wave-reused |
+| M168282 | P0469 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeIndepSt` | wave-reused |
+| M168283 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KHFreeObj` | wave-reused |
+| M168284 | P0728 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAevalRatiosLe` | build-observed |
+| M168285 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.KerAltSucc` | wave-reused |
+| M168286 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosCut` | wave-reused |
 | M168287 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LeadingCoeffPosSt` | wave-reused |
 | M168288 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LengthQuotientEqLengthH0` | build-observed |
 | M168289 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.LineBundleRestrictSt` | wave-reused |
@@ -394,11 +402,3 @@
 | M168801 | P0431 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PInvEntryDeriv` | wave-reused |
 | M168806 | P0431 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PLogDetGramDeriv` | wave-reused |
 | M168809 | P0431 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PMatrixDetDeriv` | wave-reused |
-| M168820 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshCore` | volunteer-build-reviewed |
-| M168821 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshMatrix` | volunteer-build-reviewed |
-| M168822 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshMean` | volunteer-build-reviewed |
-| M168823 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Statements` | wave-reused |
-| M168824 | P0387 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsBounds` | wave-reused |
-| M168825 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsCusp` | volunteer-build-reviewed |
-| M168826 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsPsh` | volunteer-build-reviewed |
-| M168827 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.TransposeEqOfPosSemidef` | volunteer-build-reviewed |

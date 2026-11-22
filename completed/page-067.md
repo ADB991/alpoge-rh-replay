@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045540 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrame` | wave-reused |
+| M045541 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrameStatement` | wave-reused |
 | M045542 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlas` | wave-reused |
 | M045543 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlasStatement` | wave-reused |
 | M045546 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M046229 | P2614 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialThetaKernelModerateGrowthStatement` | volunteer-build-reviewed |
 | M046230 | P2614 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialThetaKernelSmooth` | volunteer-build-reviewed |
 | M046231 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialThetaKernelSmoothStatement` | volunteer-build-reviewed |
-| M046232 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialThetaPairingExists` | volunteer-build-reviewed |
-| M046236 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolynomialZeroLocusCoordinates` | volunteer-build-reviewed |

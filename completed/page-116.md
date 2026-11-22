@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080321 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeFrameFiberRankStatement` | volunteer-build-reviewed |
+| M080328 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeJwIndexEqConcreteLiftIndex` | volunteer-build-reviewed |
+| M080329 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeJwIndexEqConcreteLiftIndexStatement` | volunteer-build-reviewed |
+| M080334 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormModuloUnipotentSemidirectStatement` | volunteer-build-reviewed |
+| M080335 | P1178 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormViaMatrix` | build-observed |
 | M080336 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormViaMatrixStatement` | volunteer-build-reviewed |
 | M080342 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeStepFrameFiberStatement` | volunteer-build-reviewed |
 | M080345 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptotics` | build-observed |
@@ -397,8 +402,3 @@
 | M081228 | P2215 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OneMapOfOfPtIdent` | volunteer-build-reviewed |
 | M081231 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OneSubMemIdS` | volunteer-build-reviewed |
 | M081233 | P1843 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OneTupleRowsCuspFormsIsometricThetaLiftsStatement` | volunteer-build-reviewed |
-| M081245 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrdSubConjEqNeg` | volunteer-build-reviewed |
-| M081247 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrdSubDetSubStdL` | volunteer-build-reviewed |
-| M081248 | P0874 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalFramesBoundedOfDefinite` | build-observed |
-| M081253 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OrthonormalNegFirstFamilyFrameCartanMove` | volunteer-build-reviewed |
-| M081256 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.OtherInstanceCharacterEqPsiSymmetricArgument` | volunteer-build-reviewed |

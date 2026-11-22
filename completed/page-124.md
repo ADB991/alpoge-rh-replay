@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087794 | P2616 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusAllOfGood` | volunteer-build-reviewed |
+| M087795 | P2628 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusAllOfGoodStatement` | volunteer-build-reviewed |
+| M087800 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDual` | volunteer-build-reviewed |
+| M087801 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDualStatement` | volunteer-build-reviewed |
+| M087802 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinates` | volunteer-build-reviewed |
 | M087803 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinatesStatement` | volunteer-build-reviewed |
 | M087809 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FullConclusionOfInputs` | volunteer-build-reviewed |
 | M087811 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslate` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M088846 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.MulSelfEqOneIffOfLinearOrderedCommGroupWithZero` | volunteer-build-reviewed |
 | M088850 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.MultiProdCompCongr` | volunteer-build-reviewed |
 | M088851 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.MultiProdHeadComp` | volunteer-build-reviewed |
-| M088852 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.MultiplicitySpaceAllLevelsValuesSmoothCuspidal` | volunteer-build-reviewed |
-| M088856 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCardMatricesMulEqZero` | volunteer-build-reviewed |
-| M088859 | P1101 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NatCastMemOfPrimeDvdAbsNorm` | volunteer-build-reviewed |
-| M088863 | P0524 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLe` | build-observed |
-| M088864 | P0557 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NcardSublatticesOfIndexPrimePowerLeStatement` | build-observed |

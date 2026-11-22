@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093925 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactorisationFromTopLine` | volunteer-build-reviewed |
+| M093927 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FderivConjFrameToRealLieLoweringOperatorEqZeroStatement` | volunteer-build-reviewed |
+| M093931 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FibreIsogenyPairDefinedOverFiniteSubextensionStatement` | volunteer-build-reviewed |
+| M093932 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FieldAdelicUnitTranslateBoundedOfSmallMultiples` | volunteer-build-reviewed |
+| M093934 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FinCoefMultT` | volunteer-build-reviewed |
 | M093936 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBound` | volunteer-build-reviewed |
 | M093937 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdeleTensorCoordsMulDenominatorBoundStatement` | volunteer-build-reviewed |
 | M093943 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponents` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M094446 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodParOfSigOK` | volunteer-build-reviewed |
 | M094447 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodParameterDiagonalNodes` | volunteer-build-reviewed |
 | M094448 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodParameterDiagonalNodesStatement` | volunteer-build-reviewed |
-| M094449 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceOneCosetOfBesselLevel` | volunteer-build-reviewed |
-| M094450 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceOneCosetOfBesselLevelStatement` | volunteer-build-reviewed |
-| M094451 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegral` | volunteer-build-reviewed |
-| M094452 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegralStatement` | volunteer-build-reviewed |
-| M094453 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegral` | volunteer-build-reviewed |

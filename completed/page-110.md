@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075307 | P1843 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightSectionEqZeroOfVanishingFiniteExtensionsStatement` | volunteer-build-reviewed |
+| M075308 | P2191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightVectorRealizationExists` | volunteer-build-reviewed |
+| M075309 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightVectorRealizationExistsStatement` | volunteer-build-reviewed |
+| M075311 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroPotentiallySemistableOfSenTheoremStatement` | volunteer-build-reviewed |
+| M075312 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpace` | volunteer-build-reviewed |
 | M075313 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpaceStatement` | volunteer-build-reviewed |
 | M075314 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGL` | build-observed |
 | M075315 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGLStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M076215 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumComplexRowFormColumnsLevelEq` | volunteer-build-reviewed |
 | M076216 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumComplexRowFormColumnsLevelEqStatement` | volunteer-build-reviewed |
 | M076219 | P2628 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumDivisorAll` | volunteer-build-reviewed |
-| M076222 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumLatticeForms` | volunteer-build-reviewed |
-| M076223 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumPosHerm` | volunteer-build-reviewed |
-| M076225 | P1673 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumsEqPairingsTopChainLiftsStatement` | volunteer-build-reviewed |
-| M076226 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassifiedTorusTorsionPointEqUniformisationTorus` | volunteer-build-reviewed |
-| M076229 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraic` | volunteer-build-reviewed |

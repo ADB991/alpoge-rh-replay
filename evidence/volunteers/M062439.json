@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    "M062439"
+  ],
+  "started_utc": "2026-11-22T10:26:08.460058+00:00",
+  "ended_utc": "2026-11-22T10:26:30.277037+00:00",
+  "elapsed_seconds": 21.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5522888
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeNormGamma1PrimePowInvariantStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "da1a547785686d44d42bd08202cc118bed2871c26303f5b4472829c23b92d9a7",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeNormGamma1PrimePowInvariant"
+  ],
+  "objects": {
+    "M062439": "bf53e2ae4eeb43dd396b6fba323847aeccb9f2570338234f5a0a52fb798632ab"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "07add63522908a7a6e86e0cd80e1e16f96bd52314afcf0c740f18f5d8be51d16",
+  "packet": "M062439",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31552#issuecomment-7077832574",
+  "reviewed_utc": "2026-11-22T11:57:49.887280+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

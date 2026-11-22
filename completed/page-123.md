@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086631 | P1487 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeIsomorphicFields` | volunteer-build-reviewed |
+| M086632 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeTwistedCuspParts` | volunteer-build-reviewed |
+| M086633 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeTwistedCuspPartsStatement` | volunteer-build-reviewed |
+| M086634 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepIntegralAfterScalingAtBadPrime` | volunteer-build-reviewed |
+| M086636 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepresentativeBoundedAtBadPrimes` | volunteer-build-reviewed |
 | M086638 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BcDatumNatural` | volunteer-build-reviewed |
 | M086639 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResidues` | volunteer-build-reviewed |
 | M086640 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResiduesStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M087789 | P0448 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FreeSheafSumSectionsEqOfTwoSplittings` | volunteer-build-reviewed |
 | M087790 | P0486 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FreeSheafSumSectionsEqOfTwoSplittingsStatement` | build-observed |
 | M087793 | P2191 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobOpsIdx` | volunteer-build-reviewed |
-| M087794 | P2616 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusAllOfGood` | volunteer-build-reviewed |
-| M087795 | P2628 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusAllOfGoodStatement` | volunteer-build-reviewed |
-| M087800 | P2665 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDual` | volunteer-build-reviewed |
-| M087801 | P2672 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusGoodOfSelfDualStatement` | volunteer-build-reviewed |
-| M087802 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FrobeniusLiftMovesLetterCoordinates` | volunteer-build-reviewed |

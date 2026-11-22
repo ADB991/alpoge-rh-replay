@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097452 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonBorelJacquetOfCuspidalSegmentJacquet` | volunteer-build-reviewed |
+| M097453 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonBorelJacquetOfCuspidalSegmentJacquetStatement` | volunteer-build-reviewed |
+| M097454 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonJacquetOfPerm` | build-observed |
+| M097455 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstMemFg` | volunteer-build-reviewed |
+| M097456 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstitutionTotalDegreeLe` | volunteer-build-reviewed |
 | M097458 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumDiagOrderEqOfIntegralTranslateIndicatorRelati` | volunteer-build-reviewed |
 | M097460 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumEqZeroOfMultilin` | volunteer-build-reviewed |
 | M097461 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumFourSwap` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M098084 | P2204 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryDualPairGlobalToLocalTensorTransfer` | volunteer-build-reviewed |
 | M098085 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryDualPairGlobalToLocalTensorTransferStatement` | volunteer-build-reviewed |
 | M098086 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEmbeddingContinuousMulRational` | volunteer-build-reviewed |
-| M098087 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEmbeddingContinuousMulRationalStatement` | volunteer-build-reviewed |
-| M098088 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryEquivEqSmul` | volunteer-build-reviewed |
-| M098089 | P0042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLog` | volunteer-build-reviewed |
-| M098090 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryExistsSkewLogStatement` | volunteer-build-reviewed |
-| M098097 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryGeneratedByQuasiReflectionsAndWitt` | volunteer-build-reviewed |

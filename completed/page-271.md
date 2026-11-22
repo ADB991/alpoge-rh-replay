@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174283 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.TraceMulSelfEqSumEigenvaluesSq` | wave-reused |
+| M174284 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.VolUFactProdMulLe` | build-observed |
+| M174286 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Blocks` | wave-reused |
+| M174287 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Decomp` | wave-reused |
+| M174288 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.DerivExistsAllPosStatement` | wave-reused |
+| M174289 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.DerivK` | wave-reused |
+| M174290 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.EntryEqZeroOfComm` | wave-reused |
+| M174291 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.RelOpCurve` | wave-reused |
+| M174292 | P0580 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.Stable` | wave-reused |
 | M174293 | P0863 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRed` | wave-reused |
 | M174294 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepCompRedOf` | wave-reused |
 | M174295 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ContinuousRepresentations.URepHom` | wave-reused |
@@ -393,12 +402,3 @@
 | M174853 | P1664 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.TraceFormulaJ` | wave-reused |
 | M174854 | P1664 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.TraceFormulaK` | wave-reused |
 | M174855 | P1760 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.TraceFormulaL` | wave-reused |
-| M174856 | P1786 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.TraceFormulaM` | wave-reused |
-| M174857 | P0345 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Transported` | wave-reused |
-| M174858 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Unitarize` | wave-reused |
-| M174859 | P0093 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeA` | wave-reused |
-| M174860 | P0864 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeB` | wave-reused |
-| M174861 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeC` | wave-reused |
-| M174862 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeD` | wave-reused |
-| M174863 | P1418 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Weighted` | wave-reused |
-| M174864 | P1371 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedA` | wave-reused |

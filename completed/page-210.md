@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M140373 | P1708 | `Development.WeilBound.CoreStatements.ThetaDilations.IntFou` | build-observed |
+| M140374 | P0145 | `Development.WeilBound.CoreStatements.ThetaDilations.IsOpenCoset` | volunteer-build-reviewed |
+| M140375 | P0066 | `Development.WeilBound.CoreStatements.ThetaDilations.Nuabs` | volunteer-build-reviewed |
+| M140376 | P1660 | `Development.WeilBound.CoreStatements.ThetaDilations.OrbitAdelic` | build-observed |
+| M140377 | P0323 | `Development.WeilBound.CoreStatements.ThetaDilations.ParAlg` | volunteer-build-reviewed |
+| M140378 | P1660 | `Development.WeilBound.CoreStatements.ThetaDilations.ProdRho` | build-observed |
+| M140379 | P0459 | `Development.WeilBound.CoreStatements.ThetaDilations.SdTransport` | build-observed |
 | M140380 | P0210 | `Development.WeilBound.CoreStatements.ThetaDilations.SqPosOfNe` | volunteer-build-reviewed |
 | M140382 | P2386 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.AbelianSchemeSpreadsOverLocalization` | volunteer-build-reviewed |
 | M140386 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.CharZeroFreeModule` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M141356 | P2608 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.QuadraticCharacterNorms.CmQuadraticCharacterUnramified` | volunteer-build-reviewed |
 | M141357 | P2502 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.QuadraticCharacterNorms.HcHecke` | volunteer-build-reviewed |
 | M141359 | P2644 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.QuadraticCharacterNorms.QuadCharNorm` | volunteer-build-reviewed |
-| M141360 | P2634 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.QuadraticCharacterNorms.QuadraticCharacterSquare` | volunteer-build-reviewed |
-| M141362 | P1831 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.ReadMod` | volunteer-build-reviewed |
-| M141363 | P1809 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.ReadSplit` | volunteer-build-reviewed |
-| M141365 | P1809 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SatIndepOf` | volunteer-build-reviewed |
-| M141366 | P2502 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SeenTr` | volunteer-build-reviewed |
-| M141368 | P1554 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SetupEig` | volunteer-build-reviewed |
-| M141369 | P1831 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.SetupEx` | volunteer-build-reviewed |

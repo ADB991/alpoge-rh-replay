@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154665 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GoodRGa` | build-observed |
+| M154666 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramCondIff` | build-observed |
+| M154667 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramDeterminantFormula` | build-observed |
+| M154668 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramIff` | build-observed |
+| M154669 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GzNeOfTotPos` | build-observed |
+| M154670 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.HTIntLeft` | build-observed |
+| M154672 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IndepOf` | build-observed |
 | M154673 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IsIntIntCast` | build-observed |
 | M154675 | P1855 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanDecompositionExists` | build-observed |
 | M154676 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.JordanExists` | build-observed |
@@ -395,10 +402,3 @@
 | M155122 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GenericRatioBound.GenericRatioOfBound` | build-observed |
 | M155123 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GeometricProductBound.OneSubSumLeProd` | volunteer-build-reviewed |
 | M155125 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GordanIntegerMultiple.ExistsIntMultiple` | volunteer-build-reviewed |
-| M155126 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramDifferenceRenaming.RenGramRhs` | build-observed |
-| M155127 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramDifferenceRenaming.SDiffGramMain` | build-observed |
-| M155132 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramFibrationFormulas.IsGoodV` | volunteer-build-reviewed |
-| M155138 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramInjectivity.GramVanish` | build-observed |
-| M155139 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramInjectivity.InstFintypeColChoice` | build-observed |
-| M155140 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramIsometryCoefficient.ExCoeffOneNe` | build-observed |
-| M155141 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSchmidtFrames.AdjugateLastEntrySum` | build-observed |

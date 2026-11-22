@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M037495 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrrCharOneMulFinsumConjMul` | volunteer-build-reviewed |
 | M037496 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrrParIffCuspidalProduct` | build-observed |
 | M037498 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissible` | volunteer-build-reviewed |
 | M037499 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissibleDecomposableCompEquiv` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M038287 | P1399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralSmulOfCharpolyCoeffMulIntStatement` | volunteer-build-reviewed |
 | M038288 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionDifference` | build-observed |
 | M038289 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionDifferenceStatement` | build-observed |
-| M038290 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionIntegralJ` | build-observed |

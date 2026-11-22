@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070356 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlatWachLetterRingCompletionOfDenseSaturatedStatement` | volunteer-build-reviewed |
+| M070357 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipIdxNeZero` | volunteer-build-reviewed |
+| M070358 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarMemCoefficientRingAuxiliaryLevel` | volunteer-build-reviewed |
+| M070359 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarMemCoefficientRingAuxiliaryLevelStatement` | volunteer-build-reviewed |
+| M070360 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarPrimePowIntegralAtLevelPlaces` | volunteer-build-reviewed |
 | M070361 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FlipScalarPrimePowIntegralAtLevelPlacesStatement` | volunteer-build-reviewed |
 | M070364 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeries` | volunteer-build-reviewed |
 | M070365 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeriesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M070972 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeOfMemPartW` | volunteer-build-reviewed |
 | M070978 | P2258 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckePointIntegralUpToUnitsAnyAlgClosedFieldStatement` | volunteer-build-reviewed |
 | M070981 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckePreservesSupLatticeAndCommutesTypeGroup` | volunteer-build-reviewed |
-| M070983 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeQuotientFrameChangeOfTriangularFrameChange` | volunteer-build-reviewed |
-| M070987 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeReadOfDeltaFrob` | volunteer-build-reviewed |
-| M070988 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeReadOfReadsExist` | volunteer-build-reviewed |
-| M070991 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeSameMap` | volunteer-build-reviewed |
-| M071001 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeightsoundQdPlacesUniformConst` | volunteer-build-reviewed |

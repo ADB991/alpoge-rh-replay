@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    "M123854"
+  ],
+  "started_utc": "2026-11-22T10:15:58.897493+00:00",
+  "ended_utc": "2026-11-22T10:18:26.911176+00:00",
+  "elapsed_seconds": 148.0,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6467660
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarRinvUJ:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "ecf16a63675d05ac6a870db2e47c8d71d1b97c7fef5471a2e7a4ad90b158d3a7",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InvolutionInvariants",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsInducingCoeMatrix",
+    "Formalism.RealPlaceAnalysis.InstMeasurableSpaceUJ",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.ComplexificationHolds",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.IndefiniteUnitaryPreservesForm",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.KoszulLowersPower",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.MemUnitaryGroupIffMulConjTranspose",
+    "Formalism.RealPlaceAnalysis.RealPlaceTaylor.ModularCharacterEqOneOnExpHermitian",
+    "Formalism.RealPlaceAnalysis.UJLocCompact"
+  ],
+  "objects": {
+    "M123854": "9bce0737a649c3ec2138ebbd01e76ecf88a619ad52ea641d98c6338bc7c18e19"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "b3cec3208ae665db9b1c2f9a4785688be576f2351a0c2256842281ea802734ae",
+  "packet": "M123854",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31547#issuecomment-7077787435",
+  "reviewed_utc": "2026-11-22T11:57:49.983266+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083449 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoeffProdXSubCNormLe` | volunteer-build-reviewed |
+| M083450 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ColValueMulOfDisjointColumns` | volunteer-build-reviewed |
+| M083453 | P2181 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalars` | volunteer-build-reviewed |
+| M083454 | P2191 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalarsStatement` | volunteer-build-reviewed |
+| M083457 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundElementaryApply` | build-observed |
 | M083458 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponent` | wave-reused |
 | M083459 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundEmbeddedComponentStatement` | wave-reused |
 | M083460 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensor` | wave-reused |
@@ -397,8 +402,3 @@
 | M084300 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowSubSelfMemSpanOfSplitsCompletely` | volunteer-build-reviewed |
 | M084303 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowerSeriesEvalTsumUnitDiscPropertiesStatement` | volunteer-build-reviewed |
 | M084304 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PowerSeriesExpIntegralCanonGaugeAdditiveSecond` | volunteer-build-reviewed |
-| M084305 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdDetMemHaO` | volunteer-build-reviewed |
-| M084307 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProdLeOfInterlacingPairing` | volunteer-build-reviewed |
-| M084309 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOne` | build-observed |
-| M084310 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProductMomentBoundDensityMassOneStatement` | volunteer-build-reviewed |
-| M084314 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ProjectorEntryValueUnderLinearFunctional` | wave-reused |

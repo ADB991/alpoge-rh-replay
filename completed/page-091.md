@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062351 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GroupAlgebraOperatorConvolutionCalculus` | wave-reused |
+| M062352 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GroupAlgebraOperatorConvolutionCalculusStatement` | wave-reused |
+| M062353 | P0789 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.H2EquivOfTorsionCharacter` | build-observed |
+| M062355 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCoeffRingHomMapCoeff` | volunteer-build-reviewed |
 | M062356 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSer` | wave-reused |
 | M062357 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSerStatement` | wave-reused |
 | M062358 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEq` | wave-reused |
@@ -67,6 +71,7 @@
 | M062433 | P0871 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeDiamondCommuteModCoboundariesGamma1Gamma0Statement` | worker-kernel-checked |
 | M062434 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeDoubleCosetRepsGammaOneGammaZeroLevel` | volunteer-build-reviewed |
 | M062435 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeDoubleCosetRepsGammaOneGammaZeroLevelStatement` | volunteer-build-reviewed |
+| M062439 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeNormGamma1PrimePowInvariantStatement` | volunteer-build-reviewed |
 | M062442 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeOperatorCommGaloisActionModularTower` | volunteer-build-reviewed |
 | M062444 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeOperatorCommutesDiamond` | volunteer-build-reviewed |
 | M062445 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeckeOperatorCommutesDiamondStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M062944 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LeadingPrincipalMinorMulModConductorStatement` | volunteer-build-reviewed |
 | M062945 | P2148 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LeafDataOfOnTieOfIntegral` | build-observed |
 | M062947 | P1008 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LengthEqLengthInvariantsOfTorsionLevels` | build-observed |
-| M062948 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevFiniteIndex` | volunteer-build-reviewed |
-| M062949 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevMulVecOutside` | build-observed |
-| M062950 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumIdempotentRankGeOfGenericFreeRowsFirst` | wave-reused |
-| M062951 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumIdempotentRankGeOfGenericFreeRowsFirstStatement` | wave-reused |
-| M062952 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumIdempotentRankLeRootExchange` | wave-reused |

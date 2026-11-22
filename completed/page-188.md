@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124532 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactIsOpenCosVN` | volunteer-build-reviewed |
+| M124536 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactOperatorOfScaledIsometricIntertwiner` | volunteer-build-reviewed |
+| M124537 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactOperatorRepOpRcuspZero` | volunteer-build-reviewed |
+| M124544 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroup` | volunteer-build-reviewed |
+| M124545 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroupStatement` | volunteer-build-reviewed |
+| M124546 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupportDcos` | volunteer-build-reviewed |
 | M124548 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsComplNonZeroDivisor` | volunteer-build-reviewed |
 | M124549 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsContent` | volunteer-build-reviewed |
 | M124550 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCovolOne` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M125353 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDensityOfMassOne` | volunteer-build-reviewed |
 | M125354 | P2243 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDensityOfMassOneStatement` | volunteer-build-reviewed |
 | M125355 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDensityRatioFormula` | volunteer-build-reviewed |
-| M125356 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDensityRatioFormulaStatement` | volunteer-build-reviewed |
-| M125357 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDependentSetNull` | volunteer-build-reviewed |
-| M125358 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDependentSetNullStatement` | volunteer-build-reviewed |
-| M125359 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDoubleIntegralIdentity` | volunteer-build-reviewed |
-| M125365 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApprox` | build-observed |
-| M125366 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApproxStatement` | build-observed |

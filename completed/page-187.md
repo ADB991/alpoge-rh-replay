@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123854 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarRinvUJ` | volunteer-build-reviewed |
+| M123855 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarSkewMatricesConjScaling` | volunteer-build-reviewed |
+| M123856 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarSkewMatricesConjScalingStatement` | volunteer-build-reviewed |
+| M123858 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfIntegralEisensteinContinuation` | volunteer-build-reviewed |
+| M123859 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfTrAddSwap` | volunteer-build-reviewed |
+| M123860 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacter` | volunteer-build-reviewed |
 | M123861 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacterStatement` | volunteer-build-reviewed |
 | M123864 | P0689 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimension` | build-observed |
 | M123865 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraDimensionStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M124529 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsClosedUnipotentRadicalStabilizerStatement` | volunteer-build-reviewed |
 | M124530 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactClosureZpowersMap` | volunteer-build-reviewed |
 | M124531 | P1579 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactCosetSet` | volunteer-build-reviewed |
-| M124532 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactIsOpenCosVN` | volunteer-build-reviewed |
-| M124536 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactOperatorOfScaledIsometricIntertwiner` | volunteer-build-reviewed |
-| M124537 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactOperatorRepOpRcuspZero` | volunteer-build-reviewed |
-| M124544 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroup` | volunteer-build-reviewed |
-| M124545 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupAddSubgroupStatement` | volunteer-build-reviewed |
-| M124546 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSupportDcos` | volunteer-build-reviewed |

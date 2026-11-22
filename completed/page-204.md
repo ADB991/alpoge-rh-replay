@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135658 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafLocStalkPf` | build-observed |
+| M135660 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafMVVanishPf` | build-observed |
+| M135662 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafMapWPf` | wave-reused |
+| M135663 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafModelCurveCut` | volunteer-build-reviewed |
+| M135665 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafNatCupPf` | wave-reused |
+| M135666 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafNatOnePf` | wave-reused |
 | M135667 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafNatPf` | wave-reused |
 | M135669 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafNewtonPf` | wave-reused |
 | M135670 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafNormalModelPf` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M136300 | P0499 | `Development.EtaleCohomology.TateTwists.EtaleTorsionCohomologyPrimaryPartBasic` | wave-reused |
 | M136301 | P0458 | `Development.EtaleCohomology.TateTwists.EtaleTwistExtendsThroughMonoToResolutionZero` | wave-reused |
 | M136302 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistResolutionPairingCupUnique` | wave-reused |
-| M136303 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistResolutionUniversalExtension` | wave-reused |
-| M136304 | P0458 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupAssocOfTwistedPairingExistsAssoc` | wave-reused |
-| M136305 | P0458 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupGradedCommOfFlipAndUniquePairing` | wave-reused |
-| M136306 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductAssociative` | wave-reused |
-| M136307 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductGradedCommutative` | wave-reused |
-| M136308 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleTwistedResolutionExistsOfFlatSections` | wave-reused |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153300 | P0886 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.GlobalBoundRefinements` | build-observed |
+| M153301 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxFull` | build-observed |
+| M153302 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxPsiGood` | build-observed |
+| M153303 | P0749 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxRules` | build-observed |
+| M153304 | P0803 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IsMackeyPiUpperUnipotentProdCharacter` | build-observed |
+| M153305 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LemmaGG` | build-observed |
+| M153306 | P0886 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsComposeGeneral` | build-observed |
 | M153307 | P0859 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsGlobalForm` | build-observed |
 | M153308 | P0912 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsWeightedConditional` | build-observed |
 | M153309 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.Mirabolic` | build-observed |
@@ -395,10 +402,3 @@
 | M153710 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DiscrNe` | build-observed |
 | M153720 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DvRatKer` | volunteer-build-reviewed |
 | M153723 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EfRankSum` | build-observed |
-| M153724 | P0749 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EichlerTau` | build-observed |
-| M153725 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EmbPerm` | build-observed |
-| M153726 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EmbTraceSum` | build-observed |
-| M153727 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EntAtD` | build-observed |
-| M153729 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpIntW` | build-observed |
-| M153730 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpTri` | build-observed |
-| M153731 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExplicitFormula` | build-observed |

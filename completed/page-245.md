@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160018 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DividedPowersPreserveZero` | wave-reused |
+| M160019 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.DvrFractionFieldCharZeroPrime` | wave-reused |
+| M160020 | P0941 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EBeta` | wave-reused |
+| M160021 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EnvelopingMonoidPreservesStable` | wave-reused |
+| M160022 | P1215 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantInjectiveOfCyclic` | wave-reused |
+| M160023 | P1190 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.EquivariantKillsCyclicOfZero` | wave-reused |
+| M160024 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsClearDenominators` | wave-reused |
 | M160025 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestCoordinateFunctional` | wave-reused |
 | M160026 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsHighestWeightVectorFindim` | wave-reused |
 | M160027 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.ExistsIntegralWeightProjections` | wave-reused |
@@ -395,10 +402,3 @@
 | M160454 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicFrobeniusPowerSeriesX` | wave-reused |
 | M160455 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.AlgHomPowerSeriesCoeEqAeval` | wave-reused |
 | M160456 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ConstSectionStatement` | wave-reused |
-| M160457 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ConstantCoeffAeval` | wave-reused |
-| M160458 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloDist` | wave-reused |
-| M160459 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloSimple` | wave-reused |
-| M160460 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.EmultiplicityEqValuation` | wave-reused |
-| M160461 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.EqZeroOfBlockSumEqZero` | wave-reused |
-| M160462 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ExpRescaleCoeff` | wave-reused |
-| M160463 | P0464 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.LinkRing` | wave-reused |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057667 | P0186 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMassOneCutoffDoubleCosetIntegral` | volunteer-build-reviewed |
+| M057669 | P0481 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaxVector` | build-observed |
 | M057671 | P2070 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalCompactReductionStandardFrameStatement` | volunteer-build-reviewed |
 | M057672 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormal` | build-observed |
 | M057673 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormalStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M058390 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDataMassEqSumFrameClasses` | wave-reused |
 | M058391 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDataMassEqSumFrameClassesStatement` | wave-reused |
 | M058396 | P0952 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDatumOfTermReadOnLattice` | build-observed |
-| M058398 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpan` | wave-reused |
-| M058399 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpanStatement` | wave-reused |

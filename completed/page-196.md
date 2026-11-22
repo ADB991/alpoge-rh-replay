@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130214 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDualToInvariantDifferentialsStatement` | volunteer-build-reviewed |
+| M130215 | P0596 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDvrExtensionField` | volunteer-build-reviewed |
+| M130217 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDvrThroughDiscPoint` | volunteer-build-reviewed |
+| M130219 | P2652 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSection` | volunteer-build-reviewed |
+| M130220 | P2661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSectionStatement` | volunteer-build-reviewed |
+| M130221 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEigenOpDiscr` | volunteer-build-reviewed |
 | M130222 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsElementSamePrimeCount` | volunteer-build-reviewed |
 | M130223 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsElementSamePrimeCountStatement` | volunteer-build-reviewed |
 | M130225 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEqMulMultOfUnits` | wave-reused |
@@ -396,9 +402,3 @@
 | M130884 | P2175 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentHolomorphicCover` | volunteer-build-reviewed |
 | M130885 | P2185 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentHolomorphicCoverStatement` | volunteer-build-reviewed |
 | M130889 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentIntegralOverRingStatement` | volunteer-build-reviewed |
-| M130897 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentReductionAtPStatement` | volunteer-build-reviewed |
-| M130899 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentResidueIntegralityStatement` | volunteer-build-reviewed |
-| M130902 | P1367 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistEigenCompat` | build-observed |
-| M130903 | P1388 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistEigenCompatStatement` | build-observed |
-| M130906 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistLatticeCompat` | volunteer-build-reviewed |
-| M130907 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistLatticeCompatStatement` | volunteer-build-reviewed |

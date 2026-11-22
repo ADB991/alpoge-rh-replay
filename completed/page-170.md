@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114950 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AddPowNsmul` | volunteer-build-reviewed |
+| M114951 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdjoinForm` | volunteer-build-reviewed |
+| M114952 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdjoinSqrtEqRatSpan` | volunteer-build-reviewed |
+| M114953 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSchurLemma` | volunteer-build-reviewed |
+| M114954 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSmoothRepresentations` | volunteer-build-reviewed |
 | M114955 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeFundamentalDomain` | volunteer-build-reviewed |
 | M114956 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AeTranslateEq` | volunteer-build-reviewed |
 | M114957 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalComm` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M115378 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideExtra` | volunteer-build-reviewed |
 | M115379 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideFurther` | volunteer-build-reviewed |
 | M115380 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideLast` | wave-reused |
-| M115381 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideMore` | volunteer-build-reviewed |
-| M115382 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideRest` | volunteer-build-reviewed |
-| M115383 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideSide` | volunteer-build-reviewed |
-| M115385 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideTer` | volunteer-build-reviewed |
-| M115386 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTail` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043436 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicIdentityContinuation` | volunteer-build-reviewed |
 | M043437 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicIdentityContinuationStatement` | volunteer-build-reviewed |
 | M043438 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicSectionLocalOrder` | volunteer-build-reviewed |
 | M043439 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicSectionLocalOrderStatement` | volunteer-build-reviewed |
@@ -191,6 +192,7 @@
 | M043771 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereExhaustionLimit` | volunteer-build-reviewed |
 | M043775 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereIntersectionPolynomial` | volunteer-build-reviewed |
 | M043776 | P2581 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereIntersectionPolynomialStatement` | volunteer-build-reviewed |
+| M043777 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MongeAmpereLocalIntegral` | volunteer-build-reviewed |
 | M043781 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonicCoeffNatDegreeSubEqMulCmConj` | volunteer-build-reviewed |
 | M043782 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonicCoeffNatDegreeSubEqMulCmConjStatement` | volunteer-build-reviewed |
 | M043783 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MonicFactorFinite` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M044157 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NaturalSectionsLinearExtension` | build-observed |
 | M044161 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NeOfReNe` | volunteer-build-reviewed |
 | M044165 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NearOpenEmbeddingCompOfSumMapCompStatement` | volunteer-build-reviewed |
-| M044167 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NearOpenPullbackToSelfProductSurjectiveStatement` | volunteer-build-reviewed |
-| M044168 | P2458 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NearOpenSumEqEmbeddingDescendedMultiplication` | volunteer-build-reviewed |

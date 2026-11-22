@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148764 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL5.Statement` | build-observed |
+| M148765 | P1107 | `Formalism.LocalToGlobal.GlobalTheory.GL5.TheoremThreeAllUnitary` | build-observed |
+| M148766 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL5.TheoremTwoFamilyOfVolume` | build-observed |
+| M148767 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL5.VolumeAndDsigCompatOfCompatibleData` | build-observed |
+| M148768 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionExtendsFromClasses` | build-observed |
+| M148769 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdelicFunctionRightTranslateDiamond` | build-observed |
+| M148770 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleOfSplitAndRoundTrips` | build-observed |
 | M148771 | P1238 | `Formalism.LocalToGlobal.GlobalTheory.GL6.AdmissibleStabilisersOfCompatibleForms` | build-observed |
 | M148772 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.BwAValIntegralNonneg` | build-observed |
 | M148773 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ComplementSmulLocalExtensionMatrix` | build-observed |
@@ -395,10 +402,3 @@
 | M149262 | P1077 | `Formalism.LocalToGlobal.IndefiniteReal.CxToPkgFamIn` | build-observed |
 | M149264 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.DatumF` | volunteer-build-reviewed |
 | M149265 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.DatumFock` | build-observed |
-| M149266 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.DatumLemmas` | volunteer-build-reviewed |
-| M149267 | P1164 | `Formalism.LocalToGlobal.IndefiniteReal.DatumVec` | build-observed |
-| M149268 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.DeterminantProjection` | volunteer-build-reviewed |
-| M149273 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.GoodPartLeTypeSubspace` | build-observed |
-| M149275 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.HkCore` | build-observed |
-| M149277 | P0830 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.ImaginaryGeneratorMulDenominator` | build-observed |
-| M149278 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow` | build-observed |

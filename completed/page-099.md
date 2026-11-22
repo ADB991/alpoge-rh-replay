@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067707 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatePlacesDistinct` | volunteer-build-reviewed |
+| M067709 | P2407 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaLiftsIsConjugateCuspExpansionStatement` | volunteer-build-reviewed |
+| M067710 | P2684 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatDatumRootOfUnity` | volunteer-build-reviewed |
+| M067711 | P2691 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatDatumRootOfUnityStatement` | volunteer-build-reviewed |
+| M067712 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeil` | volunteer-build-reviewed |
 | M067713 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeilStatement` | volunteer-build-reviewed |
 | M067714 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevels` | volunteer-build-reviewed |
 | M067715 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevelsStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M068394 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonFactorsAtOneHalf` | volunteer-build-reviewed |
 | M068395 | P0845 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonRootSubOneIsPseudoUniformizerTilt` | build-observed |
 | M068396 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonRootSubOneIsPseudoUniformizerTiltStatement` | build-observed |
-| M068397 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonSubOneDvdAinfCoeffZeroOfThetaVanishing` | build-observed |
-| M068398 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonSubOneDvdAinfCoeffZeroOfThetaVanishingStatement` | build-observed |
-| M068401 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqBotOrEqTopOfInvariant` | volunteer-build-reviewed |
-| M068404 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqMulIntegralClosureOfSeparableInvolutionAlgebra` | build-observed |
-| M068406 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfHasSupportSingleton` | volunteer-build-reviewed |

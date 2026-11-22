@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122613 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleLiftingOfNilIdeal` | wave-reused |
+| M122614 | P1074 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleLiftingOfNilIdealStatement` | wave-reused |
+| M122616 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSection` | wave-reused |
+| M122617 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSectionStatement` | wave-reused |
+| M122619 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotal` | volunteer-build-reviewed |
 | M122620 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotalStatement` | volunteer-build-reviewed |
 | M122621 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulOfOfFaceMapCompSuccAboveCastSucc` | volunteer-build-reviewed |
 | M122623 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerCharZeroDimSupportStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M123235 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDiscreteSpectrumStatement` | volunteer-build-reviewed |
 | M123236 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDiscriminantIdentity` | volunteer-build-reviewed |
 | M123237 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDiscriminantIdentityStatement` | volunteer-build-reviewed |
-| M123238 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDualAll` | volunteer-build-reviewed |
-| M123241 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteEulerProductOf` | volunteer-build-reviewed |
-| M123242 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteEulerProductOfStatement` | volunteer-build-reviewed |
-| M123244 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFibreFunctionsCompactStatement` | volunteer-build-reviewed |
-| M123247 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLattice` | volunteer-build-reviewed |

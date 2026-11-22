@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054800 | P2665 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbackDvrTorsionPointsStatement` | volunteer-build-reviewed |
+| M054801 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairs` | volunteer-build-reviewed |
 | M054802 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairsStatement` | volunteer-build-reviewed |
 | M054803 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisation` | volunteer-build-reviewed |
 | M054804 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisationStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M055502 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalFlagFrameSpecialize` | volunteer-build-reviewed |
 | M055503 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalFlagLastInclIsIso` | volunteer-build-reviewed |
 | M055504 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalFlagLastInclIsIsoStatement` | volunteer-build-reviewed |
-| M055505 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionHermitianFunction` | volunteer-build-reviewed |
-| M055506 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionHermitianFunctionStatement` | volunteer-build-reviewed |

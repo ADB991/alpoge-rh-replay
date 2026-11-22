@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110971 | P1950 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.LogAsym` | volunteer-build-reviewed |
+| M110972 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPow` | volunteer-build-reviewed |
+| M110973 | P2766 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.NormCharPowHolds` | volunteer-build-reviewed |
+| M110974 | P0135 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.OrderAsym` | volunteer-build-reviewed |
+| M110975 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.PartBOfDecomposition` | volunteer-build-reviewed |
 | M110977 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.SysEx` | volunteer-build-reviewed |
 | M110978 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.TwoParts` | volunteer-build-reviewed |
 | M110979 | P2756 | `Development.AutomorphicArithmetic.Foundations.Convolution.NormCharacterPowers.UnitOfPow` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M111436 | P2680 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.WeilRepresentation.ThetaLiftTrivialOrbitTermsVanish` | volunteer-build-reviewed |
 | M111438 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.RealGroupAnalysis.WeilRepresentation.WeilEx` | volunteer-build-reviewed |
 | M111439 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.ConstTerm` | build-observed |
-| M111440 | P1017 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.CvSmulRight` | build-observed |
-| M111441 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoShape` | build-observed |
-| M111442 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoVol` | build-observed |
-| M111443 | P1045 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepAbs` | build-observed |
-| M111444 | P1522 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepHecke` | build-observed |

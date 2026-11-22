@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042058 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTrivialityOfNoetherianDescent` | volunteer-build-reviewed |
 | M042061 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTwistContinuousInvolutionIntegralPropertiesStatement` | volunteer-build-reviewed |
 | M042064 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingAction` | volunteer-build-reviewed |
 | M042065 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingActionStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M042754 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedThetaQZeroRealMatrix` | volunteer-build-reviewed |
 | M042756 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesFirst` | volunteer-build-reviewed |
 | M042757 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesFirstStatement` | volunteer-build-reviewed |
-| M042759 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThird` | volunteer-build-reviewed |

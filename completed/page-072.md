@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048995 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyBoundedUniformly` | volunteer-build-reviewed |
+| M048997 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpan` | volunteer-build-reviewed |
 | M048998 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpanStatement` | volunteer-build-reviewed |
 | M048999 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommute` | volunteer-build-reviewed |
 | M049000 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommuteStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M049703 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparableFormGroupElementFixesUniquePositiveLineStatement` | volunteer-build-reviewed |
 | M049706 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparateTwoPointsNefBig` | volunteer-build-reviewed |
 | M049709 | P2811 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparationNormalizedBlowupUnitaryCompactificatio` | volunteer-build-reviewed |
-| M049710 | P2812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparationNormalizedBlowupUnitaryCompactificatioStatement` | volunteer-build-reviewed |
-| M049716 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeriesUnitOfReadInjScaleRootConjRootCoordRange` | volunteer-build-reviewed |

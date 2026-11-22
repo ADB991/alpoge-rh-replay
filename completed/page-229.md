@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152743 | P1369 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.LatticePointInKernelSubgroup` | build-observed |
+| M152744 | P0939 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.LinearCoeffLogShiftedWeierstrass` | build-observed |
+| M152745 | P0503 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.LogSigmaOnePullbackSpec` | wave-reused |
+| M152746 | P0635 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.MultiplicationBiadditiveHolds` | build-observed |
+| M152747 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.NormHalfB2SubTwoTorsionLeOne` | build-observed |
+| M152749 | P1369 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.NotInKernelOfMultiplierTorsion` | build-observed |
+| M152750 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.OneAddMulDerivLogSubst` | wave-reused |
 | M152751 | P0462 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.PderivZeroZeroWeierstrassDifference` | wave-reused |
 | M152752 | P0940 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.PhENormOf` | build-observed |
 | M152753 | P0570 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.LogarithmicSubstitution.RealAdelicInertTransportTypeFormsEqAlt` | build-observed |
@@ -395,10 +402,3 @@
 | M153297 | P0831 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.AbsorbLocalConditions` | build-observed |
 | M153298 | P0912 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.AbsorbLocalConditionsOfExact` | build-observed |
 | M153299 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.ErrSum` | build-observed |
-| M153300 | P0886 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.GlobalBoundRefinements` | build-observed |
-| M153301 | P0503 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxFull` | build-observed |
-| M153302 | P0538 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxPsiGood` | build-observed |
-| M153303 | P0749 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IdxRules` | build-observed |
-| M153304 | P0803 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.IsMackeyPiUpperUnipotentProdCharacter` | build-observed |
-| M153305 | P0776 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LemmaGG` | build-observed |
-| M153306 | P0886 | `Formalism.MirabolicMackeyTheory.MirabolicMackeyProofs.LocalConditionsComposeGeneral` | build-observed |

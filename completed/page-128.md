@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091329 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TangentVectorsThetaSectionArcWitnessBaseChangeStatement` | build-observed |
+| M091341 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSectionsExtendGermRingsAndSpanFibres` | build-observed |
+| M091342 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSectionsExtendGermRingsAndSpanFibresStatement` | build-observed |
+| M091343 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShift` | build-observed |
+| M091344 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThetaSumShiftStatement` | build-observed |
 | M091345 | P0850 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ThickenedPointToTorusExtensionGenerator` | wave-reused |
 | M091346 | P0988 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToFSurjectiveFractionRing` | wave-reused |
 | M091347 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToUnitCompLeft` | build-observed |
@@ -397,8 +402,3 @@
 | M092063 | P1986 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankConvergesColumn` | volunteer-build-reviewed |
 | M092064 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankConvergesColumnStatement` | volunteer-build-reviewed |
 | M092065 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneAdditiveBoundedCompact` | volunteer-build-reviewed |
-| M092066 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneAdditiveBoundedCompactStatement` | volunteer-build-reviewed |
-| M092067 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneLessEqTopBesselLevelPeriod` | volunteer-build-reviewed |
-| M092069 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotent` | volunteer-build-reviewed |
-| M092070 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotentStatement` | volunteer-build-reviewed |
-| M092071 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslate` | volunteer-build-reviewed |

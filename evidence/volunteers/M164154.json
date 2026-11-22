@@ -1,0 +1,48 @@
+{
+  "tasks": [
+    "M164154"
+  ],
+  "started_utc": "2026-11-22T10:12:14.698674+00:00",
+  "ended_utc": "2026-11-22T10:15:55.216902+00:00",
+  "elapsed_seconds": 220.5,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6036084
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PHolomorphicZeroSetDimH:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b68c6b75c7932ef43816f01c4e7d0240a7b319e4679082dacc47abb5db4f6d2c",
+  "rebuilt_project_modules": [
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticImplicitChart",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PProperHolomorphicSurjective",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StAnalyticImplicitChart",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCompactHolomorphicFibreFinite",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHausdorffNullComplementConnected",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHolomorphicZeroSetDimH",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProperHolomorphicSurjective",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRankDeficientFibreInfinite",
+    "GroundTheory.HeightsAndTheta.Heights.Regularisation.PRiemannExtensionSlices",
+    "GroundTheory.HeightsAndTheta.Heights.Regularisation.StRiemannSlices",
+    "ReciprocityTheory.AnalyticForms.AnalyticCharts.Osgood",
+    "ReciprocityTheory.AnalyticForms.AnalyticCharts.OsgoodA"
+  ],
+  "objects": {
+    "M164154": "3677ee50b17d54be89f98f70eb4af8efcc901f9af391da15ebd2515b6de3b690"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "ac93cbed009c878f0a06826e9e6e3488029cde2c9f9d87006f882c0ad7932667",
+  "packet": "M164154",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31546#issuecomment-7077787111",
+  "reviewed_utc": "2026-11-22T11:57:50.034175+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

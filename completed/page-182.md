@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120832 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableGodementJacquetDual` | volunteer-build-reviewed |
+| M120833 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableWhittakerDiagUnits` | volunteer-build-reviewed |
+| M120834 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableWhittakerDiagUnitsStatement` | volunteer-build-reviewed |
+| M120835 | P2151 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AevalTranspose` | volunteer-build-reviewed |
+| M120836 | P0934 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverCohomologyFinite` | build-observed |
 | M120837 | P0961 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverCohomologyFiniteStatement` | build-observed |
 | M120838 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverHigherCohomologyVanishes` | volunteer-build-reviewed |
 | M120839 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverHigherCohomologyVanishesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M121409 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralPresentationIndep` | volunteer-build-reviewed |
 | M121410 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralPresentationIndepStatement` | volunteer-build-reviewed |
 | M121412 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralPresentationTransferStatement` | volunteer-build-reviewed |
-| M121413 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralRandomSections` | volunteer-build-reviewed |
-| M121414 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralRandomSectionsStatement` | volunteer-build-reviewed |
-| M121416 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralWeightIndepStatement` | volunteer-build-reviewed |
-| M121417 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZero` | volunteer-build-reviewed |
-| M121418 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZeroStatement` | volunteer-build-reviewed |

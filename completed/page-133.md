@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094449 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceOneCosetOfBesselLevel` | volunteer-build-reviewed |
+| M094450 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceOneCosetOfBesselLevelStatement` | volunteer-build-reviewed |
+| M094451 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegral` | volunteer-build-reviewed |
+| M094452 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlacePointConditionTorusInverseDiagIntegralStatement` | volunteer-build-reviewed |
+| M094453 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegral` | volunteer-build-reviewed |
 | M094454 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodPlaceShiftConditionTorusDiagIntegralStatement` | volunteer-build-reviewed |
 | M094459 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodProjectorLevelMultiplicitySpaceMemGoodRows` | volunteer-build-reviewed |
 | M094460 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtension` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M094933 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InducedModuleNontrivialStatement` | volunteer-build-reviewed |
 | M094934 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionContragredient` | volunteer-build-reviewed |
 | M094935 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionInStagesIntertwining` | volunteer-build-reviewed |
-| M094936 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionInStagesIntertwiningStatement` | volunteer-build-reviewed |
-| M094937 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionInStagesRestriction` | volunteer-build-reviewed |
-| M094938 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InductionInStagesRestrictionStatement` | volunteer-build-reviewed |
-| M094939 | P1547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeComponentsScaledIntegral` | volunteer-build-reviewed |
-| M094940 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceHomLatticeComponentsScaledIntegralStatement` | volunteer-build-reviewed |

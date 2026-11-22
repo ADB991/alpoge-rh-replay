@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112386 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.SatCard` | volunteer-build-reviewed |
+| M112387 | P2812 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.StepsMain` | volunteer-build-reviewed |
+| M112388 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.TwCrys` | volunteer-build-reviewed |
+| M112389 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.TwJ` | volunteer-build-reviewed |
+| M112390 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.GeometricFlagBases.UnrPolNegOne` | volunteer-build-reviewed |
 | M112393 | P2739 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.InertCharpoly.CharPolOfInert` | volunteer-build-reviewed |
 | M112394 | P2745 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.InertCharpoly.GaloisLocalGlobalOfLocalGlobalCompatibility` | volunteer-build-reviewed |
 | M112396 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.CharOfZeta` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M112996 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTrPushM` | volunteer-build-reviewed |
 | M112999 | P2812 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTransDeep` | volunteer-build-reviewed |
 | M113005 | P2773 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTransOrbit` | volunteer-build-reviewed |
-| M113010 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTwGal` | volunteer-build-reviewed |
-| M113012 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PTwSplit` | volunteer-build-reviewed |
-| M113017 | P2837 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PWitForget` | volunteer-build-reviewed |
-| M113022 | P1340 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PullIdentityMove` | volunteer-build-reviewed |
-| M113023 | P1314 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PAdicWittLattices.PullIsBC` | volunteer-build-reviewed |

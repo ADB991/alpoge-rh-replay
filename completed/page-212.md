@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142210 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.CycSecM` | volunteer-build-reviewed |
+| M142211 | P1467 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.CycSecP` | volunteer-build-reviewed |
+| M142212 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.DenseCell` | volunteer-build-reviewed |
+| M142213 | P1467 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.DerivativeVacuumDilations` | volunteer-build-reviewed |
+| M142214 | P1390 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.DerivativeVacuumDilationsAlt` | build-observed |
+| M142215 | P1612 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.DerivativeVacuumSection` | volunteer-build-reviewed |
+| M142216 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.DifferentiableSecondCayleyBlockDilation` | volunteer-build-reviewed |
 | M142217 | P1467 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.FactorL` | volunteer-build-reviewed |
 | M142219 | P1496 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.FarRightAlt` | volunteer-build-reviewed |
 | M142220 | P1554 | `Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.HolomorphicContinuation.AbsoluteConvergence.FarRightC` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M142852 | P1661 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.BcflUnit` | volunteer-build-reviewed |
 | M142853 | P0145 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.Development` | volunteer-build-reviewed |
 | M142854 | P0067 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.InvTransposeGLInvTransposeGL` | volunteer-build-reviewed |
-| M142855 | P0210 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.QuotientIntegralOfCompactOpen` | volunteer-build-reviewed |
-| M142856 | P1496 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.ElementaryCosets.CosetMap` | volunteer-build-reviewed |
-| M142857 | P1526 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.ElementaryCosets.JPred` | volunteer-build-reviewed |
-| M142859 | P1415 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.GenericPrincipalSeries.GenericPrincipalSeries` | volunteer-build-reviewed |
-| M142860 | P0067 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.LocalUnitNormIndex.LocalUnitNormIndex` | volunteer-build-reviewed |
-| M142861 | P1467 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.StrictDominanceCasselman.IsStrictlyDominant` | volunteer-build-reviewed |
-| M142862 | P1526 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistClassAssociation.ElemAssoc` | volunteer-build-reviewed |

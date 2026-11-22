@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068397 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonSubOneDvdAinfCoeffZeroOfThetaVanishing` | build-observed |
+| M068398 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EpsilonSubOneDvdAinfCoeffZeroOfThetaVanishingStatement` | build-observed |
+| M068401 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqBotOrEqTopOfInvariant` | volunteer-build-reviewed |
+| M068404 | P0359 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqMulIntegralClosureOfSeparableInvolutionAlgebra` | build-observed |
+| M068406 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfHasSupportSingleton` | volunteer-build-reviewed |
 | M068407 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfIsLocCompGL` | volunteer-build-reviewed |
 | M068408 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfNodupSumMultisetOfEq` | volunteer-build-reviewed |
 | M068409 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfOverTwo` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M069065 | P1124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsFrobeniusSliceMemRightDivisorSetStatement` | build-observed |
 | M069067 | P1281 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsFundamentalDomainMassOneCocompactLatticeStatement` | volunteer-build-reviewed |
 | M069072 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGLOfSpanRangeEqLocalRing` | volunteer-build-reviewed |
-| M069073 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjDefiniteFormsSemilinearEquiv` | volunteer-build-reviewed |
-| M069074 | P2214 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjDefiniteFormsSemilinearEquivStatement` | volunteer-build-reviewed |
-| M069075 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjOfTeichmullerCongr` | build-observed |
-| M069076 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisConjOfTeichmullerCongrStatement` | build-observed |
-| M069081 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisElemCyclotomicPeriodNotRootOfUnity` | wave-reused |

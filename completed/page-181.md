@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120135 | P2046 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsRealDifferentGenerator` | volunteer-build-reviewed |
+| M120136 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsRealDifferentGeneratorStatement` | volunteer-build-reviewed |
+| M120137 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSectionLevel` | volunteer-build-reviewed |
+| M120139 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSurjectiveZmodOfNeZero` | volunteer-build-reviewed |
+| M120140 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsSymplecticBasisLagrangianBetween` | volunteer-build-reviewed |
 | M120144 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExistsUniformDenominator` | volunteer-build-reviewed |
 | M120145 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpan` | volunteer-build-reviewed |
 | M120146 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.ExtensionOrderEqSpanStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M120828 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AePolynomialNonvanishingStatement` | volunteer-build-reviewed |
 | M120829 | P2062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AeZeroCountEqIntersection` | volunteer-build-reviewed |
 | M120830 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AeZeroCountEqIntersectionStatement` | volunteer-build-reviewed |
-| M120832 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableGodementJacquetDual` | volunteer-build-reviewed |
-| M120833 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableWhittakerDiagUnits` | volunteer-build-reviewed |
-| M120834 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AestronglyMeasurableWhittakerDiagUnitsStatement` | volunteer-build-reviewed |
-| M120835 | P2151 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AevalTranspose` | volunteer-build-reviewed |
-| M120836 | P0934 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineCoverCohomologyFinite` | build-observed |

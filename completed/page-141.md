@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098693 | P0042 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGradedRingKernelLift` | wave-reused |
+| M098694 | P0768 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGroupQuotientPullback` | build-observed |
+| M098695 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGrpPullbackThick` | wave-reused |
+| M098697 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPt` | volunteer-build-reviewed |
+| M098698 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsGtPtOfCharacter` | wave-reused |
 | M098702 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfPullbackId` | build-observed |
 | M098703 | P0932 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfRingMaps` | build-observed |
 | M098704 | P1462 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfThickenings` | build-observed |
@@ -397,8 +402,3 @@
 | M099304 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.UniformisedArcIsoMatchesLevelPoints` | build-observed |
 | M099305 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.UniformisedArcIsoMatchesLevelPointsStatement` | build-observed |
 | M099308 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.UnivIdentity` | build-observed |
-| M099309 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValEqOfAppInjective` | wave-reused |
-| M099311 | P0904 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValTorusPointAndTranslate` | wave-reused |
-| M099312 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslates` | build-observed |
-| M099313 | P1748 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslatesStatement` | build-observed |
-| M099314 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTerms` | build-observed |

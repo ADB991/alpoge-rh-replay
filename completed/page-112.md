@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077038 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicCoreTransportEnlargedCoefficientBaseStatement` | volunteer-build-reviewed |
+| M077040 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicGLHomeomorphInfiniteFiniteStatement` | volunteer-build-reviewed |
+| M077041 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwists` | volunteer-build-reviewed |
+| M077042 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwistsStatement` | volunteer-build-reviewed |
+| M077043 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOne` | volunteer-build-reviewed |
 | M077044 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOneStatement` | volunteer-build-reviewed |
 | M077049 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStages` | volunteer-build-reviewed |
 | M077050 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicRowsDivisionOverReplacedLaterStagesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M077838 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsFundamentalDomain` | volunteer-build-reviewed |
 | M077840 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsInfFamFamily` | volunteer-build-reviewed |
 | M077841 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsLieBase` | volunteer-build-reviewed |
-| M077843 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsLocCompAndIsLocLoc` | volunteer-build-reviewed |
-| M077847 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsMinf` | build-observed |
-| M077848 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsMinfOfDensity` | volunteer-build-reviewed |
-| M077853 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfMem` | volunteer-build-reviewed |
-| M077854 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfRat` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078585 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistRingsCharactersClassGroupsStatement` | volunteer-build-reviewed |
+| M078586 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistedOpenExponent` | volunteer-build-reviewed |
+| M078587 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistedOpenExponentStatement` | volunteer-build-reviewed |
+| M078588 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwoPrimesSameNormOfTrivialFrobenius` | volunteer-build-reviewed |
+| M078590 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypeDimensionAndLocalIntegralsDegreeOne` | volunteer-build-reviewed |
 | M078593 | P0957 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypesIdempotentCoefficients` | build-observed |
 | M078595 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeeds` | volunteer-build-reviewed |
 | M078596 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeedsStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M079459 | P2586 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasRatioOfHasDRGaloisStatement` | build-observed |
 | M079460 | P0819 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasSignatureDiagonalSgn` | build-observed |
 | M079461 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasTameBlockCharacterTypePlaceNotOverL` | volunteer-build-reviewed |
-| M079463 | P1382 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasTypeAllAddOfEquiv` | build-observed |
-| M079466 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HcParameterEAddHalfShiftLeBSucc` | volunteer-build-reviewed |
-| M079467 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdExists` | volunteer-build-reviewed |
-| M079468 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdTr` | volunteer-build-reviewed |
-| M079469 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeAlgebraCompUnitaryGroupAntidiagTransportMem` | volunteer-build-reviewed |

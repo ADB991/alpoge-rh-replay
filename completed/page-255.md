@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165113 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDvrConeDimTrdeg` | wave-reused |
+| M165114 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PEffectiveShift` | wave-reused |
+| M165115 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PEventualValueFacts` | wave-reused |
+| M165116 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFibreVarieties` | wave-reused |
+| M165117 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiltrationStepHilb` | wave-reused |
+| M165118 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiltrationStepLength` | wave-reused |
+| M165119 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiniteBirationalLength` | build-observed |
+| M165120 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleChartSection` | wave-reused |
 | M165121 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleChartSectionTools` | wave-reused |
 | M165122 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleCut` | wave-reused |
 | M165123 | P0428 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleDim` | wave-reused |
@@ -394,11 +402,3 @@
 | M165646 | P0543 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PDivPushForward` | wave-reused |
 | M165647 | P0608 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PDivPushForwardLocal` | wave-reused |
 | M165648 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PEventuallyPolyShift` | pilot-reused |
-| M165649 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PEventuallyPolyUnique` | pilot-reused |
-| M165650 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PExistsForm` | pilot-reused |
-| M165651 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreFinite` | wave-reused |
-| M165652 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreNonempty` | wave-reused |
-| M165653 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreRelDim` | wave-reused |
-| M165654 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFiniteAlgebraLengthSum` | wave-reused |
-| M165655 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFunctionFieldFinite` | wave-reused |
-| M165656 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PGradedFinite` | pilot-reused |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135061 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafDescOGluePfP` | build-observed |
+| M135062 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDescOSepPf` | build-observed |
+| M135063 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafDescPf` | build-observed |
+| M135064 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDescPfGlue` | build-observed |
+| M135065 | P0143 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiagPf` | volunteer-build-reviewed |
+| M135066 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafDictPf` | build-observed |
 | M135067 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDictPfDbl` | build-observed |
 | M135068 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiscNrmPf` | build-observed |
 | M135069 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafDiscPf` | build-observed |
@@ -396,9 +402,3 @@
 | M135651 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafKunGlobalCut` | wave-reused |
 | M135652 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafKunnethCut` | wave-reused |
 | M135656 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafLinePf` | wave-reused |
-| M135658 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafLocStalkPf` | build-observed |
-| M135660 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafMVVanishPf` | build-observed |
-| M135662 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafMapWPf` | wave-reused |
-| M135663 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafModelCurveCut` | volunteer-build-reviewed |
-| M135665 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafNatCupPf` | wave-reused |
-| M135666 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafNatOnePf` | wave-reused |

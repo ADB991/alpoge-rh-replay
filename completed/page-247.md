@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161239 | P0332 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.RuleSmall` | volunteer-build-reviewed |
+| M161241 | P0280 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.SumPowersetFinSucc` | volunteer-build-reviewed |
+| M161242 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.VanishingBelowDimensionRule` | volunteer-build-reviewed |
+| M161243 | P0222 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.UZGen` | volunteer-build-reviewed |
+| M161251 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LiftInvariantsFinrankEq` | volunteer-build-reviewed |
+| M161252 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ScaleEps` | volunteer-build-reviewed |
+| M161253 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ValuationApplyLtOneIff` | volunteer-build-reviewed |
 | M161256 | P0697 | `Formalism.SizeWindowBrackets.Chain2aCoreNoAnalytic` | build-observed |
 | M161257 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AdmissibleSchurLemma` | build-observed |
 | M161258 | P0833 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.AnalyticFirstToLatticeDiscriminant` | build-observed |
@@ -395,10 +402,3 @@
 | M161648 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.EntryDegree` | build-observed |
 | M161649 | P0573 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FinalS` | wave-reused |
 | M161650 | P0379 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FirstDeriv` | wave-reused |
-| M161651 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ABArith` | build-observed |
-| M161652 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.CoeffSubstLgFOfDegreeOne` | wave-reused |
-| M161653 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ConstantCoeffFirstTwoOfThree` | wave-reused |
-| M161654 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ConstantCoeffLawFirstTwoOfThree` | wave-reused |
-| M161655 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EChain` | build-observed |
-| M161656 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EDecomp` | build-observed |
-| M161657 | P0860 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.EGauss` | build-observed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129419 | P2552 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerOriginVectorBundleStatement` | volunteer-build-reviewed |
+| M129425 | P0743 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerT2Statement` | worker-kernel-checked |
+| M129433 | P1134 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerWeilTheoremStatement` | worker-kernel-checked |
+| M129434 | P2288 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeight` | volunteer-build-reviewed |
+| M129435 | P2301 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeightStatement` | volunteer-build-reviewed |
+| M129436 | P0369 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumber` | wave-reused |
 | M129437 | P0414 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumberStatement` | wave-reused |
 | M129438 | P0596 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumber` | volunteer-build-reviewed |
 | M129439 | P0629 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VerticalDivisorGeometricNumberStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M130209 | P0207 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDenominatorRegular` | volunteer-build-reviewed |
 | M130210 | P0267 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDenominatorRegularStatement` | volunteer-build-reviewed |
 | M130212 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDualElements` | volunteer-build-reviewed |
-| M130214 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDualToInvariantDifferentialsStatement` | volunteer-build-reviewed |
-| M130215 | P0596 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDvrExtensionField` | volunteer-build-reviewed |
-| M130217 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsDvrThroughDiscPoint` | volunteer-build-reviewed |
-| M130219 | P2652 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSection` | volunteer-build-reviewed |
-| M130220 | P2661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEffectiveWeightSectionStatement` | volunteer-build-reviewed |
-| M130221 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsEigenOpDiscr` | volunteer-build-reviewed |

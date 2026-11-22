@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046909 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiHalfSymplecticOrthonormalFrame` | build-observed |
+| M046910 | P1329 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiHalfSymplecticOrthonormalFrameStatement` | build-observed |
 | M046912 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiNormIff` | volunteer-build-reviewed |
 | M046918 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetric` | volunteer-build-reviewed |
 | M046919 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetricStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M047590 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLeviClosureMemStatement` | volunteer-build-reviewed |
 | M047591 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftLowerBoundOffBasePlace` | volunteer-build-reviewed |
 | M047592 | P2213 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftLowerBoundOffBasePlaceStatement` | volunteer-build-reviewed |
-| M047593 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspaces` | volunteer-build-reviewed |
-| M047594 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspacesStatement` | volunteer-build-reviewed |

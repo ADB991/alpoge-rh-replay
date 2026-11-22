@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158674 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrD` | build-observed |
+| M158675 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrPf` | build-observed |
+| M158678 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartTransportSt` | wave-reused |
+| M158682 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ColumnValueStatement` | build-observed |
+| M158684 | P0887 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddFirstSecond` | build-observed |
+| M158685 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddSecondThird` | build-observed |
+| M158689 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETExSt` | volunteer-build-reviewed |
 | M158690 | P1024 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETPoint` | volunteer-build-reviewed |
 | M158695 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsBasisOfSaturated` | volunteer-build-reviewed |
 | M158696 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ExistsTruncatedIntegralChart` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M159167 | P1370 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ContragredientLatticeFGOfIrreducible` | build-observed |
 | M159168 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DisjointRestrictSupportOfDisjoint` | build-observed |
 | M159169 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DividedPowerReverseDividedPowerEqSelf` | build-observed |
-| M159170 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DominantOfIsHighestWeightVectorPolynomial` | build-observed |
-| M159171 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DualWeightVectorApplyEqZeroOfNeNeg` | build-observed |
-| M159172 | P1296 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExistsDominantTopWeightNonzero` | build-observed |
-| M159173 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExistsIsotypicDecomposition` | build-observed |
-| M159174 | P1024 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExtendByZeroRestrictOfVanish` | build-observed |
-| M159175 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.FormalSeriesConditionsB1ToB4` | build-observed |
-| M159176 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.GlOperatorsFormRepresentation` | build-observed |

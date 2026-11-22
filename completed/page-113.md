@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077843 | P1358 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsLocCompAndIsLocLoc` | volunteer-build-reviewed |
+| M077847 | P1177 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsMinf` | build-observed |
+| M077848 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsMinfOfDensity` | volunteer-build-reviewed |
+| M077853 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfMem` | volunteer-build-reviewed |
+| M077854 | P2003 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsPtOfOfRat` | volunteer-build-reviewed |
 | M077855 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRatSecOfPull` | volunteer-build-reviewed |
 | M077856 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsResOfTameAt` | volunteer-build-reviewed |
 | M077858 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRestrictedProductTupleMeasureStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M078581 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistIndexOfCoefficientFieldPlaceStatement` | volunteer-build-reviewed |
 | M078583 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistRingMapLargeCoefficientRingsStatement` | volunteer-build-reviewed |
 | M078584 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistRingsCharactersClassGroups` | volunteer-build-reviewed |
-| M078585 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistRingsCharactersClassGroupsStatement` | volunteer-build-reviewed |
-| M078586 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistedOpenExponent` | volunteer-build-reviewed |
-| M078587 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwistedOpenExponentStatement` | volunteer-build-reviewed |
-| M078588 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTwoPrimesSameNormOfTrivialFrobenius` | volunteer-build-reviewed |
-| M078590 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsTypeDimensionAndLocalIntegralsDegreeOne` | volunteer-build-reviewed |

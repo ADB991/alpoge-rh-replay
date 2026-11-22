@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126590 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTransferStatement` | build-observed |
+| M126591 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PosDefFactor` | volunteer-build-reviewed |
+| M126592 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PosNorm` | volunteer-build-reviewed |
+| M126598 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveConeStructureStatement` | volunteer-build-reviewed |
+| M126599 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveHermitianPolynomial` | volunteer-build-reviewed |
+| M126601 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpen` | volunteer-build-reviewed |
 | M126602 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpenStatement` | volunteer-build-reviewed |
 | M126603 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspace` | volunteer-build-reviewed |
 | M126604 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositivityPullsBackToSubspaceStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M127197 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SatakePowerNonvanishingStatement` | build-observed |
 | M127198 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SaturatedFgOfPowerTorsionKerCoker` | volunteer-build-reviewed |
 | M127199 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalHHermScal` | build-observed |
-| M127200 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarActionFifthReal` | volunteer-build-reviewed |
-| M127201 | P2164 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarActionFifthRealStatement` | volunteer-build-reviewed |
-| M127202 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreFormula` | volunteer-build-reviewed |
-| M127203 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreFormulaStatement` | volunteer-build-reviewed |
-| M127204 | P2253 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegral` | volunteer-build-reviewed |
-| M127205 | P2264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ScalarExtensionFibreIntegralStatement` | volunteer-build-reviewed |

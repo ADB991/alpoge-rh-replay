@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168820 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshCore` | volunteer-build-reviewed |
+| M168821 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshMatrix` | volunteer-build-reviewed |
+| M168822 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.PshMean` | volunteer-build-reviewed |
+| M168823 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.Statements` | wave-reused |
+| M168824 | P0387 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsBounds` | wave-reused |
+| M168825 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsCusp` | volunteer-build-reviewed |
+| M168826 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.StatementsPsh` | volunteer-build-reviewed |
+| M168827 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MatrixCharts.TransposeEqOfPosSemidef` | volunteer-build-reviewed |
 | M168829 | P0085 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExampleLimitPolynomialHypothesis` | volunteer-build-reviewed |
 | M168830 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ExistsDominantSubSmul` | volunteer-build-reviewed |
 | M168832 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.ImportsAlt` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M169543 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PEDenseInAE` | build-observed |
 | M169544 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PEichlerAtPlace` | build-observed |
 | M169545 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PEichlerDense` | build-observed |
-| M169547 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PLocalInClosure` | build-observed |
-| M169548 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PLocalRingHypotheses` | build-observed |
-| M169549 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.POrthProjection` | build-observed |
-| M169550 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PPlaceMaps` | build-observed |
-| M169551 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PSAHolds` | build-observed |
-| M169552 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PSAOpenHolds` | build-observed |
-| M169553 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PTruncation` | build-observed |
-| M169555 | P0231 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauIIsBasisOf` | wave-reused |

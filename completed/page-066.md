@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044888 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneFormsTwoCocycleCoboundaryOfRestrict` | wave-reused |
+| M044889 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneFormsTwoCocycleCoboundaryOfRestrictStatement` | wave-reused |
 | M044890 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeDimAt` | volunteer-build-reviewed |
 | M044892 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeIntersectionNumberSubvarietyThroughPositive` | volunteer-build-reviewed |
 | M044894 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdeal` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M045535 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PdivisibleTowerBaseChangeMapExistsStatement` | volunteer-build-reviewed |
 | M045536 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PdivisibleWeilPairingIntegralExtension` | volunteer-build-reviewed |
 | M045537 | P2728 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PdivisibleWeilPairingIntegralExtensionStatement` | volunteer-build-reviewed |
-| M045540 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrame` | wave-reused |
-| M045541 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionSmallFirstJetNormalFrameStatement` | wave-reused |

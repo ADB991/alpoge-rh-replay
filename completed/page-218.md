@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145651 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCRadSpSmooth` | wave-reused |
+| M145653 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut` | wave-reused |
+| M145666 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCHolCut` | wave-reused |
+| M145670 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadT` | wave-reused |
+| M145671 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsm` | wave-reused |
+| M145672 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmA` | wave-reused |
+| M145673 | P1106 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmB` | wave-reused |
 | M145674 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTCut` | wave-reused |
 | M145675 | P0938 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJet` | wave-reused |
 | M145676 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTJetRad` | wave-reused |
@@ -395,10 +402,3 @@
 | M146684 | P0148 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormIteratedFDerivWithinInvOneLe` | volunteer-build-reviewed |
 | M146687 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormOfMemRootSetOne` | volunteer-build-reviewed |
 | M146691 | P0069 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSumLeOfForm` | volunteer-build-reviewed |
-| M146692 | P0069 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSumLeOfGram` | volunteer-build-reviewed |
-| M146693 | P1266 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormTwoSidedTranslateGrowthBound` | build-observed |
-| M146694 | P0748 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormalFormOrderZeroOfParts` | wave-reused |
-| M146698 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OffDiagonalSchurComplement` | build-observed |
-| M146700 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OmegaNormCofactorOfParts` | build-observed |
-| M146702 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddPowLeExp` | volunteer-build-reviewed |
-| M146703 | P1187 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddProjectionMemIsotropicSet` | build-observed |

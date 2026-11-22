@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115381 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideMore` | volunteer-build-reviewed |
+| M115382 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideRest` | volunteer-build-reviewed |
+| M115383 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideSide` | volunteer-build-reviewed |
+| M115385 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsSideTer` | volunteer-build-reviewed |
+| M115386 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTail` | volunteer-build-reviewed |
 | M115387 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailAlt` | volunteer-build-reviewed |
 | M115388 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailBis` | volunteer-build-reviewed |
 | M115389 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTailExtra` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M115806 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.UpperTriangular` | volunteer-build-reviewed |
 | M115807 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.UpperTriangularMul` | volunteer-build-reviewed |
 | M115808 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ValPrimeOfLt` | volunteer-build-reviewed |
-| M115809 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VandermondeOfEqDet` | volunteer-build-reviewed |
-| M115811 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VecStab` | volunteer-build-reviewed |
-| M115812 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VectorStabilizer` | volunteer-build-reviewed |
-| M115813 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VolumePreservingUncurry` | volunteer-build-reviewed |
-| M115814 | P0492 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.VqInduction` | volunteer-build-reviewed |

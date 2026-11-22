@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156487 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.HeckeLower` | build-observed |
+| M156488 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.HeckeLowerOf` | build-observed |
+| M156489 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.IdealEquiv` | build-observed |
+| M156490 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.LatticeCountGen` | build-observed |
+| M156491 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.MemSmulNormLeOne` | build-observed |
+| M156492 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.NnrealOfEnnreal` | build-observed |
+| M156493 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.NormAtPlacePosOfNormPos` | build-observed |
 | M156494 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.RealHitIneq` | build-observed |
 | M156495 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.ResidueBoundOf` | build-observed |
 | M156496 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ResidueLatticeCount.SumRangeLe` | build-observed |
@@ -395,10 +402,3 @@
 | M156899 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensInfSt` | wave-reused |
 | M156900 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensInfTR` | wave-reused |
 | M156901 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensInfTop` | wave-reused |
-| M156902 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVAll` | wave-reused |
-| M156903 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVCore` | wave-reused |
-| M156904 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVCos` | wave-reused |
-| M156905 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVDx` | wave-reused |
-| M156906 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVDxSt` | wave-reused |
-| M156907 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVGen` | wave-reused |
-| M156908 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVGlue` | wave-reused |

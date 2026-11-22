@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096915 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentSubgroupSuccDecomposition` | build-observed |
+| M096916 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootExchangeUnipotentSubgroupSuccDecompositionStatement` | volunteer-build-reviewed |
+| M096917 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RootsWeightsPairwiseIndependent` | volunteer-build-reviewed |
+| M096919 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RouteDatumMemAlgebraicVectorsGridFrames` | volunteer-build-reviewed |
+| M096921 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowBesZeroE` | volunteer-build-reviewed |
 | M096922 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatum` | volunteer-build-reviewed |
 | M096923 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowChainLastStepVectorEqThetaOfDatumStatement` | volunteer-build-reviewed |
 | M096924 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowColWeightsAgree` | build-observed |
@@ -397,8 +402,3 @@
 | M097448 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubmodulePowSimpleEqSumEquivValuesStatement` | volunteer-build-reviewed |
 | M097449 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubquotientUnitaryRealization` | volunteer-build-reviewed |
 | M097450 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsetPlaceVectorsAndSteps` | volunteer-build-reviewed |
-| M097452 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonBorelJacquetOfCuspidalSegmentJacquet` | volunteer-build-reviewed |
-| M097453 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonBorelJacquetOfCuspidalSegmentJacquetStatement` | volunteer-build-reviewed |
-| M097454 | P0258 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubsingletonJacquetOfPerm` | build-observed |
-| M097455 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstMemFg` | volunteer-build-reviewed |
-| M097456 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SubstitutionTotalDegreeLe` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171395 | P0167 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExtA` | wave-reused |
+| M171396 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshExtB` | wave-reused |
+| M171397 | P0089 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshLap` | wave-reused |
+| M171398 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMean` | wave-reused |
+| M171399 | P0389 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMoll` | wave-reused |
+| M171400 | P0232 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollA` | wave-reused |
+| M171401 | P0342 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshMollB` | wave-reused |
+| M171402 | P0089 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshPoisson` | wave-reused |
 | M171403 | P0289 | `ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.PshRegMax` | wave-reused |
 | M171404 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AnalyticSubsetChartLocal` | wave-reused |
 | M171405 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.AtlasIndep` | wave-reused |
@@ -394,11 +402,3 @@
 | M171861 | P0472 | `ReciprocityTheory.DualLattices.ThmAUses` | wave-reused |
 | M171862 | P0290 | `ReciprocityTheory.DualLattices.ToSigmaAddFstZeroFst` | volunteer-build-reviewed |
 | M171863 | P0389 | `ReciprocityTheory.DualLattices.TotalFibreMapTotalFibreNsmulSnd` | build-observed |
-| M171864 | P0513 | `ReciprocityTheory.DualLattices.TowerZeroSurjective` | wave-reused |
-| M171865 | P0168 | `ReciprocityTheory.DualLattices.TransposeMulSelf` | wave-reused |
-| M171866 | P0703 | `ReciprocityTheory.DualLattices.U10` | wave-reused |
-| M171867 | P0547 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLengthOfLengthEigenLengthProduct` | wave-reused |
-| M171868 | P0233 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLengthStatement` | wave-reused |
-| M171869 | P0342 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundOf` | wave-reused |
-| M171870 | P0290 | `ReciprocityTheory.DualLattices.UnramifiedCokernelLowerBoundStatement` | wave-reused |
-| M171872 | P0233 | `ReciprocityTheory.DualLattices.UpSmith` | wave-reused |

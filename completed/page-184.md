@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121987 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordinatesRestrictAffineOpenStatement` | volunteer-build-reviewed |
+| M121988 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordsOfEtaleBasicOpen` | volunteer-build-reviewed |
+| M121989 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordsOfEtaleBasicOpenStatement` | volunteer-build-reviewed |
+| M121990 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoreR` | volunteer-build-reviewed |
+| M121991 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CorrESymmCoe` | volunteer-build-reviewed |
 | M121993 | P2174 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotent` | volunteer-build-reviewed |
 | M121994 | P2185 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCellInvariantUnipotentStatement` | volunteer-build-reviewed |
 | M121995 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetCongruenceRefinement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M122603 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EqZeroOfSumApplyEqZero` | volunteer-build-reviewed |
 | M122605 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EqZeroOnUnitaryOfVanishAtOneStatement` | volunteer-build-reviewed |
 | M122611 | P0770 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaNat` | build-observed |
-| M122613 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleLiftingOfNilIdeal` | wave-reused |
-| M122614 | P1074 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleLiftingOfNilIdealStatement` | wave-reused |
-| M122616 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSection` | wave-reused |
-| M122617 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EtaleSurjectiveLocalSectionStatement` | wave-reused |
-| M122619 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EuclideanTotal` | volunteer-build-reviewed |

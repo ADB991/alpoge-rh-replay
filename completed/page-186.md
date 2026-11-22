@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123238 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDualAll` | volunteer-build-reviewed |
+| M123241 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteEulerProductOf` | volunteer-build-reviewed |
+| M123242 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteEulerProductOfStatement` | volunteer-build-reviewed |
+| M123244 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFibreFunctionsCompactStatement` | volunteer-build-reviewed |
+| M123247 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLattice` | volunteer-build-reviewed |
 | M123248 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteFunctorCategoryOfMeetLatticeStatement` | volunteer-build-reviewed |
 | M123254 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactOpenQuotient` | volunteer-build-reviewed |
 | M123255 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteImageCompactRightInvariant` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M123851 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarRightInvariantStatement` | volunteer-build-reviewed |
 | M123852 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarRightInvariantTotallyComplex` | volunteer-build-reviewed |
 | M123853 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarRightInvariantTotallyComplexStatement` | volunteer-build-reviewed |
-| M123855 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarSkewMatricesConjScaling` | volunteer-build-reviewed |
-| M123856 | P2207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HaarSkewMatricesConjScalingStatement` | volunteer-build-reviewed |
-| M123858 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfIntegralEisensteinContinuation` | volunteer-build-reviewed |
-| M123859 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HalfTrAddSwap` | volunteer-build-reviewed |
-| M123860 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HarishChandraCharacter` | volunteer-build-reviewed |

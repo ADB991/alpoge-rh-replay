@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114502 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRationalSupportBound` | volunteer-build-reviewed |
+| M114503 | P2194 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepMemPolynomialFockOfArchimedean` | volunteer-build-reviewed |
+| M114504 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepMemPolynomialFockOfFinitePlace` | volunteer-build-reviewed |
+| M114505 | P2218 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationHermitianPair` | volunteer-build-reviewed |
+| M114506 | P2218 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairContinuous` | volunteer-build-reviewed |
 | M114508 | P2242 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairSmooth` | volunteer-build-reviewed |
 | M114509 | P2194 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilRepresentationPairUnitary` | volunteer-build-reviewed |
 | M114510 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WeilSchwartzDecayBound` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M114947 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AbsoluteValueAltAlt` | volunteer-build-reviewed |
 | M114948 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AbsolutelyIrreducibleSpan` | wave-reused |
 | M114949 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AddGapLe` | volunteer-build-reviewed |
-| M114950 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AddPowNsmul` | volunteer-build-reviewed |
-| M114951 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdjoinForm` | volunteer-build-reviewed |
-| M114952 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdjoinSqrtEqRatSpan` | volunteer-build-reviewed |
-| M114953 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSchurLemma` | volunteer-build-reviewed |
-| M114954 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AdmissibleSmoothRepresentations` | volunteer-build-reviewed |

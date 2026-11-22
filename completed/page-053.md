@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035231 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhat` | volunteer-build-reviewed |
 | M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M035237 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValues` | volunteer-build-reviewed |
 | M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M036014 | P2236 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalGeneratorZpowMulCuspFormMemSpan` | build-observed |
 | M036015 | P2247 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalGeneratorZpowMulCuspFormMemSpanStatement` | volunteer-build-reviewed |
 | M036016 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullback` | build-observed |
-| M036017 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullbackStatement` | build-observed |

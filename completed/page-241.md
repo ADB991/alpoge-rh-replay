@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158221 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.AuxiliarySlotStates` | wave-reused |
+| M158222 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BcWeightEqZeroOf` | build-observed |
+| M158223 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.BesselBoundFamilyOfDoubleCoset` | build-observed |
+| M158224 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds` | build-observed |
+| M158225 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BigCellDensity` | build-observed |
+| M158226 | P0724 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds` | wave-reused |
+| M158227 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateTheorem` | build-observed |
 | M158228 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateWords` | build-observed |
 | M158229 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockExponentKappaIdentity` | build-observed |
 | M158230 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BranchingAndRankConstants` | build-observed |
@@ -395,10 +402,3 @@
 | M158666 | P0222 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.CPfSym` | build-observed |
 | M158668 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartFrameTrA` | volunteer-build-reviewed |
 | M158669 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetSubPf` | build-observed |
-| M158674 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrD` | build-observed |
-| M158675 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartJetTrPf` | build-observed |
-| M158678 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ChartTransportSt` | wave-reused |
-| M158682 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ColumnValueStatement` | build-observed |
-| M158684 | P0887 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddFirstSecond` | build-observed |
-| M158685 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ConstantCoeffAddSecondThird` | build-observed |
-| M158689 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.ETExSt` | volunteer-build-reviewed |

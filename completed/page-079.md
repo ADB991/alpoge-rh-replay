@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054071 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedFiniteDatumEqStandardPairSecondMember` | volunteer-build-reviewed |
+| M054072 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedFiniteDatumEqStandardPairSecondMemberStatement` | volunteer-build-reviewed |
 | M054073 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedKernelLeThetaFunctionRouteBigVertex` | volunteer-build-reviewed |
 | M054074 | P2718 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedKernelLeThetaFunctionRouteBigVertexStatement` | volunteer-build-reviewed |
 | M054076 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformisationBundleEvenClosedFibreTorStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M054792 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPeriodsTranslatedBundleTwistStatement` | volunteer-build-reviewed |
 | M054795 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationProductOfUniformisedGroups` | volunteer-build-reviewed |
 | M054798 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbackAlongIdLiesOverDataIsoStatement` | volunteer-build-reviewed |
-| M054800 | P2665 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbackDvrTorsionPointsStatement` | volunteer-build-reviewed |
-| M054801 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairs` | volunteer-build-reviewed |

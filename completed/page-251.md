@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162935 | P0380 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Places` | wave-reused |
+| M162936 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Restricted` | wave-reused |
+| M162937 | P0282 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Smooth` | wave-reused |
+| M162938 | P0160 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TotallyDisconnectedSpaceRestrictedProduct` | wave-reused |
+| M162939 | P0465 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactor` | wave-reused |
+| M162940 | P0507 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactorUnique` | wave-reused |
+| M162941 | P0425 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Uniqueness` | wave-reused |
 | M162942 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Window` | wave-reused |
 | M162943 | P0160 | `GroundTheory.AutomorphicForms.TraceClass` | wave-reused |
 | M162944 | P0507 | `GroundTheory.AutomorphicForms.TraceFormulaCentralizer` | build-observed |
@@ -395,10 +402,3 @@
 | M163393 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.C2ConvergenceHypothesesNonempty` | wave-reused |
 | M163394 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Convergence` | wave-reused |
 | M163395 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceRate` | wave-reused |
-| M163396 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceStatements` | wave-reused |
-| M163397 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergyStep` | wave-reused |
-| M163398 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum` | wave-reused |
-| M163399 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassError` | wave-reused |
-| M163400 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassReplace` | wave-reused |
-| M163401 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassStep` | wave-reused |
-| M163402 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassZero` | wave-reused |

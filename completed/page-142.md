@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099309 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValEqOfAppInjective` | wave-reused |
+| M099311 | P0904 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValTorusPointAndTranslate` | wave-reused |
+| M099312 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslates` | build-observed |
+| M099313 | P1748 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationNonnegIffSpanMultiplicationTranslatesStatement` | build-observed |
+| M099314 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTerms` | build-observed |
 | M099315 | P1181 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsSymmetricFrameAndTermsStatement` | build-observed |
 | M099316 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTerms` | build-observed |
 | M099317 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuationsTorusPointsFramesFamilyTermsStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M099936 | P1892 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemberDictionaryInvariantRationalLevel` | volunteer-build-reviewed |
 | M099937 | P1912 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemberDictionaryInvariantRationalLevelStatement` | volunteer-build-reviewed |
 | M099938 | P1892 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemberDictionaryRealEquivariantOntoTriangular` | volunteer-build-reviewed |
-| M099939 | P1912 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemberDictionaryRealEquivariantOntoTriangularStatement` | volunteer-build-reviewed |
-| M099940 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModelBaseTrivModels` | build-observed |
-| M099942 | P1158 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliExistsNumberFieldPoint` | build-observed |
-| M099944 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliPointFromFgSubalgebra` | build-observed |
-| M099953 | P1949 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormEmbeddingHostFormConstantEq` | volunteer-build-reviewed |

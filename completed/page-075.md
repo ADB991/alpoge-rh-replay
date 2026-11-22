@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051140 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkValueClosedPointDefinedOverSubfield` | volunteer-build-reviewed |
+| M051141 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkValueClosedPointDefinedOverSubfieldStatement` | volunteer-build-reviewed |
 | M051142 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerate` | volunteer-build-reviewed |
 | M051143 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerateStatement` | volunteer-build-reviewed |
 | M051145 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanExpRealLinearStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M051854 | P2691 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticLevelExtendsNoetherianNormalDomainStatement` | volunteer-build-reviewed |
 | M051859 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticMemClosureGenerators` | volunteer-build-reviewed |
 | M051861 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairRankOneTrace` | volunteer-build-reviewed |
-| M051862 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairRankOneTraceStatement` | volunteer-build-reviewed |
-| M051864 | P1863 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingAdaptedFormulaStatement` | volunteer-build-reviewed |

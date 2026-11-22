@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050385 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectivStatement` | volunteer-build-reviewed |
+| M050387 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCompositionFormStatement` | volunteer-build-reviewed |
 | M050391 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothConeSumGeneratorsEqOfCommonInteriorPointStatement` | volunteer-build-reviewed |
 | M050392 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEq` | build-observed |
 | M050393 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEqStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M051131 | P0114 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkMapFlatFormallyEtaleEssFiniteTypeOfEtaleResStatement` | volunteer-build-reviewed |
 | M051132 | P2201 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkMapInjective` | volunteer-build-reviewed |
 | M051137 | P2809 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkNormalOfSmooth` | volunteer-build-reviewed |
-| M051140 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkValueClosedPointDefinedOverSubfield` | volunteer-build-reviewed |
-| M051141 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkValueClosedPointDefinedOverSubfieldStatement` | volunteer-build-reviewed |

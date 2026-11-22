@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153724 | P0749 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EichlerTau` | build-observed |
+| M153725 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EmbPerm` | build-observed |
+| M153726 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EmbTraceSum` | build-observed |
+| M153727 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.EntAtD` | build-observed |
+| M153729 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpIntW` | build-observed |
+| M153730 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExpTri` | build-observed |
+| M153731 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.ExplicitFormula` | build-observed |
 | M153732 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglChordFactor` | build-observed |
 | M153733 | P0329 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPhSplit` | build-observed |
 | M153734 | P0275 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FglPtW` | build-observed |
@@ -395,10 +402,3 @@
 | M154157 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictPlan` | wave-reused |
 | M154158 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictRing` | wave-reused |
 | M154159 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictTop` | build-observed |
-| M154160 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.ExistsBoundedMultiplier` | volunteer-build-reviewed |
-| M154161 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.HformSelfStar` | build-observed |
-| M154164 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.HmkFactor` | build-observed |
-| M154165 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.IdealMulPrincipal` | volunteer-build-reviewed |
-| M154169 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.PartShortOf` | volunteer-build-reviewed |
-| M154173 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.SpDen` | build-observed |
-| M154175 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.StGenusOf` | wave-reused |

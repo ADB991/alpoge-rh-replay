@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137466 | P2185 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelD` | volunteer-build-reviewed |
+| M137468 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SiegelSmall` | volunteer-build-reviewed |
+| M137472 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSA` | volunteer-build-reviewed |
+| M137475 | P2264 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SmallSTop` | volunteer-build-reviewed |
+| M137476 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SplitPoint` | volunteer-build-reviewed |
+| M137477 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.SubSplit` | volunteer-build-reviewed |
 | M137479 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LagrangianDecomposition.UnitaryConjIff` | volunteer-build-reviewed |
 | M137482 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalCharacterIntegrals.DifferentiableSetIntegralFz` | volunteer-build-reviewed |
 | M137492 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalInvariantNeighborhoods.MeasurePreservingOfAddEquiv` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M138514 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RbProj` | volunteer-build-reviewed |
 | M138515 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RbTriang` | volunteer-build-reviewed |
 | M138518 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RdBase` | volunteer-build-reviewed |
-| M138524 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ReBase` | build-observed |
-| M138529 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfHopf` | build-observed |
-| M138530 | P0459 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfTors` | build-observed |
-| M138533 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RhPull` | volunteer-build-reviewed |
-| M138534 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RiEasy` | volunteer-build-reviewed |
-| M138538 | P0909 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuKodaira` | build-observed |

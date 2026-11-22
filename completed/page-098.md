@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067084 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEnvelopesAdicTopologicalBasisStatement` | build-observed |
+| M067085 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEvWIsUnitInjectiveDvd` | wave-reused |
+| M067086 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinEvWIsUnitInjectiveDvdStatement` | build-observed |
+| M067092 | P0954 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFacts` | wave-reused |
+| M067093 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFlatRadiusIdealFactsStatement` | wave-reused |
 | M067094 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFrameIsCrOfLinkedTower` | wave-reused |
 | M067095 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinFrameIsCrOfLinkedTowerStatement` | wave-reused |
 | M067099 | P1281 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHatValueMemFilZero` | build-observed |
@@ -397,8 +402,3 @@
 | M067702 | P1038 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateNegativeJumpCountOfGoodHodgeJumps` | build-observed |
 | M067703 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateNegativeJumpCountOfGoodHodgeJumpsStatement` | build-observed |
 | M067705 | P2137 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatePlacesCompletion` | volunteer-build-reviewed |
-| M067707 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatePlacesDistinct` | volunteer-build-reviewed |
-| M067709 | P2407 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaLiftsIsConjugateCuspExpansionStatement` | volunteer-build-reviewed |
-| M067710 | P2684 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatDatumRootOfUnity` | volunteer-build-reviewed |
-| M067711 | P2691 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatDatumRootOfUnityStatement` | volunteer-build-reviewed |
-| M067712 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateThetaSeriesFlatVectorsTwistedWeil` | volunteer-build-reviewed |

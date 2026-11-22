@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156902 | P1417 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVAll` | wave-reused |
+| M156903 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVCore` | wave-reused |
+| M156904 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVCos` | wave-reused |
+| M156905 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVDx` | wave-reused |
+| M156906 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVDxSt` | wave-reused |
+| M156907 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVGen` | wave-reused |
+| M156908 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVGlue` | wave-reused |
 | M156909 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVNA` | wave-reused |
 | M156910 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVSec` | wave-reused |
 | M156911 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensVSecSt` | wave-reused |
@@ -395,10 +402,3 @@
 | M157324 | P0605 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.LSSkeleton` | build-observed |
 | M157325 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.LatticesCloseLocally` | build-observed |
 | M157326 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.LocalIntegralOfSubstitution` | build-observed |
-| M157327 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.LsLat` | build-observed |
-| M157328 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.OneSubEvTInvInt` | build-observed |
-| M157329 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermC` | build-observed |
-| M157330 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermCL` | build-observed |
-| M157331 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermSk` | build-observed |
-| M157332 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermT` | build-observed |
-| M157333 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermXB` | build-observed |

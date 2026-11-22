@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079463 | P1382 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HasTypeAllAddOfEquiv` | build-observed |
+| M079466 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HcParameterEAddHalfShiftLeBSucc` | volunteer-build-reviewed |
+| M079467 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdExists` | volunteer-build-reviewed |
+| M079468 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HdTr` | volunteer-build-reviewed |
+| M079469 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeAlgebraCompUnitaryGroupAntidiagTransportMem` | volunteer-build-reviewed |
 | M079472 | P2040 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeArgumentResidueEqWeightedSymmetricFrameSumStatement` | volunteer-build-reviewed |
 | M079473 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualFiniteIdelicIffLocal` | volunteer-build-reviewed |
 | M079474 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualFiniteIdelicIffLocalStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M080316 | P2379 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeFrameFiberBasis` | build-observed |
 | M080317 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeFrameFiberBasisStatement` | volunteer-build-reviewed |
 | M080319 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeFrameFiberInjectiveStatement` | volunteer-build-reviewed |
-| M080321 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeFrameFiberRankStatement` | volunteer-build-reviewed |
-| M080328 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeJwIndexEqConcreteLiftIndex` | volunteer-build-reviewed |
-| M080329 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeJwIndexEqConcreteLiftIndexStatement` | volunteer-build-reviewed |
-| M080334 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormModuloUnipotentSemidirectStatement` | volunteer-build-reviewed |
-| M080335 | P1178 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeNormalFormViaMatrix` | build-observed |

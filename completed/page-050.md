@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032990 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedTorsionTorusExtensionRespectCubicalStatement` | volunteer-build-reviewed |
 | M032997 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramesOnEqModel` | volunteer-build-reviewed |
 | M033002 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeAwayMulOfFiniteType` | volunteer-build-reviewed |
 | M033003 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallCentreInterpolationDetWeightSmallSignatu` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M033682 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericRowSubstitutionCoeffExponentLeDegree` | volunteer-build-reviewed |
 | M033683 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericRowSubstitutionCoeffExponentLeDegreeStatement` | volunteer-build-reviewed |
 | M033685 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericSpanSubmoduleSectionSumStatement` | volunteer-build-reviewed |
-| M033686 | P2716 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericStatementOfCanonicalExtension` | build-observed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145131 | P0069 | `Formalism.GaussJetBounds.StatementH` | wave-reused |
+| M145132 | P0374 | `Formalism.GaussJetBounds.StatementI` | wave-reused |
+| M145133 | P0421 | `Formalism.GaussJetBounds.StatementJ` | wave-reused |
+| M145134 | P0461 | `Formalism.GaussJetBounds.StatementK` | wave-reused |
+| M145135 | P0502 | `Formalism.GaussJetBounds.StatementM` | wave-reused |
+| M145136 | P0421 | `Formalism.GaussJetBounds.StatementN` | build-observed |
+| M145137 | P0272 | `Formalism.GaussJetBounds.StatementO` | build-observed |
 | M145138 | P0536 | `Formalism.GaussJetBounds.StatementP` | wave-reused |
 | M145139 | P0461 | `Formalism.GaussJetBounds.StatementQ` | build-observed |
 | M145140 | P0326 | `Formalism.GaussJetBounds.StatementR` | build-observed |
@@ -395,10 +402,3 @@
 | M145640 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEnTrSmooth` | wave-reused |
 | M145641 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutEnergyReal` | volunteer-build-reviewed |
 | M145646 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCAsm` | build-observed |
-| M145651 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCRadSpSmooth` | wave-reused |
-| M145653 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreCut` | wave-reused |
-| M145666 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCHolCut` | wave-reused |
-| M145670 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadT` | wave-reused |
-| M145671 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsm` | wave-reused |
-| M145672 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmA` | wave-reused |
-| M145673 | P1106 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTCLRadTAsmB` | wave-reused |

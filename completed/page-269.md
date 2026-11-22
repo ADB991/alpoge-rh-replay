@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173351 | P0473 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.StSiegPull` | wave-reused |
+| M173352 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.ThmASt` | wave-reused |
+| M173353 | P0514 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.TopLimitModules.FmodConst` | build-observed |
+| M173354 | P0548 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PlaceDivisors.TopLimitModules.LimJMemSmulTop` | build-observed |
+| M173355 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.AnChart` | build-observed |
+| M173356 | P1191 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.BcField` | build-observed |
+| M173357 | P1297 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueBoundRamified` | build-observed |
+| M173358 | P1270 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ChartValueIntegralGood` | build-observed |
+| M173359 | P0092 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.DiffAtOddSt` | volunteer-build-reviewed |
 | M173362 | P1216 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.ExpBCChart` | volunteer-build-reviewed |
 | M173363 | P0704 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap` | volunteer-build-reviewed |
 | M173366 | P1243 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FrMapComp` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M173870 | P0292 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.PtRescaleGood` | wave-reused |
 | M173871 | P0235 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.PtSolveMapFixedIff` | wave-reused |
 | M173872 | P0434 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.RootStatement` | build-observed |
-| M173873 | P0170 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.TangentEqLcZero` | wave-reused |
-| M173874 | P0391 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.TypicalCurveStructureConstants` | wave-reused |
-| M173875 | P0434 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.WeightedSumBounds.WtSubOneLe` | wave-reused |
-| M173876 | P0730 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Analytic` | wave-reused |
-| M173877 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Closure` | wave-reused |
-| M173878 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ClosureK` | wave-reused |
-| M173879 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ConjTransposeEqOfInG` | wave-reused |
-| M173880 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.ExistsExpEqOfMemKset` | wave-reused |
-| M173881 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Growth` | wave-reused |

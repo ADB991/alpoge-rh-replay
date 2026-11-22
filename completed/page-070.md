@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047593 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspaces` | volunteer-build-reviewed |
+| M047594 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspacesStatement` | volunteer-build-reviewed |
 | M047595 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLineStabilizerDecomposition` | volunteer-build-reviewed |
 | M047597 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatricesDiscreteCocompactAdelicMatrixSpa` | volunteer-build-reviewed |
 | M047599 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRational` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M048316 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedLocalLatticeMembershipStatement` | volunteer-build-reviewed |
 | M048319 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedProductMemSchwartz` | volunteer-build-reviewed |
 | M048320 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedProductMemSchwartzStatement` | volunteer-build-reviewed |
-| M048322 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedProductUnitaryGroupStatement` | volunteer-build-reviewed |
-| M048324 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorLocalOperators` | volunteer-build-reviewed |

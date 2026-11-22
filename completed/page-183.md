@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121413 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralRandomSections` | volunteer-build-reviewed |
+| M121414 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralRandomSectionsStatement` | volunteer-build-reviewed |
+| M121416 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernIntegralWeightIndepStatement` | volunteer-build-reviewed |
+| M121417 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZero` | volunteer-build-reviewed |
+| M121418 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChernPartNullSetZeroStatement` | volunteer-build-reviewed |
 | M121419 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChiDetPowSplitCentre` | volunteer-build-reviewed |
 | M121420 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CircleZero` | volunteer-build-reviewed |
 | M121422 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClassLevelFormula` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M121981 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordNear` | build-observed |
 | M121983 | P2633 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordinateDivisorMultiplicitySumStatement` | volunteer-build-reviewed |
 | M121986 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordinatesRestrictAffineOpen` | volunteer-build-reviewed |
-| M121987 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordinatesRestrictAffineOpenStatement` | volunteer-build-reviewed |
-| M121988 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordsOfEtaleBasicOpen` | volunteer-build-reviewed |
-| M121989 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoordsOfEtaleBasicOpenStatement` | volunteer-build-reviewed |
-| M121990 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoreR` | volunteer-build-reviewed |
-| M121991 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CorrESymmCoe` | volunteer-build-reviewed |

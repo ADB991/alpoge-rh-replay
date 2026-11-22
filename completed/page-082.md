@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056147 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetRestrictsToPair` | volunteer-build-reviewed |
+| M056149 | P2407 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetSiegelRule` | volunteer-build-reviewed |
 | M056150 | P2436 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetSiegelRuleStatement` | volunteer-build-reviewed |
 | M056151 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumFinitePartMovesVacuumAsThetaModel` | volunteer-build-reviewed |
 | M056153 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumFixesVacuumNonSplitPlaceUnramified` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M056869 | P2180 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselPointwiseBoundAtLargeGaps` | volunteer-build-reviewed |
 | M056870 | P2190 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselPointwiseBoundAtLargeGapsStatement` | volunteer-build-reviewed |
 | M056873 | P0923 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRegularDoubleCosetPolynomialProperness` | build-observed |
-| M056874 | P0951 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRegularDoubleCosetPolynomialPropernessStatement` | build-observed |
-| M056875 | P0869 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotent` | build-observed |

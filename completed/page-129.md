@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092066 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneAdditiveBoundedCompactStatement` | volunteer-build-reviewed |
+| M092067 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneLessEqTopBesselLevelPeriod` | volunteer-build-reviewed |
+| M092069 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotent` | volunteer-build-reviewed |
+| M092070 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneRightTranslateUnipotentStatement` | volunteer-build-reviewed |
+| M092071 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslate` | volunteer-build-reviewed |
 | M092072 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodCorankOneSimultaneousRightTranslateStatement` | volunteer-build-reviewed |
 | M092075 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedDownIsTameThetaFunctional` | volunteer-build-reviewed |
 | M092077 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuous` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M092813 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesCharacterOfParameter` | volunteer-build-reviewed |
 | M092814 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesFactorLocalStable` | volunteer-build-reviewed |
 | M092816 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesHarishChandraModuleAdmissible` | volunteer-build-reviewed |
-| M092817 | P1259 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesIntegrableCoefficientProjector` | build-observed |
-| M092818 | P1286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesIntegrableCoefficientProjectorStatement` | build-observed |
-| M092820 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelAdjointEqInvFiniteDimensionalStatement` | volunteer-build-reviewed |
-| M092822 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelConjugateTransferStatement` | volunteer-build-reviewed |
-| M092823 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelIsometryUnitHighestVectorIff` | volunteer-build-reviewed |

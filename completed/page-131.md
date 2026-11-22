@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093393 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegerConjPrescribedResiduesPlaces` | volunteer-build-reviewed |
+| M093396 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralForm` | volunteer-build-reviewed |
+| M093397 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtension` | volunteer-build-reviewed |
+| M093398 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralGeneratorSplitPlaceCmExtensionStatement` | volunteer-build-reviewed |
+| M093400 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseAtSplitPlacesOfUnitsStatement` | volunteer-build-reviewed |
 | M093401 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalf` | volunteer-build-reviewed |
 | M093402 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralInverseOnConjugateHalfStatement` | volunteer-build-reviewed |
 | M093403 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairing` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M093922 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactTypePrime` | volunteer-build-reviewed |
 | M093923 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactorisableRestrictedTensorLevel` | volunteer-build-reviewed |
 | M093924 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactorisableRestrictedTensorLevelStatement` | volunteer-build-reviewed |
-| M093925 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FactorisationFromTopLine` | volunteer-build-reviewed |
-| M093927 | P1574 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FderivConjFrameToRealLieLoweringOperatorEqZeroStatement` | volunteer-build-reviewed |
-| M093931 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FibreIsogenyPairDefinedOverFiniteSubextensionStatement` | volunteer-build-reviewed |
-| M093932 | P0558 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FieldAdelicUnitTranslateBoundedOfSmallMultiples` | volunteer-build-reviewed |
-| M093934 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FinCoefMultT` | volunteer-build-reviewed |

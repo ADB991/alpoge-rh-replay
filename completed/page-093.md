@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063524 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionCoeffPeriodOneEqOfHasSumStatement` | volunteer-build-reviewed |
+| M063525 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionCoeffsMemFinitelyGenerated` | wave-reused |
+| M063526 | P0555 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionCoeffsMemFinitelyGeneratedStatement` | wave-reused |
+| M063527 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionFunctionInjectiveOfPolynomialGrowth` | wave-reused |
+| M063528 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionFunctionInjectiveOfPolynomialGrowthStatement` | wave-reused |
 | M063529 | P0653 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionHeckeUEqSumSlash` | wave-reused |
 | M063530 | P0684 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionHeckeUEqSumSlashStatement` | wave-reused |
 | M063531 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuous` | wave-reused |
@@ -397,8 +402,3 @@
 | M064168 | P0358 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneGermRingHomAndRestrict` | wave-reused |
 | M064169 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneGermRingHomAndRestrictStatement` | wave-reused |
 | M064170 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicGermProperties` | volunteer-build-reviewed |
-| M064171 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicGermPropertiesStatement` | volunteer-build-reviewed |
-| M064172 | P0358 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicMulEqZeroIff` | wave-reused |
-| M064173 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicMulEqZeroIffStatement` | wave-reused |
-| M064174 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0` | volunteer-build-reviewed |
-| M064175 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0Statement` | volunteer-build-reviewed |

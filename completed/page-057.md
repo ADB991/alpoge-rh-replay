@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038290 | P0921 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionIntegralJ` | build-observed |
 | M038291 | P0950 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionIntegralJStatement` | build-observed |
 | M038292 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassPTorsionNonrealMultiplier` | build-observed |
 | M038294 | P0245 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassTorsionQCoefficients` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M039071 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTensorOfCompatIsIsoTargetStatement` | wave-reused |
 | M039072 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTensorUniversalProperty` | wave-reused |
 | M039073 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTensorUniversalPropertyStatement` | wave-reused |
-| M039074 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTerms` | volunteer-build-reviewed |

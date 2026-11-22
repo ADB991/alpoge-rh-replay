@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061036 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassGroupNthPowerOfCongruentPointsModStatement` | volunteer-build-reviewed |
+| M061037 | P2311 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassInvariantDescentCoprimeLevelModPow` | volunteer-build-reviewed |
 | M061040 | P2098 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypotheses` | volunteer-build-reviewed |
 | M061041 | P2113 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypothesesStatement` | volunteer-build-reviewed |
 | M061051 | P1225 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmQuadraticPhaseEquivariantEmbeddingsStatement` | build-observed |
@@ -219,6 +221,7 @@
 | M061393 | P0187 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromISlashChangeOfVariablesStatement` | volunteer-build-reviewed |
 | M061395 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromITailExponentialDecayStatement` | volunteer-build-reviewed |
 | M061397 | P0304 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodCocycleMemCocyclesAndEqStatement` | volunteer-build-reviewed |
+| M061399 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodPolynomialLimitAtCuspStatement` | volunteer-build-reviewed |
 | M061402 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraConjCocyclesCoboundariesPeriodSmul` | volunteer-build-reviewed |
 | M061403 | P0187 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraConjCocyclesCoboundariesPeriodSmulStatement` | volunteer-build-reviewed |
 | M061405 | P2628 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerShimuraFrobeniusQuadraticModPrimePowStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M061692 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisConjValuationSubringSameTrace` | volunteer-build-reviewed |
 | M061693 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisConjValuationSubringSameTraceStatement` | volunteer-build-reviewed |
 | M061694 | P1062 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisConjugateModularFunctionSomeLevel` | wave-reused |
-| M061695 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisConjugateModularFunctionSomeLevelStatement` | wave-reused |
-| M061696 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisInvariantValuationIntegersEqIntegral` | wave-reused |
-| M061698 | P0653 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeight` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033686 | P2716 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericStatementOfCanonicalExtension` | build-observed |
 | M033687 | P2722 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericStatementOfCanonicalExtensionStatement` | build-observed |
 | M033690 | P2454 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericSubspaceMapExtends` | volunteer-build-reviewed |
 | M033695 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericThetaExpansionScalarNeZeroStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M034550 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorStructuresRelativelyRepresentable` | volunteer-build-reviewed |
 | M034552 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorStructuresRepresentableSiegelBaseCha` | volunteer-build-reviewed |
 | M034553 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorStructuresRepresentableSiegelBaseChaStatement` | volunteer-build-reviewed |
-| M034555 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTangentInjectiveAwayFromEtalePlace` | volunteer-build-reviewed |

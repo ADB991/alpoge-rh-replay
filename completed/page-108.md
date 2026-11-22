@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073866 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerOrderFormulaDualSelmer` | build-observed |
+| M073867 | P1098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerOrderFormulaDualSelmerStatement` | build-observed |
+| M073871 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerTheoremOfLocalComponentsStatement` | build-observed |
+| M073872 | P1098 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerUnramifiedOfVanishInertiaGenerators` | build-observed |
+| M073873 | P1126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelmerUnramifiedOfVanishInertiaGeneratorsStatement` | build-observed |
 | M073874 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemiBCInjectiveOfInjective` | build-observed |
 | M073875 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearCoefficientMapCocycles` | build-observed |
 | M073878 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearMatrixComm` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M074572 | P2628 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaIsotypicInnerNeZeroStatement` | volunteer-build-reviewed |
 | M074573 | P1910 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelFockVectorEqOfFinitePointMove` | volunteer-build-reviewed |
 | M074574 | P1928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelFockVectorEqOfFinitePointMoveStatement` | volunteer-build-reviewed |
-| M074575 | P2003 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelTranslateSumEqClassicalShortSeries` | volunteer-build-reviewed |
-| M074576 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelTranslateSumEqClassicalShortSeriesStatement` | volunteer-build-reviewed |
-| M074577 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituent` | volunteer-build-reviewed |
-| M074578 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituentStatement` | volunteer-build-reviewed |
-| M074579 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLatticeConditionOfSeriesComparisonUniversal` | volunteer-build-reviewed |

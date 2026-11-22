@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132253 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusEmbeddingLieInjective` | build-observed |
+| M132254 | P1074 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusEmbeddingLieInjectiveStatement` | build-observed |
+| M132255 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionAbelianQuotient` | volunteer-build-reviewed |
+| M132256 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionAbelianQuotientStatement` | volunteer-build-reviewed |
+| M132257 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionLieLattice` | volunteer-build-reviewed |
+| M132267 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsion` | volunteer-build-reviewed |
 | M132268 | P1552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusExtensionTwoTorsionStatement` | volunteer-build-reviewed |
 | M132269 | P0992 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMap` | build-observed |
 | M132270 | P1018 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TorusInjectiveLieMapStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M133025 | P0371 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaDistributionNonzeroAdmissible` | volunteer-build-reviewed |
 | M133027 | P0690 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaHeisenbergTranslatesSeparate` | volunteer-build-reviewed |
 | M133029 | P0661 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumAdmissibility` | volunteer-build-reviewed |
-| M133031 | P0208 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumStarAndSchAStar` | volunteer-build-reviewed |
-| M133032 | P1782 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.ThetaSumTensorProduct` | volunteer-build-reviewed |
-| M133035 | P1755 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivariance` | volunteer-build-reviewed |
-| M133036 | P1782 | `Development.AutomorphicSpectrum.Proofs.MembershipProofs.WeilRepresentationThetaEquivarianceStatement` | volunteer-build-reviewed |
-| M133037 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbelianPartHeightLinear` | build-observed |
-| M133038 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AbsCoeffProdXLeOne` | volunteer-build-reviewed |

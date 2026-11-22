@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162508 | P1054 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.DiffBound` | wave-reused |
+| M162509 | P1270 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsIsOpenForallCuspRepTFinOneEq` | wave-reused |
+| M162510 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsLintegralConstantTermL2SqLe` | wave-reused |
+| M162511 | P1112 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.ExistsNormRconvLeSiegel` | wave-reused |
+| M162512 | P1242 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.FixedOpen` | wave-reused |
+| M162513 | P0465 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.IsHilbertSchmidtOfAeEqDual` | wave-reused |
+| M162514 | P0159 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.MixedDifference` | wave-reused |
 | M162515 | P1082 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.RconvDiff` | wave-reused |
 | M162516 | P0971 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelConj` | wave-reused |
 | M162517 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.SiegelCount` | wave-reused |
@@ -395,10 +402,3 @@
 | M162932 | P0081 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Operators` | wave-reused |
 | M162933 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.OuterTensor` | wave-reused |
 | M162934 | P0081 | `GroundTheory.AutomorphicForms.TensorProductTheorem.PeterssonComplement` | wave-reused |
-| M162935 | P0380 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Places` | wave-reused |
-| M162936 | P0225 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Restricted` | wave-reused |
-| M162937 | P0282 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Smooth` | wave-reused |
-| M162938 | P0160 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TotallyDisconnectedSpaceRestrictedProduct` | wave-reused |
-| M162939 | P0465 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactor` | wave-reused |
-| M162940 | P0507 | `GroundTheory.AutomorphicForms.TensorProductTheorem.TwoFactorUnique` | wave-reused |
-| M162941 | P0425 | `GroundTheory.AutomorphicForms.TensorProductTheorem.Uniqueness` | wave-reused |

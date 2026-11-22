@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095412 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiFrameOfGridLatticeLargeDepth` | volunteer-build-reviewed |
+| M095413 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiFrameOfGridLatticeLargeDepthStatement` | volunteer-build-reviewed |
+| M095414 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiStepCoreComponentMemCoreDepthLattice` | volunteer-build-reviewed |
+| M095415 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiStepCoreComponentMemCoreDepthLatticeStatement` | volunteer-build-reviewed |
+| M095416 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCarriesFlagLinesRowPeriodSucc` | volunteer-build-reviewed |
 | M095417 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCarriesFlagLinesRowPeriodSuccStatement` | volunteer-build-reviewed |
 | M095418 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCorePieceNonzeroVacuum` | volunteer-build-reviewed |
 | M095419 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCorePieceNonzeroVacuumStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M095875 | P2241 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFiniteIdentityStatement` | volunteer-build-reviewed |
 | M095876 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierIdentity` | volunteer-build-reviewed |
 | M095877 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierIdentityStatement` | volunteer-build-reviewed |
-| M095878 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierTransform` | volunteer-build-reviewed |
-| M095879 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsFourierTransformStatement` | volunteer-build-reviewed |
-| M095880 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianIdentity` | volunteer-build-reviewed |
-| M095881 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianIdentityStatement` | volunteer-build-reviewed |
-| M095882 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernel` | volunteer-build-reviewed |

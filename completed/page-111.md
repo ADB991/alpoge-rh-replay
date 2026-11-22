@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076222 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumLatticeForms` | volunteer-build-reviewed |
+| M076223 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumPosHerm` | volunteer-build-reviewed |
+| M076225 | P1673 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassSumsEqPairingsTopChainLiftsStatement` | volunteer-build-reviewed |
+| M076226 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClassifiedTorusTorsionPointEqUniformisationTorus` | volunteer-build-reviewed |
+| M076229 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraic` | volunteer-build-reviewed |
 | M076230 | P1569 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointAlgebraicStatement` | build-observed |
 | M076232 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointGeometricFibresFinite` | volunteer-build-reviewed |
 | M076233 | P2282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointMemAbLocus` | build-observed |
@@ -397,8 +402,3 @@
 | M077031 | P2408 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdaptedSiegelBasisBalancedFormsStatement` | build-observed |
 | M077036 | P0622 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAddValuationNormalised` | build-observed |
 | M077037 | P2098 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicCoreTransportEnlargedCoefficientBase` | volunteer-build-reviewed |
-| M077038 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicCoreTransportEnlargedCoefficientBaseStatement` | volunteer-build-reviewed |
-| M077040 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicGLHomeomorphInfiniteFiniteStatement` | volunteer-build-reviewed |
-| M077041 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwists` | volunteer-build-reviewed |
-| M077042 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointDecoratedLatticeAllTwistsStatement` | volunteer-build-reviewed |
-| M077043 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdelicPointFinitePartEqRealOne` | volunteer-build-reviewed |

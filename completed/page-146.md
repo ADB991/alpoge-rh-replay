@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101848 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatOfU` | volunteer-build-reviewed |
+| M101849 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SatOfVec` | volunteer-build-reviewed |
+| M101850 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformCoefficients.SmCont` | volunteer-build-reviewed |
+| M101851 | P0559 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.NewformModel` | build-observed |
+| M101865 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDual2` | volunteer-build-reviewed |
 | M101866 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RDualC` | volunteer-build-reviewed |
 | M101869 | P1045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealCusp` | volunteer-build-reviewed |
 | M101870 | P1603 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RealTransport.RealTransport` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M102552 | P0131 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoFinite` | volunteer-build-reviewed |
 | M102553 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoMvps` | wave-reused |
 | M102554 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoQuot` | wave-reused |
-| M102555 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoRes` | wave-reused |
-| M102556 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSpan` | wave-reused |
-| M102557 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSqz` | volunteer-build-reviewed |
-| M102558 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSurj` | wave-reused |
-| M102559 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CocycleNormalForm` | volunteer-build-reviewed |

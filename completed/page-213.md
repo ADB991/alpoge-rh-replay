@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142855 | P0210 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.IntegralUnitBaseChange.QuotientIntegralOfCompactOpen` | volunteer-build-reviewed |
+| M142856 | P1496 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.ElementaryCosets.CosetMap` | volunteer-build-reviewed |
+| M142857 | P1526 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.ElementaryCosets.JPred` | volunteer-build-reviewed |
+| M142859 | P1415 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.GenericPrincipalSeries.GenericPrincipalSeries` | volunteer-build-reviewed |
+| M142860 | P0067 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.LocalUnitNormIndex.LocalUnitNormIndex` | volunteer-build-reviewed |
+| M142861 | P1467 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.StrictDominanceCasselman.IsStrictlyDominant` | volunteer-build-reviewed |
+| M142862 | P1526 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistClassAssociation.ElemAssoc` | volunteer-build-reviewed |
 | M142863 | P1554 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistClassAssociation.TwClassUnique` | volunteer-build-reviewed |
 | M142864 | P0210 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistedIndependenceLemma.TwistedIndependence` | build-observed |
 | M142865 | P1317 | `Development.WeilBound.RepresentationTheoryGL.TwistedFactors.SelmerRankBounds.EllipticityFromProductFormula` | build-observed |
@@ -395,10 +402,3 @@
 | M143802 | P0068 | `Development.WeilBound.ThetaLifts.SmallCones.ColsOfMul` | volunteer-build-reviewed |
 | M143805 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.ConeCore` | volunteer-build-reviewed |
 | M143807 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.ConeLaw` | volunteer-build-reviewed |
-| M143816 | P1732 | `Development.WeilBound.ThetaLifts.SmallCones.FourierUniq` | volunteer-build-reviewed |
-| M143820 | P1467 | `Development.WeilBound.ThetaLifts.SmallCones.IdeleTop` | volunteer-build-reviewed |
-| M143839 | P0068 | `Development.WeilBound.ThetaLifts.SmallCones.RightOfCompact` | volunteer-build-reviewed |
-| M143842 | P0068 | `Development.WeilBound.ThetaLifts.SmallCones.SliceArch` | volunteer-build-reviewed |
-| M143850 | P1661 | `Development.WeilBound.ThetaLifts.SmallCones.SplitLatMap` | volunteer-build-reviewed |
-| M143855 | P1497 | `Development.WeilBound.ThetaLifts.SmallCones.ThetaUniq` | volunteer-build-reviewed |
-| M143859 | P1639 | `Development.WeilBound.ThetaLifts.SmallCones.UnfMod` | volunteer-build-reviewed |

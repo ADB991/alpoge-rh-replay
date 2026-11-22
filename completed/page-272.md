@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174856 | P1786 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.TraceFormulaM` | wave-reused |
+| M174857 | P0345 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Transported` | wave-reused |
+| M174858 | P1168 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Unitarize` | wave-reused |
+| M174859 | P0093 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeA` | wave-reused |
+| M174860 | P0864 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeB` | wave-reused |
+| M174861 | P0890 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeC` | wave-reused |
+| M174862 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.UnitarizeD` | wave-reused |
+| M174863 | P1418 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.Weighted` | wave-reused |
+| M174864 | P1371 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedA` | wave-reused |
 | M174865 | P1393 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TensorRepresentations.WeightedB` | wave-reused |
 | M174866 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ActDiagMemOfWK` | build-observed |
 | M174867 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.AdMatConjTranspose` | build-observed |

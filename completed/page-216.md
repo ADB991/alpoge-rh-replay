@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144726 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TpCoeffNorm` | build-observed |
+| M144727 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.Turan2Main` | build-observed |
+| M144728 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TuranPowerSumBound` | build-observed |
+| M144729 | P0147 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TwentyFiveMulSmallConstant` | build-observed |
+| M144730 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.UbTerms` | build-observed |
+| M144731 | P0910 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ZeroCountFirst` | build-observed |
+| M144732 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ZeroDetectionSecond` | build-observed |
 | M144733 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.LogEightBound.ProgTwo` | build-observed |
 | M144734 | P1162 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ALocEqRoL` | wave-reused |
 | M144735 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AbsNormDiscrIdealOfLe` | wave-reused |
@@ -395,10 +402,3 @@
 | M145128 | P0212 | `Formalism.GaussJetBounds.StatementD` | build-observed |
 | M145129 | P0272 | `Formalism.GaussJetBounds.StatementE` | wave-reused |
 | M145130 | P0326 | `Formalism.GaussJetBounds.StatementG` | wave-reused |
-| M145131 | P0069 | `Formalism.GaussJetBounds.StatementH` | wave-reused |
-| M145132 | P0374 | `Formalism.GaussJetBounds.StatementI` | wave-reused |
-| M145133 | P0421 | `Formalism.GaussJetBounds.StatementJ` | wave-reused |
-| M145134 | P0461 | `Formalism.GaussJetBounds.StatementK` | wave-reused |
-| M145135 | P0502 | `Formalism.GaussJetBounds.StatementM` | wave-reused |
-| M145136 | P0421 | `Formalism.GaussJetBounds.StatementN` | build-observed |
-| M145137 | P0272 | `Formalism.GaussJetBounds.StatementO` | build-observed |

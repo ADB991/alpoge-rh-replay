@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071727 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemistableLatticeInMatrixAlgebraLayer` | volunteer-build-reviewed |
+| M071728 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSemistableLatticeInMatrixAlgebraLayerStatement` | volunteer-build-reviewed |
+| M071731 | P1405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSmoothCharCompNorm` | volunteer-build-reviewed |
+| M071733 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalFactorOfSphericalSubquotientStatement` | volunteer-build-reviewed |
+| M071734 | P2169 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalIffUnrOfLawsT` | volunteer-build-reviewed |
 | M071735 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSphericalOfHypOutside` | volunteer-build-reviewed |
 | M071739 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfIsConjPl` | volunteer-build-reviewed |
 | M071740 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfNotIsConjPl` | build-observed |
@@ -397,8 +402,3 @@
 | M072500 | P0654 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapExactMiddleStatement` | build-observed |
 | M072503 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapIsIsomSelfDualMeasureKerLEqPiHaar` | volunteer-build-reviewed |
 | M072505 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapMemA` | volunteer-build-reviewed |
-| M072513 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapPiEqOfMapAddHaarEq` | volunteer-build-reviewed |
-| M072515 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MapVVSymmMapVV` | volunteer-build-reviewed |
-| M072516 | P2057 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMul` | volunteer-build-reviewed |
-| M072517 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCoeffFinitePlaceOffLevelConstMulStatement` | volunteer-build-reviewed |
-| M072518 | P0622 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommutantValuationDecomposition` | build-observed |

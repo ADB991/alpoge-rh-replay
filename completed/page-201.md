@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133630 | P1047 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackThird` | build-observed |
+| M133631 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapPullbackThirdStatement` | build-observed |
+| M133632 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapSameBaseOrbit` | build-observed |
+| M133633 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapSameBaseOrbitStatement` | build-observed |
+| M133634 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariant` | build-observed |
+| M133635 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagGapTorusInvariantStatement` | build-observed |
 | M133639 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagHeightPolynomialWeightForm` | volunteer-build-reviewed |
 | M133646 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPoints` | wave-reused |
 | M133647 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagModelBaseProjectionPointsStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M134278 | P0745 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationBijectiveDegreeOneStatement` | build-observed |
 | M134280 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationFibreProductCompatibleStatement` | volunteer-build-reviewed |
 | M134281 | P1210 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationHeightIndependence` | build-observed |
-| M134282 | P1237 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationHeightIndependenceStatement` | build-observed |
-| M134283 | P0772 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationPotentialDegreeCompatibility` | build-observed |
-| M134284 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RealisationPotentialDegreeCompatibilityStatement` | volunteer-build-reviewed |
-| M134289 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularChartDataProperties` | wave-reused |
-| M134290 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularChartDataPropertiesStatement` | wave-reused |
-| M134292 | P1019 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RegularFamilyEventuallySmoothPsh` | build-observed |

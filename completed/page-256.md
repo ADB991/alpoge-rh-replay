@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165649 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PEventuallyPolyUnique` | pilot-reused |
+| M165650 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PExistsForm` | pilot-reused |
+| M165651 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreFinite` | wave-reused |
+| M165652 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreNonempty` | wave-reused |
+| M165653 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFibreRelDim` | wave-reused |
+| M165654 | P0164 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFiniteAlgebraLengthSum` | wave-reused |
+| M165655 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PFunctionFieldFinite` | wave-reused |
+| M165656 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PGradedFinite` | pilot-reused |
 | M165657 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbAddBlock` | pilot-reused |
 | M165658 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbDegreeBound` | pilot-reused |
 | M165659 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PHilbExactDivide` | pilot-reused |
@@ -394,11 +402,3 @@
 | M166081 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsExtra` | volunteer-build-reviewed |
 | M166084 | P0285 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.ImportsRest` | volunteer-build-reviewed |
 | M166086 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsArithVarBotDualBlocksUnit` | build-observed |
-| M166087 | P0575 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsLatticeBundle` | build-observed |
-| M166088 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsSiegelReducedCoordinates` | volunteer-build-reviewed |
-| M166090 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCauchyBinet` | wave-reused |
-| M166091 | P0428 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartCutoffEnergy` | volunteer-build-reviewed |
-| M166092 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartDensityIntegrable` | volunteer-build-reviewed |
-| M166095 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyCocycle` | build-observed |
-| M166097 | P0752 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyIntegrable` | build-observed |
-| M166098 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyInvariant` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082352 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StabiliserMapHyperplaneEqConjClassMapStatement` | volunteer-build-reviewed |
+| M082355 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StableHeckeLevelCharacter` | volunteer-build-reviewed |
+| M082359 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompat` | volunteer-build-reviewed |
+| M082360 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkGenerizationGermCompatStatement` | volunteer-build-reviewed |
+| M082366 | P0037 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerization` | volunteer-build-reviewed |
 | M082367 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StalkLocalizationEqGenerizationStatement` | volunteer-build-reviewed |
 | M082374 | P1457 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardAddCharPlaceIdempotentDivPrime` | volunteer-build-reviewed |
 | M082378 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateClose` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M083444 | P0930 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoefHasDerivAt` | build-observed |
 | M083445 | P0901 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoeffDofSubMem` | wave-reused |
 | M083448 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoeffProdLeadingMinors` | volunteer-build-reviewed |
-| M083449 | P0037 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CoeffProdXSubCNormLe` | volunteer-build-reviewed |
-| M083450 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ColValueMulOfDisjointColumns` | volunteer-build-reviewed |
-| M083453 | P2181 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalars` | volunteer-build-reviewed |
-| M083454 | P2191 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CombinedBoundForRunScalarsStatement` | volunteer-build-reviewed |
-| M083457 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundElementaryApply` | build-observed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149266 | P1108 | `Formalism.LocalToGlobal.IndefiniteReal.DatumLemmas` | volunteer-build-reviewed |
+| M149267 | P1164 | `Formalism.LocalToGlobal.IndefiniteReal.DatumVec` | build-observed |
+| M149268 | P0070 | `Formalism.LocalToGlobal.IndefiniteReal.DeterminantProjection` | volunteer-build-reviewed |
+| M149273 | P0149 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.GoodPartLeTypeSubspace` | build-observed |
+| M149275 | P0213 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.HkCore` | build-observed |
+| M149277 | P0830 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.ImaginaryGeneratorMulDenominator` | build-observed |
+| M149278 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NHkRow` | build-observed |
 | M149279 | P1878 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.NMjT` | build-observed |
 | M149280 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.Objects` | build-observed |
 | M149281 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.DoubleCosetOperators.RatDatOfReal` | build-observed |
@@ -395,10 +402,3 @@
 | M150234 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.ExistsBasisIn` | volunteer-build-reviewed |
 | M150236 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.FinitePlaceArcs.BeSumPf` | volunteer-build-reviewed |
 | M150237 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.FinitePlaceArcs.BeSumStatement` | volunteer-build-reviewed |
-| M150242 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.FinrankCmType` | volunteer-build-reviewed |
-| M150243 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.FundamentalDomainD5` | build-observed |
-| M150244 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.HQsmulRight` | volunteer-build-reviewed |
-| M150245 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.LatticeZbasis` | volunteer-build-reviewed |
-| M150247 | P1240 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.KerExistsStatement` | volunteer-build-reviewed |
-| M150249 | P0666 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsPfA` | build-observed |
-| M150250 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.ArchimedeanQuadraticData.MaximalCuspKernels.MaxCuspsPfB` | volunteer-build-reviewed |

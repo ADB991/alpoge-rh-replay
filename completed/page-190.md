@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125976 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialOfConjTorus` | volunteer-build-reviewed |
+| M125978 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuBNat` | wave-reused |
+| M125979 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuCharacterExists` | volunteer-build-reviewed |
+| M125980 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuCharacterExistsStatement` | volunteer-build-reviewed |
+| M125981 | P1366 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqOfRangeLe` | volunteer-build-reviewed |
+| M125982 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqZeroOfCPowMemSpan` | volunteer-build-reviewed |
 | M125983 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEvCongr` | volunteer-build-reviewed |
 | M125984 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvEqOfCentral` | volunteer-build-reviewed |
 | M125985 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulInvMemQOfRowQEq` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M126587 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTimesGaussianBounded` | volunteer-build-reviewed |
 | M126588 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTimesGaussianBoundedStatement` | volunteer-build-reviewed |
 | M126589 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTransfer` | build-observed |
-| M126590 | P1235 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PolynomialTransferStatement` | build-observed |
-| M126591 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PosDefFactor` | volunteer-build-reviewed |
-| M126592 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PosNorm` | volunteer-build-reviewed |
-| M126598 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveConeStructureStatement` | volunteer-build-reviewed |
-| M126599 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveHermitianPolynomial` | volunteer-build-reviewed |
-| M126601 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PositiveOnSubspaceOpen` | volunteer-build-reviewed |

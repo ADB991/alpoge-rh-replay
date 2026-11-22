@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154160 | P0151 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.ExistsBoundedMultiplier` | volunteer-build-reviewed |
+| M154161 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.HformSelfStar` | build-observed |
+| M154164 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.HmkFactor` | build-observed |
+| M154165 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.IdealMulPrincipal` | volunteer-build-reviewed |
+| M154169 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.PartShortOf` | volunteer-build-reviewed |
+| M154173 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.SpDen` | build-observed |
+| M154175 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.StGenusOf` | wave-reused |
 | M154183 | P0666 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Assemble` | build-observed |
 | M154184 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ChiEqOneOfClosure` | build-observed |
 | M154185 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Commensurated` | build-observed |
@@ -395,10 +402,3 @@
 | M154662 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GoodRDet` | build-observed |
 | M154663 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GoodRDiff` | build-observed |
 | M154664 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GoodREp` | build-observed |
-| M154665 | P1050 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GoodRGa` | build-observed |
-| M154666 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramCondIff` | build-observed |
-| M154667 | P1663 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramDeterminantFormula` | build-observed |
-| M154668 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GramIff` | build-observed |
-| M154669 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.GzNeOfTotPos` | build-observed |
-| M154670 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.HTIntLeft` | build-observed |
-| M154672 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.IndepOf` | build-observed |

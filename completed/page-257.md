@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166087 | P0575 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsLatticeBundle` | build-observed |
+| M166088 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.IsSiegelReducedCoordinates` | volunteer-build-reviewed |
+| M166090 | P0164 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PCauchyBinet` | wave-reused |
+| M166091 | P0428 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartCutoffEnergy` | volunteer-build-reviewed |
+| M166092 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartDensityIntegrable` | volunteer-build-reviewed |
+| M166095 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyCocycle` | build-observed |
+| M166097 | P0752 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyIntegrable` | build-observed |
+| M166098 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergyInvariant` | volunteer-build-reviewed |
 | M166099 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartEnergySwap` | build-observed |
 | M166101 | P0384 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartHessCompare` | volunteer-build-reviewed |
 | M166103 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PChartIbpSymm` | build-observed |
@@ -394,11 +402,3 @@
 | M166906 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PZCombLimit` | build-observed |
 | M166907 | P0753 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PZeroCocycleSection` | wave-reused |
 | M166908 | P0286 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PolydiscMean` | volunteer-build-reviewed |
-| M166910 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.ProjectiveSpaceIncrementHyp` | wave-reused |
-| M166920 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionL2NormSq` | volunteer-build-reviewed |
-| M166921 | P0753 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.EventuallyDifferentiableAt` | build-observed |
-| M166922 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.ExistsFormOfMemChartRingZ` | build-observed |
-| M166923 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SectionNormSquares.Pointwise` | build-observed |
-| M166925 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountLeOfInjOn` | wave-reused |
-| M166927 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.SmallSectionCountMonoLattice` | build-observed |
-| M166929 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StandardLatticeVecIndep` | volunteer-build-reviewed |

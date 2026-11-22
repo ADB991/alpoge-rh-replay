@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138524 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ReBase` | build-observed |
+| M138529 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfHopf` | build-observed |
+| M138530 | P0459 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RfTors` | build-observed |
+| M138533 | P0323 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RhPull` | volunteer-build-reviewed |
+| M138534 | P0372 | `Development.WeilBound.CoreStatements.HodgeTatePoints.RiEasy` | volunteer-build-reviewed |
+| M138538 | P0909 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuKodaira` | build-observed |
 | M138539 | P0746 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuSegre` | build-observed |
 | M138540 | P0883 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaKodOf` | build-observed |
 | M138541 | P0065 | `Development.WeilBound.CoreStatements.HodgeTatePoints.SiuaNum` | volunteer-build-reviewed |
@@ -117,6 +123,7 @@
 | M138762 | P1389 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.GenIdeal` | build-observed |
 | M138763 | P2501 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.HermitianSectionsHeightBound` | volunteer-build-reviewed |
 | M138766 | P2444 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsClosedOfCoheight` | volunteer-build-reviewed |
+| M138767 | P0372 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsProjPrimeOfRelComps` | volunteer-build-reviewed |
 | M138768 | P2416 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.LeDimQuotientHorizontal` | volunteer-build-reviewed |
 | M138769 | P0323 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.MemMinimalPrimesIff` | volunteer-build-reviewed |
 | M138771 | P0065 | `Development.WeilBound.CoreStatements.MinimalPrimeDimensions.MemOfForallValuationSubring` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M139379 | P1186 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.AnalyticAtFlagPt` | build-observed |
 | M139383 | P2444 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ChartPeriods` | volunteer-build-reviewed |
 | M139384 | P1106 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ContinuousOnLogNormSec` | build-observed |
-| M139387 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.EvalFam` | build-observed |
-| M139388 | P0883 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsFlagFrame` | build-observed |
-| M139390 | P0693 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsHoloOnOfGerm` | build-observed |
-| M139392 | P0937 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.ExistsPenFrame` | build-observed |
-| M139396 | P2501 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.FamilyPeriod` | volunteer-build-reviewed |
-| M139401 | P0883 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsBlockMapInitialVertex` | build-observed |
-| M139403 | P2472 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.IsDerivAt0Congr` | volunteer-build-reviewed |

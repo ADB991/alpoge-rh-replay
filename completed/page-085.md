@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058398 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpan` | wave-reused |
+| M058399 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDefectClassMemTraceFirstFrameSpanStatement` | wave-reused |
 | M058400 | P1033 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocal` | wave-reused |
 | M058401 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocalStatement` | wave-reused |
 | M058402 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFrameClassProperties` | wave-reused |
@@ -400,5 +402,3 @@
 | M059019 | P1402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearFormsBoundedRepresentativesStatement` | volunteer-build-reviewed |
 | M059021 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentChangedRationalFramesOfUnitrianStatement` | volunteer-build-reviewed |
 | M059022 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentOfGram` | wave-reused |
-| M059023 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentRatTupOfDetNeZero` | volunteer-build-reviewed |
-| M059024 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LinearIndependentSkew` | build-observed |

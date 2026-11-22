@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074575 | P2003 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelTranslateSumEqClassicalShortSeries` | volunteer-build-reviewed |
+| M074576 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaKernelTranslateSumEqClassicalShortSeriesStatement` | volunteer-build-reviewed |
+| M074577 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituent` | volunteer-build-reviewed |
+| M074578 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLabelRootOfHarishChandraConstituentStatement` | volunteer-build-reviewed |
+| M074579 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLatticeConditionOfSeriesComparisonUniversal` | volunteer-build-reviewed |
 | M074582 | P2665 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSum` | volunteer-build-reviewed |
 | M074583 | P2671 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSumStatement` | volunteer-build-reviewed |
 | M074585 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationAtRealPlacesStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M075298 | P1127 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeierstrassPreparationWittOfTiltFiniteFieldStatement` | wave-reused |
 | M075301 | P1069 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightGoodReductionAtPrimeStatement` | volunteer-build-reviewed |
 | M075302 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightInfinitesimalCharacterParamOfLevelCompatib` | volunteer-build-reviewed |
-| M075307 | P1843 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightSectionEqZeroOfVanishingFiniteExtensionsStatement` | volunteer-build-reviewed |
-| M075308 | P2191 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightVectorRealizationExists` | volunteer-build-reviewed |
-| M075309 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightVectorRealizationExistsStatement` | volunteer-build-reviewed |
-| M075311 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroPotentiallySemistableOfSenTheoremStatement` | volunteer-build-reviewed |
-| M075312 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightZeroSectionValueOnMarkedPeriodSpace` | volunteer-build-reviewed |

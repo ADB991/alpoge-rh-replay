@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    "M061765"
+  ],
+  "started_utc": "2026-11-22T10:28:46.586346+00:00",
+  "ended_utc": "2026-11-22T10:29:49.513000+00:00",
+  "elapsed_seconds": 62.9,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6371444
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsInvariantLift:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "b79eeb5fe3494bd0880ea824e13221e1a4e253851ffe203bc3e88f9d8f74d183",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Foundations.EigenOfTwoStep",
+    "Development.AbelianVarietyTheory.Definitions.Foundations.IsRootOne",
+    "Development.AbelianVarietyTheory.Definitions.Foundations.OpLDOneSubMemTriv",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.TowerUnitClassModPrimePowProperties"
+  ],
+  "objects": {
+    "M061765": "acfa241d7793539b810bc45e84aceaf762cef0819b45b607047c84ebd7854a21"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "0f28d652aef396f5af56b9485c3cdc0078bda7c9d576705878f13610e3a5c494",
+  "packet": "M061765",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31554#issuecomment-7077833494",
+  "reviewed_utc": "2026-11-22T11:57:49.839644+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

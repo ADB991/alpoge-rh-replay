@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111440 | P1017 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.CvSmulRight` | build-observed |
+| M111441 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoShape` | build-observed |
+| M111442 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DcoVol` | build-observed |
+| M111443 | P1045 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepAbs` | build-observed |
+| M111444 | P1522 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DeepHecke` | build-observed |
 | M111445 | P1436 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.DefBridge` | build-observed |
 | M111446 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.EigBasis` | build-observed |
 | M111447 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.GapDom` | build-observed |
@@ -397,8 +402,3 @@
 | M111909 | P2045 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PAffFin` | volunteer-build-reviewed |
 | M111913 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PBaseChart` | volunteer-build-reviewed |
 | M111914 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PBaseSmooth` | volunteer-build-reviewed |
-| M111915 | P2027 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PBoundSt` | volunteer-build-reviewed |
-| M111916 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCharAnn` | volunteer-build-reviewed |
-| M111917 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCharts` | volunteer-build-reviewed |
-| M111918 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCoeffInt` | volunteer-build-reviewed |
-| M111919 | P0202 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.PCongrRad` | volunteer-build-reviewed |

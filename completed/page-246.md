@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160457 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ConstantCoeffAeval` | wave-reused |
+| M160458 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloDist` | wave-reused |
+| M160459 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.CycloSimple` | wave-reused |
+| M160460 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.EmultiplicityEqValuation` | wave-reused |
+| M160461 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.EqZeroOfBlockSumEqZero` | wave-reused |
+| M160462 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.ExpRescaleCoeff` | wave-reused |
+| M160463 | P0464 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.LinkRing` | wave-reused |
 | M160464 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.MapEvalRingHomOfPiFamily` | wave-reused |
 | M160465 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PiSeries` | wave-reused |
 | M160466 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.CyclotomicPowerSeries.PolynomialCoePowerSeriesEqAevalX` | wave-reused |
@@ -395,10 +402,3 @@
 | M161234 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.RuleIso` | volunteer-build-reviewed |
 | M161236 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.RuleNzd` | volunteer-build-reviewed |
 | M161238 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.RuleShift` | volunteer-build-reviewed |
-| M161239 | P0332 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.RuleSmall` | volunteer-build-reviewed |
-| M161241 | P0280 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.SumPowersetFinSucc` | volunteer-build-reviewed |
-| M161242 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.NoetherianQuotientCalc.VanishingBelowDimensionRule` | volunteer-build-reviewed |
-| M161243 | P0222 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LeastPrimeTwists.QuotientShiftIrreducible.UZGen` | volunteer-build-reviewed |
-| M161251 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.LiftInvariantsFinrankEq` | volunteer-build-reviewed |
-| M161252 | P0079 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ScaleEps` | volunteer-build-reviewed |
-| M161253 | P0158 | `Formalism.SharpRestriction.ValuationFrobeniusEpsilon.ScaledValuations.ValuationApplyLtOneIff` | volunteer-build-reviewed |

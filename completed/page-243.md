@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159170 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DominantOfIsHighestWeightVectorPolynomial` | build-observed |
+| M159171 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.DualWeightVectorApplyEqZeroOfNeNeg` | build-observed |
+| M159172 | P1296 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExistsDominantTopWeightNonzero` | build-observed |
+| M159173 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExistsIsotypicDecomposition` | build-observed |
+| M159174 | P1024 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ExtendByZeroRestrictOfVanish` | build-observed |
+| M159175 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.FormalSeriesConditionsB1ToB4` | build-observed |
+| M159176 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.GlOperatorsFormRepresentation` | build-observed |
 | M159177 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.HighestWeightSpaceEqSpanHighestWeightVector` | build-observed |
 | M159178 | P0997 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IndexOffRange` | build-observed |
 | M159179 | P1499 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.IsotypicSumInfStandardWordsOutsideEqBot` | build-observed |
@@ -395,10 +402,3 @@
 | M159601 | P1111 | `Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.NmHContrPos` | build-observed |
 | M159602 | P1140 | `Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.SelfDualLatticesOneOrbit` | build-observed |
 | M159603 | P1111 | `Formalism.SharpRestriction.GrowthBounds.FrobeniusPaths.WedgeSplitTan` | build-observed |
-| M159604 | P1370 | `Formalism.SharpRestriction.GrowthBounds.GLWeightTheory` | wave-reused |
-| M159605 | P0970 | `Formalism.SharpRestriction.GrowthBounds.GenIntSPsubst` | build-observed |
-| M159606 | P1734 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor` | build-observed |
-| M159607 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionBlockEmb` | build-observed |
-| M159608 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.BlockSubstitutionEmbedding` | build-observed |
-| M159609 | P1470 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CcDualWtAnti` | build-observed |
-| M159610 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudA` | build-observed |

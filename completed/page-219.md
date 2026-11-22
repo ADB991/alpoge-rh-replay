@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146692 | P0069 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormSumLeOfGram` | volunteer-build-reviewed |
+| M146693 | P1266 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormTwoSidedTranslateGrowthBound` | build-observed |
+| M146694 | P0748 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.NormalFormOrderZeroOfParts` | wave-reused |
+| M146698 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OffDiagonalSchurComplement` | build-observed |
+| M146700 | P0665 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OmegaNormCofactorOfParts` | build-observed |
+| M146702 | P1639 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddPowLeExp` | volunteer-build-reviewed |
+| M146703 | P1187 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneAddProjectionMemIsotropicSet` | build-observed |
 | M146704 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelCoefficients` | build-observed |
 | M146705 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequality` | build-observed |
 | M146706 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OneLevelInequalitySplitBySize` | build-observed |
@@ -395,10 +402,3 @@
 | M147306 | P0148 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.DetIndexProductHyperbolicInequality` | build-observed |
 | M147307 | P0148 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.OmegaPow` | build-observed |
 | M147308 | P0148 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.ProdInfinitePlaceLeOfIntegral` | build-observed |
-| M147309 | P0327 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.SesquilinearDeterminantHolds` | build-observed |
-| M147310 | P0148 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.SubgroupCount` | build-observed |
-| M147311 | P0213 | `Formalism.HyperbolicPlaceProducts.SubgroupIndexCounts.TheoremBEntryFormula` | build-observed |
-| M147312 | P0273 | `Formalism.IncomingBounds.DefsThmP` | wave-reused |
-| M147313 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.AltChooseSumEqZero` | build-observed |
-| M147314 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.BaseTermLeTopTerm` | build-observed |
-| M147315 | P0213 | `Formalism.IncomingBounds.FlowDegreeBounds.Cayley` | build-observed |

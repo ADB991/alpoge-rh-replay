@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157811 | P1023 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsSevenLinkage` | wave-reused |
+| M157812 | P1051 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsSevenLinkageAlt` | wave-reused |
+| M157813 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CountLeftInvSeqAlternatingWordEven` | wave-reused |
+| M157814 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.DepthNonnegative` | wave-reused |
+| M157815 | P0750 | `Formalism.PieriBlockIdeals.PieriColumnMinors.DividedPowerZeroZeroVector` | wave-reused |
+| M157816 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ExactExponentLatticeIncl` | wave-reused |
+| M157817 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.FsDivMem` | wave-reused |
 | M157818 | P0464 | `Formalism.PieriBlockIdeals.PieriColumnMinors.GeneratedHighestWeightHolds` | wave-reused |
 | M157819 | P0332 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeckeLFunctionIdealEulerProduct` | wave-reused |
 | M157820 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.HeightDescentMinors` | wave-reused |
@@ -395,10 +402,3 @@
 | M158218 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.AmplitudeAndVolumeBounds` | build-observed |
 | M158219 | P0887 | `Formalism.SharpRestriction.CuspSpanNormBounds.AutLzFiniteOfLoop` | build-observed |
 | M158220 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.AuxiliaryNormPrimes` | build-observed |
-| M158221 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.AuxiliarySlotStates` | wave-reused |
-| M158222 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BcWeightEqZeroOf` | build-observed |
-| M158223 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.BesselBoundFamilyOfDoubleCoset` | build-observed |
-| M158224 | P0969 | `Formalism.SharpRestriction.CuspSpanNormBounds.BesselShellMomentBounds` | build-observed |
-| M158225 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BigCellDensity` | build-observed |
-| M158226 | P0724 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEnds` | wave-reused |
-| M158227 | P0941 | `Formalism.SharpRestriction.CuspSpanNormBounds.BlockEstimateTheorem` | build-observed |

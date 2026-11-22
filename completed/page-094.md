@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064171 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicGermPropertiesStatement` | volunteer-build-reviewed |
+| M064172 | P0358 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicMulEqZeroIff` | wave-reused |
+| M064173 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperHalfPlaneHolomorphicMulEqZeroIffStatement` | wave-reused |
+| M064174 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0` | volunteer-build-reviewed |
+| M064175 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperMulEqMulDiamondDiagGamma1InterGamma0Statement` | volunteer-build-reviewed |
 | M064176 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1Inte` | volunteer-build-reviewed |
 | M064177 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1InteStatement` | volunteer-build-reviewed |
 | M064184 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOne` | build-observed |
@@ -397,8 +402,3 @@
 | M064951 | P2113 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FormsMapAtEveryTrueColumnMember` | volunteer-build-reviewed |
 | M064952 | P2125 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FormsMapAtEveryTrueColumnMemberStatement` | volunteer-build-reviewed |
 | M064953 | P2098 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FormsMapOfSymmetricComparisonLowerMapFiniteChar` | volunteer-build-reviewed |
-| M064954 | P1150 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FormsStableOfTgtEq` | build-observed |
-| M064961 | P1175 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FundamentalDomainNeZero` | volunteer-build-reviewed |
-| M064965 | P2493 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaloisRepTowerRestriction` | volunteer-build-reviewed |
-| M064966 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GaussianOddJacobiThetaEqDerivMulSgStar` | volunteer-build-reviewed |
-| M064969 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GenusMassEntry` | volunteer-build-reviewed |

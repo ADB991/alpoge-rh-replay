@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108889 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AlgHomResUnique` | volunteer-build-reviewed |
+| M108890 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.AmbZero` | volunteer-build-reviewed |
+| M108891 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.BlockDet` | volunteer-build-reviewed |
+| M108894 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Chain3` | volunteer-build-reviewed |
+| M108895 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainDesc` | volunteer-build-reviewed |
 | M108896 | P0201 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ChainMap` | volunteer-build-reviewed |
 | M108897 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.CharpolyMapRep` | volunteer-build-reviewed |
 | M108900 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ConTrace` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M109399 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.CurveEtaleDescent` | volunteer-build-reviewed |
 | M109400 | P0878 | `Development.AutomorphicArithmetic.CommutativeAlgebra.CurvePicardOfSelmerPicardOfModelCurve` | wave-reused |
 | M109402 | P0593 | `Development.AutomorphicArithmetic.CommutativeAlgebra.DescentOfIntegralDescentTruncation` | wave-reused |
-| M109403 | P0560 | `Development.AutomorphicArithmetic.CommutativeAlgebra.DoubleMappingCylinderCochainExtension` | build-observed |
-| M109404 | P0045 | `Development.AutomorphicArithmetic.CommutativeAlgebra.DvdExponentOfPowEqLaurentMonomial` | volunteer-build-reviewed |
-| M109406 | P0658 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqOfUnitGlobalSectionEq` | wave-reused |
-| M109409 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistBlowupRestriction` | volunteer-build-reviewed |
-| M109410 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistUnimodularUnitLocus` | volunteer-build-reviewed |

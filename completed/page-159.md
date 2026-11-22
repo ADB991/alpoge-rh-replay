@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109403 | P0560 | `Development.AutomorphicArithmetic.CommutativeAlgebra.DoubleMappingCylinderCochainExtension` | build-observed |
+| M109404 | P0045 | `Development.AutomorphicArithmetic.CommutativeAlgebra.DvdExponentOfPowEqLaurentMonomial` | volunteer-build-reviewed |
+| M109406 | P0658 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqOfUnitGlobalSectionEq` | wave-reused |
+| M109409 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistBlowupRestriction` | volunteer-build-reviewed |
+| M109410 | P2795 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EqvTwistUnimodularUnitLocus` | volunteer-build-reviewed |
 | M109411 | P0411 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.A6supp` | volunteer-build-reviewed |
 | M109412 | P1288 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AbsInvOf` | volunteer-build-reviewed |
 | M109413 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AddIff` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M109979 | P0453 | `Development.AutomorphicArithmetic.CyclotomicBounds.RamifiedDiscriminants.VdHLeNatAbs` | volunteer-build-reviewed |
 | M109980 | P0201 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.AutApprox` | build-observed |
 | M109981 | P0593 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.HostApprox` | build-observed |
-| M109983 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.MassNumeric` | volunteer-build-reviewed |
-| M109984 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.Monomial` | volunteer-build-reviewed |
-| M109985 | P0627 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuLe` | build-observed |
-| M109986 | P0627 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuQDUnit` | build-observed |
-| M109987 | P0797 | `Development.AutomorphicArithmetic.CyclotomicBounds.RootsOfUnity.NuRecord` | build-observed |

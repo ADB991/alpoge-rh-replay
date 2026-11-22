@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061695 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisConjugateModularFunctionSomeLevelStatement` | wave-reused |
+| M061696 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGaloisInvariantValuationIntegersEqIntegral` | wave-reused |
+| M061698 | P0653 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeight` | wave-reused |
 | M061699 | P0683 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeightStatement` | wave-reused |
 | M061704 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePa` | volunteer-build-reviewed |
 | M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |
@@ -50,6 +53,7 @@
 | M061762 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntertwinerHeisenbergCocycleOfFixedVector` | volunteer-build-reviewed |
 | M061763 | P0788 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntertwinerMapHighestWeightVectorCompact` | build-observed |
 | M061764 | P0816 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIntertwinerMapHighestWeightVectorCompactStatement` | build-observed |
+| M061765 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsInvariantLift` | volunteer-build-reviewed |
 | M061766 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducible` | build-observed |
 | M061767 | P0187 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducibleEquivariantProjection` | volunteer-build-reviewed |
 | M061770 | P1770 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIrreducibleUnitaryCompletionFiniteTimesDSStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M062345 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GreenFormulaPeriodicRectangleUpperHalfPlane` | volunteer-build-reviewed |
 | M062346 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GreenFormulaPeriodicRectangleUpperHalfPlaneStatement` | volunteer-build-reviewed |
 | M062347 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GreenbergOrdinaryOfVanishingOnCycloKernel` | volunteer-build-reviewed |
-| M062351 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GroupAlgebraOperatorConvolutionCalculus` | wave-reused |
-| M062352 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.GroupAlgebraOperatorConvolutionCalculusStatement` | wave-reused |
-| M062353 | P0789 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.H2EquivOfTorsionCharacter` | build-observed |
-| M062355 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCoeffRingHomMapCoeff` | volunteer-build-reviewed |

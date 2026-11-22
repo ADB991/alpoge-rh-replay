@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157327 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.LsLat` | build-observed |
+| M157328 | P0750 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.OneSubEvTInvInt` | build-observed |
+| M157329 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermC` | build-observed |
+| M157330 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermCL` | build-observed |
+| M157331 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermSk` | build-observed |
+| M157332 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermT` | build-observed |
+| M157333 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PHermXB` | build-observed |
 | M157334 | P0860 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PLatStep` | build-observed |
 | M157335 | P0804 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PPatchF` | build-observed |
 | M157336 | P0668 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.PSurjA` | build-observed |
@@ -395,10 +402,3 @@
 | M157808 | P0912 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ColumnsPieriSkeleton` | wave-reused |
 | M157809 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ContentLinkageHolds` | wave-reused |
 | M157810 | P0996 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsLinkage` | wave-reused |
-| M157811 | P1023 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsSevenLinkage` | wave-reused |
-| M157812 | P1051 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CorollaryOfParamsSevenLinkageAlt` | wave-reused |
-| M157813 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.CountLeftInvSeqAlternatingWordEven` | wave-reused |
-| M157814 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.DepthNonnegative` | wave-reused |
-| M157815 | P0750 | `Formalism.PieriBlockIdeals.PieriColumnMinors.DividedPowerZeroZeroVector` | wave-reused |
-| M157816 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ExactExponentLatticeIncl` | wave-reused |
-| M157817 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.FsDivMem` | wave-reused |

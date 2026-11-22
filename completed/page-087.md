@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059688 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.PrimitiveTuplesWithGramMatrixHenselCountStatement` | wave-reused |
+| M059692 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdFirstBlocksByLayers` | volunteer-build-reviewed |
 | M059697 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSq` | build-observed |
 | M059698 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSqStatement` | build-observed |
 | M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M060402 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumInvStabilizerEqTsumMulFiber` | volunteer-build-reviewed |
 | M060403 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumInvStabilizerEqTsumMulFiberStatement` | volunteer-build-reviewed |
 | M060404 | P0586 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumOrbitNormaliser` | wave-reused |
-| M060405 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumPiProdEnnreal` | volunteer-build-reviewed |
-| M060407 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumRationalClassesEqProdLocalSumsStatement` | volunteer-build-reviewed |

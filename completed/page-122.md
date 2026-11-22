@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085731 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.LocallyQuasiFiniteOfTrivialOnFibres` | volunteer-build-reviewed |
+| M085734 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MapDegreeEqExpCharPowMulCardKernel` | volunteer-build-reviewed |
+| M085736 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MapToUniversalObjectUnique` | volunteer-build-reviewed |
+| M085742 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemMapKerOfOneTmulEqZeroOfFlat` | volunteer-build-reviewed |
+| M085744 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemOfMemImage` | volunteer-build-reviewed |
 | M085745 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemRangeOfIsPullback` | volunteer-build-reviewed |
 | M085747 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MinimalAndDimLe` | volunteer-build-reviewed |
 | M085749 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M086624 | P0767 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.AutomorphicRepEqOfEqAtAlmostAllSplitPlacesStatement` | build-observed |
 | M086628 | P1015 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BTLeFiveQuarters` | build-observed |
 | M086630 | P2616 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BasSingleMulSelf` | volunteer-build-reviewed |
-| M086631 | P1487 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeIsomorphicFields` | volunteer-build-reviewed |
-| M086632 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeTwistedCuspParts` | volunteer-build-reviewed |
-| M086633 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseChangeTwistedCuspPartsStatement` | volunteer-build-reviewed |
-| M086634 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepIntegralAfterScalingAtBadPrime` | volunteer-build-reviewed |
-| M086636 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepresentativeBoundedAtBadPrimes` | volunteer-build-reviewed |

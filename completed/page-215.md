@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144324 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.JetsOne` | wave-reused |
+| M144325 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.JetsTwo` | wave-reused |
+| M144326 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.Legendre` | wave-reused |
+| M144327 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.LegendreInvariant` | wave-reused |
+| M144328 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.LogWeight` | wave-reused |
+| M144329 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.ModelUnitOf` | wave-reused |
+| M144330 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.NDeriv` | wave-reused |
 | M144331 | P0271 | `Formalism.EllipticTorsion.EllipticTorsionProofs.PadicMult` | wave-reused |
 | M144332 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.TorInt` | wave-reused |
 | M144333 | P0325 | `Formalism.EllipticTorsion.EllipticTorsionProofs.UnitCancel` | wave-reused |
@@ -395,10 +402,3 @@
 | M144723 | P0068 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailKernel` | build-observed |
 | M144724 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailMertens` | build-observed |
 | M144725 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TailNum` | build-observed |
-| M144726 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TpCoeffNorm` | build-observed |
-| M144727 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.Turan2Main` | build-observed |
-| M144728 | P0884 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TuranPowerSumBound` | build-observed |
-| M144729 | P0147 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.TwentyFiveMulSmallConstant` | build-observed |
-| M144730 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.UbTerms` | build-observed |
-| M144731 | P0910 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ZeroCountFirst` | build-observed |
-| M144732 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.JacobiCharacterSums.ZeroDetectionSecond` | build-observed |

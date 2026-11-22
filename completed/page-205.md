@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136303 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistResolutionUniversalExtension` | wave-reused |
+| M136304 | P0458 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupAssocOfTwistedPairingExistsAssoc` | wave-reused |
+| M136305 | P0458 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupGradedCommOfFlipAndUniquePairing` | wave-reused |
+| M136306 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductAssociative` | wave-reused |
+| M136307 | P0417 | `Development.EtaleCohomology.TateTwists.EtaleTwistedCupProductGradedCommutative` | wave-reused |
+| M136308 | P0534 | `Development.EtaleCohomology.TateTwists.EtaleTwistedResolutionExistsOfFlatSections` | wave-reused |
 | M136309 | P0499 | `Development.EtaleCohomology.TateTwists.ExactLocPf` | wave-reused |
 | M136310 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleKummerChernClassCochainOfDegreeValues` | wave-reused |
 | M136311 | P0499 | `Development.EtaleCohomology.TateTwists.ExistsEtaleMonoMuTwistIntoTorsorSheafOfMuQuotien` | wave-reused |
@@ -396,9 +402,3 @@
 | M136730 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.BlowupSequenceBasic` | volunteer-build-reviewed |
 | M136731 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.BlowupSequenceRelations` | volunteer-build-reviewed |
 | M136732 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.CartierDivisorComponents` | volunteer-build-reviewed |
-| M136733 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.ClopenRestriction` | wave-reused |
-| M136734 | P0372 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.IsoAwayFromCenters` | wave-reused |
-| M136735 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.NoetherianBlowup` | wave-reused |
-| M136736 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowups` | wave-reused |
-| M136737 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.RemoveIsoBlowupsComparison` | wave-reused |
-| M136738 | P0458 | `Development.ResolutionOfSingularities.EmbeddedResolution.IteratedBlowups.Saturation` | wave-reused |

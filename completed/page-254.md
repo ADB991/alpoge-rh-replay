@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164605 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermCompletionEquiv` | volunteer-build-reviewed |
+| M164606 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermFiniteProjection` | volunteer-build-reviewed |
+| M164607 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermGeneralCoordinates` | volunteer-build-reviewed |
+| M164608 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermMinimalPolynomialDivides` | volunteer-build-reviewed |
+| M164609 | P0467 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermProjectionFunctionForm` | volunteer-build-reviewed |
+| M164610 | P0284 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassDivision` | volunteer-build-reviewed |
+| M164611 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermWeierstrassPreparation` | volunteer-build-reviewed |
+| M164612 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphAreaHolomorphic` | wave-reused |
 | M164613 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGraphJacContinuous` | wave-reused |
 | M164614 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGridProductLowerBound` | volunteer-build-reviewed |
 | M164615 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StHausdorffNullComplementConnected` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M165110 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDivCycleHomLocLaurent` | build-observed |
 | M165111 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDivCycleMul` | wave-reused |
 | M165112 | P0383 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDivisorIdealCycle` | wave-reused |
-| M165113 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PDvrConeDimTrdeg` | wave-reused |
-| M165114 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PEffectiveShift` | wave-reused |
-| M165115 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PEventualValueFacts` | wave-reused |
-| M165116 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFibreVarieties` | wave-reused |
-| M165117 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiltrationStepHilb` | wave-reused |
-| M165118 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiltrationStepLength` | wave-reused |
-| M165119 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFiniteBirationalLength` | build-observed |
-| M165120 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PFlagBundleChartSection` | wave-reused |

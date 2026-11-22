@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089722 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceQuotientEqOfProjective` | volunteer-build-reviewed |
+| M089723 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TraceRMulPowEqZero` | volunteer-build-reviewed |
+| M089731 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFramePolynomialComplexValuesAtPointStatement` | volunteer-build-reviewed |
+| M089732 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFrameStandardLocalEqLocalization` | volunteer-build-reviewed |
+| M089733 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedFrameStandardLocalEqLocalizationStatement` | volunteer-build-reviewed |
 | M089734 | P2127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImage` | volunteer-build-reviewed |
 | M089735 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticeOfLinearAutImageEqMatrixImageStatement` | volunteer-build-reviewed |
 | M089736 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissible` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M090643 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsL2ValFieldOrDvrSplitKernel` | wave-reused |
 | M090644 | P1231 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsL2ValFieldOrDvrSplitKernelStatement` | wave-reused |
 | M090645 | P1312 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsLeNatCastNeZero` | wave-reused |
-| M090646 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsLevBasisReal` | volunteer-build-reviewed |
-| M090647 | P1259 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsLocalPeriodMatrix` | build-observed |
-| M090648 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNatMulQuadraticLt` | volunteer-build-reviewed |
-| M090649 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNhdsSubsetImage` | build-observed |
-| M090650 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalOfWeil` | build-observed |

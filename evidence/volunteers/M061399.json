@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    "M061399"
+  ],
+  "started_utc": "2026-11-22T10:29:58.247429+00:00",
+  "ended_utc": "2026-11-22T10:32:03.984574+00:00",
+  "elapsed_seconds": 125.7,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 4943368
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodPolynomialLimitAtCuspStatement:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "56501234c963f347578d1513b9609ae1bac92848e3aa843730ac652b26129c1c",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Definitions.Foundations.IsDCReps",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CauchyParallelogramUpperHalfPlane",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CauchyParallelogramUpperHalfPlaneStatement",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromISlashChangeOfVariables",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromISlashChangeOfVariablesStatement",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromITailExponentialDecay",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerIntegralFromITailExponentialDecayStatement",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.EichlerPeriodPolynomialLimitAtCusp",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntegrableOnVerticalRayNormIntegralLe",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntegrableOnVerticalRayNormIntegralLeStatement",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.PolyDegreeSlashActionRightActionProperties",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.PolyDegreeSlashActionRightActionPropertiesStatement",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.TopSideIntegralTendstoZero",
+    "Development.AbelianVarietyTheory.Proofs.FoundationProofs.TopSideIntegralTendstoZeroStatement"
+  ],
+  "objects": {
+    "M061399": "55c9878f29d17f4bc2491e857aad38ed83914524b8f79d139d731137b3f5813c"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "a69ca3d639624ee2bb8ca81186cdfeae61c2ef42b9b09269dfbffa1198f6f1ca",
+  "packet": "M061399",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31555#issuecomment-7077926261",
+  "reviewed_utc": "2026-11-22T11:57:49.814508+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

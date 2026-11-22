@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125356 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDensityRatioFormulaStatement` | volunteer-build-reviewed |
+| M125357 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDependentSetNull` | volunteer-build-reviewed |
+| M125358 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDependentSetNullStatement` | volunteer-build-reviewed |
+| M125359 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalDoubleIntegralIdentity` | volunteer-build-reviewed |
+| M125365 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApprox` | build-observed |
+| M125366 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorSandwichApproxStatement` | build-observed |
 | M125367 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFactorisationHolomorphic` | volunteer-build-reviewed |
 | M125368 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOne` | volunteer-build-reviewed |
 | M125369 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFibreMeasureExtensionByOneStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M125973 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialFormsBasis` | volunteer-build-reviewed |
 | M125974 | P0628 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialFormsBasisStatement` | volunteer-build-reviewed |
 | M125975 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialMemExceptionalIdeal` | build-observed |
-| M125976 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MonomialOfConjTorus` | volunteer-build-reviewed |
-| M125978 | P1208 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuBNat` | wave-reused |
-| M125979 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuCharacterExists` | volunteer-build-reviewed |
-| M125980 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MuCharacterExistsStatement` | volunteer-build-reviewed |
-| M125981 | P1366 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqOfRangeLe` | volunteer-build-reviewed |
-| M125982 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulEqZeroOfCPowMemSpan` | volunteer-build-reviewed |

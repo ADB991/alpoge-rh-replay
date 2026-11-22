@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169547 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PLocalInClosure` | build-observed |
+| M169548 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PLocalRingHypotheses` | build-observed |
+| M169549 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.POrthProjection` | build-observed |
+| M169550 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PPlaceMaps` | build-observed |
+| M169551 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PSAHolds` | build-observed |
+| M169552 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PSAOpenHolds` | build-observed |
+| M169553 | P0578 | `GroundTheory.HeightsAndTheta.Heights.StrongApproximation.PTruncation` | build-observed |
+| M169555 | P0231 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauIIsBasisOf` | wave-reused |
 | M169556 | P0085 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.RigSymFormTauINontrivial` | wave-reused |
 | M169557 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ThetaThreeFamLinearIndependent` | wave-reused |
 | M169558 | P0166 | `GroundTheory.HeightsAndTheta.Heights.ThetaKeyFormula.ZeroSetFinite` | wave-reused |
@@ -394,11 +402,3 @@
 | M169977 | P0388 | `GroundTheory.PAdicHodge.AInfGalois` | wave-reused |
 | M169978 | P0288 | `GroundTheory.PAdicHodge.AInfTopology` | wave-reused |
 | M169979 | P0288 | `GroundTheory.PAdicHodge.AInfXi` | wave-reused |
-| M169984 | P0807 | `GroundTheory.PAdicHodge.BCrisEigen` | build-observed |
-| M169985 | P0676 | `GroundTheory.PAdicHodge.BCrisEigenChar` | build-observed |
-| M169986 | P0754 | `GroundTheory.PAdicHodge.BCrisEigenFixed` | build-observed |
-| M169987 | P0645 | `GroundTheory.PAdicHodge.BCrisEigenFrob` | build-observed |
-| M169988 | P0781 | `GroundTheory.PAdicHodge.BCrisEigenMaps` | build-observed |
-| M169989 | P0431 | `GroundTheory.PAdicHodge.BCrisEigenWitt` | build-observed |
-| M169990 | P0546 | `GroundTheory.PAdicHodge.BCrisGalois` | build-observed |
-| M169991 | P0729 | `GroundTheory.PAdicHodge.BCrisNewton` | build-observed |

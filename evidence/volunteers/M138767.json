@@ -1,0 +1,48 @@
+{
+  "tasks": [
+    "M138767"
+  ],
+  "started_utc": "2026-11-22T10:22:29.200272+00:00",
+  "ended_utc": "2026-11-22T10:25:36.050257+00:00",
+  "elapsed_seconds": 186.8,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5586052
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsProjPrimeOfRelComps:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "ee908b1c80e396e162bf6a6171711e42cbd32e15b2af3b28efec7847ee2bf23a",
+  "rebuilt_project_modules": [
+    "Development.WeilBound.CoreStatements.MinimalPrimeDimensions.MemMinimalPrimesIff",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ChowDegree",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ContinuousHermNormGroup",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LocalMultRadical",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LogGaussNormSupportFinite",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.LowerBoundConditional",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PFundCycleBaseChange",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PRadicalBaseChange",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.ReducedTensorPerfect",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.RenameProdMapMul",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsBaseChange",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsFundCycleBaseChange",
+    "GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.StatementsMinimalPrimeComap"
+  ],
+  "objects": {
+    "M138767": "89bb2228c623891049f0e8501d2bee05dfd8f12c13e31e755f60335957c03d9f"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "0495d1ae92462513de844edc332b1740c0d87028e4b1810d89413e9d7e2444b5",
+  "packet": "M138767",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31549#issuecomment-7077788248",
+  "reviewed_utc": "2026-11-22T11:57:49.935839+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

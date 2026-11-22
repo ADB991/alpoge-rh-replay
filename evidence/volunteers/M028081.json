@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    "M028081"
+  ],
+  "started_utc": "2026-11-22T10:18:30.156085+00:00",
+  "ended_utc": "2026-11-22T10:22:25.224850+00:00",
+  "elapsed_seconds": 235.0,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6207820
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionUnitaryGroupHermitian:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "20fe5811a249e9bff378eac23936f5d2240cf7c14eaa558297b93cf13cfa5f6b",
+  "rebuilt_project_modules": [
+    "Development.AbelianVarietyTheory.Proofs.CovolumeBounds.IntegrableMonomialMulConjComplexGaussian",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.CartanInvolutionConjOfPosDef",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousFourierGau",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionOfGaussianPairings",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOscillatorActionOfGaussianPairingsStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussianPairingUnitaryGroupTwoThree",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussianPairingUnitaryGroupTwoThreeStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HalfAddSelf",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.HermitianCongrInvolution",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralComplexGaussianPosDefHermitianPart",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralComplexGaussianPosDefHermitianPartStatement",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.IntegralGauTwistedConv",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasurePreservingOfNormSqEqSumComplexCoords",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowMulNormGauLe",
+    "Development.AbelianVarietyTheory.Proofs.DivisorProofs.ProjEqSelfOfAnnihilated"
+  ],
+  "objects": {
+    "M028081": "bfbccc451b5b8d0bfd8c9702d534e52bf6110d61fbb76631d1623a5b295332a7"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "c7d5a1c6e3fe576c6d90cde820f8167ed3ab9a42972131dc9f27cf8f32c85c8d",
+  "packet": "M028081",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31548#issuecomment-7077787877",
+  "reviewed_utc": "2026-11-22T11:57:49.959315+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

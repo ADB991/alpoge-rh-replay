@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127933 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupEqOfIrreducibleSubquotientStatement` | volunteer-build-reviewed |
+| M127934 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTrace` | build-observed |
+| M127935 | P1209 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportClosureRegularTraceStatement` | build-observed |
+| M127937 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportCompactModParabolicOffClosedStatement` | volunteer-build-reviewed |
+| M127938 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportInducedFunctionClosed` | volunteer-build-reviewed |
+| M127940 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportOfExponentOfCasselman` | volunteer-build-reviewed |
 | M127941 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlaces` | build-observed |
 | M127942 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportProductOverPlacesStatement` | build-observed |
 | M127944 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SupportSubschemeEmbeddingStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M128676 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFiveStatement` | volunteer-build-reviewed |
 | M128677 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFour` | volunteer-build-reviewed |
 | M128678 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionFourStatement` | volunteer-build-reviewed |
-| M128679 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOne` | volunteer-build-reviewed |
-| M128680 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOneStatement` | volunteer-build-reviewed |
-| M128681 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThree` | volunteer-build-reviewed |
-| M128682 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThreeStatement` | volunteer-build-reviewed |
-| M128683 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwo` | volunteer-build-reviewed |
-| M128684 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwoStatement` | volunteer-build-reviewed |

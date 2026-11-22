@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099939 | P1912 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.MemberDictionaryRealEquivariantOntoTriangularStatement` | volunteer-build-reviewed |
+| M099940 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModelBaseTrivModels` | build-observed |
+| M099942 | P1158 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliExistsNumberFieldPoint` | build-observed |
+| M099944 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ModuliPointFromFgSubalgebra` | build-observed |
+| M099953 | P1949 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormEmbeddingHostFormConstantEq` | volunteer-build-reviewed |
 | M099954 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointArithmeticGroupInvariantSig` | volunteer-build-reviewed |
 | M099956 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedFramedPointTriangularFrameWeightRule` | volunteer-build-reviewed |
 | M099958 | P1073 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NormalisedPointsSatisfySingleFrame` | build-observed |
@@ -397,8 +402,3 @@
 | M100570 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ToricPointExtensionAbelianPartFormalGroupHomStatement` | build-observed |
 | M100575 | P0824 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TorsionInvariantDescendsFibre` | build-observed |
 | M100577 | P0990 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TorusPointRelationSuccThickeningStatement` | build-observed |
-| M100579 | P0487 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TwoMulChainStartIndexAddOneOfOdd` | wave-reused |
-| M100580 | P0449 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TypicalBasisCoordinates` | build-observed |
-| M100581 | P0449 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.TypicalCurvesOfTypeOfTypicalTangents` | build-observed |
-| M100584 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.UniversalChartPointsOverFieldPoint` | volunteer-build-reviewed |
-| M100587 | P2129 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.UnramifiedCompanionChartCharacters` | volunteer-build-reviewed |

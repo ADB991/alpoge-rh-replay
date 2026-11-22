@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128679 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOne` | volunteer-build-reviewed |
+| M128680 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionOneStatement` | volunteer-build-reviewed |
+| M128681 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThree` | volunteer-build-reviewed |
+| M128682 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionThreeStatement` | volunteer-build-reviewed |
+| M128683 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwo` | volunteer-build-reviewed |
+| M128684 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticConditionTwoStatement` | volunteer-build-reviewed |
 | M128685 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuation` | volunteer-build-reviewed |
 | M128686 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticExtensionValuationStatement` | volunteer-build-reviewed |
 | M128687 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedQuadraticOrderPrincipal` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M129406 | P2643 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.ToZIsArithHeightIff` | volunteer-build-reviewed |
 | M129407 | P2652 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.ToZIsArithHeightIffStatement` | volunteer-build-reviewed |
 | M129418 | P2527 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerOriginVectorBundle` | volunteer-build-reviewed |
-| M129419 | P2552 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerOriginVectorBundleStatement` | volunteer-build-reviewed |
-| M129425 | P0743 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerT2Statement` | worker-kernel-checked |
-| M129433 | P1134 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.TowerWeilTheoremStatement` | worker-kernel-checked |
-| M129434 | P2288 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeight` | volunteer-build-reviewed |
-| M129435 | P2301 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UnfSectionNormBoundAtHeightStatement` | volunteer-build-reviewed |
-| M129436 | P0369 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.UniformizerDivisorCycleNumber` | wave-reused |

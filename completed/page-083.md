@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056874 | P0951 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRegularDoubleCosetPolynomialPropernessStatement` | build-observed |
+| M056875 | P0869 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotent` | build-observed |
 | M056876 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotentStatement` | build-observed |
 | M056879 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficient` | build-observed |
 | M056880 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficientStatement` | build-observed |
@@ -400,5 +402,3 @@
 | M057661 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsLocalObjectFamilyClassesDetermineRowsStatement` | volunteer-build-reviewed |
 | M057663 | P1252 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsLocalUnitaryLatticesOfLevelStatement` | volunteer-build-reviewed |
 | M057666 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMapMulRightEqSmul` | volunteer-build-reviewed |
-| M057667 | P0186 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMassOneCutoffDoubleCosetIntegral` | volunteer-build-reviewed |
-| M057669 | P0481 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaxVector` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042759 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThird` | volunteer-build-reviewed |
 | M042760 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThirdStatement` | volunteer-build-reviewed |
 | M042761 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerDescentAdaptedPlane` | volunteer-build-reviewed |
 | M042763 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedConstantStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M043431 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemberTermsIsThetaTermsTorsionFramesStatement` | volunteer-build-reviewed |
 | M043434 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicContinuationDistinctConstants` | volunteer-build-reviewed |
 | M043435 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicContinuationDistinctConstantsStatement` | volunteer-build-reviewed |
-| M043436 | P0018 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicIdentityContinuation` | volunteer-build-reviewed |

@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130897 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentReductionAtPStatement` | volunteer-build-reviewed |
+| M130899 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentResidueIntegralityStatement` | volunteer-build-reviewed |
+| M130902 | P1367 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistEigenCompat` | build-observed |
+| M130903 | P1388 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistEigenCompatStatement` | build-observed |
+| M130906 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistLatticeCompat` | volunteer-build-reviewed |
+| M130907 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeComponentTwistLatticeCompatStatement` | volunteer-build-reviewed |
 | M130912 | P0798 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptBlockRefinement` | build-observed |
 | M130913 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptBlockRefinementStatement` | volunteer-build-reviewed |
 | M130914 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptFieldExtension` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M131562 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MaximalIdealMembershipOfLocalStatement` | volunteer-build-reviewed |
 | M131563 | P0881 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemAbLocusIff` | build-observed |
 | M131566 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemOfAevalEqZero` | wave-reused |
-| M131567 | P2661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemPtsOverOfMemMcPts` | volunteer-build-reviewed |
-| M131568 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemRegAtOfCodimOne` | build-observed |
-| M131569 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemSpanOfIotaMultiProportional` | volunteer-build-reviewed |
-| M131570 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MemSpanOfIotaMultiProportionalStatement` | volunteer-build-reviewed |
-| M131571 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertible` | volunteer-build-reviewed |
-| M131572 | P0415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MinorRatioRegularOfInvertibleStatement` | volunteer-build-reviewed |

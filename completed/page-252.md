@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163396 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.ConvergenceStatements` | wave-reused |
+| M163397 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergyStep` | wave-reused |
+| M163398 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.EnergySum` | wave-reused |
+| M163399 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassError` | wave-reused |
+| M163400 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassReplace` | wave-reused |
+| M163401 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassStep` | wave-reused |
+| M163402 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.GreenMassZero` | wave-reused |
 | M163403 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.Imports` | wave-reused |
 | M163404 | P0639 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOfTendstoOfIntegralLe` | wave-reused |
 | M163405 | P0426 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.IntegrableOnTargetOfMIntegrable` | wave-reused |
@@ -395,10 +402,3 @@
 | M163901 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PClassMean` | build-observed |
 | M163905 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PDeltaIntSeries` | volunteer-build-reviewed |
 | M163911 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PIntSeriesInv` | volunteer-build-reviewed |
-| M163913 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PIntSeriesRing` | volunteer-build-reviewed |
-| M163922 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PPhScale` | build-observed |
-| M163926 | P1786 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PSuperlatticeRatio` | build-observed |
-| M163928 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.PWIdealField` | volunteer-build-reviewed |
-| M163936 | P1711 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.Statements` | build-observed |
-| M163938 | P1735 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.StatementsWitness` | build-observed |
-| M163939 | P1759 | `GroundTheory.HeightsAndTheta.Heights.ChowlaSelberg.SuperlatticeRatio` | build-observed |

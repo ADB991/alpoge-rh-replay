@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032354 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormFibreIntegralEqOneStatement` | build-observed |
 | M032355 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontal` | volunteer-build-reviewed |
 | M032356 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontalStatement` | build-observed |
 | M032357 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSection` | build-observed |
@@ -401,4 +402,3 @@
 | M032984 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedPointGenericFibreCoordinatesEqFrameStatement` | volunteer-build-reviewed |
 | M032985 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedPointVectorsVerticalDeformationEigenbasis` | volunteer-build-reviewed |
 | M032988 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedTorsionPointTorusExtensionEqOfLiesOverStatement` | volunteer-build-reviewed |
-| M032990 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedTorsionTorusExtensionRespectCubicalStatement` | volunteer-build-reviewed |

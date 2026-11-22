@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049710 | P2812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeparationNormalizedBlowupUnitaryCompactificatioStatement` | volunteer-build-reviewed |
+| M049716 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SeriesUnitOfReadInjScaleRootConjRootCoordRange` | volunteer-build-reviewed |
 | M049719 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SerreVanishingLineBundleInvMixFixedDifferenceStatement` | volunteer-build-reviewed |
 | M049721 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SesquilinearDetOrdSignOnKernelConjGLStatement` | volunteer-build-reviewed |
 | M049722 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAt` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M050380 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCoefficientFormsClosedUnderOperations` | volunteer-build-reviewed |
 | M050381 | P2541 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCoefficientFormsClosedUnderOperationsStatement` | build-observed |
 | M050384 | P2717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectiv` | volunteer-build-reviewed |
-| M050385 | P2723 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCommGroupSchemeHomTangentAtOriginSurjectivStatement` | volunteer-build-reviewed |
-| M050387 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothCompositionFormStatement` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085037 | P0256 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIntegralOfLocalPresentationPowStatement` | volunteer-build-reviewed |
+| M085038 | P1773 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInversionEndomorphismsThetaLevelFamily` | volunteer-build-reviewed |
+| M085039 | P1798 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsInversionEndomorphismsThetaLevelFamilyStatement` | build-observed |
+| M085040 | P0361 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsAffineOpenLeOfIsQProjOver` | build-observed |
+| M085042 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsClopenEqualizer` | volunteer-build-reviewed |
 | M085046 | P1284 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZero` | wave-reused |
 | M085047 | P1310 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsConstOfKsRelZeroStatement` | wave-reused |
 | M085048 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDerivAt0NotIsDerivAlong` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M085724 | P1911 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.LinearUniformisationTorsionIsomorphism` | volunteer-build-reviewed |
 | M085728 | P0987 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.LocDerRegularCoeff` | wave-reused |
 | M085730 | P1746 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.LocalModelSystemTransitionSiegelClausesStatement` | volunteer-build-reviewed |
-| M085731 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.LocallyQuasiFiniteOfTrivialOnFibres` | volunteer-build-reviewed |
-| M085734 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MapDegreeEqExpCharPowMulCardKernel` | volunteer-build-reviewed |
-| M085736 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MapToUniversalObjectUnique` | volunteer-build-reviewed |
-| M085742 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemMapKerOfOneTmulEqZeroOfFlat` | volunteer-build-reviewed |
-| M085744 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MemOfMemImage` | volunteer-build-reviewed |
