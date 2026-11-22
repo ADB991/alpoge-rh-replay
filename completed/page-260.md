@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168320 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneBlockPnPt` | build-observed |
+| M168321 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneMemSecOverZero` | build-observed |
+| M168323 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleAffineGen` | wave-reused |
+| M168324 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleCover` | wave-reused |
+| M168327 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleRingIntegral` | volunteer-build-reviewed |
+| M168328 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleTwistLocal` | wave-reused |
+| M168329 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleVanish` | wave-reused |
+| M168330 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PBundlePair` | wave-reused |
+| M168331 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechCone` | wave-reused |
 | M168332 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDSq` | wave-reused |
 | M168333 | P0511 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDouble` | wave-reused |
 | M168334 | P0085 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechDoubleStair` | wave-reused |
@@ -393,12 +402,3 @@
 | M168864 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.Statements` | volunteer-build-reviewed |
 | M168865 | P0287 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsEnd` | volunteer-build-reviewed |
 | M168866 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsHomDecomp` | volunteer-build-reviewed |
-| M168867 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsShTotSmall` | volunteer-build-reviewed |
-| M168869 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TauSumRearrangement` | volunteer-build-reviewed |
-| M168870 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TendstoSumPrimesInRestP` | volunteer-build-reviewed |
-| M168871 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TotSumLineF` | volunteer-build-reviewed |
-| M168874 | P0611 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.BaseChangeMinimal` | build-observed |
-| M168875 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ChangeOfModel` | build-observed |
-| M168877 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.Contract` | build-observed |
-| M168878 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixed` | build-observed |
-| M168879 | P0702 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixedField` | build-observed |

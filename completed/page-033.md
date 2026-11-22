@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M022411 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntryMemSubringOfTraceGramUnit` | volunteer-build-reviewed |
+| M022416 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EnvelopingAlgebraLineWords` | build-observed |
 | M022422 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpiPowOfIsAbelianScheme` | volunteer-build-reviewed |
 | M022423 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsMulOfCondExp` | volunteer-build-reviewed |
 | M022424 | P2726 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpsPartCocycleCoboundaryOfHodgeDeRham` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M023026 | P1838 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvREqOfReadsSmul` | volunteer-build-reviewed |
 | M023028 | P0948 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvResCounitCompat` | build-observed |
 | M023029 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvResCounitCompatStatement` | build-observed |
-| M023030 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvRhoUnipShift` | volunteer-build-reviewed |
-| M023031 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvShiftIntegral` | volunteer-build-reviewed |

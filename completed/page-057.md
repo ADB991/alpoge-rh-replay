@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038295 | P0299 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassTorsionQCoefficientsStatement` | volunteer-build-reviewed |
+| M038296 | P0016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedAdjoin` | volunteer-build-reviewed |
+| M038297 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalization` | volunteer-build-reviewed |
 | M038298 | P0351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalizationStatement` | wave-reused |
 | M038306 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsInvertibleUnitaryAdelicMatrixOfRationalUnitary` | volunteer-build-reviewed |
 | M038308 | P1118 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIrrRepHarishChandraDistinctCuspidalLabels` | build-observed |
@@ -399,6 +402,3 @@
 | M039079 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaConstantListOfFibrePullbackFieldExtension` | volunteer-build-reviewed |
 | M039082 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProduct` | volunteer-build-reviewed |
 | M039083 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProductStatement` | volunteer-build-reviewed |
-| M039084 | P2037 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOMul` | volunteer-build-reviewed |
-| M039086 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOOfMatchedSquareBigRouteStatement` | volunteer-build-reviewed |
-| M039087 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunOfSmoothRealHeisenbergLevel` | volunteer-build-reviewed |

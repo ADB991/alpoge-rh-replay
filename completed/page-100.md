@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M068419 | P0926 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfMemProKer` | build-observed |
+| M068420 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfPowEqOne` | volunteer-build-reviewed |
+| M068421 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfPowEqOneOfCharpoly` | volunteer-build-reviewed |
+| M068423 | P0405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparabl` | build-observed |
+| M068424 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparablStatement` | build-observed |
 | M068426 | P0764 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqTopOfSpanImage` | volunteer-build-reviewed |
 | M068427 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfAlgHomEqMul` | volunteer-build-reviewed |
 | M068428 | P0872 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqZeroOfComm` | build-observed |
@@ -397,8 +402,3 @@
 | M069091 | P0927 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisKerLeRange` | build-observed |
 | M069092 | P1038 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRoot` | wave-reused |
 | M069093 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRootStatement` | wave-reused |
-| M069094 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnity` | build-observed |
-| M069095 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnityStatement` | build-observed |
-| M069096 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPrescribedUnramifiedKummer` | wave-reused |
-| M069098 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChange` | volunteer-build-reviewed |
-| M069099 | P1672 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeStatement` | volunteer-build-reviewed |

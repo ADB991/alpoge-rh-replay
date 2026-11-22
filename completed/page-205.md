@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136335 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAwPf` | wave-reused |
+| M136336 | P0499 | `Development.EtaleCohomology.TateTwists.LeafWaPf` | wave-reused |
+| M136337 | P0568 | `Development.EtaleCohomology.TateTwists.MapMapEq` | wave-reused |
+| M136338 | P0417 | `Development.EtaleCohomology.TateTwists.MayerVietorisExactSequence` | wave-reused |
+| M136339 | P0600 | `Development.EtaleCohomology.TateTwists.MuRootListProductOneSumEtaleLocallyZero` | wave-reused |
+| M136340 | P0568 | `Development.EtaleCohomology.TateTwists.MuTwistQuotientEmbedsInUnitTorsorPresheaf` | wave-reused |
+| M136341 | P0417 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSections` | wave-reused |
+| M136342 | P0458 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSectionsHolds` | wave-reused |
+| M136343 | P0499 | `Development.EtaleCohomology.TateTwists.PpEvBasicPf` | volunteer-build-reviewed |
 | M136346 | P0417 | `Development.EtaleCohomology.TateTwists.PrimitiveRootsOfUnityBasicIdentities` | wave-reused |
 | M136347 | P0417 | `Development.EtaleCohomology.TateTwists.PrismAlexanderWhitneySwapChainHomotopy` | wave-reused |
 | M136348 | P0499 | `Development.EtaleCohomology.TateTwists.PrismBoundaryMapSquareZeroHolds` | wave-reused |
@@ -393,12 +402,3 @@
 | M136757 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafMultiplicativity` | wave-reused |
 | M136758 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafPullback` | wave-reused |
 | M136759 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRule` | wave-reused |
-| M136760 | P0856 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRuleCompatibility` | wave-reused |
-| M136761 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceChartPresentation` | wave-reused |
-| M136762 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceFieldBaseChange` | wave-reused |
-| M136763 | P0144 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceGlobalSections` | wave-reused |
-| M136764 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceLinearEmbeddings` | wave-reused |
-| M136765 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceOrigin` | wave-reused |
-| M136766 | P0322 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceProduct` | wave-reused |
-| M136767 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceZeroSection` | wave-reused |
-| M136768 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BasicOpenClosedEmbedding` | wave-reused |

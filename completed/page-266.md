@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171903 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm` | wave-reused |
+| M171904 | P0432 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountSt` | wave-reused |
+| M171905 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStA` | wave-reused |
+| M171906 | P0343 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStB` | wave-reused |
+| M171907 | P0389 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStC` | wave-reused |
+| M171909 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountZSt` | wave-reused |
+| M171910 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStA` | wave-reused |
+| M171911 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStB` | wave-reused |
+| M171912 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidSt` | wave-reused |
 | M171913 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidStA` | wave-reused |
 | M171914 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.GramSt` | volunteer-build-reviewed |
 | M171917 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.HadZStA` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M172390 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfD` | wave-reused |
 | M172391 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfE` | wave-reused |
 | M172392 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustGPf` | wave-reused |
-| M172393 | P0390 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustStatementPfA` | wave-reused |
-| M172394 | P0433 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustStatementPfB` | wave-reused |
-| M172395 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustStatementPfC` | wave-reused |
-| M172396 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExtFStatementPf` | wave-reused |
-| M172397 | P0755 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExtFStatementPfA` | wave-reused |
-| M172398 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExtFStatementPfB` | wave-reused |
-| M172399 | P0972 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.FrameMeasStatementPf` | wave-reused |
-| M172400 | P0890 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.FrameMeasStatementPfA` | wave-reused |
-| M172401 | P0915 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.FrameMeasStatementPfB` | wave-reused |

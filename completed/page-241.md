@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158255 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeVolRatio` | build-observed |
+| M158256 | P1166 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeWeylDS` | build-observed |
+| M158257 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker` | build-observed |
+| M158258 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.AbsPointwiseMonoConstant` | build-observed |
+| M158259 | P0804 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellBru` | build-observed |
+| M158260 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellDef` | build-observed |
+| M158261 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellFin` | build-observed |
+| M158262 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellGeo` | build-observed |
+| M158263 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellInv` | build-observed |
 | M158264 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellMono` | build-observed |
 | M158265 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellPt` | build-observed |
 | M158266 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellSchur` | build-observed |
@@ -393,12 +402,3 @@
 | M158737 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GCorCut` | volunteer-build-reviewed |
 | M158741 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GSplit` | build-observed |
 | M158743 | P0157 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeExpPow` | volunteer-build-reviewed |
-| M158744 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeIntCut` | volunteer-build-reviewed |
-| M158745 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniq` | build-observed |
-| M158746 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA` | build-observed |
-| M158747 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqB` | build-observed |
-| M158750 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqH` | build-observed |
-| M158752 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBFr` | wave-reused |
-| M158753 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBGen` | wave-reused |
-| M158754 | P0860 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPf` | volunteer-build-reviewed |
-| M158755 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPrim` | wave-reused |

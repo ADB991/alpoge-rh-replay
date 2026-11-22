@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129480 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPoint` | volunteer-build-reviewed |
+| M129482 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPointStatement` | volunteer-build-reviewed |
+| M129486 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartLieMultShiftStatement` | volunteer-build-reviewed |
+| M129489 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartMapsCompatibleLeft` | volunteer-build-reviewed |
+| M129501 | P1263 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientGaugeUnit` | build-observed |
+| M129509 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientLineBundleGauge` | volunteer-build-reviewed |
+| M129511 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientOfPowerFns` | volunteer-build-reviewed |
+| M129515 | P1610 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjective` | volunteer-build-reviewed |
+| M129516 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjectiveStatement` | volunteer-build-reviewed |
 | M129519 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeSpreadsOutFiniteTypeSubring` | volunteer-build-reviewed |
 | M129520 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeSpreadsOutFiniteTypeSubringStatement` | volunteer-build-reviewed |
 | M129521 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianTripleSpreadsOut` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M130244 | P0907 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFlagBasisAtStalkStatement` | build-observed |
 | M130246 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormNotInCoordIdeal` | wave-reused |
 | M130249 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormalGermOpenAffine` | volunteer-build-reviewed |
-| M130251 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFrameInter` | build-observed |
-| M130252 | P1134 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFullLevelFiniteExtension` | build-observed |
-| M130253 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFullLevelFiniteExtensionStatement` | build-observed |
-| M130256 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGenOnChart` | build-observed |
-| M130259 | P2705 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGeometricHeightConstants` | volunteer-build-reviewed |
-| M130260 | P2709 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGeometricHeightConstantsStatement` | volunteer-build-reviewed |
-| M130261 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGermSystem` | volunteer-build-reviewed |
-| M130264 | P2674 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsGoodRootTowerStatement` | volunteer-build-reviewed |
-| M130265 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsHodgeLatticeGermSystem` | volunteer-build-reviewed |

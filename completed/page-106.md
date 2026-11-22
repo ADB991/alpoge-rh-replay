@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072535 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixMulEntryNormLeUltrametric` | volunteer-build-reviewed |
+| M072537 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeep` | volunteer-build-reviewed |
+| M072538 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeepStatement` | volunteer-build-reviewed |
+| M072539 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixOneAddPowSubEntryLe` | volunteer-build-reviewed |
+| M072541 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquation` | build-observed |
 | M072542 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquationStatement` | build-observed |
 | M072543 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapField` | volunteer-build-reviewed |
 | M072544 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixRankMapFieldStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M073207 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLatticeStatement` | build-observed |
 | M073208 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvaria` | build-observed |
 | M073209 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvariaStatement` | build-observed |
-| M073210 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTilt` | build-observed |
-| M073211 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTiltStatement` | build-observed |
-| M073213 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEq` | build-observed |
-| M073214 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEqStatement` | build-observed |
-| M073215 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPow` | build-observed |

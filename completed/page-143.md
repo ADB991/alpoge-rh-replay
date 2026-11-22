@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099976 | P2027 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsion` | volunteer-build-reviewed |
+| M099977 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsionStatement` | volunteer-build-reviewed |
+| M099978 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PointsDetectFrobeniusSections` | volunteer-build-reviewed |
+| M099982 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalGroupActsFreelyOnFlagsStatement` | volunteer-build-reviewed |
+| M099986 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalLevelGroupFiniteIndexUnitaryStabiliserStatement` | volunteer-build-reviewed |
+| M099987 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordExistsUniqueUpToUnitLocal` | volunteer-build-reviewed |
 | M099989 | P1800 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordOfIsPullDegId` | volunteer-build-reviewed |
 | M099991 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RatioSqEqDetJAut` | volunteer-build-reviewed |
 | M099992 | P1260 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.RationalPointsAdelicUnitaryEqUnitary` | build-observed |
@@ -396,9 +402,3 @@
 | M100597 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOneStatement` | build-observed |
 | M100598 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightSubstNonneg` | wave-reused |
 | M100599 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAdd` | wave-reused |
-| M100600 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAddStatement` | wave-reused |
-| M100601 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WtAddSingle` | build-observed |
-| M100602 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesCoeffMulLe` | wave-reused |
-| M100603 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystem` | wave-reused |
-| M100604 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystemStatement` | wave-reused |
-| M100606 | P0624 | `Development.AbelianVarietyTheory.PublishedTheorems.AbelianLaws.PrincipalPolarisationOneSection` | volunteer-build-reviewed |

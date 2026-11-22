@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098120 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExistsStatement` | build-observed |
+| M098123 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeries` | build-observed |
+| M098124 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeriesStatement` | build-observed |
+| M098135 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPoints` | build-observed |
+| M098136 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPointsStatement` | build-observed |
+| M098137 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRationalDiagonalHomBijective` | volunteer-build-reviewed |
 | M098139 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitarySatakeTransformStarParameterEqOfUnitarisa` | volunteer-build-reviewed |
 | M098143 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusCompactQuotientFiniteVolume` | volunteer-build-reviewed |
 | M098145 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryTorusEllipticElementsOfLocalLatticeIsomet` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M098710 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroupStatement` | wave-reused |
 | M098712 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanGenerateValuationRingsStatement` | volunteer-build-reviewed |
 | M098713 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegeneration` | wave-reused |
-| M098714 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegenerationStatement` | wave-reused |
-| M098715 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralOfTorsion` | volunteer-build-reviewed |
-| M098716 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralThetaSectionWithExpansion` | build-observed |
-| M098719 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsAffineOpen` | build-observed |
-| M098720 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsMonHomSplitTorusOfSqEqBot` | build-observed |
-| M098721 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsProdB` | volunteer-build-reviewed |

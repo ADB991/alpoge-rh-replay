@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054077 | P2462 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullback` | build-observed |
+| M054078 | P2491 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullbackStatement` | build-observed |
+| M054080 | P1944 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatesIntoHoldsStatement` | build-observed |
+| M054082 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationCarriesRatioDatumRemainderStatement` | volunteer-build-reviewed |
 | M054085 | P1006 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationChartCoboundaryOnChartsFirstOrder` | build-observed |
 | M054088 | P0302 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElement` | build-observed |
 | M054089 | P0353 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationDilationStableRadialElementStatement` | build-observed |
@@ -398,7 +402,3 @@
 | M054802 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairsStatement` | volunteer-build-reviewed |
 | M054803 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisation` | volunteer-build-reviewed |
 | M054804 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisationStatement` | volunteer-build-reviewed |
-| M054807 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricAction` | volunteer-build-reviewed |
-| M054808 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricActionStatement` | volunteer-build-reviewed |
-| M054809 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationSectionsExtendingPointsMultiply` | volunteer-build-reviewed |
-| M054813 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAdd` | volunteer-build-reviewed |

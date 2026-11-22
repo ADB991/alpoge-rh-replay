@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144758 | P0147 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardLiftMatrix` | wave-reused |
+| M144759 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardLiftUnimod` | wave-reused |
+| M144760 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardMapEquiv` | wave-reused |
+| M144761 | P0774 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardQuotExtPPow` | wave-reused |
+| M144762 | P1186 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardQuotInfNeZero` | wave-reused |
+| M144763 | P0747 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardStabilizerAutSub` | wave-reused |
+| M144764 | P0461 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardSumNormFibres` | wave-reused |
+| M144765 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardUnitaryFin` | wave-reused |
+| M144766 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardUnitaryReduction` | wave-reused |
 | M144767 | P0801 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CntIOneOfNotMem` | wave-reused |
 | M144768 | P0938 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeCmbSingle` | wave-reused |
 | M144769 | P1211 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CoeMemOfMemSmulTop` | wave-reused |
@@ -393,12 +402,3 @@
 | M145160 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.TruncationExponentBounds` | wave-reused |
 | M145161 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.WStepContract` | wave-reused |
 | M145162 | P0212 | `Formalism.GaussValuationBounds.KapBound3` | wave-reused |
-| M145163 | P0374 | `Formalism.GaussValuationBounds.NokLemmaCVal` | wave-reused |
-| M145164 | P0147 | `Formalism.GaussValuationBounds.Statement` | wave-reused |
-| M145165 | P0069 | `Formalism.GelfandTransference.EnergyIdentity` | wave-reused |
-| M145166 | P0069 | `Formalism.GelfandTransference.GelfandCentral` | volunteer-build-reviewed |
-| M145167 | P0147 | `Formalism.GelfandTransference.HadamardGelfand.Gelfand` | volunteer-build-reviewed |
-| M145168 | P0272 | `Formalism.GelfandTransference.HadamardGelfand.Hadamard` | build-observed |
-| M145169 | P0212 | `Formalism.GelfandTransference.HadamardGelfand.Highest` | volunteer-build-reviewed |
-| M145170 | P0421 | `Formalism.GelfandTransference.HadamardGelfand.Transference` | build-observed |
-| M145171 | P0147 | `Formalism.GelfandTransference.Statement` | build-observed |

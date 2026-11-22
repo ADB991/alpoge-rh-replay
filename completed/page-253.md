@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163972 | P0426 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LogIntegrableOnOfLogIntegrable` | wave-reused |
+| M163973 | P0542 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.MeasurableOfContinuousOnNeZero` | wave-reused |
+| M163974 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.MonicDifferenceQuotient` | volunteer-build-reviewed |
+| M163975 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.MonotoneDoubleLimit` | wave-reused |
+| M163977 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.NormalModelGraph` | volunteer-build-reviewed |
+| M163978 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.OsgoodSeparate` | wave-reused |
+| M163982 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticGermsNoetherian` | volunteer-build-reviewed |
+| M163983 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticImplicitChart` | volunteer-build-reviewed |
+| M163985 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAnalyticSimpleRootBranch` | volunteer-build-reviewed |
 | M163986 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraph` | wave-reused |
 | M163987 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphBound` | wave-reused |
 | M163988 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PAreaGraphPartition` | wave-reused |
@@ -393,12 +402,3 @@
 | M164638 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermComplementConnected` | volunteer-build-reviewed |
 | M164639 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermCurve` | volunteer-build-reviewed |
 | M164640 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermMeetOverHypersurface` | volunteer-build-reviewed |
-| M164641 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPointsOffDiscriminant` | volunteer-build-reviewed |
-| M164642 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPrimitiveForm` | volunteer-build-reviewed |
-| M164643 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |
-| M164644 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermProjectionOpenNear` | volunteer-build-reviewed |
-| M164645 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermRegularConnected` | volunteer-build-reviewed |
-| M164646 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermRegularDimGe` | volunteer-build-reviewed |
-| M164647 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreLocalUnbranched` | volunteer-build-reviewed |
-| M164648 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreNear` | volunteer-build-reviewed |
-| M164649 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpen` | volunteer-build-reviewed |

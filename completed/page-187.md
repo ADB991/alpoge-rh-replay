@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123893 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeries` | volunteer-build-reviewed |
+| M123894 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeriesStatement` | volunteer-build-reviewed |
+| M123895 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumTaylorOfExpBounds` | volunteer-build-reviewed |
+| M123898 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrinciple` | volunteer-build-reviewed |
+| M123899 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitian` | volunteer-build-reviewed |
+| M123900 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitianStatement` | volunteer-build-reviewed |
+| M123901 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTrace` | build-observed |
+| M123902 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTraceStatement` | build-observed |
+| M123903 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleStatement` | volunteer-build-reviewed |
 | M123904 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructure` | volunteer-build-reviewed |
 | M123905 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeAlgebraStructureStatement` | volunteer-build-reviewed |
 | M123906 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HeckeCharacterEtaCondition` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M124570 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLCRes` | volunteer-build-reviewed |
 | M124572 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLatIntVec` | volunteer-build-reviewed |
 | M124576 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLocallyConstantToZModPow` | build-observed |
-| M124579 | P0853 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsMultOfFintype` | build-observed |
-| M124580 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNMapAdd` | volunteer-build-reviewed |
-| M124581 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNormalisedOfDualIsConj` | volunteer-build-reviewed |
-| M124582 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernel` | volunteer-build-reviewed |
-| M124583 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernelStatement` | volunteer-build-reviewed |
-| M124587 | P1523 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup` | build-observed |
-| M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
-| M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
-| M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |

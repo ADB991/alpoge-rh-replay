@@ -344,6 +344,7 @@
 | M003477 | P0347 | `Development.AbelianVarietyTheory.Definitions.Divisors.DivisorSupportCondition` | wave-reused |
 | M003478 | P0393 | `Development.AbelianVarietyTheory.Definitions.Divisors.DlogRatioVolumeFormNeZero` | build-observed |
 | M003481 | P0393 | `Development.AbelianVarietyTheory.Definitions.Divisors.E5` | build-observed |
+| M003484 | P2198 | `Development.AbelianVarietyTheory.Definitions.Divisors.EightDvdNCol` | volunteer-build-reviewed |
 | M003485 | P0095 | `Development.AbelianVarietyTheory.Definitions.Divisors.EllFamNontrivial` | volunteer-build-reviewed |
 | M003486 | P1444 | `Development.AbelianVarietyTheory.Definitions.Divisors.EndValuedForm11Coeffs` | build-observed |
 | M003487 | P0515 | `Development.AbelianVarietyTheory.Definitions.Divisors.EntireEqOfHalfPlane` | wave-reused |
@@ -401,4 +402,3 @@
 | M003603 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBoundedPolesGlobalData` | wave-reused |
 | M003604 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect` | volunteer-build-reviewed |
 | M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
-| M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |

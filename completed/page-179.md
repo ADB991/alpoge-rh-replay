@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119084 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizes` | volunteer-build-reviewed |
+| M119085 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizesStatement` | volunteer-build-reviewed |
+| M119086 | P2770 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SummandEigen` | volunteer-build-reviewed |
+| M119087 | P2773 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SummandEigenStatement` | volunteer-build-reviewed |
+| M119088 | P2174 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SummandFunctionalBound` | volunteer-build-reviewed |
+| M119089 | P2735 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SuppIne` | volunteer-build-reviewed |
+| M119090 | P2232 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SuppMemLevel` | volunteer-build-reviewed |
+| M119091 | P2243 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SuppMemLevelStatement` | volunteer-build-reviewed |
+| M119092 | P2787 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SurjectiveAndLowWeightOfUnramifiedExponents` | volunteer-build-reviewed |
 | M119093 | P2185 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SymRead` | volunteer-build-reviewed |
 | M119094 | P2130 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SysParamAtInert` | volunteer-build-reviewed |
 | M119095 | P2141 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SysParamAtInertStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M119583 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.KAtDiagIdeleOfNatMulRotationOfNotDvd` | volunteer-build-reviewed |
 | M119584 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesFixedAtPlace` | volunteer-build-reviewed |
 | M119585 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesRightInvarianceFiniteAdelic` | volunteer-build-reviewed |
-| M119586 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesSatakeEigenAtPlace` | volunteer-build-reviewed |
-| M119587 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvMemArchSmoothAndEnvelopingActionEq` | volunteer-build-reviewed |
-| M119588 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvTensorModerateGrowthUniform` | volunteer-build-reviewed |
-| M119589 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LintegralIdeleRatPolyDecayMulNormRpowLtTop` | volunteer-build-reviewed |
-| M119590 | P1849 | `Development.AutomorphicArithmetic.WhittakerHecke.LocGLEqLocalEmbeddingAndKGLEqIntegralGL` | volunteer-build-reviewed |
-| M119591 | P1826 | `Development.AutomorphicArithmetic.WhittakerHecke.LocalArtinInertiaValuationOfUniformizerPrime` | volunteer-build-reviewed |
-| M119592 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LseriesSummableSqCoeffOfFourLtRe` | volunteer-build-reviewed |
-| M119593 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LseriesTwistedCoeffEqTsumCoprimeOfSummable` | volunteer-build-reviewed |
-| M119595 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.MaximalCompactMeasureMapConjDiagEq` | volunteer-build-reviewed |

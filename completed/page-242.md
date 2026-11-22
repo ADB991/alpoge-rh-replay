@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158744 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeIntCut` | volunteer-build-reviewed |
+| M158745 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniq` | build-observed |
+| M158746 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA` | build-observed |
+| M158747 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqB` | build-observed |
+| M158750 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqH` | build-observed |
+| M158752 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBFr` | wave-reused |
+| M158753 | P0750 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBGen` | wave-reused |
+| M158754 | P0860 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPf` | volunteer-build-reviewed |
+| M158755 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBPrim` | wave-reused |
 | M158756 | P0804 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermBSer` | wave-reused |
 | M158757 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermCut` | wave-reused |
 | M158758 | P0669 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDJet` | wave-reused |
@@ -393,12 +402,3 @@
 | M159199 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockRank` | build-observed |
 | M159200 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Bracket` | build-observed |
 | M159201 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CardEqChainSum` | build-observed |
-| M159202 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ChainDim` | build-observed |
-| M159203 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeAlternative` | build-observed |
-| M159204 | P1190 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeRatioConsecutive` | build-observed |
-| M159205 | P1242 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreesLargeBeyond` | build-observed |
-| M159206 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreesLargeOfStd` | build-observed |
-| M159207 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseThresholdRatioConsecutive` | build-observed |
-| M159208 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountDefs` | build-observed |
-| M159209 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountLow` | build-observed |
-| M159210 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountUp` | build-observed |

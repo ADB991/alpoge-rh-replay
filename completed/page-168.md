@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114106 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpEta` | volunteer-build-reviewed |
+| M114107 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpEtaA` | volunteer-build-reviewed |
+| M114108 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpSwap` | volunteer-build-reviewed |
+| M114109 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.ResEtaFOfResEtaPowK` | volunteer-build-reviewed |
+| M114110 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RestrictBoxFunK` | volunteer-build-reviewed |
+| M114111 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RestrictCoreK` | volunteer-build-reviewed |
+| M114112 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RestrictedEtaPowerCharacter` | volunteer-build-reviewed |
+| M114113 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SWStdLtK` | volunteer-build-reviewed |
 | M114114 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchAFactsK` | volunteer-build-reviewed |
 | M114115 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchrodingerModelIntertwining` | volunteer-build-reviewed |
 | M114116 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.SchrodingerModelIsomorphism` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M114526 | P0317 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsWtZero` | wave-reused |
 | M114527 | P0453 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpec` | wave-reused |
 | M114528 | P1104 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpecHolds` | wave-reused |
-| M114529 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.OpEqOf` | wave-reused |
-| M114530 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PArtSum` | wave-reused |
-| M114531 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PChart` | wave-reused |
-| M114532 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrBCQ` | wave-reused |
-| M114533 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrCompQ` | wave-reused |
-| M114534 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrEq` | wave-reused |
-| M114535 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrEqQ` | wave-reused |
-| M114536 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrGraphQ` | wave-reused |

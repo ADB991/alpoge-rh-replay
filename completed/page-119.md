@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083469 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjointStatement` | wave-reused |
+| M083470 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetProperties` | wave-reused |
+| M083471 | P0819 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetPropertiesStatement` | wave-reused |
+| M083476 | P0901 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonNCongr` | build-observed |
+| M083477 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfCongrJet` | volunteer-build-reviewed |
 | M083478 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfProdLinear` | volunteer-build-reviewed |
 | M083479 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfSubMem` | volunteer-build-reviewed |
 | M083480 | P0194 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffShiftS` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M084327 | P0127 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuadraticFieldDiscPrimeThreeModFour` | volunteer-build-reviewed |
 | M084329 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalue` | wave-reused |
 | M084330 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalueStatement` | wave-reused |
-| M084331 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwine` | wave-reused |
-| M084332 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwineStatement` | volunteer-build-reviewed |
-| M084333 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMap` | wave-reused |
-| M084334 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMapStatement` | volunteer-build-reviewed |
-| M084335 | P0793 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEq` | wave-reused |

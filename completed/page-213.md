@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142910 | P1582 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocStep` | volunteer-build-reviewed |
+| M142911 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocalContinuity.LocalDescentHolds` | volunteer-build-reviewed |
+| M142913 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseOrbits.IntOfSm` | volunteer-build-reviewed |
+| M142916 | P1732 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseOrbits.MainE` | volunteer-build-reviewed |
+| M142918 | P0270 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseOrbits.PieceMem` | volunteer-build-reviewed |
+| M142919 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseP` | volunteer-build-reviewed |
+| M142928 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.FourierTransforms.IsSemisimpleRing` | volunteer-build-reviewed |
+| M142931 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.FourierTransforms.SuppCongr` | volunteer-build-reviewed |
+| M142935 | P0067 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.NilpotentHypotheses.AevalProdLinearFactors` | volunteer-build-reviewed |
 | M142938 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.NilpotentHypotheses.PiZLin` | volunteer-build-reviewed |
 | M142940 | P0210 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.CbExistsChainOfGen` | volunteer-build-reviewed |
 | M142941 | P0145 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.OrbitIntegrals.CentralizerRepresentatives.CbIsChainApply` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M143919 | P0068 | `Development.WeilBound.ThetaLifts.TowerModels.LeviAlg` | volunteer-build-reviewed |
 | M143925 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneForm` | volunteer-build-reviewed |
 | M143926 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm` | volunteer-build-reviewed |
-| M143937 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.AddCharHalfTraceTensorLatticeHeisenbergCocycle` | volunteer-build-reviewed |
-| M143947 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSchwartzBruhatSchroedingerFixedLocalField` | volunteer-build-reviewed |
-| M143948 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSubgroupSymplecticAnnihilatorLocalField` | volunteer-build-reviewed |
-| M143951 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.SchroedingerMemSchwartzBruhatFinitePlace` | volunteer-build-reviewed |
-| M143953 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.StandardTraceAdelicAddCharLocalComponentNeOne` | volunteer-build-reviewed |
-| M143954 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.TensorLatticeAtFinitePlaceEqIntegralSpanGenerato` | volunteer-build-reviewed |
-| M143961 | P1076 | `Formalism.AdicCompletionExports.AdicCompleteRingEquiv.IsAdicCompleteOfRingEquiv` | build-observed |
-| M143962 | P0966 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Imports` | build-observed |
-| M143963 | P0938 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Statement` | build-observed |

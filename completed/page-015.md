@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M009478 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSlice` | volunteer-build-reviewed |
+| M009479 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSliceStatement` | volunteer-build-reviewed |
 | M009480 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroTargetSlice` | volunteer-build-reviewed |
 | M009481 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroTargetSliceStatement` | volunteer-build-reviewed |
 | M009482 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationTwoVariableModelAndLineExte` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M010000 | P0516 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteExplicitConstStatement` | volunteer-build-reviewed |
 | M010001 | P0437 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwisted` | volunteer-build-reviewed |
 | M010002 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KernelsCommuteTwistedStatement` | volunteer-build-reviewed |
-| M010003 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KleinFormTorsionUnit` | volunteer-build-reviewed |
-| M010004 | P1420 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapEq` | volunteer-build-reviewed |

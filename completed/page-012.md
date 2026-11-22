@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M007239 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsUniqueIsTwistPull` | build-observed |
+| M007243 | P1085 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FaithfullyFlatPointsBaseChangeDescent` | build-observed |
 | M007253 | P1115 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FirstMinimumPrincipalTorusAtOrthonormalFrame` | volunteer-build-reviewed |
 | M007257 | P0296 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FirstRaisingMemEquivariant` | wave-reused |
 | M007259 | P0099 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.FockTranslationLaws` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M008271 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstFixedLevel` | volunteer-build-reviewed |
 | M008273 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantFirstOffLevel` | volunteer-build-reviewed |
 | M008275 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondFixedLeve` | volunteer-build-reviewed |
-| M008277 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondOffLevel` | volunteer-build-reviewed |
-| M008279 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepLocalWeilActionLineCharactersCancel` | volunteer-build-reviewed |

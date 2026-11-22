@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061053 | P1149 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatibleStatement` | build-observed |
+| M061056 | P1034 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaLatticePointMemThetaLatticeOfAdelic` | volunteer-build-reviewed |
+| M061062 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugate` | build-observed |
+| M061063 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugateStatement` | build-observed |
 | M061065 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTorsionTranslateIntegralSeriesStatement` | volunteer-build-reviewed |
 | M061067 | P1909 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaValuesVanishAtOddSplitPrimeStatement` | volunteer-build-reviewed |
 | M061068 | P2703 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmValuationNewformCongruence` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M061704 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePa` | volunteer-build-reviewed |
 | M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |
 | M061708 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar` | build-observed |
-| M061709 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHom` | wave-reused |
-| M061710 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHomStatement` | wave-reused |
-| M061712 | P1330 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHalfOfBasePins` | volunteer-build-reviewed |
-| M061713 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalDepletedEisensteinNeZe` | wave-reused |

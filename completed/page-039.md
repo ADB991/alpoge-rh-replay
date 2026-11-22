@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M026097 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslateLocallyNoetherianBaseStatement` | volunteer-build-reviewed |
+| M026098 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundle` | volunteer-build-reviewed |
 | M026099 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundleStatement` | volunteer-build-reviewed |
 | M026101 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeUNuInv` | volunteer-build-reviewed |
 | M026103 | P0243 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeightOneValuationsControlSubgroupStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M026703 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisationTranslateOrderTwoStatement` | volunteer-build-reviewed |
 | M026704 | P2479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisedGroupsSameSiegelFibre` | volunteer-build-reviewed |
 | M026705 | P2509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisedGroupsSameSiegelFibreStatement` | volunteer-build-reviewed |
-| M026706 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegree` | volunteer-build-reviewed |
-| M026707 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegreeStatement` | volunteer-build-reviewed |

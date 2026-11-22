@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169583 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussDVR` | wave-reused |
+| M169584 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussEq` | wave-reused |
+| M169585 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenChowIrreducible` | wave-reused |
+| M169586 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecDomain` | wave-reused |
+| M169587 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecKer` | wave-reused |
+| M169588 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecSeparable` | wave-reused |
+| M169589 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFibreDrop` | wave-reused |
+| M169590 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFormsKer` | wave-reused |
+| M169591 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PIncidenceNull` | wave-reused |
 | M169592 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PLengthDecomp` | wave-reused |
 | M169593 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormDvd` | wave-reused |
 | M169594 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PNormFormEval` | wave-reused |
@@ -393,12 +402,3 @@
 | M170066 | P0645 | `GroundTheory.PAdicHodge.FWGalois` | build-observed |
 | M170068 | P0612 | `GroundTheory.PAdicHodge.FWNatural` | build-observed |
 | M170069 | P0342 | `GroundTheory.PAdicHodge.FactorizationFactorialLe` | wave-reused |
-| M170070 | P0755 | `GroundTheory.PAdicHodge.FieldOfNorms` | build-observed |
-| M170071 | P0703 | `GroundTheory.PAdicHodge.FieldOfNormsAPF` | build-observed |
-| M170072 | P0915 | `GroundTheory.PAdicHodge.FieldOfNormsCyclBase` | build-observed |
-| M170073 | P0729 | `GroundTheory.PAdicHodge.FieldOfNormsDef` | build-observed |
-| M170076 | P0676 | `GroundTheory.PAdicHodge.FieldOfNormsRam` | build-observed |
-| M170077 | P0781 | `GroundTheory.PAdicHodge.FieldOfNormsResidue` | build-observed |
-| M170080 | P0645 | `GroundTheory.PAdicHodge.FieldOfNormsUpper` | build-observed |
-| M170081 | P0086 | `GroundTheory.PAdicHodge.FiniteFlat` | volunteer-build-reviewed |
-| M170082 | P0612 | `GroundTheory.PAdicHodge.FontaineLemma` | build-observed |

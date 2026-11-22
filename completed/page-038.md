@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M025455 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTopologicalKrullDimDiffOpenLtStatement` | volunteer-build-reviewed |
+| M025456 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTorsionPrechartCover` | volunteer-build-reviewed |
 | M025457 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTorsionPrechartCoverStatement` | volunteer-build-reviewed |
 | M025458 | P2364 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTranslatesCoverGeometricFibre` | volunteer-build-reviewed |
 | M025459 | P2393 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTranslatesCoverGeometricFibreStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M026092 | P2834 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeMapFiniteEtaleSurjective` | volunteer-build-reviewed |
 | M026093 | P2835 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeMapFiniteEtaleSurjectiveStatement` | volunteer-build-reviewed |
 | M026095 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeMapHarrisTaylorIntegralModelsStatement` | volunteer-build-reviewed |
-| M026097 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslateLocallyNoetherianBaseStatement` | volunteer-build-reviewed |
-| M026098 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundle` | volunteer-build-reviewed |

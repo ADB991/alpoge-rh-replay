@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046243 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefExistsConjTransposeMulMulEqOneStatement` | volunteer-build-reviewed |
+| M046246 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefRealGramPairHermitianFormsStatement` | volunteer-build-reviewed |
+| M046248 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosHomApply` | volunteer-build-reviewed |
+| M046249 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosLowerBoundOnFinset` | wave-reused |
 | M046251 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosOfPosMulInnerOnJointEigenvectorsStatement` | volunteer-build-reviewed |
 | M046253 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosSemidefQuadraticAdjointPairBoundStatement` | volunteer-build-reviewed |
 | M046262 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PositiveDefiniteLeadingMinorInverseBound` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M046912 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiNormIff` | volunteer-build-reviewed |
 | M046918 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetric` | volunteer-build-reviewed |
 | M046919 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetricStatement` | volunteer-build-reviewed |
-| M046920 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSumEqCharSumAgainstCuspForm` | wave-reused |
-| M046921 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiTwistedEqPsiMulCharacterOfPoint` | volunteer-build-reviewed |
-| M046923 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBase` | volunteer-build-reviewed |
-| M046924 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBaseStatement` | volunteer-build-reviewed |

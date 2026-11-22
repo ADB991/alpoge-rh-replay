@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012776 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EEContainsStableWeightZero` | build-observed |
+| M012783 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq` | wave-reused |
 | M012784 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfWeightEq` | wave-reused |
 | M012785 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOnPoints` | volunteer-build-reviewed |
 | M012790 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EvalTwistTxEqZeroOfAevalArcTx` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M013442 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPowStatement` | volunteer-build-reviewed |
 | M013445 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFDivFFMemOOfValuationRing` | volunteer-build-reviewed |
 | M013446 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFTTNeZero` | volunteer-build-reviewed |
-| M013447 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespond` | build-observed |
-| M013448 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespondStatement` | volunteer-build-reviewed |

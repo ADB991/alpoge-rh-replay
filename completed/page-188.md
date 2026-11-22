@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124579 | P0853 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsMultOfFintype` | build-observed |
+| M124580 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNMapAdd` | volunteer-build-reviewed |
+| M124581 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNormalisedOfDualIsConj` | volunteer-build-reviewed |
+| M124582 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernel` | volunteer-build-reviewed |
+| M124583 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenAdditiveCharacterKernelStatement` | volunteer-build-reviewed |
+| M124587 | P1523 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFixedOfSubgroup` | build-observed |
+| M124588 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenFreeFramePairs` | volunteer-build-reviewed |
+| M124591 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenInvertibleMatrices` | build-observed |
+| M124592 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsOpenIsCompactPrincipal` | volunteer-build-reviewed |
 | M124605 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPermWOne` | build-observed |
 | M124606 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPlacesOfHasRealPar` | volunteer-build-reviewed |
 | M124607 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsProperSpreadsOut` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M125385 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEqStatement` | build-observed |
 | M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
 | M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |
-| M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
-| M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
-| M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
-| M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
-| M125394 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionSupport` | volunteer-build-reviewed |
-| M125395 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionTranslation` | volunteer-build-reviewed |
-| M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
-| M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
-| M125398 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerSmooth` | volunteer-build-reviewed |

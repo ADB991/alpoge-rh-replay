@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113045 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.NormLoc` | volunteer-build-reviewed |
+| M113046 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.QuadConj` | volunteer-build-reviewed |
+| M113048 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.SpanAbsNorm` | volunteer-build-reviewed |
+| M113051 | P1550 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.IwInvT` | volunteer-build-reviewed |
+| M113053 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.MemLevUpdateOfErase` | volunteer-build-reviewed |
+| M113054 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.NhdsBasisLevelSubgroup` | volunteer-build-reviewed |
+| M113072 | P2651 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.PIntConj` | volunteer-build-reviewed |
+| M113077 | P1848 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.PLevOpen` | volunteer-build-reviewed |
 | M113080 | P1751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.PLocMem` | volunteer-build-reviewed |
 | M113081 | P1751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.PNbhdU` | volunteer-build-reviewed |
 | M113082 | P1751 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.POfUBij` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M113613 | P1341 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PHolPi` | build-observed |
 | M113614 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIntMult` | volunteer-build-reviewed |
 | M113615 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PInvMin` | volunteer-build-reviewed |
-| M113616 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIsogAt` | volunteer-build-reviewed |
-| M113618 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIsogForm` | volunteer-build-reviewed |
-| M113619 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PJLine` | volunteer-build-reviewed |
-| M113620 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PJStruct` | volunteer-build-reviewed |
-| M113622 | P2674 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PKpMem` | volunteer-build-reviewed |
-| M113623 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PLatForm` | volunteer-build-reviewed |
-| M113624 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PLatIso` | volunteer-build-reviewed |
-| M113625 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PLevelChange` | volunteer-build-reviewed |

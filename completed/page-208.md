@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138581 | P0372 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ContinuousAtOfClosedRel` | build-observed |
+| M138582 | P0144 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CrtGood` | volunteer-build-reviewed |
+| M138583 | P0664 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.DenseNonvan` | build-observed |
+| M138584 | P0065 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ExtendsToFractionField` | volunteer-build-reviewed |
+| M138585 | P0500 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.FderivAffCoordZero` | build-observed |
+| M138588 | P1439 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.FormHeightGen` | build-observed |
+| M138590 | P0065 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GermVanishesOfGenericVanishing` | volunteer-build-reviewed |
+| M138591 | P1265 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GramMatrixTwistedLieModels` | build-observed |
+| M138594 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HeightBoundOfHyp` | volunteer-build-reviewed |
 | M138596 | P2386 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HodgeCompactPullback` | volunteer-build-reviewed |
 | M138597 | P0993 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HtExists` | build-observed |
 | M138598 | P0459 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.IAlgebra` | build-observed |
@@ -393,12 +402,3 @@
 | M139474 | P0419 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPerCell` | volunteer-build-reviewed |
 | M139478 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyDelta` | volunteer-build-reviewed |
 | M139479 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyTowtBound` | volunteer-build-reviewed |
-| M139480 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XReBridge` | build-observed |
-| M139482 | P0747 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XRePot` | build-observed |
-| M139484 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XSqDens` | build-observed |
-| M139486 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XSqLimit` | build-observed |
-| M139492 | P0828 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.X_lemma_v` | build-observed |
-| M139494 | P0773 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.X_vert_deg` | build-observed |
-| M139496 | P1162 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.AdaptedChartsRegularization` | build-observed |
-| M139500 | P2444 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CentreIdent` | volunteer-build-reviewed |
-| M139501 | P2501 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ChartCentre` | volunteer-build-reviewed |

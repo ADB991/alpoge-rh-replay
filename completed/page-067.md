@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M045547 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionTate` | volunteer-build-reviewed |
+| M045548 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionTateStatement` | volunteer-build-reviewed |
+| M045550 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisiblePropertiesExtendStatement` | volunteer-build-reviewed |
+| M045555 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PencilOptionEquivLeftRenameSome` | volunteer-build-reviewed |
 | M045558 | P2348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerValMulWedgeCoord` | build-observed |
 | M045559 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectPairingDualSymplectic` | volunteer-build-reviewed |
 | M045562 | P0894 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PerfectProjectionNaturalIdempotentReduced` | build-observed |
@@ -398,7 +402,3 @@
 | M046240 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefEqMulTranspose` | volunteer-build-reviewed |
 | M046241 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefEqMulTransposeStatement` | volunteer-build-reviewed |
 | M046242 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefExistsConjTransposeMulMulEqOne` | volunteer-build-reviewed |
-| M046243 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefExistsConjTransposeMulMulEqOneStatement` | volunteer-build-reviewed |
-| M046246 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefRealGramPairHermitianFormsStatement` | volunteer-build-reviewed |
-| M046248 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosHomApply` | volunteer-build-reviewed |
-| M046249 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosLowerBoundOnFinset` | wave-reused |

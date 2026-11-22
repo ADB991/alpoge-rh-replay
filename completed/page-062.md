@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042066 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExist` | volunteer-build-reviewed |
+| M042067 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExistStatement` | volunteer-build-reviewed |
+| M042069 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitAbsoluteValueCriterionStatement` | volunteer-build-reviewed |
 | M042070 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZero` | volunteer-build-reviewed |
 | M042071 | P2123 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIffOrderZeroStatement` | volunteer-build-reviewed |
 | M042072 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitIndicatorIntegralValue` | volunteer-build-reviewed |
@@ -161,6 +164,7 @@
 | M042325 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogLiftOfUnitMemMap` | volunteer-build-reviewed |
 | M042326 | P0183 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogLiftPpZero` | volunteer-build-reviewed |
 | M042327 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogLowestKTypeWeylDimensionLeOfSizeBounds` | volunteer-build-reviewed |
+| M042330 | P2538 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogMeasureRatioLeStatement` | volunteer-build-reviewed |
 | M042331 | P2690 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogMetricCutoffIntegrable` | volunteer-build-reviewed |
 | M042332 | P2696 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogMetricCutoffIntegrableStatement` | volunteer-build-reviewed |
 | M042333 | P0480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LogMetricGradientFormBound` | build-observed |
@@ -398,7 +402,3 @@
 | M042760 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerAdaptedPlanesThirdStatement` | volunteer-build-reviewed |
 | M042761 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTowerDescentAdaptedPlane` | volunteer-build-reviewed |
 | M042763 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedConstantStatement` | volunteer-build-reviewed |
-| M042765 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedEigenStatement` | volunteer-build-reviewed |
-| M042768 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedIntegral` | volunteer-build-reviewed |
-| M042770 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestriction` | volunteer-build-reviewed |
-| M042771 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestrictionStatement` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049723 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAtStatement` | volunteer-build-reviewed |
+| M049725 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralCompAut` | volunteer-build-reviewed |
+| M049726 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEq` | volunteer-build-reviewed |
+| M049727 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEqStatement` | volunteer-build-reviewed |
 | M049729 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfFibre` | volunteer-build-reviewed |
 | M049730 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralEqZeroOfMulRight` | volunteer-build-reviewed |
 | M049731 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralFderivApplyEqZeroOfPeriodic` | build-observed |
@@ -398,7 +402,3 @@
 | M050391 | P2517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothConeSumGeneratorsEqOfCommonInteriorPointStatement` | volunteer-build-reviewed |
 | M050392 | P0400 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEq` | build-observed |
 | M050393 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEqStatement` | build-observed |
-| M050399 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothDifferencePeriodDecompositionStatement` | volunteer-build-reviewed |
-| M050401 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInCharts` | wave-reused |
-| M050402 | P0951 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInChartsStatement` | wave-reused |
-| M050405 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunction` | volunteer-build-reviewed |

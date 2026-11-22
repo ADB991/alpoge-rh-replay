@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050399 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothDifferencePeriodDecompositionStatement` | volunteer-build-reviewed |
+| M050401 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInCharts` | wave-reused |
+| M050402 | P0951 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInChartsStatement` | wave-reused |
+| M050405 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunction` | volunteer-build-reviewed |
 | M050406 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothExtensionOfPhaseFunctionStatement` | volunteer-build-reviewed |
 | M050407 | P0652 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFibreRegularLocalRing` | volunteer-build-reviewed |
 | M050409 | P2614 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothFormsCalculusHolomorphicAtlas` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M051142 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerate` | volunteer-build-reviewed |
 | M051143 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerateStatement` | volunteer-build-reviewed |
 | M051145 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanExpRealLinearStatement` | volunteer-build-reviewed |
-| M051146 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOne` | volunteer-build-reviewed |
-| M051147 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOneStatement` | volunteer-build-reviewed |
-| M051148 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdditiveCharacterProductFormula` | volunteer-build-reviewed |
-| M051150 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicAddCharNontrivialFinitePlaceStatement` | volunteer-build-reviewed |

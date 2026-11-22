@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120861 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraicOverTorusOfIntegral` | volunteer-build-reviewed |
+| M120865 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsion` | volunteer-build-reviewed |
+| M120866 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsionStatement` | volunteer-build-reviewed |
+| M120867 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFinitelyGeneratedSerreClass` | volunteer-build-reviewed |
+| M120868 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFinitelyGeneratedSerreClassStatement` | volunteer-build-reviewed |
+| M120871 | P0204 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlternativeLocalComputationOfComponents` | volunteer-build-reviewed |
+| M120872 | P0264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlternativeLocalComputationOfComponentsStatement` | volunteer-build-reviewed |
+| M120873 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheaf` | wave-reused |
+| M120874 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheafStatement` | wave-reused |
 | M120875 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximation` | wave-reused |
 | M120876 | P1412 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistedSectionsApproximationStatement` | wave-reused |
 | M120877 | P0204 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AnalyticGermFiniteProjection` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M121444 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationSurjectiveStatement` | volunteer-build-reviewed |
 | M121445 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationVanishingOnOpen` | volunteer-build-reviewed |
 | M121446 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationVanishingOnOpenStatement` | volunteer-build-reviewed |
-| M121447 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedFibreStructureCohomologyFinite` | volunteer-build-reviewed |
-| M121448 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedFibreStructureCohomologyFiniteStatement` | volunteer-build-reviewed |
-| M121449 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionPullbackKernelSup` | wave-reused |
-| M121450 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionUniversalSquareZero` | volunteer-build-reviewed |
-| M121451 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionUniversalSquareZeroStatement` | volunteer-build-reviewed |
-| M121452 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedMissingClosedFibreEmpty` | wave-reused |
-| M121453 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedOfFunctor` | volunteer-build-reviewed |
-| M121454 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplex` | volunteer-build-reviewed |
-| M121455 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplexStatement` | volunteer-build-reviewed |

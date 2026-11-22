@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069713 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOver` | volunteer-build-reviewed |
+| M069714 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOverStatement` | volunteer-build-reviewed |
+| M069715 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetract` | wave-reused |
+| M069716 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetractStatement` | wave-reused |
+| M069717 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRightInverseCentralProjectorUnitElement` | volunteer-build-reviewed |
 | M069720 | P0983 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMap` | wave-reused |
 | M069721 | P1011 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingHomExtendIsAdicCompletionMapStatement` | wave-reused |
 | M069722 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRingSqZeroNilpotentAugmented` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M070368 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpace` | volunteer-build-reviewed |
 | M070369 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpaceStatement` | volunteer-build-reviewed |
 | M070372 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockInnerProductPosDefCompactMatrixUnitAdjoint` | volunteer-build-reviewed |
-| M070374 | P1482 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockMinorProductEqSignDualWeylExtremalVector` | volunteer-build-reviewed |
-| M070376 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockOfApply` | volunteer-build-reviewed |
-| M070379 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockPolynomialSubstitutionCommuteTargetGlAction` | volunteer-build-reviewed |
-| M070382 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockReadingTranslatedFormMemComplexFormsStatement` | volunteer-build-reviewed |
-| M070383 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScaling` | volunteer-build-reviewed |

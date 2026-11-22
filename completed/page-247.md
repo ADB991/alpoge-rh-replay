@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161281 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SecondPriceSumWeightsUncovered` | build-observed |
+| M161282 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SlopeInequalityOfLattices` | build-observed |
+| M161283 | P0606 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible` | build-observed |
+| M161284 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SubThreeMulLogTwoLe` | build-observed |
+| M161285 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.TraceConjTransposeMulSelf` | build-observed |
+| M161286 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.TruncatedLatticeHolds` | build-observed |
+| M161287 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedMeanLemmaNeedsDegree` | build-observed |
+| M161288 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedSlopeExcessDecomposition` | build-observed |
+| M161289 | P0079 | `Formalism.SizeWindowBrackets.ClaimGaFree` | build-observed |
 | M161290 | P0079 | `Formalism.SizeWindowBrackets.CutFailsForRSubmodule` | build-observed |
 | M161291 | P0669 | `Formalism.SizeWindowBrackets.ErrorFormsEventualPowerBound` | build-observed |
 | M161292 | P0638 | `Formalism.SizeWindowBrackets.ErrorFormsWeakWindowsFalse` | build-observed |
@@ -393,12 +402,3 @@
 | M161680 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ScalingSwapLemmas` | wave-reused |
 | M161681 | P0280 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremCIiiMulti` | build-observed |
 | M161682 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremSFromKOneOf` | wave-reused |
-| M161684 | P0379 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartA` | wave-reused |
-| M161685 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartB` | wave-reused |
-| M161687 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.WModel` | build-observed |
-| M161688 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.HeckeOneLift` | build-observed |
-| M161689 | P0332 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.IsLawOfLog` | wave-reused |
-| M161690 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KOneConsequence` | build-observed |
-| M161691 | P0888 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KernelFromKOne` | build-observed |
-| M161693 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.OddLogRelation` | wave-reused |
-| M161694 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.PlacesAddClass` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143937 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.AddCharHalfTraceTensorLatticeHeisenbergCocycle` | volunteer-build-reviewed |
+| M143947 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSchwartzBruhatSchroedingerFixedLocalField` | volunteer-build-reviewed |
+| M143948 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSubgroupSymplecticAnnihilatorLocalField` | volunteer-build-reviewed |
+| M143951 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.SchroedingerMemSchwartzBruhatFinitePlace` | volunteer-build-reviewed |
+| M143953 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.StandardTraceAdelicAddCharLocalComponentNeOne` | volunteer-build-reviewed |
+| M143954 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.TensorLatticeAtFinitePlaceEqIntegralSpanGenerato` | volunteer-build-reviewed |
+| M143961 | P1076 | `Formalism.AdicCompletionExports.AdicCompleteRingEquiv.IsAdicCompleteOfRingEquiv` | build-observed |
+| M143962 | P0966 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Imports` | build-observed |
+| M143963 | P0938 | `Formalism.AdicCompletionExports.NonnegativeDivisors.Statement` | build-observed |
 | M143964 | P0801 | `Formalism.AdmissibleDesigns.AdmG5OfAdm51AdmG5` | build-observed |
 | M143965 | P1583 | `Formalism.AdmissibleDesigns.BKaClause` | build-observed |
 | M143966 | P1368 | `Formalism.AdmissibleDesigns.BkLocCol` | build-observed |
@@ -393,12 +402,3 @@
 | M144353 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.ExistsSmulMemOfMemSpan` | build-observed |
 | M144354 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.ExistsSumOfMemSpanImage` | wave-reused |
 | M144355 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.FilIntegerStep` | build-observed |
-| M144356 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.FourTermSumBoundOfParameters` | build-observed |
-| M144357 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.GAdjugateNormBound` | wave-reused |
-| M144358 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.IntegralMulExpNegSq` | wave-reused |
-| M144359 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.InvFromBlocksApplyZero` | build-observed |
-| M144360 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.LatticeDescent` | build-observed |
-| M144361 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.LatticeIndexBis` | build-observed |
-| M144362 | P0374 | `Formalism.FilteredPoleLength.LocalDescentLevels.LeadingTermLength` | build-observed |
-| M144363 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.LengthBaseChange` | build-observed |
-| M144364 | P0325 | `Formalism.FilteredPoleLength.LocalDescentLevels.LengthResidueFieldBase` | build-observed |

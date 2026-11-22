@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162540 | P0507 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.AdelicLattice` | wave-reused |
+| M162541 | P0606 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Finiteness` | wave-reused |
+| M162542 | P0159 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.GramReduction` | wave-reused |
+| M162543 | P0425 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.HermTraceSelfOfHermValue` | wave-reused |
+| M162544 | P0541 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.IsIntegralVecCoordsOfRatCoordsSingle` | wave-reused |
+| M162545 | P0465 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Places` | wave-reused |
+| M162546 | P0574 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reconstruction` | wave-reused |
+| M162547 | P0080 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reduction` | wave-reused |
+| M162548 | P0380 | `GroundTheory.AutomorphicForms.DiscreteDecomposition` | build-observed |
 | M162549 | P0282 | `GroundTheory.AutomorphicForms.DiscreteSpectrumAbstract` | wave-reused |
 | M162550 | P0380 | `GroundTheory.AutomorphicForms.DixmierMalliavin` | build-observed |
 | M162551 | P0159 | `GroundTheory.AutomorphicForms.DixmierMalliavinBasic` | wave-reused |
@@ -393,12 +402,3 @@
 | M162964 | P0160 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.Integrated` | wave-reused |
 | M162965 | P0081 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.IsInvariantIffCommuteStarProjection` | wave-reused |
 | M162966 | P0282 | `GroundTheory.AutomorphicForms.UnitarySplit` | wave-reused |
-| M162967 | P0334 | `GroundTheory.AutomorphicForms.WhittakerCells` | wave-reused |
-| M162968 | P0334 | `GroundTheory.AutomorphicForms.WhittakerCriterion` | wave-reused |
-| M162969 | P0380 | `GroundTheory.AutomorphicForms.WhittakerDistribution` | wave-reused |
-| M162970 | P0334 | `GroundTheory.AutomorphicForms.WhittakerGroups` | wave-reused |
-| M162971 | P0225 | `GroundTheory.AutomorphicForms.WhittakerLSpace` | wave-reused |
-| M162972 | P0425 | `GroundTheory.AutomorphicForms.WhittakerLocal` | wave-reused |
-| M162973 | P0282 | `GroundTheory.AutomorphicForms.WhittakerOrbit` | wave-reused |
-| M162974 | P0081 | `GroundTheory.AutomorphicForms.WhittakerRelevance` | wave-reused |
-| M162995 | P0225 | `GroundTheory.FunctionField.Approximation` | wave-reused |

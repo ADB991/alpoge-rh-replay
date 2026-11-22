@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174320 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.TensorActionLieRelations` | wave-reused |
+| M174321 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.BlockSum` | wave-reused |
+| M174322 | P1243 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CartanKType` | wave-reused |
+| M174323 | P1192 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CountNotTwoOfFinrankLeOne` | wave-reused |
+| M174324 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.ExpEntryHasDerivAt` | wave-reused |
+| M174325 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.InnerLowerSelf` | wave-reused |
+| M174326 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KTypeIntDomStatement` | wave-reused |
+| M174327 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KtintExpApplyOfEig` | wave-reused |
+| M174328 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.LowComp` | wave-reused |
 | M174329 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PPlusPWtInjective` | wave-reused |
 | M174330 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.PrhoEntryHasDerivAt` | wave-reused |
 | M174331 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.StTest` | wave-reused |
@@ -393,12 +402,3 @@
 | M174898 | P0171 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlace` | volunteer-build-reviewed |
 | M174899 | P0093 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlaceB` | volunteer-build-reviewed |
 | M174900 | P0093 | `ReciprocityTheory.ReductiveGroups.Lattices.LatUnrCharA` | volunteer-build-reviewed |
-| M174901 | P0704 | `ReciprocityTheory.ReductiveGroups.LocalHeights.Imports` | build-observed |
-| M174902 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.Imports` | wave-reused |
-| M174903 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.SolveV` | wave-reused |
-| M174904 | P0093 | `ReciprocityTheory.ReductiveGroups.PlaceCounting.RaySplA` | build-observed |
-| M174905 | P0093 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.AltBranchStatement` | volunteer-build-reviewed |
-| M174906 | P0171 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.AntitoneOfMemInterl` | volunteer-build-reviewed |
-| M174907 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.BlockCombStatement` | volunteer-build-reviewed |
-| M174909 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.Branch` | volunteer-build-reviewed |
-| M174916 | P0171 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SqCharA` | volunteer-build-reviewed |

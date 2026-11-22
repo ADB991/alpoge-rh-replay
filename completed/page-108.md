@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073882 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSup` | build-observed |
+| M073883 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSupStatement` | build-observed |
+| M073884 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquiv` | build-observed |
+| M073885 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquivStatement` | build-observed |
+| M073886 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConj` | build-observed |
 | M073887 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConjStatement` | build-observed |
 | M073888 | P1568 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPair` | build-observed |
 | M073889 | P1595 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemistableCocycleOfFrobeniusMonodromyPairStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M074586 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlaces` | volunteer-build-reviewed |
 | M074587 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlacesStatement` | volunteer-build-reviewed |
 | M074590 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftHasPointAtLocalisationSamePlace` | volunteer-build-reviewed |
-| M074592 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSum` | volunteer-build-reviewed |
-| M074593 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSumStatement` | volunteer-build-reviewed |
-| M074595 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishesSingleCoefficientOfKernelKillsStatement` | volunteer-build-reviewed |
-| M074596 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivative` | volunteer-build-reviewed |
-| M074597 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivativeStatement` | volunteer-build-reviewed |

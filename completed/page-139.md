@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097477 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimirStatement` | build-observed |
+| M097478 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumSymmetricTranslatesThetaPullbackExtends` | volunteer-build-reviewed |
+| M097480 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumWithLatKerEqMulSumWithKerLat` | volunteer-build-reviewed |
+| M097481 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNonnegFamilyOfDifferentiableOn` | volunteer-build-reviewed |
+| M097482 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOut` | volunteer-build-reviewed |
+| M097483 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOutStatement` | volunteer-build-reviewed |
 | M097484 | P0196 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SupLatticeLocalisationOfUnitBall` | volunteer-build-reviewed |
 | M097489 | P1181 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SuppInd` | volunteer-build-reviewed |
 | M097493 | P1575 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SurjectiveReductionOntoFiniteLevelGroupStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M098117 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjoint` | build-observed |
 | M098118 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjointStatement` | build-observed |
 | M098119 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExists` | build-observed |
-| M098120 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExistsStatement` | build-observed |
-| M098123 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeries` | build-observed |
-| M098124 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeriesStatement` | build-observed |
-| M098135 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPoints` | build-observed |
-| M098136 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRankLeOneIntegralPointsStatement` | build-observed |
-| M098137 | P1490 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryRationalDiagonalHomBijective` | volunteer-build-reviewed |

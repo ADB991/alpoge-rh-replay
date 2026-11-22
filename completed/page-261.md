@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168867 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsShTotSmall` | volunteer-build-reviewed |
+| M168869 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TauSumRearrangement` | volunteer-build-reviewed |
+| M168870 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TendstoSumPrimesInRestP` | volunteer-build-reviewed |
+| M168871 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TotSumLineF` | volunteer-build-reviewed |
+| M168874 | P0611 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.BaseChangeMinimal` | build-observed |
+| M168875 | P0780 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ChangeOfModel` | build-observed |
+| M168877 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.Contract` | build-observed |
+| M168878 | P0728 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixed` | build-observed |
+| M168879 | P0702 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ContractMixedField` | build-observed |
 | M168880 | P0644 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordFibreDeg` | build-observed |
 | M168881 | P0754 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.CoordRatioDeg` | build-observed |
 | M168886 | P0578 | `GroundTheory.HeightsAndTheta.Heights.OrbitLimits.ExistsUnique` | build-observed |
@@ -393,12 +402,3 @@
 | M169580 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreCut` | wave-reused |
 | M169581 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFiniteOrd` | wave-reused |
 | M169582 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFreeParAlgIndep` | wave-reused |
-| M169583 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussDVR` | wave-reused |
-| M169584 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussEq` | wave-reused |
-| M169585 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenChowIrreducible` | wave-reused |
-| M169586 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecDomain` | wave-reused |
-| M169587 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecKer` | wave-reused |
-| M169588 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenSecSeparable` | wave-reused |
-| M169589 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFibreDrop` | wave-reused |
-| M169590 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenericFormsKer` | wave-reused |
-| M169591 | P0231 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PIncidenceNull` | wave-reused |

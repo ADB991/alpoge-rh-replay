@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    "M108789"
+  ],
+  "started_utc": "2026-11-22T11:17:19.008388+00:00",
+  "ended_utc": "2026-11-22T11:20:11.922432+00:00",
+  "elapsed_seconds": 172.9,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 6000576
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SxExtA:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "6edf22bd5222bb94b79d136c9a9026d08e3c8cd5194c245ea7a639cc6f8f0aae",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoExt",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Gordan",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrGen",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrInternal",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Graded",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.PartSpan",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.WPresGrZeroIsCOOfMemMaximalIdeal",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.WPresMaximalIdealGrZeroEqSupSpanMonomials",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.AdicContMap",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SxExtGr0",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.LayerApproximation"
+  ],
+  "objects": {
+    "M108789": "7b31ac22312508e2fdb6eb384441282b76dcbf98bf247514c1a7df48238aa28a"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "dda5b368947d726e3f09f65f9632888a08ade21554f1414fc26e57a63acc0259",
+  "packet": "M108789",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31661#issuecomment-7078387598",
+  "reviewed_utc": "2026-11-22T11:40:23.565124+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

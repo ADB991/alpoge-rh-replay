@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074592 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSum` | volunteer-build-reviewed |
+| M074593 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSumStatement` | volunteer-build-reviewed |
+| M074595 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishesSingleCoefficientOfKernelKillsStatement` | volunteer-build-reviewed |
+| M074596 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivative` | volunteer-build-reviewed |
+| M074597 | P1889 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishingPreservedByRealLieDerivativeStatement` | volunteer-build-reviewed |
 | M074598 | P2202 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModel` | volunteer-build-reviewed |
 | M074599 | P2215 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorIsThetaFunctionTwoStepModelStatement` | volunteer-build-reviewed |
 | M074600 | P1543 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVectorSchroedingerImageAtLevelPrime` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M075317 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRingStatement` | build-observed |
 | M075318 | P0406 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplitting` | build-observed |
 | M075319 | P0447 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplittingStatement` | build-observed |
-| M075321 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConstantStandardHermitianEqOneStatement` | volunteer-build-reviewed |
-| M075322 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevels` | volunteer-build-reviewed |
-| M075323 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevelsStatement` | volunteer-build-reviewed |
-| M075325 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneAboveStatement` | volunteer-build-reviewed |
-| M075326 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecial` | build-observed |

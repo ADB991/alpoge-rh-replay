@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019722 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPhaseAt` | volunteer-build-reviewed |
+| M019724 | P1351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlace` | build-observed |
 | M019725 | P1374 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlaceStatement` | build-observed |
 | M019727 | P1958 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousReGLSymm` | volunteer-build-reviewed |
 | M019729 | P0178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousRestrStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M020402 | P2122 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDiagonalVanishing` | volunteer-build-reviewed |
 | M020403 | P2134 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDiagonalVanishingStatement` | volunteer-build-reviewed |
 | M020404 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDoubledSpace` | volunteer-build-reviewed |
-| M020405 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDoubledSpaceStatement` | volunteer-build-reviewed |
-| M020406 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModel` | volunteer-build-reviewed |

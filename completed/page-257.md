@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166168 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussFourierSelf` | volunteer-build-reviewed |
+| M166169 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCoords` | volunteer-build-reviewed |
+| M166170 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCovolume` | volunteer-build-reviewed |
+| M166171 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeIsLattice` | volunteer-build-reviewed |
+| M166172 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussPacking` | volunteer-build-reviewed |
+| M166174 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussPoissonDual` | volunteer-build-reviewed |
+| M166175 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShell` | volunteer-build-reviewed |
+| M166176 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShellSum` | volunteer-build-reviewed |
+| M166177 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussSqrt` | volunteer-build-reviewed |
 | M166178 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTermBound` | volunteer-build-reviewed |
 | M166179 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussTop` | volunteer-build-reviewed |
 | M166181 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGrassArithVar` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M166995 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResFibreSum` | build-observed |
 | M166996 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResInt` | build-observed |
 | M166997 | P0429 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentsAdditive` | volunteer-build-reviewed |
-| M166998 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentsMeetNull` | build-observed |
-| M166999 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConjIntNum` | volunteer-build-reviewed |
-| M167000 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConstantShift` | wave-reused |
-| M167001 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConstantsDescend` | volunteer-build-reviewed |
-| M167003 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCoordArithOfFnField` | wave-reused |
-| M167004 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCurvePointsFinite` | build-observed |
-| M167007 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegLTGrowth` | wave-reused |
-| M167008 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegreePositive` | wave-reused |
-| M167009 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomCharpolyForms` | build-observed |

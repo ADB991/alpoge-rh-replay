@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100600 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAddStatement` | wave-reused |
+| M100601 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WtAddSingle` | build-observed |
+| M100602 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesCoeffMulLe` | wave-reused |
+| M100603 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystem` | wave-reused |
+| M100604 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesLeafMainTermCurveSystemStatement` | wave-reused |
+| M100606 | P0624 | `Development.AbelianVarietyTheory.PublishedTheorems.AbelianLaws.PrincipalPolarisationOneSection` | volunteer-build-reviewed |
 | M100607 | P0130 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.AlgebraMapNormOfBasisOneSqrt` | wave-reused |
 | M100608 | P0259 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteOrthogonalLengths` | build-observed |
 | M100609 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsFiniteRepresentatives` | build-observed |
@@ -69,6 +75,7 @@
 | M100688 | P2335 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.BijectiveCechDeRhamComparisonDegreeOne` | volunteer-build-reviewed |
 | M100689 | P0960 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CanonicalOfAbelianDeRham` | wave-reused |
 | M100690 | P1912 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CharChPartZero` | volunteer-build-reviewed |
+| M100691 | P1462 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ChernDegreeComplex` | volunteer-build-reviewed |
 | M100692 | P0312 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CmCurveGoodOutsidePrimePremises` | build-observed |
 | M100694 | P1410 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ComplementaryThetaInert` | volunteer-build-reviewed |
 | M100696 | P2140 | `Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ConclusionZero` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M101256 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsHaarMeasureAdelicGL` | build-observed |
 | M101260 | P0042 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsNatCombinationIsUnitOfIsUnitCombination` | volunteer-build-reviewed |
 | M101262 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.GeneralLinearPiCentralizerCommOfCharpolySeparabl` | volunteer-build-reviewed |
-| M101263 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.GeometricSideAbsolutelyConvergentOfEulerFubini` | build-observed |
-| M101264 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.GlobalOrbitalComparisonOfSplit` | build-observed |
-| M101265 | P0363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarConstOfHaarExists` | build-observed |
-| M101266 | P2116 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarMeasureTripleProductDecomposition` | volunteer-build-reviewed |
-| M101267 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarQuotientSubgroup` | build-observed |
-| M101268 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarUnimodularCriterion` | build-observed |
-| M101270 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.InfinitePartFiniteOfAdelicBound` | build-observed |

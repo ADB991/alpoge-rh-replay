@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127236 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAnyHaar` | volunteer-build-reviewed |
+| M127238 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpan` | volunteer-build-reviewed |
+| M127239 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpanStatement` | volunteer-build-reviewed |
+| M127240 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneRightTranslate` | volunteer-build-reviewed |
+| M127241 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneRightTranslateStatement` | volunteer-build-reviewed |
+| M127242 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatProdSpanTensors` | build-observed |
+| M127243 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatProdSpanTensorsStatement` | build-observed |
+| M127244 | P0825 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorant` | build-observed |
+| M127245 | P0853 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorantStatement` | build-observed |
 | M127253 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzFunctionSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M127256 | P2091 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeightMajorantIntegrable` | volunteer-build-reviewed |
 | M127258 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzHeisLine` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M127979 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateShafarevichTransport` | volunteer-build-reviewed |
 | M127982 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentative` | build-observed |
 | M127983 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentativeStatement` | build-observed |
-| M127984 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrame` | build-observed |
-| M127985 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrameStatement` | build-observed |
-| M127987 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerCharacterEqResidueLift` | volunteer-build-reviewed |
-| M127989 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerCompatibleSequenceApproximation` | volunteer-build-reviewed |
-| M127991 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerFixedPointApproximation` | volunteer-build-reviewed |
-| M128007 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerResidueCongruence` | volunteer-build-reviewed |
-| M128009 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperateMultiplierPreservesSchwartz` | volunteer-build-reviewed |
-| M128011 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2` | build-observed |
-| M128012 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInduced` | volunteer-build-reviewed |

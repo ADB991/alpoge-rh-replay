@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093955 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalar` | volunteer-build-reviewed |
+| M093956 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalarStatement` | volunteer-build-reviewed |
+| M093957 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLaw` | volunteer-build-reviewed |
+| M093958 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLawStatement` | volunteer-build-reviewed |
+| M093959 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinear` | volunteer-build-reviewed |
 | M093960 | P2139 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinearStatement` | volunteer-build-reviewed |
 | M093961 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalCoeffSpan` | volunteer-build-reviewed |
 | M093962 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimensionalInvariantSubspace` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M094464 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModel` | volunteer-build-reviewed |
 | M094465 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModelStatement` | volunteer-build-reviewed |
 | M094466 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRows` | volunteer-build-reviewed |
-| M094467 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRowsStatement` | volunteer-build-reviewed |
-| M094468 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTuple` | volunteer-build-reviewed |
-| M094469 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTupleStatement` | volunteer-build-reviewed |
-| M094471 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodVOfGoodL` | volunteer-build-reviewed |
-| M094472 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominated` | volunteer-build-reviewed |

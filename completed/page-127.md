@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090664 | P1071 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnitStatement` | wave-reused |
+| M090666 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPowSpanXLeOfDense` | wave-reused |
+| M090667 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrimeDimensionLEOneAvoiding` | volunteer-build-reviewed |
+| M090670 | P1545 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRoot` | build-observed |
+| M090671 | P1573 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRootStatement` | build-observed |
 | M090674 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTranspose` | wave-reused |
 | M090675 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRepresentativesModSimilitudeTransposeStatement` | wave-reused |
 | M090677 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsRigidTranslatePrincipalPolarisationOrderTw` | build-observed |
@@ -397,8 +402,3 @@
 | M091358 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharactersStatement` | build-observed |
 | M091359 | P0623 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusProjPeriodZeroEqReal` | build-observed |
 | M091360 | P0524 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqFinrankMulSum` | build-observed |
-| M091361 | P0685 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqSumRingHom` | build-observed |
-| M091362 | P0932 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceFormTwistIsoOfPullback` | wave-reused |
-| M091364 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPoints` | build-observed |
-| M091365 | P1232 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPointsStatement` | build-observed |
-| M091366 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibre` | build-observed |

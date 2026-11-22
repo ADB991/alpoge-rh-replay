@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080351 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicativeStatement` | volunteer-build-reviewed |
+| M080352 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurent` | volunteer-build-reviewed |
+| M080353 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurentStatement` | volunteer-build-reviewed |
+| M080354 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFock` | volunteer-build-reviewed |
+| M080355 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFockStatement` | volunteer-build-reviewed |
 | M080356 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLattice` | volunteer-build-reviewed |
 | M080357 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawOfSquaresSelfDualSplitLatticeStatement` | volunteer-build-reviewed |
 | M080358 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawsAll` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M081277 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharactersStatement` | volunteer-build-reviewed |
 | M081279 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PatchAtSelf` | volunteer-build-reviewed |
 | M081284 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodChartRescaleBallToUnitPolydisc` | volunteer-build-reviewed |
-| M081292 | P2379 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFamilyChartHolomorphicStatement` | build-observed |
-| M081293 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFormsIsometryColumnPairingAtState` | volunteer-build-reviewed |
-| M081306 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixBoundaryExtensionMonodromyPosSemidef` | volunteer-build-reviewed |
-| M081308 | P2354 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixPolynomialGrowthPuncturedPolydisc` | build-observed |
-| M081314 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNorm` | volunteer-build-reviewed |

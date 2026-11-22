@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156519 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.NvFalseEq` | build-observed |
+| M156520 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowExpansionMinor.FirstColumnSplitBijective` | wave-reused |
+| M156521 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.Development` | wave-reused |
+| M156522 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.DoubleRowDecreasing` | wave-reused |
+| M156523 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.DoubleRowIncreasing` | wave-reused |
+| M156524 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.PermutedRowProductSplit` | wave-reused |
+| M156525 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowWeightSpan.RowWtSpanOfBideterminant` | build-observed |
+| M156527 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SandwichOfOfCharts` | volunteer-build-reviewed |
+| M156528 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SideAUnrealifyRL` | volunteer-build-reviewed |
 | M156530 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.UnrealifyRL` | volunteer-build-reviewed |
 | M156531 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.AveragingOperatorIdempotent` | build-observed |
 | M156532 | P0539 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ScalarConvolutionTrace.CardUNeZero` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M156931 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExistsUnifFv` | wave-reused |
 | M156932 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibDis` | wave-reused |
 | M156933 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibFour` | wave-reused |
-| M156934 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibGlue` | wave-reused |
-| M156935 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibOfTens` | wave-reused |
-| M156936 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibTop` | wave-reused |
-| M156937 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibUniq` | wave-reused |
-| M156938 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FinTheta` | wave-reused |
-| M156939 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FiniteOnCompacts` | wave-reused |
-| M156940 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FreeOpen` | wave-reused |
-| M156941 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HenselCount` | wave-reused |
-| M156942 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HenselCountHolds` | wave-reused |

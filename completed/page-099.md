@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067719 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVectorStatement` | volunteer-build-reviewed |
+| M067720 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspace` | volunteer-build-reviewed |
+| M067721 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspaceStatement` | volunteer-build-reviewed |
+| M067723 | P0522 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizerStatement` | volunteer-build-reviewed |
+| M067724 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwist` | volunteer-build-reviewed |
 | M067725 | P2493 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwistStatement` | volunteer-build-reviewed |
 | M067727 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstOneMem` | volunteer-build-reviewed |
 | M067728 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffFamilyFrobeniusCongrPow` | build-observed |
@@ -397,8 +402,3 @@
 | M068412 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnit` | volunteer-build-reviewed |
 | M068413 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnitStatement` | volunteer-build-reviewed |
 | M068414 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootsBarEq` | volunteer-build-reviewed |
-| M068419 | P0926 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfMemProKer` | build-observed |
-| M068420 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfPowEqOne` | volunteer-build-reviewed |
-| M068421 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOneOfPowEqOneOfCharpoly` | volunteer-build-reviewed |
-| M068423 | P0405 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparabl` | build-observed |
-| M068424 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqSubmoduleMulLeftImageIntegralClosureOfSeparablStatement` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M041389 | P1793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslateStatement` | volunteer-build-reviewed |
+| M041390 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomial` | volunteer-build-reviewed |
+| M041391 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomialStatement` | volunteer-build-reviewed |
 | M041392 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormula` | volunteer-build-reviewed |
 | M041393 | P0352 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureAllFormulaStatement` | volunteer-build-reviewed |
 | M041394 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineGramCurvatureFormula` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M042061 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalTwistContinuousInvolutionIntegralPropertiesStatement` | volunteer-build-reviewed |
 | M042064 | P1840 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingAction` | volunteer-build-reviewed |
 | M042065 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingActionStatement` | volunteer-build-reviewed |
-| M042066 | P2136 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExist` | volunteer-build-reviewed |
-| M042067 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnipotentEmbeddingsExistStatement` | volunteer-build-reviewed |
-| M042069 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LocalUnitAbsoluteValueCriterionStatement` | volunteer-build-reviewed |

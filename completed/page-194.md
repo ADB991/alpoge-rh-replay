@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128711 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnstatedLocalWeilLemma` | build-observed |
+| M128712 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicComplete` | wave-reused |
+| M128713 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicCompleteStatement` | wave-reused |
+| M128716 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UpperLeftBlockMatrix` | volunteer-build-reviewed |
+| M128717 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VLtOneOfOrdLEqOne` | volunteer-build-reviewed |
+| M128718 | P0826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValEqOneOfMulEq` | volunteer-build-reviewed |
+| M128719 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValMeasurableEmbedding` | volunteer-build-reviewed |
+| M128720 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValSuccAbove` | volunteer-build-reviewed |
+| M128721 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValThree` | volunteer-build-reviewed |
 | M128722 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValZpowIff` | volunteer-build-reviewed |
 | M128724 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationLeIffNormEmbeddingStatement` | volunteer-build-reviewed |
 | M128729 | P0207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValuationOfLocalDichotomy` | wave-reused |
@@ -393,12 +402,3 @@
 | M129463 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianFamilyHodgeLattice` | volunteer-build-reviewed |
 | M129466 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelEigenFrameStatement` | volunteer-build-reviewed |
 | M129470 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelLatticeStatement` | volunteer-build-reviewed |
-| M129480 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPoint` | volunteer-build-reviewed |
-| M129482 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPointStatement` | volunteer-build-reviewed |
-| M129486 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartLieMultShiftStatement` | volunteer-build-reviewed |
-| M129489 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartMapsCompatibleLeft` | volunteer-build-reviewed |
-| M129501 | P1263 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientGaugeUnit` | build-observed |
-| M129509 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientLineBundleGauge` | volunteer-build-reviewed |
-| M129511 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianQuotientOfPowerFns` | volunteer-build-reviewed |
-| M129515 | P1610 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjective` | volunteer-build-reviewed |
-| M129516 | P1637 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianSchemeNsmulSurjectiveStatement` | volunteer-build-reviewed |

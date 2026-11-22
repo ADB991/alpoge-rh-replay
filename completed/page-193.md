@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127984 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrame` | build-observed |
+| M127985 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrameStatement` | build-observed |
+| M127987 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerCharacterEqResidueLift` | volunteer-build-reviewed |
+| M127989 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerCompatibleSequenceApproximation` | volunteer-build-reviewed |
+| M127991 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerFixedPointApproximation` | volunteer-build-reviewed |
+| M128007 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerResidueCongruence` | volunteer-build-reviewed |
+| M128009 | P1705 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperateMultiplierPreservesSchwartz` | volunteer-build-reviewed |
+| M128011 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2` | build-observed |
+| M128012 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInduced` | volunteer-build-reviewed |
 | M128013 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2OfInducedStatement` | volunteer-build-reviewed |
 | M128016 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittaker` | volunteer-build-reviewed |
 | M128017 | P1897 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL3LiftedWhittakerStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M128707 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewform` | volunteer-build-reviewed |
 | M128708 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewformStatement` | volunteer-build-reviewed |
 | M128710 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerSphericalSpanStatement` | volunteer-build-reviewed |
-| M128711 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnstatedLocalWeilLemma` | build-observed |
-| M128712 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicComplete` | wave-reused |
-| M128713 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicCompleteStatement` | wave-reused |
-| M128716 | P2196 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UpperLeftBlockMatrix` | volunteer-build-reviewed |
-| M128717 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.VLtOneOfOrdLEqOne` | volunteer-build-reviewed |
-| M128718 | P0826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValEqOneOfMulEq` | volunteer-build-reviewed |
-| M128719 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValMeasurableEmbedding` | volunteer-build-reviewed |
-| M128720 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValSuccAbove` | volunteer-build-reviewed |
-| M128721 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ValThree` | volunteer-build-reviewed |

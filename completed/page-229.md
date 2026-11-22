@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152789 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.EqZeroOfPowEqOne` | wave-reused |
+| M152791 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.ExponentialSpecification` | wave-reused |
+| M152792 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.FirstMomentIdempotentLaw` | wave-reused |
+| M152796 | P1165 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.HomotheticLatticeIntegralOf` | build-observed |
+| M152798 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.IpNormPowSubPowLe` | wave-reused |
+| M152800 | P1165 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.NRCMOf` | build-observed |
+| M152803 | P1189 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.OneLetterGaussEveryOf` | build-observed |
+| M152804 | P1165 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.OneLetterGaussFinalOf` | build-observed |
+| M152808 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SubstFirstCoboundaryThree` | wave-reused |
 | M152809 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.SubstZeroOfConstantCoeff` | wave-reused |
 | M152811 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TilInvariantLOf` | wave-reused |
 | M152813 | P1138 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.TwoPlaces` | build-observed |
@@ -393,12 +402,3 @@
 | M153329 | P0749 | `Formalism.MonomialMeanResidues.MonomialMeanProofs.SubmoduleSlopeLowerOfFiltration` | build-observed |
 | M153330 | P0776 | `Formalism.MonomialMeanResidues.ZerosPerVariable` | build-observed |
 | M153331 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.CoefficientBoundHolds` | build-observed |
-| M153332 | P0275 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ExistsNeZeroNormLeRankDivOfDualMinimum` | build-observed |
-| M153333 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.GaussianCoefficientFactorialBound` | build-observed |
-| M153334 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.IntegralExpInt` | build-observed |
-| M153335 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.LtSuccOfMemWeightCompositions` | build-observed |
-| M153336 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NatDegreeAevalLe` | build-observed |
-| M153337 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NormMul` | build-observed |
-| M153338 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NormUnitary` | build-observed |
-| M153339 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearCoefficients` | build-observed |
-| M153340 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisOneHolds` | build-observed |

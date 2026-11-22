@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071747 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomComp` | wave-reused |
+| M071748 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomCompStatement` | wave-reused |
+| M071749 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponents` | wave-reused |
+| M071750 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponentsStatement` | wave-reused |
+| M071751 | P1255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAway` | wave-reused |
 | M071752 | P1282 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAwayStatement` | wave-reused |
 | M071754 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStandardAdelicAddCharGlobalAdelicCharStatement` | volunteer-build-reviewed |
 | M071755 | P1454 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStratifiedPhiModuleHomOfGaloisEquivariant` | build-observed |
@@ -397,8 +402,3 @@
 | M072522 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixComputesTwistedSelmerResidualTransfer` | build-observed |
 | M072527 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSqStatement` | volunteer-build-reviewed |
 | M072528 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible` | volunteer-build-reviewed |
-| M072535 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixMulEntryNormLeUltrametric` | volunteer-build-reviewed |
-| M072537 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeep` | volunteer-build-reviewed |
-| M072538 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeepStatement` | volunteer-build-reviewed |
-| M072539 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixOneAddPowSubEntryLe` | volunteer-build-reviewed |
-| M072541 | P0956 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixPhiEquationToFamilyEquation` | build-observed |

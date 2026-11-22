@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096401 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwiner` | volunteer-build-reviewed |
+| M096402 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwinerStatement` | volunteer-build-reviewed |
+| M096403 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVEqOfProdFunEq` | volunteer-build-reviewed |
+| M096404 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVecSumEqOfProdEq` | volunteer-build-reviewed |
+| M096405 | P2441 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairedPointsFirstLevelLawStatement` | volunteer-build-reviewed |
 | M096407 | P1601 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEqZero` | volunteer-build-reviewed |
 | M096408 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingEquivariantAndNeZero` | build-observed |
 | M096409 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairingTensor` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M096929 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowLevelMatchAtOfLevelConjugation` | volunteer-build-reviewed |
 | M096931 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateLast` | volunteer-build-reviewed |
 | M096932 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateZero` | volunteer-build-reviewed |
-| M096933 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepth` | volunteer-build-reviewed |
-| M096934 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepthStatement` | volunteer-build-reviewed |
-| M096935 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirect` | volunteer-build-reviewed |
-| M096936 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirectStatement` | volunteer-build-reviewed |
-| M096937 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPt0InvMemStdLatIff` | volunteer-build-reviewed |

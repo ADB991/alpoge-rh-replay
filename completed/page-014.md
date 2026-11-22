@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008950 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBounds` | volunteer-build-reviewed |
+| M008951 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBoundsStatement` | volunteer-build-reviewed |
 | M008952 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistRationalLevelElementsSameCharacters` | volunteer-build-reviewed |
 | M008955 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniformIsotypicAverageRealCentre` | volunteer-build-reviewed |
 | M008956 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsUniformIsotypicAverageRealCentreStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M009475 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacuaStatement` | volunteer-build-reviewed |
 | M009476 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOne` | volunteer-build-reviewed |
 | M009477 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOneStatement` | volunteer-build-reviewed |
-| M009478 | P1813 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSlice` | volunteer-build-reviewed |
-| M009479 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationExtendByZeroSourceSliceStatement` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094467 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRowsStatement` | volunteer-build-reviewed |
+| M094468 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTuple` | volunteer-build-reviewed |
+| M094469 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTupleStatement` | volunteer-build-reviewed |
+| M094471 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodVOfGoodL` | volunteer-build-reviewed |
+| M094472 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominated` | volunteer-build-reviewed |
 | M094473 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GradedSeriesContinuationDominatedStatement` | volunteer-build-reviewed |
 | M094474 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramAtConjTranspose` | volunteer-build-reviewed |
 | M094475 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GramDetOptionFormula` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M094948 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLeStatement` | volunteer-build-reviewed |
 | M094949 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwise` | volunteer-build-reviewed |
 | M094950 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwiseStatement` | volunteer-build-reviewed |
-| M094951 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSum` | volunteer-build-reviewed |
-| M094952 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSumStatement` | volunteer-build-reviewed |
-| M094955 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPow` | volunteer-build-reviewed |
-| M094956 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPowStatement` | volunteer-build-reviewed |
-| M094957 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifference` | volunteer-build-reviewed |

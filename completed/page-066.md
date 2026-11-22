@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044899 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapAtFittedPoints` | volunteer-build-reviewed |
+| M044902 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapOfOfExtends` | volunteer-build-reviewed |
+| M044904 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRow0OfRowsSmul` | volunteer-build-reviewed |
+| M044907 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRowOfBaseTupleIdentityRowSpan` | volunteer-build-reviewed |
 | M044911 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPrintsStatement` | volunteer-build-reviewed |
 | M044912 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMeasureOfPublished` | volunteer-build-reviewed |
 | M044913 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMemBand` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M045542 | P1032 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlas` | wave-reused |
 | M045543 | P1060 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PeakSectionsFiniteWeightedAtlasStatement` | wave-reused |
 | M045546 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionStatement` | volunteer-build-reviewed |
-| M045547 | P2582 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionTate` | volunteer-build-reviewed |
-| M045548 | P2599 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisibleExtensionTateStatement` | volunteer-build-reviewed |
-| M045550 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PelPDivisiblePropertiesExtendStatement` | volunteer-build-reviewed |
-| M045555 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PencilOptionEquivLeftRenameSome` | volunteer-build-reviewed |

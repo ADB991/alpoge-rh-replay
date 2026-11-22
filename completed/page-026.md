@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M017425 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasis` | volunteer-build-reviewed |
+| M017426 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasisStatement` | volunteer-build-reviewed |
 | M017427 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlaces` | volunteer-build-reviewed |
 | M017428 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterUnramifiedAlmostAllPlacesStatement` | volunteer-build-reviewed |
 | M017432 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterValueMemLocalUnitsMulSubfieldStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M018277 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoeffValuationLossLeAddCharNegUnfoldingPhaseStatement` | volunteer-build-reviewed |
 | M018278 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfHyp` | volunteer-build-reviewed |
 | M018279 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfPublishedInputsStatement` | volunteer-build-reviewed |
-| M018282 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientConjugateThetaForm` | volunteer-build-reviewed |
-| M018283 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientFieldIsFieldOfDefinitionChainSteps` | volunteer-build-reviewed |

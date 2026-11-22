@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099329 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsionStatement` | build-observed |
+| M099334 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealProperties` | volunteer-build-reviewed |
+| M099335 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealPropertiesStatement` | build-observed |
+| M099336 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedComplete` | volunteer-build-reviewed |
+| M099337 | P0311 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedCompleteStatement` | volunteer-build-reviewed |
+| M099338 | P0524 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximation` | build-observed |
 | M099339 | P0558 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximationStatement` | volunteer-build-reviewed |
 | M099340 | P0592 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLattice` | build-observed |
 | M099341 | P0624 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionSelfDualOfSelfDualLatticeStatement` | build-observed |
@@ -396,9 +402,3 @@
 | M099973 | P2102 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRankStatement` | volunteer-build-reviewed |
 | M099974 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorph` | volunteer-build-reviewed |
 | M099975 | P2061 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorphStatement` | volunteer-build-reviewed |
-| M099976 | P2027 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsion` | volunteer-build-reviewed |
-| M099977 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsionStatement` | volunteer-build-reviewed |
-| M099978 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PointsDetectFrobeniusSections` | volunteer-build-reviewed |
-| M099982 | P0933 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalGroupActsFreelyOnFlagsStatement` | volunteer-build-reviewed |
-| M099986 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PrincipalLevelGroupFiniteIndexUnitaryStabiliserStatement` | volunteer-build-reviewed |
-| M099987 | P1017 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PsiCoordExistsUniqueUpToUnitLocal` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107490 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ConjugateRestrictionOpenNormal` | volunteer-build-reviewed |
+| M107491 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousRankOneRep` | volunteer-build-reviewed |
+| M107492 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousUnitsInvOfContinuousCoeFiniteQpAlgebra` | volunteer-build-reviewed |
+| M107493 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrLift` | volunteer-build-reviewed |
+| M107494 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrUnipChar` | volunteer-build-reviewed |
+| M107495 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrystallinePeriodMatrixMemFilZeroOfWeightZero` | build-observed |
+| M107499 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DeRhamRationalOfConj` | volunteer-build-reviewed |
 | M107502 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecEmb` | volunteer-build-reviewed |
 | M107503 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DecJFacts` | volunteer-build-reviewed |
 | M107507 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DualInclUnit` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M108358 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.ContinuousCocyclesFgIntegralOfPhiCond` | volunteer-build-reviewed |
 | M108359 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.DetGCentral` | volunteer-build-reviewed |
 | M108360 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.EpsDec` | volunteer-build-reviewed |
-| M108361 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FinDet` | volunteer-build-reviewed |
-| M108362 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FiniteCocyclesColRepOfPhiCond` | volunteer-build-reviewed |
-| M108363 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FiniteCocyclesMatrixRepresentationOfPhiCond` | volunteer-build-reviewed |
-| M108364 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.IrrSmall` | volunteer-build-reviewed |
-| M108365 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.PolNorm` | volunteer-build-reviewed |
-| M108366 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.RedBChiComap` | volunteer-build-reviewed |
-| M108367 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.ContinuousSubActions.ContActionSub` | volunteer-build-reviewed |

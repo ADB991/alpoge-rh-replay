@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084331 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwine` | wave-reused |
+| M084332 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwineStatement` | volunteer-build-reviewed |
+| M084333 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMap` | wave-reused |
+| M084334 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMapStatement` | volunteer-build-reviewed |
+| M084335 | P0793 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEq` | wave-reused |
 | M084336 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorEqUnitSmulOfRangeEqStatement` | volunteer-build-reviewed |
 | M084337 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctional` | wave-reused |
 | M084338 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorRowExpansionEigenFunctionalStatement` | wave-reused |
@@ -397,8 +402,3 @@
 | M085053 | P1406 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGenSecNear` | volunteer-build-reviewed |
 | M085054 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGrpPullbackRetraction` | wave-reused |
 | M085055 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsHeckeIsog` | build-observed |
-| M085056 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfComplementary` | build-observed |
-| M085057 | P1128 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfMapLattice` | build-observed |
-| M085058 | P1258 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsOpenImmersionQuotient` | volunteer-build-reviewed |
-| M085060 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsPELTripleOfDenseFibres` | volunteer-build-reviewed |
-| M085062 | P1229 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsProjOverIsPullbackOfIsLocalization` | build-observed |

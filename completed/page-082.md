@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056155 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumRealPlacesFockVacuumCharacter` | volunteer-build-reviewed |
+| M056159 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetCh` | volunteer-build-reviewed |
+| M056160 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetChStatement` | volunteer-build-reviewed |
+| M056161 | P2227 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBounds` | volunteer-build-reviewed |
 | M056162 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBoundsStatement` | volunteer-build-reviewed |
 | M056163 | P2137 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmExtensionIsUnitaryOn` | volunteer-build-reviewed |
 | M056165 | P2158 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportCmPreservesAdmissibleForms` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M056876 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotentStatement` | build-observed |
 | M056879 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficient` | build-observed |
 | M056880 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficientStatement` | build-observed |
-| M056881 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselForm` | build-observed |
-| M056882 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselFormStatement` | build-observed |
-| M056883 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRep` | build-observed |
-| M056884 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRepStatement` | build-observed |

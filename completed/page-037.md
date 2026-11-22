@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M024904 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveWeightSection` | volunteer-build-reviewed |
+| M024906 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenBasisSameVec` | volunteer-build-reviewed |
 | M024909 | P2533 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenCoordinatesIdempotentRangeQuotient` | volunteer-build-reviewed |
 | M024910 | P2557 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenCoordinatesIdempotentRangeQuotientStatement` | volunteer-build-reviewed |
 | M024911 | P2450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEigenFrameAlongArcFlagSpaceChart` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M025451 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteThetaSectionsThickeningCoverStatement` | volunteer-build-reviewed |
 | M025453 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteThetaTuplesLeastOrdersUnitaryStatement` | volunteer-build-reviewed |
 | M025454 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTopologicalKrullDimDiffOpenLt` | volunteer-build-reviewed |
-| M025455 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTopologicalKrullDimDiffOpenLtStatement` | volunteer-build-reviewed |
-| M025456 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFiniteTorsionPrechartCover` | volunteer-build-reviewed |

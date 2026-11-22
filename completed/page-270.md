@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173909 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.Permute` | wave-reused |
+| M173910 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.PhiPerm` | wave-reused |
+| M173911 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.PositionPrependMemNoncompactPositionSubmodule` | wave-reused |
+| M173912 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.SchForm` | wave-reused |
+| M173913 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.SchPhiOneApply` | wave-reused |
+| M173914 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.SltEqZeroOfCompact` | wave-reused |
+| M173915 | P0391 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.Weights` | wave-reused |
+| M173916 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.CasimirKKhwVec` | wave-reused |
+| M173917 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.KhwLowKSubRootEqZero` | wave-reused |
 | M173918 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.MulMulSubMulMulEqAdd` | wave-reused |
 | M173919 | P0170 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirAlgebra.RhoEqRhoCAddRhoN` | wave-reused |
 | M173920 | P0473 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ByParts` | wave-reused |
@@ -393,12 +402,3 @@
 | M174317 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.CompactRelationsApplyComm` | wave-reused |
 | M174318 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.HighestWeightDifferencesNat` | wave-reused |
 | M174319 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.ParthasarathyTensorMatrix` | wave-reused |
-| M174320 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.TensorActionLieRelations` | wave-reused |
-| M174321 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.BlockSum` | wave-reused |
-| M174322 | P1243 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CartanKType` | wave-reused |
-| M174323 | P1192 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CountNotTwoOfFinrankLeOne` | wave-reused |
-| M174324 | P1216 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.ExpEntryHasDerivAt` | wave-reused |
-| M174325 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.InnerLowerSelf` | wave-reused |
-| M174326 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KTypeIntDomStatement` | wave-reused |
-| M174327 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.KtintExpApplyOfEig` | wave-reused |
-| M174328 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.LowComp` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155633 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdapted` | build-observed |
+| M155634 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdaptedMod` | build-observed |
+| M155635 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfBasis` | build-observed |
+| M155636 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfFrame` | build-observed |
+| M155637 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfLocalMod` | build-observed |
+| M155638 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfTransitive` | build-observed |
+| M155639 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReindexGl` | build-observed |
+| M155640 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.RowFlagIff` | build-observed |
+| M155641 | P1711 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsAdaptedColumn` | build-observed |
 | M155642 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsCongruentMod` | build-observed |
 | M155643 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsMulGL` | build-observed |
 | M155644 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsMulVec` | build-observed |
@@ -393,12 +402,3 @@
 | M156078 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ProdFirstProjectionSmul` | build-observed |
 | M156079 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SigROneTmul` | build-observed |
 | M156080 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SplitG` | build-observed |
-| M156081 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StabFiniteOf` | build-observed |
-| M156082 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StrongApproxN` | build-observed |
-| M156083 | P1296 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SumKfMulZREqZero` | build-observed |
-| M156084 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.TensLiftSelf` | build-observed |
-| M156085 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.UnfAbs` | build-observed |
-| M156086 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.UnipotentFundamentalDomain` | build-observed |
-| M156087 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GamOneReal` | build-observed |
-| M156088 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GammaMatrixInverse` | build-observed |
-| M156089 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GgMatrixBoundOfLitOf` | build-observed |

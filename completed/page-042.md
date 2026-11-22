@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M028004 | P1816 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupCompactInterFiniteStatement` | volunteer-build-reviewed |
+| M028005 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupFixingSchwartz` | volunteer-build-reviewed |
 | M028007 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInNeighbourhoodStatement` | volunteer-build-reviewed |
 | M028008 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariant` | volunteer-build-reviewed |
 | M028009 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupInvariantStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M028615 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankIdealOfIdempotentStatement` | volunteer-build-reviewed |
 | M028618 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankNormalFormMatrixField` | volunteer-build-reviewed |
 | M028619 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankNormalFormMatrixFieldStatement` | volunteer-build-reviewed |
-| M028621 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankOneChangeImprovesImageRealPrimeStatement` | volunteer-build-reviewed |
-| M028622 | P0584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankTwoBasisModN` | build-observed |

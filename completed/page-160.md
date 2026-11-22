@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110008 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepSum` | volunteer-build-reviewed |
+| M110009 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepthDrop` | volunteer-build-reviewed |
+| M110010 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ExpLoss` | volunteer-build-reviewed |
+| M110011 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.HalfUnit` | volunteer-build-reviewed |
+| M110012 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.Imports` | volunteer-build-reviewed |
+| M110013 | P2150 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsAlt` | volunteer-build-reviewed |
+| M110014 | P2140 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsBis` | volunteer-build-reviewed |
+| M110015 | P2129 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsTer` | volunteer-build-reviewed |
 | M110016 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetDeg` | volunteer-build-reviewed |
 | M110017 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetInt` | volunteer-build-reviewed |
 | M110018 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.JetOpMulTab` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M110463 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCrystallineLatticeExpansion` | build-observed |
 | M110464 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsFiniteSectionsDeterminingRingHomOfSmooth` | build-observed |
 | M110465 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsLiftThroughSharp` | build-observed |
-| M110466 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsMatchingOfSameNorm` | build-observed |
-| M110467 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsSubordinateOfEtaleSec` | build-observed |
-| M110469 | P0046 | `Development.AutomorphicArithmetic.EtaleIdempotents.GaloisEquivariantTensorDescentOfPrimePowerUnits` | volunteer-build-reviewed |
-| M110470 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.HeckeCorrespondenceProduct` | build-observed |
-| M110471 | P1339 | `Development.AutomorphicArithmetic.EtaleIdempotents.IntegersResidueEqThetaCoeffPowOfTeichmuller` | build-observed |
-| M110472 | P1314 | `Development.AutomorphicArithmetic.EtaleIdempotents.IntegersResidueEqZeroOfNotIsUnit` | volunteer-build-reviewed |
-| M110473 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.LinearCombinationTransferOfProjectorRelations` | build-observed |
-| M110474 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.NatCastPrimeNeZeroAndNotIsUnitIntegers` | build-observed |

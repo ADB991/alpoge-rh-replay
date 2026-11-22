@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085056 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfComplementary` | build-observed |
+| M085057 | P1128 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfMapLattice` | build-observed |
+| M085058 | P1258 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsOpenImmersionQuotient` | volunteer-build-reviewed |
+| M085060 | P1516 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsPELTripleOfDenseFibres` | volunteer-build-reviewed |
+| M085062 | P1229 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsProjOverIsPullbackOfIsLocalization` | build-observed |
 | M085064 | P1359 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSharpAndPrim` | build-observed |
 | M085065 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsSymmOfSquare` | volunteer-build-reviewed |
 | M085068 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsoOfProjectiveCoordinateRepresentation` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M085761 | P2099 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeLevelMapsHeckePointsStatement` | build-observed |
 | M085763 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeNonemptyAtEveryLevelStatement` | build-observed |
 | M085765 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MonoOfUnramifiedOfPoints` | volunteer-build-reviewed |
-| M085766 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfield` | build-observed |
-| M085767 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfieldStatement` | volunteer-build-reviewed |
-| M085773 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPolynomialMapMaximalIdealIsPrime` | volunteer-build-reviewed |
-| M085774 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPowerSeriesVariablesSyzygySocle` | volunteer-build-reviewed |
-| M085777 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NearCOfPolFamOfKTriv` | volunteer-build-reviewed |

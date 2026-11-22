@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156934 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibGlue` | wave-reused |
+| M156935 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibOfTens` | wave-reused |
+| M156936 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibTop` | wave-reused |
+| M156937 | P1370 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibUniq` | wave-reused |
+| M156938 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FinTheta` | wave-reused |
+| M156939 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FiniteOnCompacts` | wave-reused |
+| M156940 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FreeOpen` | wave-reused |
+| M156941 | P0076 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HenselCount` | wave-reused |
+| M156942 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HenselCountHolds` | wave-reused |
 | M156943 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.HformSmulRight` | wave-reused |
 | M156944 | P1734 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.InVolumesAtOfSWS` | build-observed |
 | M156945 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.InvInvSt` | wave-reused |
@@ -393,12 +402,3 @@
 | M157357 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.EvalBindTorusSubst` | wave-reused |
 | M157358 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.GramStep` | wave-reused |
 | M157359 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.VanishInvertible` | wave-reused |
-| M157360 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ExistsModularFunction` | build-observed |
-| M157361 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.GPolar` | build-observed |
-| M157362 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.IsClosedS` | build-observed |
-| M157363 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.IsCompactInterUnitBox` | build-observed |
-| M157364 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MaximalCompactIsCompact` | build-observed |
-| M157365 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModBase` | build-observed |
-| M157366 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModCore` | build-observed |
-| M157367 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MulVecBvecApply` | wave-reused |
-| M157368 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.NilpotentSubgroup` | wave-reused |

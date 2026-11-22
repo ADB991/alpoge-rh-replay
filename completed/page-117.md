@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081292 | P2379 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFamilyChartHolomorphicStatement` | build-observed |
+| M081293 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFormsIsometryColumnPairingAtState` | volunteer-build-reviewed |
+| M081306 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixBoundaryExtensionMonodromyPosSemidef` | volunteer-build-reviewed |
+| M081308 | P2354 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixPolynomialGrowthPuncturedPolydisc` | build-observed |
+| M081314 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNorm` | volunteer-build-reviewed |
 | M081315 | P2138 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRelationPreservesLevelFormLatticeNormStatement` | volunteer-build-reviewed |
 | M081316 | P0792 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodRingsGaloisActionLawsFrobeniusComm` | wave-reused |
 | M081322 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodicLeftHalfPlaneShiftNonnegOfImPos` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M082381 | P1721 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonalStatement` | volunteer-build-reviewed |
 | M082383 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLiftReadingOfDecoratedLatticePresentatioStatement` | volunteer-build-reviewed |
 | M082384 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTrans` | volunteer-build-reviewed |
-| M082385 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTransStatement` | volunteer-build-reviewed |
-| M082386 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarCharacterEqProdAdditiveCharactersRoot` | volunteer-build-reviewed |
-| M082391 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthCommonDenominatorRankLeStatement` | volunteer-build-reviewed |
-| M082393 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthLeOnCentreCellStatement` | volunteer-build-reviewed |
-| M082397 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthSetBddAboveOfUniqueCentreStatement` | build-observed |

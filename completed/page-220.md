@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147341 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ExpRowD` | wave-reused |
+| M147342 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.FiltrationExponentHolds` | wave-reused |
+| M147343 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.HCoefLim` | wave-reused |
+| M147344 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.IdealPowerSumMem` | wave-reused |
+| M147345 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.InvConst` | wave-reused |
+| M147346 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.JumpShift` | wave-reused |
+| M147347 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCoker` | wave-reused |
+| M147348 | P0148 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCokerEq` | wave-reused |
+| M147349 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LemmaDJoint` | wave-reused |
 | M147350 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LenSplit` | wave-reused |
 | M147351 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PdFacts` | wave-reused |
 | M147352 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.PowBinom` | wave-reused |
@@ -393,12 +402,3 @@
 | M147778 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.DetNeZeroOfChars` | volunteer-build-reviewed |
 | M147779 | P0695 | `Formalism.LocalToGlobal.CharacterGerms.EndomorphismLimitIntegral` | wave-reused |
 | M147780 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.ExistsStrictMonoMinor` | wave-reused |
-| M147781 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.FinTwoNeOneSub` | build-observed |
-| M147782 | P1266 | `Formalism.LocalToGlobal.CharacterGerms.FirstPartialLawAtPoints` | wave-reused |
-| M147783 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.FirstStepSecondHalfCondition` | build-observed |
-| M147784 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.FirstVanishingAt` | build-observed |
-| M147785 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.FirstVanishingCore` | build-observed |
-| M147786 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.FrobPowSmul` | build-observed |
-| M147787 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.FrobSerSt` | build-observed |
-| M147788 | P1136 | `Formalism.LocalToGlobal.CharacterGerms.FunEqCoreHolds` | build-observed |
-| M147789 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.GeNatCast` | wave-reused |

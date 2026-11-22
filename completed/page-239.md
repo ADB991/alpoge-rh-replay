@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157360 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ExistsModularFunction` | build-observed |
+| M157361 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.GPolar` | build-observed |
+| M157362 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.IsClosedS` | build-observed |
+| M157363 | P0505 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.IsCompactInterUnitBox` | build-observed |
+| M157364 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MaximalCompactIsCompact` | build-observed |
+| M157365 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModBase` | build-observed |
+| M157366 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModCore` | build-observed |
+| M157367 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.MulVecBvecApply` | wave-reused |
+| M157368 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.NilpotentSubgroup` | wave-reused |
 | M157369 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.QuotSetUOf` | build-observed |
 | M157370 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SBasic` | wave-reused |
 | M157371 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.SsetGroup` | wave-reused |
@@ -393,12 +402,3 @@
 | M157840 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LriEVPowCoe` | wave-reused |
 | M157841 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrjTransposeLift` | wave-reused |
 | M157842 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MaxValEqZeroOfLt` | wave-reused |
-| M157843 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MeasureSwapInvariant` | wave-reused |
-| M157844 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MinorValuationBoundHolds` | wave-reused |
-| M157845 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PadicValIntProdElevenMultiples` | wave-reused |
-| M157846 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds` | wave-reused |
-| M157847 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PathEqOfContentSequence` | wave-reused |
-| M157848 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PermutationWeightInvariant` | wave-reused |
-| M157849 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PieriGenerated` | wave-reused |
-| M157850 | P0669 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ProdInitialMinorsMemDetSpan` | wave-reused |
-| M157851 | P0723 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealLocalDeltaNabla` | wave-reused |

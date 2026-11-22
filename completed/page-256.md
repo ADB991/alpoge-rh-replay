@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165684 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameIntNum` | pilot-reused |
+| M165685 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiHomog` | pilot-reused |
+| M165686 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiProjPrime` | pilot-reused |
+| M165687 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalFinite` | wave-reused |
+| M165688 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalFiniteRank` | wave-reused |
+| M165689 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalIntegral` | wave-reused |
+| M165690 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLength` | wave-reused |
+| M165691 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLengthSum` | wave-reused |
+| M165692 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalMaxIdeals` | wave-reused |
 | M165693 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalResidueLength` | wave-reused |
 | M165694 | P0338 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSplitRelDeg` | pilot-reused |
 | M165695 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PValuativeCentre` | wave-reused |
@@ -393,12 +402,3 @@
 | M166165 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussConstant` | volunteer-build-reviewed |
 | M166166 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDetFactor` | volunteer-build-reviewed |
 | M166167 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDualMin` | volunteer-build-reviewed |
-| M166168 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussFourierSelf` | volunteer-build-reviewed |
-| M166169 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCoords` | volunteer-build-reviewed |
-| M166170 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCovolume` | volunteer-build-reviewed |
-| M166171 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeIsLattice` | volunteer-build-reviewed |
-| M166172 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussPacking` | volunteer-build-reviewed |
-| M166174 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussPoissonDual` | volunteer-build-reviewed |
-| M166175 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShell` | volunteer-build-reviewed |
-| M166176 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussShellSum` | volunteer-build-reviewed |
-| M166177 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussSqrt` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M026706 | P2611 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegree` | volunteer-build-reviewed |
+| M026707 | P2624 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsogenyKernelFiniteAlgebraFinrankEqDegreeStatement` | volunteer-build-reviewed |
 | M026708 | P2695 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsolatedLcCentreOfZeroLcThreshold` | volunteer-build-reviewed |
 | M026713 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryExtendingIsotropicShear` | volunteer-build-reviewed |
 | M026715 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsometryInGam` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M027376 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWeilOperatorsSupportedAtPlace` | volunteer-build-reviewed |
 | M027377 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWeilOperatorsSupportedAtPlaceStatement` | volunteer-build-reviewed |
 | M027378 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasis` | volunteer-build-reviewed |
-| M027379 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasisStatement` | volunteer-build-reviewed |
-| M027381 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrime` | volunteer-build-reviewed |

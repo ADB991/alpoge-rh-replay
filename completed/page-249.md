@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162094 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.AffineLineLocalAcyclicityOfStrictHenselianPoints` | wave-reused |
+| M162095 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceFourLocal` | wave-reused |
+| M162096 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceTwoTop` | wave-reused |
+| M162097 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.FreeMembershipHeightOne` | wave-reused |
+| M162098 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.InvariantBasisAverage` | wave-reused |
+| M162099 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.LemmaThreeTameExponent` | wave-reused |
+| M162100 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.SaturationIntersectionHolds` | wave-reused |
+| M162101 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ToWachModuleHolds` | wave-reused |
+| M162102 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.WachTopStatementHolds` | wave-reused |
 | M162103 | P0080 | `Formalism.WachModuleLifts.Statement` | wave-reused |
 | M162104 | P0080 | `Formalism.WachModuleLifts.StatementW` | wave-reused |
 | M162105 | P0159 | `Formalism.WachModuleLifts.WachModuleProofs.LemmaCLower` | wave-reused |
@@ -393,12 +402,3 @@
 | M162537 | P0725 | `GroundTheory.AutomorphicForms.CuspidalSplittingPositivity` | build-observed |
 | M162538 | P0751 | `GroundTheory.AutomorphicForms.CuspidalSplittingProjective` | build-observed |
 | M162539 | P0670 | `GroundTheory.AutomorphicForms.CuspidalSplittingSums` | build-observed |
-| M162540 | P0507 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.AdelicLattice` | wave-reused |
-| M162541 | P0606 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Finiteness` | wave-reused |
-| M162542 | P0159 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.GramReduction` | wave-reused |
-| M162543 | P0425 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.HermTraceSelfOfHermValue` | wave-reused |
-| M162544 | P0541 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.IsIntegralVecCoordsOfRatCoordsSingle` | wave-reused |
-| M162545 | P0465 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Places` | wave-reused |
-| M162546 | P0574 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reconstruction` | wave-reused |
-| M162547 | P0080 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Reduction` | wave-reused |
-| M162548 | P0380 | `GroundTheory.AutomorphicForms.DiscreteDecomposition` | build-observed |

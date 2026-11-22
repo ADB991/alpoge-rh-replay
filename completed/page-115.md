@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079485 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUnique` | volunteer-build-reviewed |
+| M079486 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUniqueStatement` | volunteer-build-reviewed |
+| M079487 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterInfinityExponentGroupLaws` | volunteer-build-reviewed |
+| M079490 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterSplitPlaceComponentUniqueStatement` | volunteer-build-reviewed |
+| M079493 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeComparisonUnitAtFrobeniusEqDelta` | volunteer-build-reviewed |
 | M079499 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigenspaceNeBotEveryLocalisationPoint` | volunteer-build-reviewed |
 | M079501 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeEigensystemMultiplicities` | volunteer-build-reviewed |
 | M079506 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeElementUniformizerRatioDeterminantStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M080347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLattice` | volunteer-build-reviewed |
 | M080348 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLatticeStatement` | volunteer-build-reviewed |
 | M080350 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicative` | volunteer-build-reviewed |
-| M080351 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicativeStatement` | volunteer-build-reviewed |
-| M080352 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurent` | volunteer-build-reviewed |
-| M080353 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurentStatement` | volunteer-build-reviewed |
-| M080354 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFock` | volunteer-build-reviewed |
-| M080355 | P1099 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LawNormClassSumFockStatement` | volunteer-build-reviewed |

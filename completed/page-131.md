@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093412 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissibleStatement` | volunteer-build-reviewed |
+| M093413 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInvariantForm` | volunteer-build-reviewed |
+| M093414 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteA` | volunteer-build-reviewed |
+| M093415 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteAStatement` | volunteer-build-reviewed |
+| M093417 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixed` | volunteer-build-reviewed |
 | M093418 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixedStatement` | volunteer-build-reviewed |
 | M093420 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsAdelicGlueVectorOfGlueBaseDataStatement` | volunteer-build-reviewed |
 | M093421 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIsBorelSphRevInv` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M093952 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteClassesRationalIsometriesBoundedDenominatoStatement` | volunteer-build-reviewed |
 | M093953 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottom` | volunteer-build-reviewed |
 | M093954 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottomStatement` | volunteer-build-reviewed |
-| M093955 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalar` | volunteer-build-reviewed |
-| M093956 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalarStatement` | volunteer-build-reviewed |
-| M093957 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLaw` | volunteer-build-reviewed |
-| M093958 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLawStatement` | volunteer-build-reviewed |
-| M093959 | P2128 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDimKStableSesquilinear` | volunteer-build-reviewed |

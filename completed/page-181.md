@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120169 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlatStatement` | volunteer-build-reviewed |
+| M120170 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffine` | build-observed |
+| M120171 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffineStatement` | build-observed |
+| M120172 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FixedByAutomorphismsMemField` | volunteer-build-reviewed |
+| M120177 | P0659 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagFrameBaseExtensionStatement` | volunteer-build-reviewed |
+| M120178 | P0852 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagFurtherTermIndependentStatement` | wave-reused |
+| M120180 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependence` | volunteer-build-reviewed |
+| M120181 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependenceStatement` | volunteer-build-reviewed |
+| M120182 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeft` | build-observed |
 | M120183 | P0961 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeftStatement` | build-observed |
 | M120186 | P2141 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependent` | volunteer-build-reviewed |
 | M120187 | P2151 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelRootIndependentStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M120855 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AicValOfIsColim` | volunteer-build-reviewed |
 | M120858 | P0493 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapConeRing` | build-observed |
 | M120859 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapHalfTr` | volunteer-build-reviewed |
-| M120861 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraicOverTorusOfIntegral` | volunteer-build-reviewed |
-| M120865 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsion` | volunteer-build-reviewed |
-| M120866 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsionStatement` | volunteer-build-reviewed |
-| M120867 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFinitelyGeneratedSerreClass` | volunteer-build-reviewed |
-| M120868 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFinitelyGeneratedSerreClassStatement` | volunteer-build-reviewed |
-| M120871 | P0204 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlternativeLocalComputationOfComponents` | volunteer-build-reviewed |
-| M120872 | P0264 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlternativeLocalComputationOfComponentsStatement` | volunteer-build-reviewed |
-| M120873 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheaf` | wave-reused |
-| M120874 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AmpleTwistSectionsGenerateSubsheafStatement` | wave-reused |

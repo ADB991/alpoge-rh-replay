@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M105537 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.BochnerOfLintegral` | volunteer-build-reviewed |
+| M105538 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.BumpEx` | volunteer-build-reviewed |
+| M105539 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.ConjMat` | volunteer-build-reviewed |
+| M105541 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.CoordUnf` | volunteer-build-reviewed |
+| M105542 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.CtClosed` | volunteer-build-reviewed |
+| M105544 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.DenseCc` | volunteer-build-reviewed |
+| M105545 | P2061 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.ExistsPositivePeriodLine` | volunteer-build-reviewed |
 | M105546 | P2044 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.FlatInt` | volunteer-build-reviewed |
 | M105547 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.GalLaws` | volunteer-build-reviewed |
 | M105548 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.Heckify` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M106016 | P2075 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.LevelTrA` | volunteer-build-reviewed |
 | M106017 | P2061 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.LevelTrAAlt` | volunteer-build-reviewed |
 | M106018 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.LiftFactorization` | volunteer-build-reviewed |
-| M106019 | P2075 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.LiftRestrict` | volunteer-build-reviewed |
-| M106020 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.OpFormA` | volunteer-build-reviewed |
-| M106025 | P2075 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.PRankOne` | volunteer-build-reviewed |
-| M106027 | P2075 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.PiTermAOf` | volunteer-build-reviewed |
-| M106028 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.HeckeIntegrability.SeenTrA` | volunteer-build-reviewed |
-| M106029 | P2780 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.NoData` | volunteer-build-reviewed |
-| M106030 | P2782 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.MultiplicityOne.NoDataOf` | volunteer-build-reviewed |

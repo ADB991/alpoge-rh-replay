@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160050 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesStable` | wave-reused |
+| M160051 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesSubmodule` | wave-reused |
+| M160052 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralGeneratorsPreserveLattice` | wave-reused |
+| M160053 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolyLinearMapClosed` | wave-reused |
+| M160054 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolynomialsEnvelopingStable` | wave-reused |
+| M160055 | P0941 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorEllPBound` | wave-reused |
+| M160056 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorLinftyBound` | wave-reused |
+| M160057 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionDenominatorBound` | wave-reused |
+| M160058 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionExtremalFormula` | wave-reused |
 | M160059 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionKillsNonzeroWeight` | wave-reused |
 | M160060 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionRangeTrivial` | wave-reused |
 | M160061 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IrreducibleStableContainsEqTop` | wave-reused |
@@ -393,12 +402,3 @@
 | M160493 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DescentValuation` | build-observed |
 | M160494 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdCondition` | build-observed |
 | M160495 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero` | volunteer-build-reviewed |
-| M160499 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExistsInfFilVEqBot` | volunteer-build-reviewed |
-| M160503 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExtPfMultVEqZero` | build-observed |
-| M160504 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FinrankMapMkQ` | volunteer-build-reviewed |
-| M160505 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrMultVOfNotJump` | volunteer-build-reviewed |
-| M160506 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrameAbs` | volunteer-build-reviewed |
-| M160507 | P1270 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePf` | build-observed |
-| M160508 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAB` | build-observed |
-| M160509 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAlpha` | build-observed |
-| M160510 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAsm` | build-observed |

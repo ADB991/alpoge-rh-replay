@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149380 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TameAtOne` | volunteer-build-reviewed |
+| M149383 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TwoSplitIdem` | build-observed |
+| M149387 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.FinrankISupLeSum` | build-observed |
+| M149388 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.FinrankIntSelf` | build-observed |
+| M149392 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ConjPurelyImaginaryGenerator` | volunteer-build-reviewed |
+| M149401 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.RealPlaceImaginaryGeneratorReEqZero` | volunteer-build-reviewed |
+| M149404 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket` | build-observed |
+| M149405 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistGOfFramesExist` | build-observed |
+| M149406 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistOfDiagonalTypePlaces` | build-observed |
 | M149407 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FrmCase` | build-observed |
 | M149408 | P1390 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.InitialDataUntwistedOfModelChoice` | build-observed |
 | M149409 | P1415 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.NormalFrameClauses` | build-observed |
@@ -393,12 +402,3 @@
 | M150282 | P1137 | `Formalism.LocalToGlobal.ProjectiveLattices.CompTieA` | build-observed |
 | M150283 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplPf` | build-observed |
 | M150284 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplSt` | volunteer-build-reviewed |
-| M150285 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.ComponentWModel` | build-observed |
-| M150286 | P0748 | `Formalism.LocalToGlobal.ProjectiveLattices.ConjNeSelfOfCM` | build-observed |
-| M150289 | P1164 | `Formalism.LocalToGlobal.ProjectiveLattices.CoreExists` | build-observed |
-| M150291 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CoreProofs` | wave-reused |
-| M150292 | P0695 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeBase` | build-observed |
-| M150293 | P0722 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeDiv` | build-observed |
-| M150294 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeMin` | volunteer-build-reviewed |
-| M150295 | P0722 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeOrd` | build-observed |
-| M150296 | P0695 | `Formalism.LocalToGlobal.ProjectiveLattices.CrudeVal` | build-observed |

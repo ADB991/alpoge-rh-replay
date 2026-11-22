@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036698 | P1942 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizer` | wave-reused |
+| M036699 | P1961 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizerStatement` | wave-reused |
+| M036700 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselian` | volunteer-build-reviewed |
 | M036701 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselianStatement` | volunteer-build-reviewed |
 | M036702 | P1905 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiser` | wave-reused |
 | M036703 | P1923 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedPosValuationDvdUniformiserStatement` | wave-reused |
@@ -399,6 +402,3 @@
 | M037496 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrrParIffCuspidalProduct` | build-observed |
 | M037498 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissible` | volunteer-build-reviewed |
 | M037499 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissibleDecomposableCompEquiv` | volunteer-build-reviewed |
-| M037505 | P1861 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterGoodIdempotentCuspidalProducStatement` | volunteer-build-reviewed |
-| M037506 | P0812 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterOfProduct` | build-observed |
-| M037507 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleCharacterOfProductStatement` | build-observed |

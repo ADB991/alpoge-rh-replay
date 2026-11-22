@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133676 | P0597 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlatWeightExtends` | build-observed |
+| M133679 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FormPolyIsHomogeneousAndEval` | volunteer-build-reviewed |
+| M133680 | P0882 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeRegularEntries` | wave-reused |
+| M133681 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeRegularEntriesStatement` | wave-reused |
+| M133682 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeScalarFactor` | wave-reused |
+| M133683 | P0882 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeScalarFactorStatement` | wave-reused |
+| M133684 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMap` | wave-reused |
+| M133685 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMapStatement` | wave-reused |
+| M133688 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameDataLocalDegreeEstimate` | volunteer-build-reviewed |
 | M133698 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameLUMinorValue` | build-observed |
 | M133700 | P1075 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormula` | build-observed |
 | M133701 | P1105 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameMinorValueFormulaStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M134340 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootModelOriginCompatibilityStatement` | volunteer-build-reviewed |
 | M134341 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCount` | build-observed |
 | M134342 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountAltBis` | build-observed |
-| M134343 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountStatement` | build-observed |
-| M134344 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBound` | build-observed |
-| M134345 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBoundStatement` | build-observed |
-| M134346 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparison` | build-observed |
-| M134347 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonShift` | build-observed |
-| M134348 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonShiftStatement` | build-observed |
-| M134349 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonStatement` | build-observed |
-| M134350 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentity` | build-observed |
-| M134351 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentityStatement` | build-observed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M111005 | P0263 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.LiftSingle` | volunteer-build-reviewed |
+| M111006 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.LiftSingleAlt` | volunteer-build-reviewed |
+| M111007 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.MatrixEntryAbsSumUnitaryLieCoordinatesSplit` | volunteer-build-reviewed |
+| M111008 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.OpBound` | volunteer-build-reviewed |
+| M111009 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PermOf` | volunteer-build-reviewed |
+| M111010 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PieceAdd` | volunteer-build-reviewed |
+| M111012 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Points` | volunteer-build-reviewed |
+| M111014 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PowSym` | volunteer-build-reviewed |
 | M111015 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Reduce` | volunteer-build-reviewed |
 | M111020 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.TwoNode` | volunteer-build-reviewed |
 | M111021 | P1871 | `Development.AutomorphicArithmetic.Foundations.Convolution.PowerSumTraces.CharIndep` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M111460 | P1436 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SigInv` | build-observed |
 | M111461 | P1577 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SphIndep` | volunteer-build-reviewed |
 | M111462 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymAlg` | build-observed |
-| M111463 | P0852 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.SymSum` | build-observed |
-| M111464 | P1491 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.ThMatch` | build-observed |
-| M111465 | P0933 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.ThPMul` | build-observed |
-| M111466 | P1436 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.UnrQ` | build-observed |
-| M111467 | P0879 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalHeckeOperators.VandSum` | build-observed |
-| M111469 | P2705 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.DescAt` | volunteer-build-reviewed |
-| M111470 | P2786 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.Imports` | volunteer-build-reviewed |
-| M111471 | P2783 | `Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.LiftAll` | volunteer-build-reviewed |

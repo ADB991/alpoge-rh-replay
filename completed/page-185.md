@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122652 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyLineUnit` | volunteer-build-reviewed |
+| M122654 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyMeasurableSetPrimV` | volunteer-build-reviewed |
+| M122656 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyOfSectionPlaces` | volunteer-build-reviewed |
+| M122657 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyOfSectionPlacesStatement` | volunteer-build-reviewed |
+| M122660 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExPOfCompatibleEquiv` | build-observed |
+| M122661 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExPOfCompatibleEquivStatement` | volunteer-build-reviewed |
+| M122662 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExactOfSpan` | volunteer-build-reviewed |
+| M122663 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExceptionalIdealLeSpanPosDegree` | build-observed |
+| M122666 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctions` | volunteer-build-reviewed |
 | M122667 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctionsStatement` | volunteer-build-reviewed |
 | M122670 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAdaptedMajorant` | volunteer-build-reviewed |
 | M122676 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsAnalyticIsoOfIsAnalyticUniformization` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M123285 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModuleAdicCompleteStatement` | volunteer-build-reviewed |
 | M123286 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClass` | build-observed |
 | M123287 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClassStatement` | volunteer-build-reviewed |
-| M123288 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteMulSupportBnd` | volunteer-build-reviewed |
-| M123289 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlaces` | volunteer-build-reviewed |
-| M123290 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlacesStatement` | volunteer-build-reviewed |
-| M123291 | P1969 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNormOneUnitsTrivialValuation` | build-observed |
-| M123292 | P1989 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNormOneUnitsTrivialValuationStatement` | build-observed |
-| M123293 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfCompact` | volunteer-build-reviewed |
-| M123294 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibres` | volunteer-build-reviewed |
-| M123295 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibresStatement` | volunteer-build-reviewed |
-| M123296 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOnCompactsOrbitMeasure` | volunteer-build-reviewed |

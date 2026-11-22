@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135088 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokInjPf` | build-observed |
+| M135089 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPf` | build-observed |
+| M135090 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPfSurj` | build-observed |
+| M135091 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCovPf` | build-observed |
+| M135092 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafFstHocPf` | build-observed |
+| M135093 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenKerPf` | build-observed |
+| M135094 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenPf` | build-observed |
+| M135095 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenRingPf` | build-observed |
+| M135096 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafGeoPf` | build-observed |
 | M135097 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGoodPf` | build-observed |
 | M135098 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafGysinPf` | build-observed |
 | M135099 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafHKSplitPf` | build-observed |
@@ -393,12 +402,3 @@
 | M135701 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRepVanishPf` | wave-reused |
 | M135704 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRingUnitPf` | wave-reused |
 | M135708 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafRootLocPf` | wave-reused |
-| M135709 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafSHNbSys` | volunteer-build-reviewed |
-| M135712 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHPtPf` | volunteer-build-reviewed |
-| M135714 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHSysPf` | volunteer-build-reviewed |
-| M135716 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafSecInjPf` | wave-reused |
-| M135719 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafSmoothOfNormalPf` | volunteer-build-reviewed |
-| M135729 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafSpreadVCut` | volunteer-build-reviewed |
-| M135733 | P2444 | `Development.EtaleCohomology.EtaleSheaves.LeafStalkValuationPf` | volunteer-build-reviewed |
-| M135734 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSuppKillPfSec` | volunteer-build-reviewed |
-| M135735 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSupport` | wave-reused |

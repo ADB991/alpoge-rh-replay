@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064188 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValHalfInf` | volunteer-build-reviewed |
+| M064189 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationAddPowSubLe` | volunteer-build-reviewed |
+| M064190 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationAddPowSubLeStatement` | volunteer-build-reviewed |
+| M064192 | P0306 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfMemInvMem` | build-observed |
+| M064193 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpan` | volunteer-build-reviewed |
 | M064194 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpanStatement` | volunteer-build-reviewed |
 | M064195 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrime` | volunteer-build-reviewed |
 | M064196 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationFrobeniusSumSubLeNatCastPrimeStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M064975 | P0358 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLift` | volunteer-build-reviewed |
 | M064976 | P0404 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodLiftEqIdempotentLiftStatement` | volunteer-build-reviewed |
 | M064979 | P1008 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.GoodTopCountLeConstMulLog` | build-observed |
-| M064982 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HaarDisintegrationAveragedFibreMeasures` | build-observed |
-| M064983 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HaarDisintegrationAveragedFibreMeasuresStatement` | build-observed |
-| M064986 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HalfPeriodDiffThetaFourthOfSigmaStarAddition` | volunteer-build-reviewed |
-| M064990 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombined` | volunteer-build-reviewed |
-| M064991 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombinedStatement` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M060422 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoSidedSizeFunctionPosInvariantContinuousStatement` | volunteer-build-reviewed |
+| M060423 | P2227 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBessel` | volunteer-build-reviewed |
+| M060424 | P2239 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBesselStatement` | volunteer-build-reviewed |
+| M060425 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UEmbMulPEl` | build-observed |
 | M060426 | P1770 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UMatMulLoc` | volunteer-build-reviewed |
 | M060427 | P1983 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMass` | volunteer-build-reviewed |
 | M060428 | P2002 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UnfoldingGenusWeightsSumToMassStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M061041 | P2113 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ClassSumDenominatorBoundOfCmThetaHypothesesStatement` | volunteer-build-reviewed |
 | M061051 | P1225 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmQuadraticPhaseEquivariantEmbeddingsStatement` | build-observed |
 | M061052 | P1120 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatible` | build-observed |
-| M061053 | P1149 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatibleStatement` | build-observed |
-| M061056 | P1034 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaLatticePointMemThetaLatticeOfAdelic` | volunteer-build-reviewed |
-| M061062 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugate` | build-observed |
-| M061063 | P1198 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugateStatement` | build-observed |

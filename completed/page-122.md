@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085766 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfield` | build-observed |
+| M085767 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfieldStatement` | volunteer-build-reviewed |
+| M085773 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPolynomialMapMaximalIdealIsPrime` | volunteer-build-reviewed |
+| M085774 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPowerSeriesVariablesSyzygySocle` | volunteer-build-reviewed |
+| M085777 | P1487 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NearCOfPolFamOfKTriv` | volunteer-build-reviewed |
 | M085781 | P1597 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyCmModuliOfDeeperLevelStatement` | build-observed |
 | M085782 | P1844 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyFamilyUnifIffUnifAt` | build-observed |
 | M085783 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.NonemptyHeckeCorrespondenceScheme` | build-observed |
@@ -397,8 +402,3 @@
 | M086646 | P2568 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfSplit` | volunteer-build-reviewed |
 | M086647 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRange` | volunteer-build-reviewed |
 | M086648 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRangeStatement` | volunteer-build-reviewed |
-| M086654 | P0849 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockComplementIsSubAtEnlargementStatement` | volunteer-build-reviewed |
-| M086661 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockRowsMemIcc` | build-observed |
-| M086672 | P2696 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypotheses` | volunteer-build-reviewed |
-| M086673 | P2703 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypothesesStatement` | volunteer-build-reviewed |
-| M086674 | P2707 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReci` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157843 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MeasureSwapInvariant` | wave-reused |
+| M157844 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MinorValuationBoundHolds` | wave-reused |
+| M157845 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PadicValIntProdElevenMultiples` | wave-reused |
+| M157846 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ParameterBounds` | wave-reused |
+| M157847 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PathEqOfContentSequence` | wave-reused |
+| M157848 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PermutationWeightInvariant` | wave-reused |
+| M157849 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PieriGenerated` | wave-reused |
+| M157850 | P0669 | `Formalism.PieriBlockIdeals.PieriColumnMinors.ProdInitialMinorsMemDetSpan` | wave-reused |
+| M157851 | P0723 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealLocalDeltaNabla` | wave-reused |
 | M157852 | P0969 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RealOfSkeleton` | wave-reused |
 | M157853 | P1080 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RecursionInclusionExceptional` | wave-reused |
 | M157854 | P0279 | `Formalism.PieriBlockIdeals.PieriColumnMinors.RegularCuspidalTrace` | wave-reused |
@@ -393,12 +402,3 @@
 | M158251 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeNGLQ` | build-observed |
 | M158252 | P0887 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsGenus` | build-observed |
 | M158253 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsLift` | build-observed |
-| M158255 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeVolRatio` | build-observed |
-| M158256 | P1166 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeWeylDS` | build-observed |
-| M158257 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker` | build-observed |
-| M158258 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.AbsPointwiseMonoConstant` | build-observed |
-| M158259 | P0804 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellBru` | build-observed |
-| M158260 | P0750 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellDef` | build-observed |
-| M158261 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellFin` | build-observed |
-| M158262 | P0996 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellGeo` | build-observed |
-| M158263 | P0777 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker.CellInv` | build-observed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040578 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthGeFinrankOfSemilinearSurjectiveStatement` | volunteer-build-reviewed |
+| M040579 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwap` | volunteer-build-reviewed |
+| M040580 | P0110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwapStatement` | volunteer-build-reviewed |
 | M040582 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisation` | wave-reused |
 | M040583 | P1449 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkNeTopOfNoGenerisationStatement` | wave-reused |
 | M040584 | P1424 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthStalkReducedClosedGenericPointEqRank` | wave-reused |
@@ -399,6 +402,3 @@
 | M041386 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeAdditiveStatement` | volunteer-build-reviewed |
 | M041387 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeBlockConjugate` | volunteer-build-reviewed |
 | M041388 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslate` | volunteer-build-reviewed |
-| M041389 | P1793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslateStatement` | volunteer-build-reviewed |
-| M041390 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomial` | volunteer-build-reviewed |
-| M041391 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativePreservesPolynomialStatement` | volunteer-build-reviewed |

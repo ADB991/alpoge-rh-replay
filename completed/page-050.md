@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033003 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallCentreInterpolationDetWeightSmallSignatu` | volunteer-build-reviewed |
+| M033004 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallCentreInterpolationDetWeightSmallSignatuStatement` | volunteer-build-reviewed |
 | M033006 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeBallNoContractionUnitaryUpperLevelStatement` | volunteer-build-reviewed |
 | M033007 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSections` | wave-reused |
 | M033008 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeEtaleModuleSheafHomEquivNaturalSectionsStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M033686 | P2716 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericStatementOfCanonicalExtension` | build-observed |
 | M033687 | P2722 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericStatementOfCanonicalExtensionStatement` | build-observed |
 | M033690 | P2454 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericSubspaceMapExtends` | volunteer-build-reviewed |
-| M033695 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericThetaExpansionScalarNeZeroStatement` | volunteer-build-reviewed |
-| M033696 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericTypeExtendsAffineNormal` | volunteer-build-reviewed |

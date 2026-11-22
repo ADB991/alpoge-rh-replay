@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M058404 | P0482 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFramesDatumMoveProperties` | wave-reused |
+| M058405 | P0521 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFramesDatumMovePropertiesStatement` | wave-reused |
+| M058406 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFramesLevelLeIffCongrFlagSte` | wave-reused |
+| M058407 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFramesLevelLeIffCongrFlagSteStatement` | wave-reused |
 | M058408 | P0682 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetInFamilyMovedOfNotLeak` | wave-reused |
 | M058409 | P0709 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetInFamilyMovedOfNotLeakStatement` | wave-reused |
 | M058410 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetKernelBoundByWeight` | wave-reused |
@@ -398,7 +402,3 @@
 | M059028 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBesselCoefficientCompactLeStatement` | build-observed |
 | M059029 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstant` | build-observed |
 | M059030 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstantStatement` | build-observed |
-| M059032 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBoundByDyadicSummationStatement` | volunteer-build-reviewed |
-| M059033 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBessel` | build-observed |
-| M059034 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBesselStatement` | build-observed |
-| M059035 | P0843 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralEquivariantLeftInvariant` | build-observed |

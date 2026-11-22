@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159202 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ChainDim` | build-observed |
+| M159203 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeAlternative` | build-observed |
+| M159204 | P1190 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeRatioConsecutive` | build-observed |
+| M159205 | P1242 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreesLargeBeyond` | build-observed |
+| M159206 | P1321 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreesLargeOfStd` | build-observed |
+| M159207 | P1347 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseThresholdRatioConsecutive` | build-observed |
+| M159208 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountDefs` | build-observed |
+| M159209 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountLow` | build-observed |
+| M159210 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CountUp` | build-observed |
 | M159211 | P1140 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualFlatOf` | build-observed |
 | M159212 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.DualLat` | build-observed |
 | M159213 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ExtendedStatementOfParts` | build-observed |
@@ -393,12 +402,3 @@
 | M159633 | P1711 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ModelIdentificationHolds` | build-observed |
 | M159634 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfLoZero` | build-observed |
 | M159635 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfWtPQCast` | build-observed |
-| M159636 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PbSmithLam` | build-observed |
-| M159637 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PdAevalScale` | build-observed |
-| M159638 | P1530 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ProdMemHten` | build-observed |
-| M159639 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.QaNuNextAdd` | build-observed |
-| M159640 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.QaWeightRowInd` | build-observed |
-| M159641 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.RowActTransv` | build-observed |
-| M159642 | P0669 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovDet` | build-observed |
-| M159643 | P0750 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovWeyl` | build-observed |
-| M159644 | P0638 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.StatementY` | build-observed |

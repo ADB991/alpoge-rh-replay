@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077055 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdmissibleLocalComponentDefiniteUnitary` | volunteer-build-reviewed |
+| M077057 | P0447 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAevalEqSmulOnEigenspace` | build-observed |
+| M077058 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineCoverSquarePolarisationSections` | volunteer-build-reviewed |
+| M077060 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDR` | volunteer-build-reviewed |
+| M077061 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDRStatement` | volunteer-build-reviewed |
 | M077062 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormal` | volunteer-build-reviewed |
 | M077063 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainNbhdNormalStatement` | volunteer-build-reviewed |
 | M077064 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainPreimage` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M077860 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitSubOfIsSplitting` | volunteer-build-reviewed |
 | M077861 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasure` | volunteer-build-reviewed |
 | M077862 | P1333 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasureStatement` | build-observed |
-| M077864 | P1455 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilDatumOOfRankEq` | volunteer-build-reviewed |
-| M077866 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilOnSwap` | volunteer-build-reviewed |
-| M077867 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsoPolarisedOfCompatibleThickeningsSquare` | volunteer-build-reviewed |
-| M077869 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsomVec` | volunteer-build-reviewed |
-| M077870 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsometryOfConjSplit` | volunteer-build-reviewed |

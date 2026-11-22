@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101263 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.GeometricSideAbsolutelyConvergentOfEulerFubini` | build-observed |
+| M101264 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.GlobalOrbitalComparisonOfSplit` | build-observed |
+| M101265 | P0363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarConstOfHaarExists` | build-observed |
+| M101266 | P2116 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarMeasureTripleProductDecomposition` | volunteer-build-reviewed |
+| M101267 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarQuotientSubgroup` | build-observed |
+| M101268 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarUnimodularCriterion` | build-observed |
+| M101270 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.InfinitePartFiniteOfAdelicBound` | build-observed |
 | M101271 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InnerProductIntegralFundamentalDomainOfCompact` | volunteer-build-reviewed |
 | M101272 | P0043 | `Development.AutomorphicArithmetic.AdelicQuotients.InvariantSesquilinearFormEqSmulOfIrreducible` | volunteer-build-reviewed |
 | M101273 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.IrreducibleHermitianFormUnique` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M101977 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountK` | volunteer-build-reviewed |
 | M101978 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountQ` | volunteer-build-reviewed |
 | M101983 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.DownCsd` | volunteer-build-reviewed |
-| M101984 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.EventuallyNotMem` | volunteer-build-reviewed |
-| M101985 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.ExistenceOfGaloisRepresentationsOfHyp` | volunteer-build-reviewed |
-| M101989 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.GelfandKazhdanReal` | volunteer-build-reviewed |
-| M101991 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.IntK` | volunteer-build-reviewed |
-| M101992 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.IsoOfFrob` | volunteer-build-reviewed |
-| M101993 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.JumpsAbove` | volunteer-build-reviewed |
-| M101995 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LevelK` | volunteer-build-reviewed |

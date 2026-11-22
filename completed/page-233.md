@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154721 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.UnipotentIntegralPreservesLattice` | build-observed |
+| M154722 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.VFEqEmultiplicity` | build-observed |
+| M154723 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.WeightPositive` | build-observed |
+| M154725 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantDeterminantScaling.IntCastMulEqSmul` | wave-reused |
+| M154726 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatDecomposition.InjDecomp` | wave-reused |
+| M154727 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatDecomposition.SkipOneEqSuccAbove` | wave-reused |
+| M154728 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.GGEq` | wave-reused |
+| M154729 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.QnCovHat2OfLin` | wave-reused |
+| M154730 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SkipTwoOfGe` | wave-reused |
 | M154731 | P0696 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SumSgnLProdCol` | wave-reused |
 | M154732 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantLinearProduct.OfFnProdSmul` | wave-reused |
 | M154733 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantVectorMove.MoveOperatorCovariance` | wave-reused |
@@ -393,12 +402,3 @@
 | M155169 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.Transp` | build-observed |
 | M155171 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.Development` | volunteer-build-reviewed |
 | M155176 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExChar` | build-observed |
-| M155177 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExCore` | build-observed |
-| M155180 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.UniqGen` | volunteer-build-reviewed |
-| M155181 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarScaling.MapEqSelfOfIterate` | build-observed |
-| M155182 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HalfIntegerGap.IntGap` | build-observed |
-| M155183 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.Basics` | build-observed |
-| M155184 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.GreenHCLabelOf` | build-observed |
-| M155185 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.SupportExistsOf` | build-observed |
-| M155186 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseDerivativeFiltration.HasseMemHfr` | build-observed |
-| M155187 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseJacobsonPowers.SfrMulMemJHfr` | build-observed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034566 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentableStatement` | volunteer-build-reviewed |
+| M034567 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HartTensorOfFlat` | volunteer-build-reviewed |
 | M034573 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExp` | volunteer-build-reviewed |
 | M034574 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExpStatement` | volunteer-build-reviewed |
 | M034575 | P1478 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasBlocksOfSystemOccursInBlockPart` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M035237 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValues` | volunteer-build-reviewed |
 | M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |
-| M035239 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLine` | volunteer-build-reviewed |
-| M035240 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLineStatement` | volunteer-build-reviewed |

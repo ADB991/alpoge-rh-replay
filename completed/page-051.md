@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M033695 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericThetaExpansionScalarNeZeroStatement` | volunteer-build-reviewed |
+| M033696 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericTypeExtendsAffineNormal` | volunteer-build-reviewed |
 | M033701 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GenericUnitEquationChartStatement` | volunteer-build-reviewed |
 | M033705 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoActMemCusp` | volunteer-build-reviewed |
 | M033707 | P1423 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.GeoLevelActionIffGeoAct` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M034555 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTangentInjectiveAwayFromEtalePlace` | volunteer-build-reviewed |
 | M034563 | P2805 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjCorrespondenceTargetFiniteEtal` | volunteer-build-reviewed |
 | M034565 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable` | volunteer-build-reviewed |
-| M034566 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentableStatement` | volunteer-build-reviewed |
-| M034567 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HartTensorOfFlat` | volunteer-build-reviewed |

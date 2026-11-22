@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164641 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPointsOffDiscriminant` | volunteer-build-reviewed |
+| M164642 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPrimitiveForm` | volunteer-build-reviewed |
+| M164643 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |
+| M164644 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermProjectionOpenNear` | volunteer-build-reviewed |
+| M164645 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermRegularConnected` | volunteer-build-reviewed |
+| M164646 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermRegularDimGe` | volunteer-build-reviewed |
+| M164647 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreLocalUnbranched` | volunteer-build-reviewed |
+| M164648 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreNear` | volunteer-build-reviewed |
+| M164649 | P0336 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpen` | volunteer-build-reviewed |
 | M164650 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedFibreOpenPoly` | volunteer-build-reviewed |
 | M164651 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCount` | volunteer-build-reviewed |
 | M164652 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIsolatedPointsCountPrime` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M165147 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnCut` | wave-reused |
 | M165148 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnVanishBlock` | wave-reused |
 | M165149 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingDimLe` | build-observed |
-| M165150 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingIsLocal` | build-observed |
-| M165151 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingLocal` | build-observed |
-| M165152 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingMem` | build-observed |
-| M165153 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingNoetherian` | build-observed |
-| M165155 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHsymmPairFlagIndependence` | wave-reused |
-| M165156 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHsymmShift` | wave-reused |
-| M165157 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAddFirstField` | wave-reused |
-| M165158 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAssoc` | wave-reused |
-| M165159 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumIsFieldIntersection` | pilot-reused |

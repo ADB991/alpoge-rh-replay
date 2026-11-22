@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044188 | P2798 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequalityStatement` | volunteer-build-reviewed |
+| M044189 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedBundleRestrictionToCurves` | volunteer-build-reviewed |
+| M044192 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedModelDominantWeightStatement` | volunteer-build-reviewed |
+| M044195 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefIsPsEffAndBigTensNef` | wave-reused |
 | M044196 | P2055 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleNumericalTheoremsProofStatement` | wave-reused |
 | M044197 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefLineBundleWeightGap` | volunteer-build-reviewed |
 | M044199 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefNumericsOfRiemannRoch` | wave-reused |
@@ -398,7 +402,3 @@
 | M044890 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeDimAt` | volunteer-build-reviewed |
 | M044892 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeIntersectionNumberSubvarietyThroughPositive` | volunteer-build-reviewed |
 | M044894 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdeal` | volunteer-build-reviewed |
-| M044899 | P2257 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapAtFittedPoints` | volunteer-build-reviewed |
-| M044902 | P2168 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapOfOfExtends` | volunteer-build-reviewed |
-| M044904 | P1818 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRow0OfRowsSmul` | volunteer-build-reviewed |
-| M044907 | P2179 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneMapRowOfBaseTupleIdentityRowSpan` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M030387 | P1941 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPart` | volunteer-build-reviewed |
+| M030388 | P1563 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPieceBoundedWeightsOfQuadratic` | volunteer-build-reviewed |
 | M030390 | P2053 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShifts` | volunteer-build-reviewed |
 | M030391 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryScalarInertPlaceInvertibleShiftsStatement` | volunteer-build-reviewed |
 | M030394 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryStabilizerTransitionSelfDualFrames` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M031019 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPartSurjective` | volunteer-build-reviewed |
 | M031020 | P2426 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinProdIsGen` | volunteer-build-reviewed |
 | M031021 | P1590 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPtHomApply` | volunteer-build-reviewed |
-| M031022 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRel` | volunteer-build-reviewed |
-| M031024 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelG` | volunteer-build-reviewed |

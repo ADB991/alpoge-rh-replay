@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077864 | P1455 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilDatumOOfRankEq` | volunteer-build-reviewed |
+| M077866 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilOnSwap` | volunteer-build-reviewed |
+| M077867 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsoPolarisedOfCompatibleThickeningsSquare` | volunteer-build-reviewed |
+| M077869 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsomVec` | volunteer-build-reviewed |
+| M077870 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsometryOfConjSplit` | volunteer-build-reviewed |
 | M077872 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualLatticeVectorStatement` | volunteer-build-reviewed |
 | M077873 | P0035 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrix` | volunteer-build-reviewed |
 | M077874 | P0125 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsotropicDualOfSkewMatrixStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M078604 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEqStatement` | volunteer-build-reviewed |
 | M078607 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueEmbeddingEigenspaceSum` | volunteer-build-reviewed |
 | M078611 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueInfEmb` | build-observed |
-| M078612 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueInfFam` | volunteer-build-reviewed |
-| M078613 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueIsStdChar` | volunteer-build-reviewed |
-| M078621 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueSectionCompatibleSquareThickening` | volunteer-build-reviewed |
-| M078632 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueUnitaryTwoStepPairMeasureStatement` | volunteer-build-reviewed |
-| M078633 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAt` | volunteer-build-reviewed |

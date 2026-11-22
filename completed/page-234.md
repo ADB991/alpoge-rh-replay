@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155177 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExCore` | build-observed |
+| M155180 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.UniqGen` | volunteer-build-reviewed |
+| M155181 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarScaling.MapEqSelfOfIterate` | build-observed |
+| M155182 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HalfIntegerGap.IntGap` | build-observed |
+| M155183 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.Basics` | build-observed |
+| M155184 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.GreenHCLabelOf` | build-observed |
+| M155185 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HarishChandraLabels.SupportExistsOf` | build-observed |
+| M155186 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseDerivativeFiltration.HasseMemHfr` | build-observed |
+| M155187 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseJacobsonPowers.SfrMulMemJHfr` | build-observed |
 | M155188 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.AddPreservesExpCongruence` | build-observed |
 | M155189 | P1189 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.CompositionalInverseSymm` | build-observed |
 | M155190 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HasseOrderBound.Development` | build-observed |
@@ -393,12 +402,3 @@
 | M155630 | P1584 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiVIteOne` | build-observed |
 | M155631 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.QuadRoot` | build-observed |
 | M155632 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageEveryPlace` | build-observed |
-| M155633 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdapted` | build-observed |
-| M155634 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdaptedMod` | build-observed |
-| M155635 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfBasis` | build-observed |
-| M155636 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfFrame` | build-observed |
-| M155637 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfLocalMod` | build-observed |
-| M155638 | P1346 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfTransitive` | build-observed |
-| M155639 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReindexGl` | build-observed |
-| M155640 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.RowFlagIff` | build-observed |
-| M155641 | P1711 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.SecondCoordsAdaptedColumn` | build-observed |

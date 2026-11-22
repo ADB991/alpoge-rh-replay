@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162967 | P0334 | `GroundTheory.AutomorphicForms.WhittakerCells` | wave-reused |
+| M162968 | P0334 | `GroundTheory.AutomorphicForms.WhittakerCriterion` | wave-reused |
+| M162969 | P0380 | `GroundTheory.AutomorphicForms.WhittakerDistribution` | wave-reused |
+| M162970 | P0334 | `GroundTheory.AutomorphicForms.WhittakerGroups` | wave-reused |
+| M162971 | P0225 | `GroundTheory.AutomorphicForms.WhittakerLSpace` | wave-reused |
+| M162972 | P0425 | `GroundTheory.AutomorphicForms.WhittakerLocal` | wave-reused |
+| M162973 | P0282 | `GroundTheory.AutomorphicForms.WhittakerOrbit` | wave-reused |
+| M162974 | P0081 | `GroundTheory.AutomorphicForms.WhittakerRelevance` | wave-reused |
+| M162995 | P0225 | `GroundTheory.FunctionField.Approximation` | wave-reused |
 | M162996 | P0334 | `GroundTheory.FunctionField.Divisor` | wave-reused |
 | M162997 | P0380 | `GroundTheory.FunctionField.DivisorDegree` | wave-reused |
 | M162998 | P0465 | `GroundTheory.FunctionField.ExistsBoundDegSubFinrankL` | wave-reused |
@@ -393,12 +402,3 @@
 | M163425 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PCoordDivDivisible` | wave-reused |
 | M163426 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PDivisorNull` | wave-reused |
 | M163427 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGluedLocal` | wave-reused |
-| M163428 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassError` | wave-reused |
-| M163429 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplace` | wave-reused |
-| M163430 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplaceKappa` | wave-reused |
-| M163431 | P0225 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplaceLevi` | wave-reused |
-| M163432 | P0833 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassStep` | wave-reused |
-| M163433 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassStepA` | wave-reused |
-| M163434 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassStepB` | wave-reused |
-| M163435 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassZero` | wave-reused |
-| M163436 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PHyperplaneDivisible` | wave-reused |

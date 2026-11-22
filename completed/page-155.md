@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107010 | P2739 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TUpQuad` | volunteer-build-reviewed |
+| M107011 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWDAbove` | volunteer-build-reviewed |
+| M107012 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWDAway` | volunteer-build-reviewed |
+| M107013 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWeylC` | volunteer-build-reviewed |
+| M107014 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWtBridge` | volunteer-build-reviewed |
+| M107015 | P2769 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TZEqDimE` | volunteer-build-reviewed |
+| M107017 | P2766 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ThDefs` | volunteer-build-reviewed |
 | M107019 | P2692 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ThmS6CoreS` | volunteer-build-reviewed |
 | M107020 | P2762 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.ToTL` | volunteer-build-reviewed |
 | M107022 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TwistConjugateSelfDual` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M107487 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CocycleTransportH1fSurjective` | volunteer-build-reviewed |
 | M107488 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CommutingUpperTriangularDistinct` | volunteer-build-reviewed |
 | M107489 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CompKer` | volunteer-build-reviewed |
-| M107490 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ConjugateRestrictionOpenNormal` | volunteer-build-reviewed |
-| M107491 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousRankOneRep` | volunteer-build-reviewed |
-| M107492 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousUnitsInvOfContinuousCoeFiniteQpAlgebra` | volunteer-build-reviewed |
-| M107493 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrLift` | volunteer-build-reviewed |
-| M107494 | P1411 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrUnipChar` | volunteer-build-reviewed |
-| M107495 | P1207 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CrystallinePeriodMatrixMemFilZeroOfWeightZero` | build-observed |
-| M107499 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.DeRhamRationalOfConj` | volunteer-build-reviewed |

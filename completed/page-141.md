@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098714 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegenerationStatement` | wave-reused |
+| M098715 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralOfTorsion` | volunteer-build-reviewed |
+| M098716 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralThetaSectionWithExpansion` | build-observed |
+| M098719 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsAffineOpen` | build-observed |
+| M098720 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsMonHomSplitTorusOfSqEqBot` | build-observed |
+| M098721 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsProdB` | volunteer-build-reviewed |
 | M098722 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsPullDegId` | volunteer-build-reviewed |
 | M098723 | P1232 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickenings` | wave-reused |
 | M098724 | P1260 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIsoOfCompatibleAbelianThickeningsStatement` | wave-reused |
@@ -396,9 +402,3 @@
 | M099325 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPwOfAffineLoci` | build-observed |
 | M099326 | P0768 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WchartCompLePull` | build-observed |
 | M099328 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsion` | build-observed |
-| M099329 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsionStatement` | build-observed |
-| M099334 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealProperties` | volunteer-build-reviewed |
-| M099335 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealPropertiesStatement` | build-observed |
-| M099336 | P0258 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedComplete` | volunteer-build-reviewed |
-| M099337 | P0311 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionLatticeSeparatedCompleteStatement` | volunteer-build-reviewed |
-| M099338 | P0524 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionRationalPointsAndApproximation` | build-observed |

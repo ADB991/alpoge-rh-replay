@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122017 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShifted` | volunteer-build-reviewed |
+| M122018 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShiftedStatement` | volunteer-build-reviewed |
+| M122019 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumTranslateInvariant` | volunteer-build-reviewed |
+| M122020 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumTranslateInvariantStatement` | volunteer-build-reviewed |
+| M122021 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumsProportionalCard` | volunteer-build-reviewed |
+| M122022 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetUnitIdealIntegral` | volunteer-build-reviewed |
+| M122024 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirReal` | build-observed |
+| M122025 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirRealStatement` | build-observed |
+| M122026 | P0879 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolution` | build-observed |
 | M122027 | P0906 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolutionStatement` | build-observed |
 | M122028 | P1464 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompat` | wave-reused |
 | M122029 | P1492 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosievePairingFamilyCompatStatement` | wave-reused |
@@ -393,12 +402,3 @@
 | M122645 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvaluationMapsLinear` | volunteer-build-reviewed |
 | M122647 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyActMemLatVIff` | volunteer-build-reviewed |
 | M122648 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyEqOfAgreeGLs` | build-observed |
-| M122652 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyLineUnit` | volunteer-build-reviewed |
-| M122654 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyMeasurableSetPrimV` | volunteer-build-reviewed |
-| M122656 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyOfSectionPlaces` | volunteer-build-reviewed |
-| M122657 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyOfSectionPlacesStatement` | volunteer-build-reviewed |
-| M122660 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExPOfCompatibleEquiv` | build-observed |
-| M122661 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExPOfCompatibleEquivStatement` | volunteer-build-reviewed |
-| M122662 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExactOfSpan` | volunteer-build-reviewed |
-| M122663 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExceptionalIdealLeSpanPosDegree` | build-observed |
-| M122666 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistenceTestFunctions` | volunteer-build-reviewed |

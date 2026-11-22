@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071013 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasis` | volunteer-build-reviewed |
+| M071014 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasisStatement` | volunteer-build-reviewed |
+| M071016 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockInvariantsIffIsometryStatement` | volunteer-build-reviewed |
+| M071017 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIff` | volunteer-build-reviewed |
+| M071018 | P0523 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIffStatement` | build-observed |
 | M071022 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianLatticeIsOpenIsCompactTestStatement` | volunteer-build-reviewed |
 | M071035 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HfAlgSmulRight` | volunteer-build-reviewed |
 | M071036 | P0846 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HighPowCoeffMemSpanPow` | build-observed |
@@ -397,8 +402,3 @@
 | M071741 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfTwoMem` | build-observed |
 | M071744 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitting` | volunteer-build-reviewed |
 | M071746 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStableGauss` | volunteer-build-reviewed |
-| M071747 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomComp` | wave-reused |
-| M071748 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomCompStatement` | wave-reused |
-| M071749 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponents` | wave-reused |
-| M071750 | P1125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponentsStatement` | wave-reused |
-| M071751 | P1255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfLocalizationAway` | wave-reused |

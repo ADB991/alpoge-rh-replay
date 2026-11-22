@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075321 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConstantStandardHermitianEqOneStatement` | volunteer-build-reviewed |
+| M075322 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevels` | volunteer-build-reviewed |
+| M075323 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevelsStatement` | volunteer-build-reviewed |
+| M075325 | P1673 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneAboveStatement` | volunteer-build-reviewed |
+| M075326 | P1483 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecial` | build-observed |
 | M075327 | P1513 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneCharpolyTwistSpecialStatement` | volunteer-build-reviewed |
 | M075328 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWild` | volunteer-build-reviewed |
 | M075329 | P2138 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneDualTransportMonodromyDimWildStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M076238 | P1405 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClsAt` | volunteer-build-reviewed |
 | M076239 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmDataIsCMExtAndGramIsHermND` | build-observed |
 | M076240 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmExtensionLocalFieldProductRingExistsSmulEq` | volunteer-build-reviewed |
-| M076244 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmTypeEmbeddingAtSideDistinctNonconjugate` | volunteer-build-reviewed |
-| M076253 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CodimOneGenerizationStalk` | volunteer-build-reviewed |
-| M076255 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeFnFinsetSumSmul` | volunteer-build-reviewed |
-| M076258 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoefMapNormEquivariantBasisOfPre` | volunteer-build-reviewed |
-| M076259 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffCharpolyRevMemTracePowerProductRealSpan` | volunteer-build-reviewed |

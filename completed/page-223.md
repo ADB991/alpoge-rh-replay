@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148799 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.EqOneOfCoprimeTorsionTwoPrimes` | build-observed |
+| M148800 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ExistsIntegerSmulMemOfSpanTop` | build-observed |
+| M148801 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrameTranslate` | build-observed |
+| M148802 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusIdentitiesNoKernelOfClauses` | build-observed |
+| M148803 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusNoKernelOfFrobeniusSimilitude` | build-observed |
+| M148804 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusNoKernelOfHeckeRamified` | build-observed |
+| M148805 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.IntegralTensorBasisLinIndep` | build-observed |
+| M148806 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionFamilyOf` | build-observed |
+| M148807 | P1107 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfDecompGlob` | build-observed |
 | M148808 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfSubIntegral` | build-observed |
 | M148809 | P0070 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LinearIndependentProdRenameOfCard` | build-observed |
 | M148810 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LocalBasisChangeDecompCompatible` | build-observed |
@@ -393,12 +402,3 @@
 | M149340 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IntegrableOnOfPeriodic` | volunteer-build-reviewed |
 | M149364 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceS` | build-observed |
 | M149379 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.StepVecThetaLem` | build-observed |
-| M149380 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TameAtOne` | volunteer-build-reviewed |
-| M149383 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TwoSplitIdem` | build-observed |
-| M149387 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.FinrankISupLeSum` | build-observed |
-| M149388 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.FinrankIntSelf` | build-observed |
-| M149392 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.ConjPurelyImaginaryGenerator` | volunteer-build-reviewed |
-| M149401 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.RealPlaceImaginaryGeneratorReEqZero` | volunteer-build-reviewed |
-| M149404 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FockTheta.UnitBracket` | build-observed |
-| M149405 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistGOfFramesExist` | build-observed |
-| M149406 | P1267 | `Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.FramesExistOfDiagonalTypePlaces` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067103 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomImageXDeltaZeroLiftsUniformizer` | wave-reused |
+| M067104 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomImageXDeltaZeroLiftsUniformizerStatement` | wave-reused |
+| M067107 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinIsBetaSubOfLpowSmul` | wave-reused |
+| M067108 | P1065 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinIsBetaSubOfLpowSmulStatement` | wave-reused |
+| M067111 | P1175 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeExponentsAinfComparison` | build-observed |
 | M067112 | P1199 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeExponentsAinfComparisonStatement` | build-observed |
 | M067113 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeFrameCocyclesLinked` | wave-reused |
 | M067114 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinLatticeFrameCocyclesLinkedStatement` | wave-reused |
@@ -397,8 +402,3 @@
 | M067716 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugate` | volunteer-build-reviewed |
 | M067717 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugateStatement` | volunteer-build-reviewed |
 | M067718 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVector` | volunteer-build-reviewed |
-| M067719 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVectorStatement` | volunteer-build-reviewed |
-| M067720 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspace` | volunteer-build-reviewed |
-| M067721 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspaceStatement` | volunteer-build-reviewed |
-| M067723 | P0522 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugatesSeparableMatrixCompactModCentralizerStatement` | volunteer-build-reviewed |
-| M067724 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugationScaledCoordsIntegralFormsTwist` | volunteer-build-reviewed |

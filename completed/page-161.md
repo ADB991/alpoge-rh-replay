@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110466 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsMatchingOfSameNorm` | build-observed |
+| M110467 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsSubordinateOfEtaleSec` | build-observed |
+| M110469 | P0046 | `Development.AutomorphicArithmetic.EtaleIdempotents.GaloisEquivariantTensorDescentOfPrimePowerUnits` | volunteer-build-reviewed |
+| M110470 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.HeckeCorrespondenceProduct` | build-observed |
+| M110471 | P1339 | `Development.AutomorphicArithmetic.EtaleIdempotents.IntegersResidueEqThetaCoeffPowOfTeichmuller` | build-observed |
+| M110472 | P1314 | `Development.AutomorphicArithmetic.EtaleIdempotents.IntegersResidueEqZeroOfNotIsUnit` | volunteer-build-reviewed |
+| M110473 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.LinearCombinationTransferOfProjectorRelations` | build-observed |
+| M110474 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.NatCastPrimeNeZeroAndNotIsUnitIntegers` | build-observed |
 | M110476 | P0878 | `Development.AutomorphicArithmetic.ExponentialBounds.BadShareWin` | wave-reused |
 | M110477 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.BaseChangeNB` | volunteer-build-reviewed |
 | M110478 | P2781 | `Development.AutomorphicArithmetic.Foundations.BaseChangeIdentities.DefiniteNHolds` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M110997 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenFund` | volunteer-build-reviewed |
 | M111000 | P0135 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenRed` | volunteer-build-reviewed |
 | M111001 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenTrunc` | volunteer-build-reviewed |
-| M111005 | P0263 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.LiftSingle` | volunteer-build-reviewed |
-| M111006 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.LiftSingleAlt` | volunteer-build-reviewed |
-| M111007 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.MatrixEntryAbsSumUnitaryLieCoordinatesSplit` | volunteer-build-reviewed |
-| M111008 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.OpBound` | volunteer-build-reviewed |
-| M111009 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PermOf` | volunteer-build-reviewed |
-| M111010 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PieceAdd` | volunteer-build-reviewed |
-| M111012 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Points` | volunteer-build-reviewed |
-| M111014 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.PowSym` | volunteer-build-reviewed |

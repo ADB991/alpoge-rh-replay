@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
+| M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
+| M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
+| M125393 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionNonvanishing` | volunteer-build-reviewed |
+| M125394 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionSupport` | volunteer-build-reviewed |
+| M125395 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionTranslation` | volunteer-build-reviewed |
+| M125396 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCentral` | volunteer-build-reviewed |
+| M125397 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerCharacter` | volunteer-build-reviewed |
+| M125398 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalWhittakerSmooth` | volunteer-build-reviewed |
 | M125405 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReduction` | volunteer-build-reviewed |
 | M125406 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGoodReductionStatement` | volunteer-build-reviewed |
 | M125407 | P1263 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalGradedClassRepresentative` | build-observed |
@@ -393,12 +402,3 @@
 | M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
 | M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
 | M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |
-| M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
-| M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
-| M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
-| M126013 | P2573 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInert` | volunteer-build-reviewed |
-| M126014 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInertStatement` | volunteer-build-reviewed |
-| M126015 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormula` | volunteer-build-reviewed |
-| M126016 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormulaStatement` | volunteer-build-reviewed |
-| M126017 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormula` | volunteer-build-reviewed |
-| M126018 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormulaStatement` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094951 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSum` | volunteer-build-reviewed |
+| M094952 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSumStatement` | volunteer-build-reviewed |
+| M094955 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPow` | volunteer-build-reviewed |
+| M094956 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPowStatement` | volunteer-build-reviewed |
+| M094957 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifference` | volunteer-build-reviewed |
 | M094958 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterDifferenceStatement` | volunteer-build-reviewed |
 | M094959 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactor` | volunteer-build-reviewed |
 | M094960 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitesimalCharacterFactorStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M095423 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
 | M095424 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilators` | volunteer-build-reviewed |
 | M095425 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilatorsStatement` | volunteer-build-reviewed |
-| M095426 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobianActionUpperRightBlockExpCoords` | build-observed |
-| M095428 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjective` | volunteer-build-reviewed |
-| M095429 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjectiveStatement` | volunteer-build-reviewed |
-| M095431 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetWordMultiplicityAdditiveJordanHolderStatement` | volunteer-build-reviewed |
-| M095432 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetKapIff` | volunteer-build-reviewed |

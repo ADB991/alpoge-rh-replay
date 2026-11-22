@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M023030 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvRhoUnipShift` | volunteer-build-reviewed |
+| M023031 | P2157 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvShiftIntegral` | volunteer-build-reviewed |
 | M023032 | P1031 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstant` | build-observed |
 | M023033 | P1059 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvSubstNatMultiplePrimePowConstantStatement` | build-observed |
 | M023034 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvTEqTerm` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M023666 | P0103 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenIsUnitOfNotMemMapStatement` | volunteer-build-reviewed |
 | M023667 | P2017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenKodairaSpencerLeftInverse` | volunteer-build-reviewed |
 | M023668 | P2035 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenKodairaSpencerLeftInverseStatement` | volunteer-build-reviewed |
-| M023673 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSectionsDistinctInFibres` | volunteer-build-reviewed |
-| M023675 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSmoothOfRelativeDimensionOfGeneri` | volunteer-build-reviewed |

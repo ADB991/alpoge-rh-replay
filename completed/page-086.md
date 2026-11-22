@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059032 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBoundByDyadicSummationStatement` | volunteer-build-reviewed |
+| M059033 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBessel` | build-observed |
+| M059034 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBesselStatement` | build-observed |
+| M059035 | P0843 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralEquivariantLeftInvariant` | build-observed |
 | M059036 | P0979 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralFintypeProd` | volunteer-build-reviewed |
 | M059041 | P1173 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDeriv` | build-observed |
 | M059042 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralGaussianHermitianNormFibreEqDerivStatement` | build-observed |
@@ -398,7 +402,3 @@
 | M059698 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSqStatement` | build-observed |
 | M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |
 | M059702 | P1090 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDual` | build-observed |
-| M059703 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDualStatement` | build-observed |
-| M059705 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow` | build-observed |
-| M059708 | P1174 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdShiftedCyclicWordExpansionStatement` | build-observed |
-| M059709 | P1330 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdSubEqProdFactorial` | volunteer-build-reviewed |

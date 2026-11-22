@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165150 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingIsLocal` | build-observed |
+| M165151 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingLocal` | build-observed |
+| M165152 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingMem` | build-observed |
+| M165153 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingNoetherian` | build-observed |
+| M165155 | P0468 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHsymmPairFlagIndependence` | wave-reused |
+| M165156 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHsymmShift` | wave-reused |
+| M165157 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAddFirstField` | wave-reused |
+| M165158 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumAssoc` | wave-reused |
+| M165159 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumIsFieldIntersection` | pilot-reused |
 | M165160 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumOfFiltration` | wave-reused |
 | M165161 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumPoint` | pilot-reused |
 | M165162 | P0337 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PIntNumRatSection` | pilot-reused |
@@ -393,12 +402,3 @@
 | M165681 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPrimeFiltration` | pilot-reused |
 | M165682 | P0468 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRelevantPrimeDimGe` | pilot-reused |
 | M165683 | P0384 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameHilbFn` | pilot-reused |
-| M165684 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameIntNum` | pilot-reused |
-| M165685 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiHomog` | pilot-reused |
-| M165686 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiProjPrime` | pilot-reused |
-| M165687 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalFinite` | wave-reused |
-| M165688 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalFiniteRank` | wave-reused |
-| M165689 | P0699 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalIntegral` | wave-reused |
-| M165690 | P0640 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLength` | wave-reused |
-| M165691 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalLengthSum` | wave-reused |
-| M165692 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PSemilocalMaxIdeals` | wave-reused |

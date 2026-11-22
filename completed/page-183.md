@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M121447 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedFibreStructureCohomologyFinite` | volunteer-build-reviewed |
+| M121448 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedFibreStructureCohomologyFiniteStatement` | volunteer-build-reviewed |
+| M121449 | P1207 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionPullbackKernelSup` | wave-reused |
+| M121450 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionUniversalSquareZero` | volunteer-build-reviewed |
+| M121451 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedImmersionUniversalSquareZeroStatement` | volunteer-build-reviewed |
+| M121452 | P0529 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedMissingClosedFibreEmpty` | wave-reused |
+| M121453 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedOfFunctor` | volunteer-build-reviewed |
+| M121454 | P1550 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplex` | volunteer-build-reviewed |
+| M121455 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedPointsCountComplexStatement` | volunteer-build-reviewed |
 | M121456 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedStOfTwoFormCohSt` | volunteer-build-reviewed |
 | M121457 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSubsetSupportProper` | wave-reused |
 | M121458 | P1387 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedSystemOpenIdealContainment` | wave-reused |
@@ -393,12 +402,3 @@
 | M122014 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetOff` | volunteer-build-reviewed |
 | M122015 | P0961 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetRepsOfFactorization` | build-observed |
 | M122016 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetRepsOfFactorizationStatement` | build-observed |
-| M122017 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShifted` | volunteer-build-reviewed |
-| M122018 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShiftedStatement` | volunteer-build-reviewed |
-| M122019 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumTranslateInvariant` | volunteer-build-reviewed |
-| M122020 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumTranslateInvariantStatement` | volunteer-build-reviewed |
-| M122021 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumsProportionalCard` | volunteer-build-reviewed |
-| M122022 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetUnitIdealIntegral` | volunteer-build-reviewed |
-| M122024 | P1341 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirReal` | build-observed |
-| M122025 | P1365 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformCasimirRealStatement` | build-observed |
-| M122026 | P0879 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CoshTransformConvolution` | build-observed |

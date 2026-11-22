@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103818 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Bridge` | build-observed |
+| M103824 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ConeHomotopyBoundaryFormula` | volunteer-build-reviewed |
+| M103825 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LeftMulChainChainHomotopic` | volunteer-build-reviewed |
+| M103826 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LemmaK` | wave-reused |
+| M103827 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LemmaKOfPublished` | volunteer-build-reviewed |
+| M103830 | P0526 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumT` | build-observed |
+| M103834 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ShaZmCard` | volunteer-build-reviewed |
 | M103838 | P0451 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TorsBoundPow` | build-observed |
 | M103839 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.TupleChainBoundaryFormula` | volunteer-build-reviewed |
 | M103852 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeometricSideEstimates.HermitianChartScalarInvariance` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M104408 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.NormEqOneOfKillsMu` | volunteer-build-reviewed |
 | M104409 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetAdj` | volunteer-build-reviewed |
 | M104410 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetAdjQuot` | build-observed |
-| M104411 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetHerm` | volunteer-build-reviewed |
-| M104412 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CoefFieldEq` | volunteer-build-reviewed |
-| M104413 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRham` | volunteer-build-reviewed |
-| M104414 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRhamInj` | volunteer-build-reviewed |
-| M104415 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AbsMain` | volunteer-build-reviewed |
-| M104416 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.Acyclic` | volunteer-build-reviewed |
-| M104417 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltAddRadial` | volunteer-build-reviewed |

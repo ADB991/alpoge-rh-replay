@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056881 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselForm` | build-observed |
+| M056882 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselFormStatement` | build-observed |
+| M056883 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRep` | build-observed |
+| M056884 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRepStatement` | build-observed |
 | M056885 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupsClosedUnitaryWCompact` | build-observed |
 | M056886 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupsClosedUnitaryWCompactStatement` | build-observed |
 | M056894 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselZhatInvAndRegularIff` | build-observed |
@@ -398,7 +402,3 @@
 | M057671 | P2070 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalCompactReductionStandardFrameStatement` | volunteer-build-reviewed |
 | M057672 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormal` | build-observed |
 | M057673 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormalStatement` | build-observed |
-| M057675 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCosetSection` | volunteer-build-reviewed |
-| M057676 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCosetSectionStatement` | volunteer-build-reviewed |
-| M057677 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCutoffFibreIntegralOneSubgroup` | build-observed |
-| M057678 | P0842 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCutoffFibreIntegralOneSubgroupStatement` | build-observed |

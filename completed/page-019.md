@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M011987 | P2034 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportCorrectionCarriesColumnLatticeRowTraceStatement` | volunteer-build-reviewed |
+| M011988 | P1690 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedFrameGramOrth` | volunteer-build-reviewed |
 | M011989 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerSiegelUnipotentAction` | volunteer-build-reviewed |
 | M011990 | P2108 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerSiegelUnipotentActionStatement` | volunteer-build-reviewed |
 | M011991 | P2094 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.TransportedSchrodingerStandardLeviAction` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M012773 | P1085 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocus` | build-observed |
 | M012774 | P1115 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivIffMemNonzeroLocusStatement` | volunteer-build-reviewed |
 | M012775 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivMemOfForallPowSuccDivPowMem` | volunteer-build-reviewed |
-| M012776 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EEContainsStableWeightZero` | build-observed |
-| M012783 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq` | wave-reused |

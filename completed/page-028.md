@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019017 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePartStatement` | volunteer-build-reviewed |
+| M019018 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesTheta` | volunteer-build-reviewed |
 | M019019 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesThetaStatement` | volunteer-build-reviewed |
 | M019020 | P2340 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationThetaEquivariant` | volunteer-build-reviewed |
 | M019022 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBExistsNonzeroCoefficient` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M019712 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnDens` | volunteer-build-reviewed |
 | M019718 | P2278 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnReadingIntegerExponentSection` | build-observed |
 | M019721 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOneAddLowRankEmbeddingQuaternionMatrixStatement` | volunteer-build-reviewed |
-| M019722 | P2068 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPhaseAt` | volunteer-build-reviewed |
-| M019724 | P1351 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousPlaceExtensionByZeroTensorOfPlace` | build-observed |

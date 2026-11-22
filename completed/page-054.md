@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036022 | P0977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBound` | wave-reused |
+| M036023 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HormanderEstimateOnBallConstLeviBoundStatement` | wave-reused |
 | M036026 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumns` | volunteer-build-reviewed |
 | M036027 | P1999 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostCompatibilityStandardKernelDataTrueColumnsStatement` | volunteer-build-reviewed |
 | M036031 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostIntegerCharacterCompConjEqConjEmbedding` | volunteer-build-reviewed |
@@ -291,6 +293,7 @@
 | M036500 | P0518 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndEtaleLocalizedPiecesTrans` | wave-reused |
 | M036501 | P0552 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndEtaleLocalizedPiecesTransStatement` | wave-reused |
 | M036502 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndEtalePrimeComparison` | volunteer-build-reviewed |
+| M036503 | P1741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndLineInf` | volunteer-build-reviewed |
 | M036504 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndefiniteFrameRealSpecialUnitary` | volunteer-build-reviewed |
 | M036507 | P2307 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndefiniteScaleThetaBoundLeftStatement` | volunteer-build-reviewed |
 | M036514 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IndefiniteScaleThetaIdentity` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M036689 | P2200 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertSupportedUnitaryPointIntegralCofiniteStatement` | volunteer-build-reviewed |
 | M036696 | P0015 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaDegBotEqFinrankFiniteDomain` | volunteer-build-reviewed |
 | M036697 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaDegBotEqFinrankFiniteDomainStatement` | volunteer-build-reviewed |
-| M036698 | P1942 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizer` | wave-reused |
-| M036699 | P1961 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizerStatement` | wave-reused |
-| M036700 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselian` | volunteer-build-reviewed |

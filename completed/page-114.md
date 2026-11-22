@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M078612 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueInfFam` | volunteer-build-reviewed |
+| M078613 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueIsStdChar` | volunteer-build-reviewed |
+| M078621 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueSectionCompatibleSquareThickening` | volunteer-build-reviewed |
+| M078632 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueUnitaryTwoStepPairMeasureStatement` | volunteer-build-reviewed |
+| M078633 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAt` | volunteer-build-reviewed |
 | M078634 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueWeightDefiniteUnitaryAtStatement` | volunteer-build-reviewed |
 | M078635 | P2313 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitCoefOpen` | volunteer-build-reviewed |
 | M078647 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnitaryAdelicLiftTypePrimeReductions` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M079476 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualInfinityInfinitesimalIffFieStatement` | volunteer-build-reviewed |
 | M079477 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharExponentOfInfinityType` | volunteer-build-reviewed |
 | M079478 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharExponentOfInfinityTypeStatement` | volunteer-build-reviewed |
-| M079485 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUnique` | volunteer-build-reviewed |
-| M079486 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUniqueStatement` | volunteer-build-reviewed |
-| M079487 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterInfinityExponentGroupLaws` | volunteer-build-reviewed |
-| M079490 | P2495 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterSplitPlaceComponentUniqueStatement` | volunteer-build-reviewed |
-| M079493 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeComparisonUnitAtFrobeniusEqDelta` | volunteer-build-reviewed |

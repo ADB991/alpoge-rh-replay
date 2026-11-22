@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059703 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDualStatement` | build-observed |
+| M059705 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow` | build-observed |
+| M059708 | P1174 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdShiftedCyclicWordExpansionStatement` | build-observed |
+| M059709 | P1330 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdSubEqProdFactorial` | volunteer-build-reviewed |
 | M059710 | P2158 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2Positive` | volunteer-build-reviewed |
 | M059711 | P2169 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductL2PositiveStatement` | volunteer-build-reviewed |
 | M059713 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProductModulesTypeUniformisersEqPowerStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M060409 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometry` | wave-reused |
 | M060410 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometryStatement` | wave-reused |
 | M060417 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoGeometricSumsIndexBound` | wave-reused |
-| M060422 | P1403 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoSidedSizeFunctionPosInvariantContinuousStatement` | volunteer-build-reviewed |
-| M060423 | P2227 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBessel` | volunteer-build-reviewed |
-| M060424 | P2239 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TypePOfLargeGapDiscreteSeriesBesselStatement` | volunteer-build-reviewed |
-| M060425 | P0844 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.UEmbMulPEl` | build-observed |

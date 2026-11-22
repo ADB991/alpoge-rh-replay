@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095894 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelIntegral` | volunteer-build-reviewed |
+| M095895 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelIntegralStatement` | volunteer-build-reviewed |
+| M095896 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSum` | volunteer-build-reviewed |
+| M095897 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSumStatement` | volunteer-build-reviewed |
+| M095898 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentity` | volunteer-build-reviewed |
 | M095899 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentityStatement` | volunteer-build-reviewed |
 | M095901 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalSumStatement` | volunteer-build-reviewed |
 | M095902 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsOrbitIdentity` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M096398 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEq` | volunteer-build-reviewed |
 | M096399 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEqSum` | volunteer-build-reviewed |
 | M096400 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairTable` | volunteer-build-reviewed |
-| M096401 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwiner` | volunteer-build-reviewed |
-| M096402 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwinerStatement` | volunteer-build-reviewed |
-| M096403 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVEqOfProdFunEq` | volunteer-build-reviewed |
-| M096404 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVecSumEqOfProdEq` | volunteer-build-reviewed |
-| M096405 | P2441 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairedPointsFirstLevelLawStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133070 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlgebraicSquareIntersectionPullbackStatement` | volunteer-build-reviewed |
+| M133073 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescent` | volunteer-build-reviewed |
+| M133074 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescentStatement` | volunteer-build-reviewed |
+| M133075 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormLatticeCompatible` | volunteer-build-reviewed |
+| M133076 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormLatticeCompatibleStatement` | volunteer-build-reviewed |
+| M133079 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtHolomorphicComposition` | build-observed |
+| M133080 | P0321 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEq` | build-observed |
+| M133081 | P0371 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEqStatement` | build-observed |
+| M133082 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverse` | volunteer-build-reviewed |
 | M133083 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverseStatement` | volunteer-build-reviewed |
 | M133084 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticGroupLawBoundedCommutator` | volunteer-build-reviewed |
 | M133086 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticLiftToLogResolution` | build-observed |
@@ -393,12 +402,3 @@
 | M133670 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyArithmetic` | volunteer-build-reviewed |
 | M133672 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyBoundaryDimensionDrop` | volunteer-build-reviewed |
 | M133674 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyModelBaseMetric` | volunteer-build-reviewed |
-| M133676 | P0597 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlatWeightExtends` | build-observed |
-| M133679 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FormPolyIsHomogeneousAndEval` | volunteer-build-reviewed |
-| M133680 | P0882 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeRegularEntries` | wave-reused |
-| M133681 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeRegularEntriesStatement` | wave-reused |
-| M133682 | P0855 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeScalarFactor` | wave-reused |
-| M133683 | P0882 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeScalarFactorStatement` | wave-reused |
-| M133684 | P0908 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMap` | wave-reused |
-| M133685 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeUnderFieldMapStatement` | wave-reused |
-| M133688 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameDataLocalDegreeEstimate` | volunteer-build-reviewed |

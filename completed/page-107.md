@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073210 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTilt` | build-observed |
+| M073211 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTiltStatement` | build-observed |
+| M073213 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEq` | build-observed |
+| M073214 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEqStatement` | build-observed |
+| M073215 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPow` | build-observed |
 | M073216 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiWInclLEPowStatement` | build-observed |
 | M073217 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNested` | volunteer-build-reviewed |
 | M073218 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PiExteriorTensorFlattenedIndexEquivNestedStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M073879 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleCompose` | wave-reused |
 | M073880 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleComposeStatement` | wave-reused |
 | M073881 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfInjective` | build-observed |
-| M073882 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSup` | build-observed |
-| M073883 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSupStatement` | build-observed |
-| M073884 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquiv` | build-observed |
-| M073885 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquivStatement` | build-observed |
-| M073886 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationUniqueUpToConj` | build-observed |

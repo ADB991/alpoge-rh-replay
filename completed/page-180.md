@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119586 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesSatakeEigenAtPlace` | volunteer-build-reviewed |
+| M119587 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvMemArchSmoothAndEnvelopingActionEq` | volunteer-build-reviewed |
+| M119588 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvTensorModerateGrowthUniform` | volunteer-build-reviewed |
+| M119589 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LintegralIdeleRatPolyDecayMulNormRpowLtTop` | volunteer-build-reviewed |
+| M119590 | P1849 | `Development.AutomorphicArithmetic.WhittakerHecke.LocGLEqLocalEmbeddingAndKGLEqIntegralGL` | volunteer-build-reviewed |
+| M119591 | P1826 | `Development.AutomorphicArithmetic.WhittakerHecke.LocalArtinInertiaValuationOfUniformizerPrime` | volunteer-build-reviewed |
+| M119592 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LseriesSummableSqCoeffOfFourLtRe` | volunteer-build-reviewed |
+| M119593 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LseriesTwistedCoeffEqTsumCoprimeOfSummable` | volunteer-build-reviewed |
+| M119595 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.MaximalCompactMeasureMapConjDiagEq` | volunteer-build-reviewed |
 | M119596 | P2633 | `Development.AutomorphicArithmetic.WhittakerHecke.MeasurableAndBoundedTwistedZetaIntegralRotation` | volunteer-build-reviewed |
 | M119598 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.MeasurableWhittakerIdeleDiagTorusMul` | volunteer-build-reviewed |
 | M119602 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.NormThetaSeriesSiegelSetLeExp` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M120166 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffine` | build-observed |
 | M120167 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffineStatement` | build-observed |
 | M120168 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlat` | volunteer-build-reviewed |
-| M120169 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlatStatement` | volunteer-build-reviewed |
-| M120170 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffine` | build-observed |
-| M120171 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffineStatement` | build-observed |
-| M120172 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FixedByAutomorphismsMemField` | volunteer-build-reviewed |
-| M120177 | P0659 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagFrameBaseExtensionStatement` | volunteer-build-reviewed |
-| M120178 | P0852 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagFurtherTermIndependentStatement` | wave-reused |
-| M120180 | P2062 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependence` | volunteer-build-reviewed |
-| M120181 | P2076 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagIndependenceStatement` | volunteer-build-reviewed |
-| M120182 | P0934 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FlagModelJoinLeft` | build-observed |

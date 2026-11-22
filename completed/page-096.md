@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065802 | P2202 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozen` | volunteer-build-reviewed |
+| M065803 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozenStatement` | volunteer-build-reviewed |
+| M065804 | P1037 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WtBoundsOfNonneg` | build-observed |
+| M065805 | P1356 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiEntryInvariant` | volunteer-build-reviewed |
+| M065806 | P1093 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiIndEqInter` | build-observed |
 | M065809 | P0028 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ZetaEqSubIntegralFract` | volunteer-build-reviewed |
 | M065811 | P1983 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AbelianUnramIn` | volunteer-build-reviewed |
 | M065812 | P2214 | `Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicThetaSeriesComparisonIndepScalarsErrors` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M066441 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIsKroneckerCharOfDiscr` | wave-reused |
 | M066442 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsLineOfAddAddEqZero` | build-observed |
 | M066444 | P0252 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsNeZeroIsStandardSmoothOfRelativeDimension` | wave-reused |
-| M066445 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsNumeratorOfInvolution` | build-observed |
-| M066446 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOneTmulOfForallFixed` | volunteer-build-reviewed |
-| M066447 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsOpenPartialHomeomorphAnalytic` | wave-reused |
-| M066448 | P0120 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsPolynomialModularJOfHasQExpansion` | wave-reused |
-| M066449 | P0555 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsResEqOfUnitInChart` | wave-reused |

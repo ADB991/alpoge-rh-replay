@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
 | M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
 | M003611 | P2736 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidCoords` | volunteer-build-reviewed |
@@ -20,6 +21,7 @@
 | M003634 | P0238 | `Development.AbelianVarietyTheory.Definitions.Divisors.IndEtOfForallFinset` | wave-reused |
 | M003636 | P1271 | `Development.AbelianVarietyTheory.Definitions.Divisors.InstCMHostS` | volunteer-build-reviewed |
 | M003637 | P2714 | `Development.AbelianVarietyTheory.Definitions.Divisors.IntLatGEqCanLatOfSurjective` | volunteer-build-reviewed |
+| M003638 | P1586 | `Development.AbelianVarietyTheory.Definitions.Divisors.IntegralBound` | volunteer-build-reviewed |
 | M003641 | P0173 | `Development.AbelianVarietyTheory.Definitions.Divisors.IotaScalarOne` | wave-reused |
 | M003642 | P0238 | `Development.AbelianVarietyTheory.Definitions.Divisors.IrreducibleOfIrreducibleMap` | wave-reused |
 | M003643 | P2417 | `Development.AbelianVarietyTheory.Definitions.Divisors.IsActIffIsDiagEnd` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M004254 | P0295 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsZeroFreeSchOfIsEmpty` | volunteer-build-reviewed |
 | M004255 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsobaricDiscreteSelfDualStrongMultiplicityOne` | volunteer-build-reviewed |
 | M004256 | P2662 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IwahoriAdmissibleSet` | volunteer-build-reviewed |
-| M004258 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetSplitAmb` | volunteer-build-reviewed |
-| M004262 | P0731 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JumpWindow` | volunteer-build-reviewed |

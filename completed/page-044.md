@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029219 | P2135 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTranspose` | volunteer-build-reviewed |
+| M029220 | P2146 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelParabolicConjInvTransposeStatement` | volunteer-build-reviewed |
 | M029223 | P0707 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelSetDiagNormOne` | volunteer-build-reviewed |
 | M029226 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoords` | volunteer-build-reviewed |
 | M029227 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSigmaStableSummandFromLiftedEigenCoordsStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M029771 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaRealisationLabelsOfGrpPullback` | volunteer-build-reviewed |
 | M029773 | P2764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraits` | volunteer-build-reviewed |
 | M029774 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraitsStatement` | volunteer-build-reviewed |
-| M029776 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupIdealOverClopenComponentStatement` | volunteer-build-reviewed |
-| M029777 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupLevelCoverEveryPoint` | volunteer-build-reviewed |

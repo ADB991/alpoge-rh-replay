@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095426 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobianActionUpperRightBlockExpCoords` | build-observed |
+| M095428 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjective` | volunteer-build-reviewed |
+| M095429 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjectiveStatement` | volunteer-build-reviewed |
+| M095431 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetWordMultiplicityAdditiveJordanHolderStatement` | volunteer-build-reviewed |
+| M095432 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetKapIff` | volunteer-build-reviewed |
 | M095442 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulus` | volunteer-build-reviewed |
 | M095443 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetScalarUnitModulusStatement` | volunteer-build-reviewed |
 | M095444 | P2547 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JetsOfOrthogonalSum` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M095891 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwiningStatement` | volunteer-build-reviewed |
 | M095892 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelEq` | volunteer-build-reviewed |
 | M095893 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelEqStatement` | volunteer-build-reviewed |
-| M095894 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelIntegral` | volunteer-build-reviewed |
-| M095895 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelIntegralStatement` | volunteer-build-reviewed |
-| M095896 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSum` | volunteer-build-reviewed |
-| M095897 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelSumStatement` | volunteer-build-reviewed |
-| M095898 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsLocalIdentity` | volunteer-build-reviewed |

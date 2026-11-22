@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101984 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.EventuallyNotMem` | volunteer-build-reviewed |
+| M101985 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.ExistenceOfGaloisRepresentationsOfHyp` | volunteer-build-reviewed |
+| M101989 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.GelfandKazhdanReal` | volunteer-build-reviewed |
+| M101991 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.IntK` | volunteer-build-reviewed |
+| M101992 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.IsoOfFrob` | volunteer-build-reviewed |
+| M101993 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.JumpsAbove` | volunteer-build-reviewed |
+| M101995 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LevelK` | volunteer-build-reviewed |
 | M101997 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompC` | volunteer-build-reviewed |
 | M101998 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocCompR` | volunteer-build-reviewed |
 | M101999 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.LocFixed` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M102570 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FiniteLiftDualNumberOfPhiCond` | volunteer-build-reviewed |
 | M102571 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FrameCount` | volunteer-build-reviewed |
 | M102572 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedGrading` | build-observed |
-| M102573 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedOrigin` | volunteer-build-reviewed |
-| M102574 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTangent` | volunteer-build-reviewed |
-| M102575 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries` | wave-reused |
-| M102576 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedUniv` | build-observed |
-| M102577 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Gordan` | wave-reused |
-| M102578 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrGen` | wave-reused |
-| M102579 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrInternal` | wave-reused |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135709 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafSHNbSys` | volunteer-build-reviewed |
+| M135712 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHPtPf` | volunteer-build-reviewed |
+| M135714 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHSysPf` | volunteer-build-reviewed |
+| M135716 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafSecInjPf` | wave-reused |
+| M135719 | P0632 | `Development.EtaleCohomology.EtaleSheaves.LeafSmoothOfNormalPf` | volunteer-build-reviewed |
+| M135729 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafSpreadVCut` | volunteer-build-reviewed |
+| M135733 | P2444 | `Development.EtaleCohomology.EtaleSheaves.LeafStalkValuationPf` | volunteer-build-reviewed |
+| M135734 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSuppKillPfSec` | volunteer-build-reviewed |
+| M135735 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafSupport` | wave-reused |
 | M135736 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafTensFactorPf` | wave-reused |
 | M135737 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafTensMonoPf` | wave-reused |
 | M135738 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafTensQIsoGenPf` | wave-reused |
@@ -393,12 +402,3 @@
 | M136332 | P0534 | `Development.EtaleCohomology.TateTwists.KumPowCocPf` | wave-reused |
 | M136333 | P0534 | `Development.EtaleCohomology.TateTwists.KumUniqPf` | wave-reused |
 | M136334 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAcycPf` | wave-reused |
-| M136335 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAwPf` | wave-reused |
-| M136336 | P0499 | `Development.EtaleCohomology.TateTwists.LeafWaPf` | wave-reused |
-| M136337 | P0568 | `Development.EtaleCohomology.TateTwists.MapMapEq` | wave-reused |
-| M136338 | P0417 | `Development.EtaleCohomology.TateTwists.MayerVietorisExactSequence` | wave-reused |
-| M136339 | P0600 | `Development.EtaleCohomology.TateTwists.MuRootListProductOneSumEtaleLocallyZero` | wave-reused |
-| M136340 | P0568 | `Development.EtaleCohomology.TateTwists.MuTwistQuotientEmbedsInUnitTorsorPresheaf` | wave-reused |
-| M136341 | P0417 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSections` | wave-reused |
-| M136342 | P0458 | `Development.EtaleCohomology.TateTwists.OfRingsLocalSectionsHolds` | wave-reused |
-| M136343 | P0499 | `Development.EtaleCohomology.TateTwists.PpEvBasicPf` | volunteer-build-reviewed |

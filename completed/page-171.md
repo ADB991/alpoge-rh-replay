@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115405 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InPApplyEqZero` | wave-reused |
+| M115407 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InclR` | build-observed |
+| M115408 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceCharacters` | volunteer-build-reviewed |
+| M115409 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceEigenvectors` | volunteer-build-reviewed |
+| M115410 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfEmbUnique` | build-observed |
+| M115412 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneElements` | volunteer-build-reviewed |
+| M115413 | P2173 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneField` | volunteer-build-reviewed |
+| M115414 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteTraceAlgebraMap` | wave-reused |
 | M115415 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InnerProductFormulaField` | wave-reused |
 | M115416 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntMvPderiv` | build-observed |
 | M115417 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IntRing` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M115831 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamMap` | wave-reused |
 | M115832 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Embedding` | wave-reused |
 | M115833 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Envelope` | wave-reused |
-| M115834 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.EqZeroOfPMulEqZero` | wave-reused |
-| M115835 | P0264 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.ExistsFactorialMulEqPow` | wave-reused |
-| M115836 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Kernel` | wave-reused |
-| M115837 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.MapEqPadicPowCyclotomicCharacter` | wave-reused |
-| M115838 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.PadicField` | wave-reused |
-| M115839 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Period` | wave-reused |
-| M115840 | P0264 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Residue` | wave-reused |
-| M115841 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Section` | wave-reused |

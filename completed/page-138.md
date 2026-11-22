@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096933 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepth` | volunteer-build-reviewed |
+| M096934 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepthStatement` | volunteer-build-reviewed |
+| M096935 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirect` | volunteer-build-reviewed |
+| M096936 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirectStatement` | volunteer-build-reviewed |
+| M096937 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPt0InvMemStdLatIff` | volunteer-build-reviewed |
 | M096938 | P1519 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowReductionSurjectiveLatticeVectorsPlaces` | volunteer-build-reviewed |
 | M096940 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainSteps` | volunteer-build-reviewed |
 | M096941 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowSeparationByRealFunctionalsOfChainStepsStatement` | volunteer-build-reviewed |
@@ -166,6 +171,7 @@
 | M097142 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilLocalFactorEqStatement` | volunteer-build-reviewed |
 | M097143 | P2780 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilTripleNorm` | volunteer-build-reviewed |
 | M097144 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilTripleNormStatement` | volunteer-build-reviewed |
+| M097145 | P2788 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilUnramifiedFactor` | volunteer-build-reviewed |
 | M097146 | P2790 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilUnramifiedFactorStatement` | volunteer-build-reviewed |
 | M097147 | P2782 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilZetaArchimedean` | volunteer-build-reviewed |
 | M097148 | P2784 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SeesawWeilZetaArchimedeanStatement` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M097474 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumQuotientIntegerMatricesInvariantIntegralGLMulStatement` | volunteer-build-reviewed |
 | M097475 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumReImAddSmul` | volunteer-build-reviewed |
 | M097476 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimir` | build-observed |
-| M097477 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimirStatement` | build-observed |
-| M097478 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumSymmetricTranslatesThetaPullbackExtends` | volunteer-build-reviewed |
-| M097480 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumWithLatKerEqMulSumWithKerLat` | volunteer-build-reviewed |
-| M097481 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNonnegFamilyOfDifferentiableOn` | volunteer-build-reviewed |
-| M097482 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOut` | volunteer-build-reviewed |
-| M097483 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SummableNormCosetOutStatement` | volunteer-build-reviewed |

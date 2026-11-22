@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062360 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInv` | wave-reused |
+| M062361 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInvStatement` | wave-reused |
+| M062362 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangular` | volunteer-build-reviewed |
+| M062363 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangularStatement` | volunteer-build-reviewed |
 | M062364 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesSubringCoeffMulInvMem` | wave-reused |
 | M062365 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesSubringCoeffMulInvMemStatement` | wave-reused |
 | M062366 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HalfPeriodThetaDifferentiableAndSignedTranslateI` | build-observed |
@@ -254,6 +258,7 @@
 | M062734 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsLeftGamma0CosetDecompositionHeckeRepTOperator` | wave-reused |
 | M062735 | P0620 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsLeftGamma0CosetDecompositionHeckeRepTOperatorStatement` | wave-reused |
 | M062743 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsLocalValueOfQuotientAddOfCommonDenominator` | wave-reused |
+| M062755 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsLogDerivQExpansionUpperTriangularAction` | volunteer-build-reviewed |
 | M062757 | P0925 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsModularFormCoeffSeqEisensteinProductParity` | wave-reused |
 | M062758 | P0953 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsModularFormCoeffSeqEisensteinProductParityStatement` | wave-reused |
 | M062759 | P0763 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsModularFormCoeffSeqHeckeTOfPrimeNotDvd` | wave-reused |
@@ -397,8 +402,3 @@
 | M062956 | P1008 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansion` | wave-reused |
 | M062957 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansionStatement` | wave-reused |
 | M062958 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBound` | volunteer-build-reviewed |
-| M062959 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBoundStatement` | volunteer-build-reviewed |
-| M062962 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LimitOfApproximateCocyclesStatement` | volunteer-build-reviewed |
-| M062966 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMul` | volunteer-build-reviewed |
-| M062967 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMulStatement` | volunteer-build-reviewed |
-| M062968 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFinite` | wave-reused |

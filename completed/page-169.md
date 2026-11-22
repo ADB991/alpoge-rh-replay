@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114529 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.OpEqOf` | wave-reused |
+| M114530 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PArtSum` | wave-reused |
+| M114531 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PChart` | wave-reused |
+| M114532 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrBCQ` | wave-reused |
+| M114533 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrCompQ` | wave-reused |
+| M114534 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrEq` | wave-reused |
+| M114535 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrEqQ` | wave-reused |
+| M114536 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCorrGraphQ` | wave-reused |
 | M114537 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCountEx` | wave-reused |
 | M114538 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCountWt` | wave-reused |
 | M114539 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PCoverOne` | wave-reused |
@@ -394,11 +402,3 @@
 | M114970 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalConjugation` | volunteer-build-reviewed |
 | M114971 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalTranspose` | volunteer-build-reviewed |
 | M114972 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ArithmeticCylinders` | volunteer-build-reviewed |
-| M114973 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Artin` | volunteer-build-reviewed |
-| M114975 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AuxiliaryNormPrimes` | build-observed |
-| M114976 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallRing` | wave-reused |
-| M114977 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallSubgroup` | volunteer-build-reviewed |
-| M114978 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BiHomSum` | build-observed |
-| M114979 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlkB` | volunteer-build-reviewed |
-| M114980 | P0627 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlochKatoDuality` | wave-reused |
-| M114981 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockConjugation` | volunteer-build-reviewed |

@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M014113 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TripleStOfLaws` | build-observed |
+| M014116 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTerms` | build-observed |
 | M014120 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTxEvEqMapArc` | volunteer-build-reviewed |
 | M014129 | P1445 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedLabelsMatchOfLevelGeFourStatement` | volunteer-build-reviewed |
 | M014130 | P1059 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistedPowerSectionBasisBaseChange` | build-observed |
@@ -400,5 +402,3 @@
 | M015002 | P2094 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensors` | volunteer-build-reviewed |
 | M015003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensorsStatement` | volunteer-build-reviewed |
 | M015005 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMem` | volunteer-build-reviewed |
-| M015006 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMemStatement` | volunteer-build-reviewed |
-| M015008 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSupportCompactInvariance` | volunteer-build-reviewed |

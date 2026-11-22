@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M020405 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesDoubledSpaceStatement` | volunteer-build-reviewed |
+| M020406 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModel` | volunteer-build-reviewed |
 | M020407 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesGoodModelStatement` | volunteer-build-reviewed |
 | M020408 | P1764 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordinatesInsertZero` | volunteer-build-reviewed |
 | M020409 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DarbouxCoordsGoodModel` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M021119 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNeZeroOfSig` | volunteer-build-reviewed |
 | M021120 | P1668 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNeZeroOfSkewHermitianSelfDualLatticeSpace` | volunteer-build-reviewed |
 | M021122 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBounds` | volunteer-build-reviewed |
-| M021123 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBoundsStatement` | volunteer-build-reviewed |
-| M021124 | P1859 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDet` | build-observed |

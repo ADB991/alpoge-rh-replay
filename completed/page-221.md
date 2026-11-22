@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147781 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.FinTwoNeOneSub` | build-observed |
+| M147782 | P1266 | `Formalism.LocalToGlobal.CharacterGerms.FirstPartialLawAtPoints` | wave-reused |
+| M147783 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.FirstStepSecondHalfCondition` | build-observed |
+| M147784 | P0911 | `Formalism.LocalToGlobal.CharacterGerms.FirstVanishingAt` | build-observed |
+| M147785 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.FirstVanishingCore` | build-observed |
+| M147786 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.FrobPowSmul` | build-observed |
+| M147787 | P0666 | `Formalism.LocalToGlobal.CharacterGerms.FrobSerSt` | build-observed |
+| M147788 | P1136 | `Formalism.LocalToGlobal.CharacterGerms.FunEqCoreHolds` | build-observed |
+| M147789 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.GeNatCast` | wave-reused |
 | M147790 | P0748 | `Formalism.LocalToGlobal.CharacterGerms.GeOfPowEqOne` | wave-reused |
 | M147791 | P0885 | `Formalism.LocalToGlobal.CharacterGerms.GeneralGermZero` | wave-reused |
 | M147792 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.GermEvalOneStandardPointSelf` | build-observed |
@@ -393,12 +402,3 @@
 | M148223 | P1440 | `Formalism.LocalToGlobal.Columns.RefXi1Above` | build-observed |
 | M148224 | P1187 | `Formalism.LocalToGlobal.Columns.ReferenceActionRationalLevels` | build-observed |
 | M148225 | P1498 | `Formalism.LocalToGlobal.Columns.ReferenceKernelEquivOfLastComponent` | build-observed |
-| M148226 | P1468 | `Formalism.LocalToGlobal.Columns.ResidueFieldUnfoldingClaimsHold` | build-observed |
-| M148227 | P0635 | `Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq` | build-observed |
-| M148228 | P0830 | `Formalism.LocalToGlobal.Columns.RowForms` | build-observed |
-| M148229 | P0967 | `Formalism.LocalToGlobal.Columns.RowFormsAdelic` | build-observed |
-| M148230 | P1077 | `Formalism.LocalToGlobal.Columns.RowFormsGood` | build-observed |
-| M148231 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsLemmas` | build-observed |
-| M148235 | P0070 | `Formalism.LocalToGlobal.Columns.RowFormsNZp` | volunteer-build-reviewed |
-| M148239 | P1136 | `Formalism.LocalToGlobal.Columns.RowFormsRat` | build-observed |
-| M148240 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSel` | build-observed |

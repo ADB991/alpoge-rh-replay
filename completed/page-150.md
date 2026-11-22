@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M104411 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetHerm` | volunteer-build-reviewed |
+| M104412 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CoefFieldEq` | volunteer-build-reviewed |
+| M104413 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRham` | volunteer-build-reviewed |
+| M104414 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRhamInj` | volunteer-build-reviewed |
+| M104415 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AbsMain` | volunteer-build-reviewed |
+| M104416 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.Acyclic` | volunteer-build-reviewed |
+| M104417 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltAddRadial` | volunteer-build-reviewed |
 | M104418 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltSmooth` | volunteer-build-reviewed |
 | M104419 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.AltSym` | volunteer-build-reviewed |
 | M104420 | P0199 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DifferentialTranslates.ApplySmooth` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M104997 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsPlain` | volunteer-build-reviewed |
 | M104998 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.RankFourAutomorphyOfTensor` | volunteer-build-reviewed |
 | M104999 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SeedII` | volunteer-build-reviewed |
-| M105000 | P2755 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SphOfUnrW` | volunteer-build-reviewed |
-| M105001 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SphPlain` | volunteer-build-reviewed |
-| M105002 | P2703 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.ThruBad` | volunteer-build-reviewed |
-| M105003 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.ThruBadAlt` | volunteer-build-reviewed |
-| M105004 | P2729 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.ValAbsPowNegOne` | volunteer-build-reviewed |
-| M105005 | P2712 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.ValIffMem` | volunteer-build-reviewed |
-| M105006 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.QuadraticCharpolySplitting.QuadFamSplit` | volunteer-build-reviewed |

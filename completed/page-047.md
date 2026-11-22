@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M031022 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRel` | volunteer-build-reviewed |
+| M031024 | P1740 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelG` | volunteer-build-reviewed |
 | M031025 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRelOfEv` | volunteer-build-reviewed |
 | M031026 | P1276 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinRepApply` | build-observed |
 | M031027 | P0920 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinSumSmoothSectionDbarEnergyLe` | wave-reused |
@@ -400,5 +402,3 @@
 | M031669 | P1941 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankMulEq` | volunteer-build-reviewed |
 | M031674 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotKernelIdealEqBeyondExponentStatement` | volunteer-build-reviewed |
 | M031675 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMul` | volunteer-build-reviewed |
-| M031676 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMulStatement` | volunteer-build-reviewed |
-| M031677 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrder` | volunteer-build-reviewed |

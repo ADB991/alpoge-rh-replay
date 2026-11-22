@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082385 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTransStatement` | volunteer-build-reviewed |
+| M082386 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarCharacterEqProdAdditiveCharactersRoot` | volunteer-build-reviewed |
+| M082391 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthCommonDenominatorRankLeStatement` | volunteer-build-reviewed |
+| M082393 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthLeOnCentreCellStatement` | volunteer-build-reviewed |
+| M082397 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthSetBddAboveOfUniqueCentreStatement` | build-observed |
 | M082398 | P2355 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthToFunNonneg` | volunteer-build-reviewed |
 | M082401 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarLabEvalZOfEqOne` | build-observed |
 | M082405 | P2411 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarSubdivisionBarycentreCellNextStageStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M083464 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaise` | wave-reused |
 | M083465 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaiseStatement` | wave-reused |
 | M083468 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjoint` | wave-reused |
-| M083469 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjointStatement` | wave-reused |
-| M083470 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetProperties` | wave-reused |
-| M083471 | P0819 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetPropertiesStatement` | wave-reused |
-| M083476 | P0901 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonNCongr` | build-observed |
-| M083477 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ConstantCoeffDmonOfCongrJet` | volunteer-build-reviewed |

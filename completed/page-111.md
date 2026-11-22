@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M076244 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmTypeEmbeddingAtSideDistinctNonconjugate` | volunteer-build-reviewed |
+| M076253 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CodimOneGenerizationStalk` | volunteer-build-reviewed |
+| M076255 | P0034 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeFnFinsetSumSmul` | volunteer-build-reviewed |
+| M076258 | P2022 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoefMapNormEquivariantBasisOfPre` | volunteer-build-reviewed |
+| M076259 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffCharpolyRevMemTracePowerProductRealSpan` | volunteer-build-reviewed |
 | M076261 | P1484 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodup` | volunteer-build-reviewed |
 | M076262 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffComposedPartialDerivListOfNodupStatement` | volunteer-build-reviewed |
 | M076263 | P0556 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CoeffEqMkRootT` | wave-reused |
@@ -397,8 +402,3 @@
 | M077052 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLift` | volunteer-build-reviewed |
 | M077053 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLiftStatement` | volunteer-build-reviewed |
 | M077054 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdlCutProj` | volunteer-build-reviewed |
-| M077055 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdmissibleLocalComponentDefiniteUnitary` | volunteer-build-reviewed |
-| M077057 | P0447 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAevalEqSmulOnEigenspace` | build-observed |
-| M077058 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineCoverSquarePolarisationSections` | volunteer-build-reviewed |
-| M077060 | P2331 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDR` | volunteer-build-reviewed |
-| M077061 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineDomainFrameHasDRStatement` | volunteer-build-reviewed |

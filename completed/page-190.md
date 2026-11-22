@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
+| M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
+| M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
+| M126013 | P2573 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInert` | volunteer-build-reviewed |
+| M126014 | P2591 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityInertStatement` | volunteer-build-reviewed |
+| M126015 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormula` | volunteer-build-reviewed |
+| M126016 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityLevelFormulaStatement` | volunteer-build-reviewed |
+| M126017 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormula` | volunteer-build-reviewed |
+| M126018 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityPowerFormulaStatement` | volunteer-build-reviewed |
 | M126019 | P0320 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProd` | volunteer-build-reviewed |
 | M126020 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityReductionDiagonalProdStatement` | volunteer-build-reviewed |
 | M126022 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiprojectiveChartHolomorphicCoordinatesStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M126627 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseComplex` | volunteer-build-reviewed |
 | M126628 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditive` | volunteer-build-reviewed |
 | M126629 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditiveStatement` | volunteer-build-reviewed |
-| M126631 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorExtendsHyperbolicStatement` | volunteer-build-reviewed |
-| M126632 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorsContentDecomposition` | volunteer-build-reviewed |
-| M126633 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorsContentDecompositionStatement` | volunteer-build-reviewed |
-| M126636 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdClose` | volunteer-build-reviewed |
-| M126637 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdCloseStatement` | volunteer-build-reviewed |
-| M126638 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdEntrywiseLe` | volunteer-build-reviewed |
-| M126640 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdIrrEquivOfOrdered` | volunteer-build-reviewed |
-| M126641 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeRevEqProdGe` | volunteer-build-reviewed |
-| M126642 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ProdLeRevEqProdGeStatement` | volunteer-build-reviewed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137551 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LowerRankDatum` | volunteer-build-reviewed |
+| M137553 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.CountGood` | volunteer-build-reviewed |
+| M137556 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.SolCountOneOne` | volunteer-build-reviewed |
+| M137563 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.ParabolicBlockForms.NilpotentFramePartApplyZero` | volunteer-build-reviewed |
+| M137565 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.ParabolicBlockForms.UpperBlockRankOneUpdate` | volunteer-build-reviewed |
+| M137567 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IntegrablePolyGauss` | volunteer-build-reviewed |
+| M137568 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IntegrableRexpLin` | volunteer-build-reviewed |
+| M137570 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivPolyRealZero` | volunteer-build-reviewed |
+| M137571 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivScale` | volunteer-build-reviewed |
 | M137572 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.PolyGaussOfLines` | volunteer-build-reviewed |
 | M137582 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RationalWeilElements.TtSmul` | volunteer-build-reviewed |
 | M137583 | P2175 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.RealAdelicFockSpace.ExpAlg` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M138576 | P0209 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CPluri` | volunteer-build-reviewed |
 | M138579 | P1186 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpBuild` | build-observed |
 | M138580 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpHodgeTied` | volunteer-build-reviewed |
-| M138581 | P0372 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ContinuousAtOfClosedRel` | build-observed |
-| M138582 | P0144 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CrtGood` | volunteer-build-reviewed |
-| M138583 | P0664 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.DenseNonvan` | build-observed |
-| M138584 | P0065 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ExtendsToFractionField` | volunteer-build-reviewed |
-| M138585 | P0500 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.FderivAffCoordZero` | build-observed |
-| M138588 | P1439 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.FormHeightGen` | build-observed |
-| M138590 | P0065 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GermVanishesOfGenericVanishing` | volunteer-build-reviewed |
-| M138591 | P1265 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.GramMatrixTwistedLieModels` | build-observed |
-| M138594 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.HeightBoundOfHyp` | volunteer-build-reviewed |

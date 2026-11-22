@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102573 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedOrigin` | volunteer-build-reviewed |
+| M102574 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTangent` | volunteer-build-reviewed |
+| M102575 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries` | wave-reused |
+| M102576 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedUniv` | build-observed |
+| M102577 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Gordan` | wave-reused |
+| M102578 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrGen` | wave-reused |
+| M102579 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrInternal` | wave-reused |
 | M102580 | P0364 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GrNoeth` | wave-reused |
 | M102581 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.Graded` | wave-reused |
 | M102613 | P0592 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.GradedModulesLength.MainCotSpan` | worker-kernel-checked |
@@ -395,10 +402,3 @@
 | M103272 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TameInertiaCondition` | wave-reused |
 | M103273 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TanFinite` | wave-reused |
 | M103275 | P0625 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ThickOfDer` | wave-reused |
-| M103278 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TrdegQuotLeOne` | wave-reused |
-| M103279 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TriangularRepresentationDiagonal` | wave-reused |
-| M103281 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Ufacts` | volunteer-build-reviewed |
-| M103282 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ValSubOneMap` | wave-reused |
-| M103283 | P0450 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZeroOfNeg` | wave-reused |
-| M103284 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZpowWNe` | wave-reused |
-| M103291 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GLinkQuot` | volunteer-build-reviewed |

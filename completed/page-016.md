@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M010003 | P0476 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KleinFormTorsionUnit` | volunteer-build-reviewed |
+| M010004 | P1420 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapEq` | volunteer-build-reviewed |
 | M010005 | P1994 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.KmapMemValCTrue` | volunteer-build-reviewed |
 | M010006 | P2033 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexField` | volunteer-build-reviewed |
 | M010007 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.LabelAtRealPlaceEqEmbeddingOverReflexFieldStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M010519 | P2066 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittSourceProofStatement` | volunteer-build-reviewed |
 | M010520 | P2080 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTarget` | volunteer-build-reviewed |
 | M010521 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelFormulasWittTargetStatement` | volunteer-build-reviewed |
-| M010522 | P1762 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBox` | volunteer-build-reviewed |
-| M010523 | P1788 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.MixedModelSourceSupportFiniteComponentInBoxStatement` | volunteer-build-reviewed |

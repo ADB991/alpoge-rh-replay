@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054807 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricAction` | volunteer-build-reviewed |
+| M054808 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricActionStatement` | volunteer-build-reviewed |
+| M054809 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationSectionsExtendingPointsMultiply` | volunteer-build-reviewed |
+| M054813 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAdd` | volunteer-build-reviewed |
 | M054814 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationTranslateLiftTorusImageEqAddStatement` | volunteer-build-reviewed |
 | M054816 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationsTranslationPeriodMapsCorrespondStatement` | volunteer-build-reviewed |
 | M054819 | P2601 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisedComplexFibreMarkedLatticeClass` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M055507 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPoint` | volunteer-build-reviewed |
 | M055508 | P2761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPointStatement` | volunteer-build-reviewed |
 | M055509 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensio` | volunteer-build-reviewed |
-| M055510 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensioStatement` | volunteer-build-reviewed |
-| M055511 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyClose` | volunteer-build-reviewed |
-| M055512 | P0116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyCloseStatement` | volunteer-build-reviewed |
-| M055513 | P1223 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfIsClosedRange` | build-observed |

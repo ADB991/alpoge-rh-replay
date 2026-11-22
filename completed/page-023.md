@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015006 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMemStatement` | volunteer-build-reviewed |
+| M015008 | P2067 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSupportCompactInvariance` | volunteer-build-reviewed |
 | M015009 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSupportCompactInvarianceStatement` | volunteer-build-reviewed |
 | M015011 | P2199 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicStoneVonNeumannLagrangianUniquenessStatement` | volunteer-build-reviewed |
 | M015012 | P1275 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSymplecticFormRealOneParamLineEqZero` | build-observed |
@@ -400,5 +402,3 @@
 | M015824 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithKleimanSelfIntersectionNonnegStatement` | volunteer-build-reviewed |
 | M015825 | P2800 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithLogSmallSectionsUpperBound` | volunteer-build-reviewed |
 | M015827 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeights` | volunteer-build-reviewed |
-| M015828 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeightsStatement` | volunteer-build-reviewed |
-| M015829 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBound` | volunteer-build-reviewed |

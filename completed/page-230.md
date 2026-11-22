@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153332 | P0275 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ExistsNeZeroNormLeRankDivOfDualMinimum` | build-observed |
+| M153333 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.GaussianCoefficientFactorialBound` | build-observed |
+| M153334 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.IntegralExpInt` | build-observed |
+| M153335 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.LtSuccOfMemWeightCompositions` | build-observed |
+| M153336 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NatDegreeAevalLe` | build-observed |
+| M153337 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NormMul` | build-observed |
+| M153338 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.NormUnitary` | build-observed |
+| M153339 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearCoefficients` | build-observed |
+| M153340 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisOneHolds` | build-observed |
 | M153341 | P0151 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShearHypothesisTwo` | build-observed |
 | M153342 | P0328 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ShortIndependentVectorsOfDualMinimum` | build-observed |
 | M153343 | P0376 | `Formalism.NormUnitaryBounds.NormUnitary` | build-observed |
@@ -393,12 +402,3 @@
 | M153759 | P0803 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GZeroLogBound` | build-observed |
 | M153760 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GelfConv` | volunteer-build-reviewed |
 | M153762 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GenFrameSB` | build-observed |
-| M153763 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GeoProdPow` | volunteer-build-reviewed |
-| M153764 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramIso` | build-observed |
-| M153765 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramUnit` | build-observed |
-| M153767 | P1189 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseJidPow` | build-observed |
-| M153768 | P1214 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseOrdBd` | build-observed |
-| M153769 | P1165 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HassePresH` | build-observed |
-| M153771 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.Hensel` | build-observed |
-| M153772 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermDefON` | build-observed |
-| M153773 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermLatFin` | build-observed |

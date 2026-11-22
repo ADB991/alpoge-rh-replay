@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070374 | P1482 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockMinorProductEqSignDualWeylExtremalVector` | volunteer-build-reviewed |
+| M070376 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockOfApply` | volunteer-build-reviewed |
+| M070379 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockPolynomialSubstitutionCommuteTargetGlAction` | volunteer-build-reviewed |
+| M070382 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockReadingTranslatedFormMemComplexFormsStatement` | volunteer-build-reviewed |
+| M070383 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScaling` | volunteer-build-reviewed |
 | M070384 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionHomogeneousCoeffMemAfterScalingStatement` | volunteer-build-reviewed |
 | M070385 | P1945 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomia` | volunteer-build-reviewed |
 | M070386 | P1964 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockSubstitutionPreservesHarmonicLetterPolynomiaStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M071010 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermBasisOrthonormal` | volunteer-build-reviewed |
 | M071011 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatch` | volunteer-build-reviewed |
 | M071012 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatchStatement` | volunteer-build-reviewed |
-| M071013 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasis` | volunteer-build-reviewed |
-| M071014 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasisStatement` | volunteer-build-reviewed |
-| M071016 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockInvariantsIffIsometryStatement` | volunteer-build-reviewed |
-| M071017 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIff` | volunteer-build-reviewed |
-| M071018 | P0523 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianDualInvAlgBaseChangeUnramifiedIffStatement` | build-observed |

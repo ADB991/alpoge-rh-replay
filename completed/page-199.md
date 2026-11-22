@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132301 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TraceIntegralSubringExtensionStatement` | volunteer-build-reviewed |
+| M132304 | P0772 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslDiffEq` | build-observed |
+| M132305 | P0321 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslateIntoSmallerOpen` | volunteer-build-reviewed |
+| M132306 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslateIntoSmallerOpenStatement` | volunteer-build-reviewed |
+| M132308 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TriangularSpanCoeffRatioStatement` | volunteer-build-reviewed |
+| M132310 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagModOfDvdStatement` | volunteer-build-reviewed |
+| M132311 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFargues` | volunteer-build-reviewed |
+| M132312 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFarguesStatement` | volunteer-build-reviewed |
+| M132315 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeff` | volunteer-build-reviewed |
 | M132316 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeffStatement` | volunteer-build-reviewed |
 | M132317 | P1236 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHolds` | volunteer-build-reviewed |
 | M132318 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TwistAutHoldsStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M133062 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AffineChartIdealPrimeAndSaturatedStatement` | build-observed |
 | M133063 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositive` | volunteer-build-reviewed |
 | M133064 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositiveStatement` | build-observed |
-| M133070 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlgebraicSquareIntersectionPullbackStatement` | volunteer-build-reviewed |
-| M133073 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescent` | volunteer-build-reviewed |
-| M133074 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescentStatement` | volunteer-build-reviewed |
-| M133075 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormLatticeCompatible` | volunteer-build-reviewed |
-| M133076 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormLatticeCompatibleStatement` | volunteer-build-reviewed |
-| M133079 | P0717 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtHolomorphicComposition` | build-observed |
-| M133080 | P0321 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEq` | build-observed |
-| M133081 | P0371 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticAtMobiusDetJacobianEqStatement` | build-observed |
-| M133082 | P0063 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AnalyticDoublingMapLocalInverse` | volunteer-build-reviewed |

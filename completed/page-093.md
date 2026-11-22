@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063538 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientCharTrivialInertiaCyclotomicTower` | volunteer-build-reviewed |
+| M063540 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphic` | wave-reused |
+| M063541 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphicStatement` | wave-reused |
+| M063542 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbedding` | wave-reused |
+| M063543 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbeddingStatement` | wave-reused |
 | M063545 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibility` | wave-reused |
 | M063546 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RamifiedDivisibilityOfUnramifiedDivisibilityStatement` | wave-reused |
 | M063547 | P0027 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring` | wave-reused |
@@ -397,8 +402,3 @@
 | M064185 | P1150 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOneStatement` | build-observed |
 | M064186 | P1452 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactor` | build-observed |
 | M064187 | P1481 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactorStatement` | build-observed |
-| M064188 | P1403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValHalfInf` | volunteer-build-reviewed |
-| M064189 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationAddPowSubLe` | volunteer-build-reviewed |
-| M064190 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationAddPowSubLeStatement` | volunteer-build-reviewed |
-| M064192 | P0306 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfMemInvMem` | build-observed |
-| M064193 | P0119 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ValuationEqOneOfPowEqSpan` | volunteer-build-reviewed |

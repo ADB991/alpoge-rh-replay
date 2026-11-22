@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161684 | P0379 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartA` | wave-reused |
+| M161685 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartB` | wave-reused |
+| M161687 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.WModel` | build-observed |
+| M161688 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.HeckeOneLift` | build-observed |
+| M161689 | P0332 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.IsLawOfLog` | wave-reused |
+| M161690 | P0833 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KOneConsequence` | build-observed |
+| M161691 | P0888 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.KernelFromKOne` | build-observed |
+| M161693 | P0223 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.OddLogRelation` | wave-reused |
+| M161694 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.PlacesAddClass` | build-observed |
 | M161695 | P0425 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementAB` | wave-reused |
 | M161696 | P0158 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementC` | build-observed |
 | M161697 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.StatementE` | wave-reused |
@@ -393,12 +402,3 @@
 | M162091 | P0224 | `Formalism.WachLatticeTwists.WachProductBases.Statement` | wave-reused |
 | M162092 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.StatementTop` | wave-reused |
 | M162093 | P0465 | `Formalism.WachLatticeTwists.WachProductBases.WachConsequencesFurther` | wave-reused |
-| M162094 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.AffineLineLocalAcyclicityOfStrictHenselianPoints` | wave-reused |
-| M162095 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceFourLocal` | wave-reused |
-| M162096 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceTwoTop` | wave-reused |
-| M162097 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.FreeMembershipHeightOne` | wave-reused |
-| M162098 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.InvariantBasisAverage` | wave-reused |
-| M162099 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.LemmaThreeTameExponent` | wave-reused |
-| M162100 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.SaturationIntersectionHolds` | wave-reused |
-| M162101 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ToWachModuleHolds` | wave-reused |
-| M162102 | P0380 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.WachTopStatementHolds` | wave-reused |

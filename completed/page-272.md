@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174901 | P0704 | `ReciprocityTheory.ReductiveGroups.LocalHeights.Imports` | build-observed |
+| M174902 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.Imports` | wave-reused |
+| M174903 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.SolveV` | wave-reused |
+| M174904 | P0093 | `ReciprocityTheory.ReductiveGroups.PlaceCounting.RaySplA` | build-observed |
+| M174905 | P0093 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.AltBranchStatement` | volunteer-build-reviewed |
+| M174906 | P0171 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.AntitoneOfMemInterl` | volunteer-build-reviewed |
+| M174907 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.BlockCombStatement` | volunteer-build-reviewed |
+| M174909 | P0236 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.Branch` | volunteer-build-reviewed |
+| M174916 | P0171 | `ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SqCharA` | volunteer-build-reviewed |
 | M174920 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.GlobAlgGoodO` | build-observed |
 | M174921 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.ImportsAlt` | wave-reused |
 | M174922 | P0704 | `ReciprocityTheory.ReductiveGroups.TraceFormulas.LatClose` | wave-reused |

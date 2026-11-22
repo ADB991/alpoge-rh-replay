@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114973 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Artin` | volunteer-build-reviewed |
+| M114975 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AuxiliaryNormPrimes` | build-observed |
+| M114976 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallRing` | wave-reused |
+| M114977 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallSubgroup` | volunteer-build-reviewed |
+| M114978 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BiHomSum` | build-observed |
+| M114979 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlkB` | volunteer-build-reviewed |
+| M114980 | P0627 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlochKatoDuality` | wave-reused |
+| M114981 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockConjugation` | volunteer-build-reviewed |
 | M114982 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockDiagonalLeviEmbedding` | volunteer-build-reviewed |
 | M114983 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockFourMatrices` | volunteer-build-reviewed |
 | M114984 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BlockHomomorphism` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M115402 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerSide` | volunteer-build-reviewed |
 | M115403 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTail` | volunteer-build-reviewed |
 | M115404 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTer` | build-observed |
-| M115405 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InPApplyEqZero` | wave-reused |
-| M115407 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InclR` | build-observed |
-| M115408 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceCharacters` | volunteer-build-reviewed |
-| M115409 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceEigenvectors` | volunteer-build-reviewed |
-| M115410 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfEmbUnique` | build-observed |
-| M115412 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneElements` | volunteer-build-reviewed |
-| M115413 | P2173 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteNormOneField` | volunteer-build-reviewed |
-| M115414 | P0053 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InfiniteTraceAlgebraMap` | wave-reused |

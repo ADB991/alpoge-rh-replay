@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160499 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExistsInfFilVEqBot` | volunteer-build-reviewed |
+| M160503 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExtPfMultVEqZero` | build-observed |
+| M160504 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FinrankMapMkQ` | volunteer-build-reviewed |
+| M160505 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrMultVOfNotJump` | volunteer-build-reviewed |
+| M160506 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FrameAbs` | volunteer-build-reviewed |
+| M160507 | P1270 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePf` | build-observed |
+| M160508 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAB` | build-observed |
+| M160509 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAlpha` | build-observed |
+| M160510 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfAsm` | build-observed |
 | M160511 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBA` | build-observed |
 | M160512 | P1167 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfBeta` | build-observed |
 | M160513 | P1215 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FramePfDat` | build-observed |
@@ -393,12 +402,3 @@
 | M161278 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PrimeCongruenceConditions` | build-observed |
 | M161279 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ProjectiveLines` | build-observed |
 | M161280 | P0464 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.RiemannHypothesisOfPowerBound` | build-observed |
-| M161281 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SecondPriceSumWeightsUncovered` | build-observed |
-| M161282 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SlopeInequalityOfLattices` | build-observed |
-| M161283 | P0606 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible` | build-observed |
-| M161284 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SubThreeMulLogTwoLe` | build-observed |
-| M161285 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.TraceConjTransposeMulSelf` | build-observed |
-| M161286 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.TruncatedLatticeHolds` | build-observed |
-| M161287 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedMeanLemmaNeedsDegree` | build-observed |
-| M161288 | P0158 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.WeightedSlopeExcessDecomposition` | build-observed |
-| M161289 | P0079 | `Formalism.SizeWindowBrackets.ClaimGaFree` | build-observed |

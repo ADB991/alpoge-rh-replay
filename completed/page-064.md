@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M043444 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticCoverWeilRepresentation` | build-observed |
+| M043445 | P0734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticCoverWeilRepresentationStatement` | build-observed |
+| M043446 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalised` | build-observed |
+| M043447 | P0681 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalisedStatement` | build-observed |
 | M043448 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDual` | volunteer-build-reviewed |
 | M043449 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticQuadraticOperatorEqSumSymplecticDualStatement` | volunteer-build-reviewed |
 | M043450 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticRepresentationHolds` | build-observed |
@@ -398,7 +402,3 @@
 | M044173 | P2562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NeatLevelActionUnipotentStatement` | volunteer-build-reviewed |
 | M044180 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefDominantWeightPositivityStatement` | volunteer-build-reviewed |
 | M044187 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequality` | volunteer-build-reviewed |
-| M044188 | P2798 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequalityStatement` | volunteer-build-reviewed |
-| M044189 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedBundleRestrictionToCurves` | volunteer-build-reviewed |
-| M044192 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedModelDominantWeightStatement` | volunteer-build-reviewed |
-| M044195 | P1509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefIsPsEffAndBigTensNef` | wave-reused |

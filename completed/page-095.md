@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M064982 | P0252 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HaarDisintegrationAveragedFibreMeasures` | build-observed |
+| M064983 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HaarDisintegrationAveragedFibreMeasuresStatement` | build-observed |
+| M064986 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HalfPeriodDiffThetaFourthOfSigmaStarAddition` | volunteer-build-reviewed |
+| M064990 | P2407 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombined` | volunteer-build-reviewed |
+| M064991 | P2436 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HarishChandraInputsCombinedStatement` | volunteer-build-reviewed |
 | M064992 | P1843 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasComplementOfBasis` | volunteer-build-reviewed |
 | M064993 | P0306 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HasDerivAtOddJacobiThetaZeroEtaCube` | wave-reused |
 | M064998 | P1175 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.HeckeCharProductFormulaNormOne` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M065796 | P1225 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowLower` | build-observed |
 | M065797 | P2158 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowShareRequirementClosedFormProof` | volunteer-build-reviewed |
 | M065798 | P2169 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowShareRequirementClosedFormProofStatement` | volunteer-build-reviewed |
-| M065802 | P2202 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozen` | volunteer-build-reviewed |
-| M065803 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozenStatement` | volunteer-build-reviewed |
-| M065804 | P1037 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WtBoundsOfNonneg` | build-observed |
-| M065805 | P1356 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiEntryInvariant` | volunteer-build-reviewed |
-| M065806 | P1093 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.XiIndEqInter` | build-observed |

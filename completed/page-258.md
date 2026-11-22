@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166998 | P0469 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentsMeetNull` | build-observed |
+| M166999 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConjIntNum` | volunteer-build-reviewed |
+| M167000 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConstantShift` | wave-reused |
+| M167001 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsConstantsDescend` | volunteer-build-reviewed |
+| M167003 | P0642 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCoordArithOfFnField` | wave-reused |
+| M167004 | P0576 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsCurvePointsFinite` | build-observed |
+| M167007 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegLTGrowth` | wave-reused |
+| M167008 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDegreePositive` | wave-reused |
+| M167009 | P0700 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomCharpolyForms` | build-observed |
 | M167010 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDehomNormPIntegral` | build-observed |
 | M167012 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsDoubleComplexVanish` | volunteer-build-reviewed |
 | M167013 | P0609 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsEmbeddingPieces` | build-observed |
@@ -393,12 +402,3 @@
 | M167665 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsPullbackFaithful` | wave-reused |
 | M167666 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsRatDenominators` | volunteer-build-reviewed |
 | M167668 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHom` | wave-reused |
-| M167669 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomInjLoc` | volunteer-build-reviewed |
-| M167670 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomLoc` | volunteer-build-reviewed |
-| M167671 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomNbhd` | wave-reused |
-| M167672 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomSections` | wave-reused |
-| M167673 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomSectionsLoc` | volunteer-build-reviewed |
-| M167674 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadIsoLoc` | volunteer-build-reviewed |
-| M167675 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadLocal` | wave-reused |
-| M167676 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadNbhd` | wave-reused |
-| M167677 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadStep` | wave-reused |

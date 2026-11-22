@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M049001 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBound` | volunteer-build-reviewed |
+| M049002 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBoundStatement` | volunteer-build-reviewed |
+| M049003 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximation` | volunteer-build-reviewed |
+| M049004 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximationStatement` | volunteer-build-reviewed |
 | M049005 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStable` | volunteer-build-reviewed |
 | M049006 | P2124 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteDecompositionStableStatement` | volunteer-build-reviewed |
 | M049007 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFockVacuumLineUniqueOfHeisenbergDerivati` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M049719 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SerreVanishingLineBundleInvMixFixedDifferenceStatement` | volunteer-build-reviewed |
 | M049721 | P1717 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SesquilinearDetOrdSignOnKernelConjGLStatement` | volunteer-build-reviewed |
 | M049722 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAt` | volunteer-build-reviewed |
-| M049723 | P2238 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetAtOfSizeAtStatement` | volunteer-build-reviewed |
-| M049725 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralCompAut` | volunteer-build-reviewed |
-| M049726 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEq` | volunteer-build-reviewed |
-| M049727 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SetIntegralConjugateScaledUnitaryGroupEqStatement` | volunteer-build-reviewed |

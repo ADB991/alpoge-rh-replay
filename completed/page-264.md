@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170916 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.ComplexMatrix3` | build-observed |
+| M170925 | P1786 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.AdmInv` | build-observed |
+| M170926 | P1855 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.BaseChangeAssembly` | build-observed |
+| M170927 | P1879 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.CasselmanShalikaStandardVector` | build-observed |
+| M170928 | P1811 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.DualWhittakerAdelicGL3` | build-observed |
+| M170929 | P1759 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.LocalFunctionalEquationGL3GL2` | build-observed |
+| M170931 | P1879 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.AdmM` | build-observed |
+| M170932 | P1918 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.ConstantTermModerateGrowth` | build-observed |
+| M170933 | P1937 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.FourierExpansionCentral` | build-observed |
 | M170934 | P1900 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.GENSL` | build-observed |
 | M170935 | P1833 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.PureTh` | build-observed |
 | M170936 | P1855 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.PureThetaTransfer.REALTH` | build-observed |
@@ -393,12 +402,3 @@
 | M171427 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens` | wave-reused |
 | M171428 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LogInt` | wave-reused |
 | M171429 | P0676 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MIntSumCont` | wave-reused |
-| M171430 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure` | wave-reused |
-| M171431 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureA` | wave-reused |
-| M171432 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureB` | wave-reused |
-| M171433 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Measure` | wave-reused |
-| M171434 | P0703 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurve` | wave-reused |
-| M171435 | P0646 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveA` | wave-reused |
-| M171436 | P0676 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveB` | wave-reused |
-| M171437 | P0729 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLLocalStatement` | wave-reused |
-| M171438 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Partition` | wave-reused |

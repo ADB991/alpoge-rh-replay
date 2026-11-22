@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089748 | P2191 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBases` | volunteer-build-reviewed |
+| M089749 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBasesStatement` | volunteer-build-reviewed |
+| M089753 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnJointsHoldAllTuplesStatement` | volunteer-build-reviewed |
+| M089754 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnOrthonormalCoordsEqGiven` | volunteer-build-reviewed |
+| M089756 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnPeriodLatticeVacuumSmooth` | volunteer-build-reviewed |
 | M089758 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnTupleKernelsRational` | volunteer-build-reviewed |
 | M089760 | P2139 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnsGoodChartsMiddleSteps` | volunteer-build-reviewed |
 | M089762 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueKernelJetsMulDetCharactersMemCoefficientFiel` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M090661 | P1231 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPointStatement` | build-observed |
 | M090662 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointOfPerLev` | build-observed |
 | M090663 | P1043 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnit` | wave-reused |
-| M090664 | P1071 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnitStatement` | wave-reused |
-| M090666 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPowSpanXLeOfDense` | wave-reused |
-| M090667 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrimeDimensionLEOneAvoiding` | volunteer-build-reviewed |
-| M090670 | P1545 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRoot` | build-observed |
-| M090671 | P1573 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrincipalPolarizationSymmetricSquareRootStatement` | build-observed |

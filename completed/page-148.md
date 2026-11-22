@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103278 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TrdegQuotLeOne` | wave-reused |
+| M103279 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TriangularRepresentationDiagonal` | wave-reused |
+| M103281 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Ufacts` | volunteer-build-reviewed |
+| M103282 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ValSubOneMap` | wave-reused |
+| M103283 | P0450 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZeroOfNeg` | wave-reused |
+| M103284 | P0525 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ZpowWNe` | wave-reused |
+| M103291 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.GLinkQuot` | volunteer-build-reviewed |
 | M103297 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.H2RightExactModL` | volunteer-build-reviewed |
 | M103299 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.InflKer` | volunteer-build-reviewed |
 | M103300 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisCochains.IsClosedOfClosedFiniteIndex` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M103815 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaTranslateIntegralCongruentOneModPrime` | volunteer-build-reviewed |
 | M103816 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.TotallyPositiveSummandsWithDenominatorFinite` | volunteer-build-reviewed |
 | M103817 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.WeilIndexConstantCongruentOneModPrime` | volunteer-build-reviewed |
-| M103818 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Bridge` | build-observed |
-| M103824 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ConeHomotopyBoundaryFormula` | volunteer-build-reviewed |
-| M103825 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LeftMulChainChainHomotopic` | volunteer-build-reviewed |
-| M103826 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LemmaK` | wave-reused |
-| M103827 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LemmaKOfPublished` | volunteer-build-reviewed |
-| M103830 | P0526 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.NumT` | build-observed |
-| M103834 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ShaZmCard` | volunteer-build-reviewed |

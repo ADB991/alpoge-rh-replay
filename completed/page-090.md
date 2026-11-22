@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061709 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHom` | wave-reused |
+| M061710 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHomStatement` | wave-reused |
+| M061712 | P1330 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHalfOfBasePins` | volunteer-build-reviewed |
+| M061713 | P1090 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalDepletedEisensteinNeZe` | wave-reused |
 | M061714 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalDepletedEisensteinNeZeStatement` | wave-reused |
 | M061715 | P0925 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalOfDepletedEigenform` | wave-reused |
 | M061716 | P0953 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHeckeEigenfunctionalOfDepletedEigenformStatement` | wave-reused |
@@ -398,7 +402,3 @@
 | M062357 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSerStatement` | wave-reused |
 | M062358 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEq` | wave-reused |
 | M062359 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEqStatement` | wave-reused |
-| M062360 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInv` | wave-reused |
-| M062361 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInvStatement` | wave-reused |
-| M062362 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangular` | volunteer-build-reviewed |
-| M062363 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangularStatement` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086654 | P0849 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockComplementIsSubAtEnlargementStatement` | volunteer-build-reviewed |
+| M086661 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockRowsMemIcc` | build-observed |
+| M086672 | P2696 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypotheses` | volunteer-build-reviewed |
+| M086673 | P2703 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypothesesStatement` | volunteer-build-reviewed |
+| M086674 | P2707 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReci` | volunteer-build-reviewed |
 | M086675 | P2712 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelOfGlobalArtinReciStatement` | volunteer-build-reviewed |
 | M086677 | P0257 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelArtinianNoetherianSummandStatement` | volunteer-build-reviewed |
 | M086678 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.CancelProdSummandNilpotentOrBijective` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M087815 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizer` | volunteer-build-reviewed |
 | M087816 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizerStatement` | volunteer-build-reviewed |
 | M087817 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GalRepRankTwo` | volunteer-build-reviewed |
-| M087820 | P1867 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisCompatibilityOfJumpsStatement` | volunteer-build-reviewed |
-| M087823 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisLogTeichmullerRatioEqAddKummer` | volunteer-build-reviewed |
-| M087824 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisLogTeichmullerRatioEqAddKummerStatement` | build-observed |
-| M087834 | P2679 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermChartInterIntegralCoordinateRatios` | volunteer-build-reviewed |
-| M087835 | P2684 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GenericGermChartInterIntegralCoordinateRatiosStatement` | volunteer-build-reviewed |

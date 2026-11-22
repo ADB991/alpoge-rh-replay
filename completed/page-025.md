@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M016619 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightLower` | volunteer-build-reviewed |
+| M016621 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightUpper` | volunteer-build-reviewed |
 | M016623 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingNormBound` | volunteer-build-reviewed |
 | M016625 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotential` | volunteer-build-reviewed |
 | M016626 | P2710 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingOfPositivePotentialStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M017417 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecondStatement` | volunteer-build-reviewed |
 | M017422 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantThird` | volunteer-build-reviewed |
 | M017423 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantTwelfth` | volunteer-build-reviewed |
-| M017425 | P0348 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasis` | volunteer-build-reviewed |
-| M017426 | P0395 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterTrivialMatrixLatticeOpenCompactBasisStatement` | volunteer-build-reviewed |

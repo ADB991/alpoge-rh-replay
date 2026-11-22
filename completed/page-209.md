@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139480 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XReBridge` | build-observed |
+| M139482 | P0747 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XRePot` | build-observed |
+| M139484 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XSqDens` | build-observed |
+| M139486 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XSqLimit` | build-observed |
+| M139492 | P0828 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.X_lemma_v` | build-observed |
+| M139494 | P0773 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.X_vert_deg` | build-observed |
+| M139496 | P1162 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.AdaptedChartsRegularization` | build-observed |
+| M139500 | P2444 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CentreIdent` | volunteer-build-reviewed |
+| M139501 | P2501 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ChartCentre` | volunteer-build-reviewed |
 | M139502 | P0569 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.CommGroupMulMulEqMulInvMulMulMul` | wave-reused |
 | M139503 | P2416 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ComponentDataHeightIdentity` | volunteer-build-reviewed |
 | M139506 | P1106 | `Development.WeilBound.CoreStatements.PlurisubharmonicCones.ContDiffAtSmoothOnProj` | build-observed |
@@ -393,12 +402,3 @@
 | M140425 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionOnConnectedFibreUnit` | volunteer-build-reviewed |
 | M140431 | P0536 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeComponentFlagDegree` | build-observed |
 | M140432 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeDualFrameExists` | volunteer-build-reviewed |
-| M140433 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeDualLatticeOverlap` | volunteer-build-reviewed |
-| M140439 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IntegralOverPlaceDensity` | volunteer-build-reviewed |
-| M140443 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IsIntegrallyClosedOfDenom` | volunteer-build-reviewed |
-| M140444 | P2337 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IsIntegrallyClosedOfDenomBis` | volunteer-build-reviewed |
-| M140447 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.JordanBasisNilpotent` | volunteer-build-reviewed |
-| M140448 | P0210 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelLatticeBaseChange` | volunteer-build-reviewed |
-| M140449 | P2445 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelMem` | volunteer-build-reviewed |
-| M140450 | P0145 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankAlgebraicBound` | volunteer-build-reviewed |
-| M140452 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.KernelRankNormBound` | volunteer-build-reviewed |

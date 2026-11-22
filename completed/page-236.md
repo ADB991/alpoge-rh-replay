@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156081 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StabFiniteOf` | build-observed |
+| M156082 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StrongApproxN` | build-observed |
+| M156083 | P1296 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SumKfMulZREqZero` | build-observed |
+| M156084 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.TensLiftSelf` | build-observed |
+| M156085 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.UnfAbs` | build-observed |
+| M156086 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.UnipotentFundamentalDomain` | build-observed |
+| M156087 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GamOneReal` | build-observed |
+| M156088 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GammaMatrixInverse` | build-observed |
+| M156089 | P0572 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.GgMatrixBoundOfLitOf` | build-observed |
 | M156090 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.IrreducibleOfMinimal` | build-observed |
 | M156091 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.JointEigenvectorExists` | build-observed |
 | M156092 | P0604 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MatrixCoefficientBound.MatrixCoefficientEquation` | build-observed |
@@ -393,12 +402,3 @@
 | M156516 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.ChainRule` | build-observed |
 | M156517 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.DetDer` | build-observed |
 | M156518 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.Development` | build-observed |
-| M156519 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.NvFalseEq` | build-observed |
-| M156520 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowExpansionMinor.FirstColumnSplitBijective` | wave-reused |
-| M156521 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.Development` | wave-reused |
-| M156522 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.DoubleRowDecreasing` | wave-reused |
-| M156523 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.DoubleRowIncreasing` | wave-reused |
-| M156524 | P0423 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowFormPermutationSplit.PermutedRowProductSplit` | wave-reused |
-| M156525 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowWeightSpan.RowWtSpanOfBideterminant` | build-observed |
-| M156527 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SandwichOfOfCharts` | volunteer-build-reviewed |
-| M156528 | P0278 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SandwichChart.SideAUnrealifyRL` | volunteer-build-reviewed |

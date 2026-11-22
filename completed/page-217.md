@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145163 | P0374 | `Formalism.GaussValuationBounds.NokLemmaCVal` | wave-reused |
+| M145164 | P0147 | `Formalism.GaussValuationBounds.Statement` | wave-reused |
+| M145165 | P0069 | `Formalism.GelfandTransference.EnergyIdentity` | wave-reused |
+| M145166 | P0069 | `Formalism.GelfandTransference.GelfandCentral` | volunteer-build-reviewed |
+| M145167 | P0147 | `Formalism.GelfandTransference.HadamardGelfand.Gelfand` | volunteer-build-reviewed |
+| M145168 | P0272 | `Formalism.GelfandTransference.HadamardGelfand.Hadamard` | build-observed |
+| M145169 | P0212 | `Formalism.GelfandTransference.HadamardGelfand.Highest` | volunteer-build-reviewed |
+| M145170 | P0421 | `Formalism.GelfandTransference.HadamardGelfand.Transference` | build-observed |
+| M145171 | P0147 | `Formalism.GelfandTransference.Statement` | build-observed |
 | M145172 | P0421 | `Formalism.GradedWeylDivisibility.DualWeylDominanceOf` | wave-reused |
 | M145173 | P0536 | `Formalism.GradedWeylDivisibility.FinalB` | wave-reused |
 | M145174 | P0570 | `Formalism.GradedWeylDivisibility.FinalC` | wave-reused |
@@ -393,12 +402,3 @@
 | M145726 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferKAsm` | wave-reused |
 | M145728 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLAtMost` | build-observed |
 | M145730 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLExistsOf` | build-observed |
-| M145732 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLIsoAlg` | build-observed |
-| M145733 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLLieGrp` | build-observed |
-| M145734 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLLieGrpGeo` | build-observed |
-| M145735 | P0774 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeCut` | wave-reused |
-| M145736 | P0857 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGQLFam` | build-observed |
-| M145737 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeGRawSmooth` | wave-reused |
-| M145741 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGaugeVLem` | wave-reused |
-| M145765 | P1831 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHB2` | volunteer-build-reviewed |
-| M145770 | P1831 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutHL2` | volunteer-build-reviewed |

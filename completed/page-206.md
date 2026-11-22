@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136760 | P0856 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRuleCompatibility` | wave-reused |
+| M136761 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceChartPresentation` | wave-reused |
+| M136762 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceFieldBaseChange` | wave-reused |
+| M136763 | P0144 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceGlobalSections` | wave-reused |
+| M136764 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceLinearEmbeddings` | wave-reused |
+| M136765 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceOrigin` | wave-reused |
+| M136766 | P0322 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceProduct` | wave-reused |
+| M136767 | P0719 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceZeroSection` | wave-reused |
+| M136768 | P0746 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BasicOpenClosedEmbedding` | wave-reused |
 | M136769 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupFlatDescent` | wave-reused |
 | M136770 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceDescentDatum` | wave-reused |
 | M136771 | P0500 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.BlowupSequenceFlatBaseChange` | wave-reused |
@@ -393,12 +402,3 @@
 | M137538 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.OppositeUnipotentWeylConj` | volunteer-build-reviewed |
 | M137547 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepW` | volunteer-build-reviewed |
 | M137548 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepWN` | volunteer-build-reviewed |
-| M137551 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LowerRankDatum` | volunteer-build-reviewed |
-| M137553 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.CountGood` | volunteer-build-reviewed |
-| M137556 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.SolCountOneOne` | volunteer-build-reviewed |
-| M137563 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.ParabolicBlockForms.NilpotentFramePartApplyZero` | volunteer-build-reviewed |
-| M137565 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.ParabolicBlockForms.UpperBlockRankOneUpdate` | volunteer-build-reviewed |
-| M137567 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IntegrablePolyGauss` | volunteer-build-reviewed |
-| M137568 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IntegrableRexpLin` | volunteer-build-reviewed |
-| M137570 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivPolyRealZero` | volunteer-build-reviewed |
-| M137571 | P0065 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.PolynomialGaussianIntegrals.IteratedDerivScale` | volunteer-build-reviewed |

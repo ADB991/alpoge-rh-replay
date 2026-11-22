@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091361 | P0685 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqSumRingHom` | build-observed |
+| M091362 | P0932 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceFormTwistIsoOfPullback` | wave-reused |
+| M091364 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPoints` | build-observed |
+| M091365 | P1232 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPointsStatement` | build-observed |
+| M091366 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibre` | build-observed |
 | M091367 | P1181 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TwoRigidifiedThetaFramesOnFibreStatement` | build-observed |
 | M091370 | P0822 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.WeilIsGrpPullbackIff` | wave-reused |
 | M091371 | P0876 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ZeroFLeftExt` | wave-reused |
@@ -397,8 +402,3 @@
 | M092081 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselSecondBasePointCharacterTrivialDepthLattic` | volunteer-build-reviewed |
 | M092083 | P2042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepBasePointScaledCoordinates` | volunteer-build-reviewed |
 | M092087 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuum` | volunteer-build-reviewed |
-| M092088 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuumStatement` | volunteer-build-reviewed |
-| M092095 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLattice` | volunteer-build-reviewed |
-| M092096 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLatticeStatement` | volunteer-build-reviewed |
-| M092099 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLattices` | volunteer-build-reviewed |
-| M092100 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLatticesStatement` | volunteer-build-reviewed |

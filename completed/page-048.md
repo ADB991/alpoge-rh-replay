@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M031676 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotOneSubIdempotentEqMulStatement` | volunteer-build-reviewed |
+| M031677 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrder` | volunteer-build-reviewed |
 | M031678 | P2597 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankQuotientSubfieldEqMulRankOrderStatement` | volunteer-build-reviewed |
 | M031682 | P2511 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfNotDominantCharts` | volunteer-build-reviewed |
 | M031684 | P0013 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankRangeFderivLtOfVolumeImageEqZero` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M032354 | P0397 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormFibreIntegralEqOneStatement` | build-observed |
 | M032355 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontal` | volunteer-build-reviewed |
 | M032356 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontalStatement` | build-observed |
-| M032357 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSection` | build-observed |
-| M032358 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSectionStatement` | volunteer-build-reviewed |

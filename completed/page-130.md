@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092841 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlaces` | volunteer-build-reviewed |
+| M092842 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlacesStatement` | volunteer-build-reviewed |
+| M092845 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DomainFrameEqRealTranslateMulBorelStatement` | volunteer-build-reviewed |
+| M092846 | P2228 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCosetProjectionVolumeConstMul` | volunteer-build-reviewed |
+| M092848 | P1102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExp` | build-observed |
 | M092849 | P1131 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExpStatement` | build-observed |
 | M092850 | P2006 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacua` | volunteer-build-reviewed |
 | M092851 | P2025 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleMixedModelClassStableFlatVacuaStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M093407 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralUnitDeterminantAtIdempotentResidue` | volunteer-build-reviewed |
 | M093409 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInterpolation` | volunteer-build-reviewed |
 | M093411 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissible` | volunteer-build-reviewed |
-| M093412 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissibleStatement` | volunteer-build-reviewed |
-| M093413 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInvariantForm` | volunteer-build-reviewed |
-| M093414 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteA` | volunteer-build-reviewed |
-| M093415 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteAStatement` | volunteer-build-reviewed |
-| M093417 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleSubrepWithGroupAlgebraFixed` | volunteer-build-reviewed |

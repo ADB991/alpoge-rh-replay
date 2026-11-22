@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M055510 | P2492 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensioStatement` | volunteer-build-reviewed |
+| M055511 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyClose` | volunteer-build-reviewed |
+| M055512 | P0116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfClosedCoverInUniversallyCloseStatement` | volunteer-build-reviewed |
+| M055513 | P1223 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOfIsClosedRange` | build-observed |
 | M055514 | P1451 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversallyClosedOpenContainingFibreContainsNear` | volunteer-build-reviewed |
 | M055516 | P0023 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramSub` | volunteer-build-reviewed |
 | M055517 | P2112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UnramifiedCharValueProduct` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M056150 | P2436 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumDoubledTargetSiegelRuleStatement` | volunteer-build-reviewed |
 | M056151 | P2258 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumFinitePartMovesVacuumAsThetaModel` | volunteer-build-reviewed |
 | M056153 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumFixesVacuumNonSplitPlaceUnramified` | volunteer-build-reviewed |
-| M056155 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumRealPlacesFockVacuumCharacter` | volunteer-build-reviewed |
-| M056159 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetCh` | volunteer-build-reviewed |
-| M056160 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetChStatement` | volunteer-build-reviewed |
-| M056161 | P2227 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumTransportArchimedeanSliceSchwartzBounds` | volunteer-build-reviewed |

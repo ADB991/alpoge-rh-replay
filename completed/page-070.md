@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M047600 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRationalStatement` | volunteer-build-reviewed |
+| M047601 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMap` | volunteer-build-reviewed |
+| M047602 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMapStatement` | volunteer-build-reviewed |
+| M047604 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIff` | volunteer-build-reviewed |
 | M047605 | P2038 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIffStatement` | volunteer-build-reviewed |
 | M047606 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinates` | volunteer-build-reviewed |
 | M047607 | P1794 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalModelCoordinatesStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M048325 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorLocalOperatorsStatement` | volunteer-build-reviewed |
 | M048326 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorSchwartz` | volunteer-build-reviewed |
 | M048329 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedTensorSchwartzStatement` | volunteer-build-reviewed |
-| M048331 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedWittFrameStatement` | volunteer-build-reviewed |
-| M048332 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartz` | volunteer-build-reviewed |
-| M048333 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartzStatement` | volunteer-build-reviewed |
-| M048337 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionSubmoduleFunctionalInjectiveStatement` | volunteer-build-reviewed |

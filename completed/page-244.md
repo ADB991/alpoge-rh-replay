@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159636 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PbSmithLam` | build-observed |
+| M159637 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PdAevalScale` | build-observed |
+| M159638 | P1530 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ProdMemHten` | build-observed |
+| M159639 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.QaNuNextAdd` | build-observed |
+| M159640 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.QaWeightRowInd` | build-observed |
+| M159641 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.RowActTransv` | build-observed |
+| M159642 | P0669 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovDet` | build-observed |
+| M159643 | P0750 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.CovWeyl` | build-observed |
+| M159644 | P0638 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ShapeCovering.StatementY` | build-observed |
 | M159645 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubCoeffP` | build-observed |
 | M159646 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYDPsiMonomial` | build-observed |
 | M159647 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.SubYGenCoefHom` | build-observed |
@@ -393,12 +402,3 @@
 | M160047 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HomLatticeDividedPowerStable` | wave-reused |
 | M160048 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IdentityEvaluationGenericMatrix` | wave-reused |
 | M160049 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesLattice` | wave-reused |
-| M160050 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesStable` | wave-reused |
-| M160051 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesSubmodule` | wave-reused |
-| M160052 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralGeneratorsPreserveLattice` | wave-reused |
-| M160053 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolyLinearMapClosed` | wave-reused |
-| M160054 | P1167 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralPolynomialsEnvelopingStable` | wave-reused |
-| M160055 | P0941 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorEllPBound` | wave-reused |
-| M160056 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantDenominatorLinftyBound` | wave-reused |
-| M160057 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionDenominatorBound` | wave-reused |
-| M160058 | P1053 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionExtremalFormula` | wave-reused |

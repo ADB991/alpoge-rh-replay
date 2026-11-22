@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130937 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptLieMetricBoundStatement` | volunteer-build-reviewed |
+| M130938 | P2385 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptMultihomogForm` | volunteer-build-reviewed |
+| M130939 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptMultihomogFormStatement` | volunteer-build-reviewed |
+| M130940 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptProjectiveModel` | volunteer-build-reviewed |
+| M130941 | P2552 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptProjectiveModelStatement` | volunteer-build-reviewed |
+| M130942 | P1134 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeEigenProjectorExists` | build-observed |
+| M130943 | P1161 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeEigenProjectorExistsStatement` | build-observed |
+| M130945 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeFlagCmTypeDegreeStatement` | volunteer-build-reviewed |
+| M130953 | P2385 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeGramBoundNearBoundary` | volunteer-build-reviewed |
 | M130954 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeGramBoundNearBoundaryStatement` | volunteer-build-reviewed |
 | M130967 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeIPOfFibreLatVec` | volunteer-build-reviewed |
 | M130973 | P0564 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeInnerProductConjugateStatement` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M131608 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogRatioInduction` | volunteer-build-reviewed |
 | M131609 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogRatioInductionStatement` | volunteer-build-reviewed |
 | M131610 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultiplicativeDerivationRank` | volunteer-build-reviewed |
-| M131611 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultiplicativeDerivationRankStatement` | volunteer-build-reviewed |
-| M131613 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefDegreeScaleInvariant` | volunteer-build-reviewed |
-| M131614 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefOnFibresBlockXdegSumsOfRootLines` | volunteer-build-reviewed |
-| M131615 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefOnFibresBlockXdegSumsOfRootLinesStatement` | volunteer-build-reviewed |
-| M131616 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NilpotentDerivationRank` | volunteer-build-reviewed |
-| M131617 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NilpotentDerivationRankStatement` | volunteer-build-reviewed |
-| M131620 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NoetherianIntegralClosedCover` | volunteer-build-reviewed |
-| M131622 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrime` | volunteer-build-reviewed |
-| M131623 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrimeStatement` | volunteer-build-reviewed |

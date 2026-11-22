@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M053348 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionMatchOfCharacterMapOnTorusStatement` | volunteer-build-reviewed |
+| M053349 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointCharacterEqWeilPairingLabel` | volunteer-build-reviewed |
+| M053351 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointOfTorusPointAtClosedPointField` | volunteer-build-reviewed |
+| M053353 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionEqTorusPointAtClosedPointFiel` | volunteer-build-reviewed |
 | M053355 | P2565 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMap` | volunteer-build-reviewed |
 | M053356 | P2584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionOfSpreadThroughLatticeMapStatement` | volunteer-build-reviewed |
 | M053357 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricValueHeightBoundOfDenominatorsMeans` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M054073 | P2712 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedKernelLeThetaFunctionRouteBigVertex` | volunteer-build-reviewed |
 | M054074 | P2718 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedKernelLeThetaFunctionRouteBigVertexStatement` | volunteer-build-reviewed |
 | M054076 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformisationBundleEvenClosedFibreTorStatement` | volunteer-build-reviewed |
-| M054077 | P2462 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullback` | build-observed |
-| M054078 | P2491 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullbackStatement` | build-observed |
-| M054080 | P1944 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatesIntoHoldsStatement` | build-observed |
-| M054082 | P2769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslationCarriesRatioDatumRemainderStatement` | volunteer-build-reviewed |

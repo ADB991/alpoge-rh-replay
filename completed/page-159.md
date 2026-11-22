@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109432 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.DescentSteps` | build-observed |
+| M109433 | P0658 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.EquivalenceQuasiAffine` | build-observed |
+| M109434 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.EtaleCovers` | build-observed |
+| M109435 | P0714 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.HenselianIdempotents` | build-observed |
+| M109436 | P2805 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleDualityTraceIsomorphism` | volunteer-build-reviewed |
+| M109437 | P0317 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleProperBaseChange` | volunteer-build-reviewed |
+| M109438 | P2469 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleTopology` | volunteer-build-reviewed |
+| M109439 | P0134 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EvalExact` | volunteer-build-reviewed |
 | M109440 | P2116 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsGlRep` | volunteer-build-reviewed |
 | M109441 | P2811 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.ExistsLin` | volunteer-build-reviewed |
 | M109442 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.FaceRes` | build-observed |
@@ -394,11 +402,3 @@
 | M110005 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.BvvInt` | volunteer-build-reviewed |
 | M110006 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbIop` | volunteer-build-reviewed |
 | M110007 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbJet` | volunteer-build-reviewed |
-| M110008 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepSum` | volunteer-build-reviewed |
-| M110009 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepthDrop` | volunteer-build-reviewed |
-| M110010 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ExpLoss` | volunteer-build-reviewed |
-| M110011 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.HalfUnit` | volunteer-build-reviewed |
-| M110012 | P2116 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.Imports` | volunteer-build-reviewed |
-| M110013 | P2150 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsAlt` | volunteer-build-reviewed |
-| M110014 | P2140 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsBis` | volunteer-build-reviewed |
-| M110015 | P2129 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ImportsTer` | volunteer-build-reviewed |

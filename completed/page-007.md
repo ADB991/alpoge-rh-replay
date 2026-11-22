@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004258 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetSplitAmb` | volunteer-build-reviewed |
+| M004262 | P0731 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JumpWindow` | volunteer-build-reviewed |
 | M004263 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.KaehlerOneFormsToExtensionDeRhamMulSelf` | build-observed |
 | M004269 | P1193 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.LocSpBot` | volunteer-build-reviewed |
 | M004271 | P1324 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.MZmix` | build-observed |
@@ -400,5 +402,3 @@
 | M004967 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsProjOnOne` | volunteer-build-reviewed |
 | M004968 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LamXEquivariant` | build-observed |
 | M004970 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LayerProd` | build-observed |
-| M004971 | P1218 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LevelMatchIff` | volunteer-build-reviewed |
-| M004974 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocClosed` | volunteer-build-reviewed |

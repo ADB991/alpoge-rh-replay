@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069094 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnity` | build-observed |
+| M069095 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnityStatement` | build-observed |
+| M069096 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPrescribedUnramifiedKummer` | wave-reused |
+| M069098 | P1649 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChange` | volunteer-build-reviewed |
+| M069099 | P1672 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeStatement` | volunteer-build-reviewed |
 | M069100 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwist` | volunteer-build-reviewed |
 | M069101 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisRepBaseChangeTwistStatement` | volunteer-build-reviewed |
 | M069104 | P2696 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisSide` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M069708 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepsLatticeQuotientConjugateHalfOrthogonal` | volunteer-build-reviewed |
 | M069710 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRescaleEigenSeriesZero` | volunteer-build-reviewed |
 | M069711 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormA` | volunteer-build-reviewed |
-| M069713 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOver` | volunteer-build-reviewed |
-| M069714 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOverStatement` | volunteer-build-reviewed |
-| M069715 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetract` | wave-reused |
-| M069716 | P1095 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetractStatement` | wave-reused |
-| M069717 | P1865 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRightInverseCentralProjectorUnitElement` | volunteer-build-reviewed |

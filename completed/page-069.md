@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046920 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSumEqCharSumAgainstCuspForm` | wave-reused |
+| M046921 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiTwistedEqPsiMulCharacterOfPoint` | volunteer-build-reviewed |
+| M046923 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBase` | volunteer-build-reviewed |
+| M046924 | P2760 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBaseStatement` | volunteer-build-reviewed |
 | M046925 | P0761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfPsiOn` | volunteer-build-reviewed |
 | M046926 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOn` | volunteer-build-reviewed |
 | M046927 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnOfRescaledPsiUnitOnStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M047595 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLineStabilizerDecomposition` | volunteer-build-reviewed |
 | M047597 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatricesDiscreteCocompactAdelicMatrixSpa` | volunteer-build-reviewed |
 | M047599 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRational` | volunteer-build-reviewed |
-| M047600 | P0184 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRationalStatement` | volunteer-build-reviewed |
-| M047601 | P0020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMap` | volunteer-build-reviewed |
-| M047602 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixIdentityTransferToComplexMapStatement` | volunteer-build-reviewed |
-| M047604 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMemScaledIff` | volunteer-build-reviewed |

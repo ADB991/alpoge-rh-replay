@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M131611 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultiplicativeDerivationRankStatement` | volunteer-build-reviewed |
+| M131613 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefDegreeScaleInvariant` | volunteer-build-reviewed |
+| M131614 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefOnFibresBlockXdegSumsOfRootLines` | volunteer-build-reviewed |
+| M131615 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NefOnFibresBlockXdegSumsOfRootLinesStatement` | volunteer-build-reviewed |
+| M131616 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NilpotentDerivationRank` | volunteer-build-reviewed |
+| M131617 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NilpotentDerivationRankStatement` | volunteer-build-reviewed |
+| M131620 | P1264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NoetherianIntegralClosedCover` | volunteer-build-reviewed |
+| M131622 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrime` | volunteer-build-reviewed |
+| M131623 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonarchValuationOfPrimeStatement` | volunteer-build-reviewed |
 | M131629 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NonzeroSectionGenericFibre` | volunteer-build-reviewed |
 | M131632 | P0495 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariant` | build-observed |
 | M131633 | P0530 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.NormScaleConjugateInvariantStatement` | build-observed |
@@ -393,12 +402,3 @@
 | M132298 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerWeightOfZero` | volunteer-build-reviewed |
 | M132299 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerWeightOfZeroStatement` | volunteer-build-reviewed |
 | M132300 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TraceIntegralSubringExtension` | volunteer-build-reviewed |
-| M132301 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TraceIntegralSubringExtensionStatement` | volunteer-build-reviewed |
-| M132304 | P0772 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslDiffEq` | build-observed |
-| M132305 | P0321 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslateIntoSmallerOpen` | volunteer-build-reviewed |
-| M132306 | P0370 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslateIntoSmallerOpenStatement` | volunteer-build-reviewed |
-| M132308 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TriangularSpanCoeffRatioStatement` | volunteer-build-reviewed |
-| M132310 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagModOfDvdStatement` | volunteer-build-reviewed |
-| M132311 | P2573 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFargues` | volunteer-build-reviewed |
-| M132312 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TrivFlagOnHodgeOfFarguesStatement` | volunteer-build-reviewed |
-| M132315 | P0799 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TruncatedExpansionPthPowerCoeff` | volunteer-build-reviewed |

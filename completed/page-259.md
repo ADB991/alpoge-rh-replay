@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167669 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomInjLoc` | volunteer-build-reviewed |
+| M167670 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomLoc` | volunteer-build-reviewed |
+| M167671 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomNbhd` | wave-reused |
+| M167672 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomSections` | wave-reused |
+| M167673 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomSectionsLoc` | volunteer-build-reviewed |
+| M167674 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadIsoLoc` | volunteer-build-reviewed |
+| M167675 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadLocal` | wave-reused |
+| M167676 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadNbhd` | wave-reused |
+| M167677 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadStep` | wave-reused |
 | M167678 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsZLocDenominators` | volunteer-build-reviewed |
 | M167680 | P0861 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AevalNeZeroOfNotMem` | build-observed |
 | M167681 | P0753 | `GroundTheory.HeightsAndTheta.Heights.Intersections.AnalyticResolutionHypothesesProjectiveLine` | wave-reused |
@@ -393,12 +402,3 @@
 | M168315 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ObjectsAlt` | wave-reused |
 | M168317 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfModelNumEq` | build-observed |
 | M168319 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfPowRealises` | build-observed |
-| M168320 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneBlockPnPt` | build-observed |
-| M168321 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneMemSecOverZero` | build-observed |
-| M168323 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleAffineGen` | wave-reused |
-| M168324 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleCover` | wave-reused |
-| M168327 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleRingIntegral` | volunteer-build-reviewed |
-| M168328 | P0286 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleTwistLocal` | wave-reused |
-| M168329 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleVanish` | wave-reused |
-| M168330 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PBundlePair` | wave-reused |
-| M168331 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PCechCone` | wave-reused |

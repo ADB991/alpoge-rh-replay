@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154208 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionD` | build-observed |
+| M154209 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CoordTmulOneMul` | build-observed |
+| M154210 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatLocal` | build-observed |
+| M154211 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatSmulMem` | build-observed |
+| M154212 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatVec` | build-observed |
+| M154213 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.IsCompactCset` | build-observed |
+| M154214 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.KCountable` | build-observed |
+| M154215 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.LamAfLeOhatL` | build-observed |
+| M154216 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.MulVecMemLf` | build-observed |
 | M154217 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.NatSmulMulEq` | build-observed |
 | M154218 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.SmulEqAlgebraMapMul` | build-observed |
 | M154219 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnitaryOrbits.HformEntry` | wave-reused |
@@ -393,12 +402,3 @@
 | M154703 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResidueFieldCount` | build-observed |
 | M154716 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.Stage1OfUnipotentIntegralIsGroup` | build-observed |
 | M154718 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.TransMemUnipotentIntegral` | build-observed |
-| M154721 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.UnipotentIntegralPreservesLattice` | build-observed |
-| M154722 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.VFEqEmultiplicity` | build-observed |
-| M154723 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.WeightPositive` | build-observed |
-| M154725 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantDeterminantScaling.IntCastMulEqSmul` | wave-reused |
-| M154726 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatDecomposition.InjDecomp` | wave-reused |
-| M154727 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatDecomposition.SkipOneEqSuccAbove` | wave-reused |
-| M154728 | P0667 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.GGEq` | wave-reused |
-| M154729 | P0723 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.QnCovHat2OfLin` | wave-reused |
-| M154730 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CovariantHatPairReindex.SkipTwoOfGe` | wave-reused |

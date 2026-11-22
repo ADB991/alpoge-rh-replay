@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108361 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FinDet` | volunteer-build-reviewed |
+| M108362 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FiniteCocyclesColRepOfPhiCond` | volunteer-build-reviewed |
+| M108363 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.FiniteCocyclesMatrixRepresentationOfPhiCond` | volunteer-build-reviewed |
+| M108364 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.IrrSmall` | volunteer-build-reviewed |
+| M108365 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.PolNorm` | volunteer-build-reviewed |
+| M108366 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.RedBChiComap` | volunteer-build-reviewed |
+| M108367 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.ContinuousSubActions.ContActionSub` | volunteer-build-reviewed |
 | M108368 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.BorCard` | volunteer-build-reviewed |
 | M108369 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.CountFix` | volunteer-build-reviewed |
 | M108370 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CyclicReductionCohomology.DOSmall` | volunteer-build-reviewed |
@@ -299,6 +306,7 @@
 | M108785 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.ScaleRD` | volunteer-build-reviewed |
 | M108787 | P1288 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SubMemMax` | volunteer-build-reviewed |
 | M108788 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SxCpRes` | volunteer-build-reviewed |
+| M108789 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SxExtA` | volunteer-build-reviewed |
 | M108792 | P0316 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicExtensionMatrices.SxSubRD` | volunteer-build-reviewed |
 | M108798 | P0262 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicLattices.CompanionTheory` | volunteer-build-reviewed |
 | M108806 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.AdicLattices.TcSmall` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M108916 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ImportsAlt` | volunteer-build-reviewed |
 | M108918 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.IsDvrCoef` | volunteer-build-reviewed |
 | M108919 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Labels` | volunteer-build-reviewed |
-| M108920 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LatSix` | volunteer-build-reviewed |
-| M108921 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LayerEx` | volunteer-build-reviewed |
-| M108922 | P2619 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LinkEx` | volunteer-build-reviewed |
-| M108923 | P2571 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.MapRepComp` | volunteer-build-reviewed |
-| M108924 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.MkTower` | volunteer-build-reviewed |
-| M108925 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.NePure` | volunteer-build-reviewed |
-| M108929 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.OverFacts` | volunteer-build-reviewed |
-| M108930 | P2550 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.PfConst` | volunteer-build-reviewed |

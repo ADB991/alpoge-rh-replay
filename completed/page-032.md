@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M021758 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairGlobalIntegralStatement` | volunteer-build-reviewed |
+| M021759 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeMeasure` | volunteer-build-reviewed |
 | M021762 | P2246 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLatticeThetaStatement` | volunteer-build-reviewed |
 | M021763 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairLocalIntegral` | volunteer-build-reviewed |
 | M021765 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairStabiliserIntegral` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M022408 | P0867 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EnlargeStrictHenselisationRetractModStatement` | wave-reused |
 | M022409 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntRCloudSub` | volunteer-build-reviewed |
 | M022410 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntireEqOfEqOnHalfPlane` | wave-reused |
-| M022411 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntryMemSubringOfTraceGramUnit` | volunteer-build-reviewed |
-| M022416 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EnvelopingAlgebraLineWords` | build-observed |

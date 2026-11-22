@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153763 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GeoProdPow` | volunteer-build-reviewed |
+| M153764 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramIso` | build-observed |
+| M153765 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramUnit` | build-observed |
+| M153767 | P1189 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseJidPow` | build-observed |
+| M153768 | P1214 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HasseOrdBd` | build-observed |
+| M153769 | P1165 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HassePresH` | build-observed |
+| M153771 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.Hensel` | build-observed |
+| M153772 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermDefON` | build-observed |
+| M153773 | P0503 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HermLatFin` | build-observed |
 | M153774 | P0722 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HookBound` | build-observed |
 | M153777 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.HwIrred` | wave-reused |
 | M153778 | P0995 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.IdCellInS` | build-observed |
@@ -393,12 +402,3 @@
 | M154205 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CartierFrobeniusFormLocal` | build-observed |
 | M154206 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionA` | build-observed |
 | M154207 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionB` | build-observed |
-| M154208 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionD` | build-observed |
-| M154209 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CoordTmulOneMul` | build-observed |
-| M154210 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatLocal` | build-observed |
-| M154211 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatSmulMem` | build-observed |
-| M154212 | P0504 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatVec` | build-observed |
-| M154213 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.IsCompactCset` | build-observed |
-| M154214 | P0538 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.KCountable` | build-observed |
-| M154215 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.LamAfLeOhatL` | build-observed |
-| M154216 | P0603 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.MulVecMemLf` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062959 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBoundStatement` | volunteer-build-reviewed |
+| M062962 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LimitOfApproximateCocyclesStatement` | volunteer-build-reviewed |
+| M062966 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMul` | volunteer-build-reviewed |
+| M062967 | P0251 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMulStatement` | volunteer-build-reviewed |
+| M062968 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFinite` | wave-reused |
 | M062969 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearFunctionalEqCoeffLinearCombinationFiniteStatement` | wave-reused |
 | M062970 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfDetMemNonZeroDivisors` | volunteer-build-reviewed |
 | M062971 | P0026 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LinearIndependentOfJointEigenvectors` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M063532 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuousStatement` | wave-reused |
 | M063535 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOne` | wave-reused |
 | M063536 | P0710 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOneStatement` | wave-reused |
-| M063538 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientCharTrivialInertiaCyclotomicTower` | volunteer-build-reviewed |
-| M063540 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphic` | wave-reused |
-| M063541 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphicStatement` | wave-reused |
-| M063542 | P0445 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbedding` | wave-reused |
-| M063543 | P0483 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QzTorsionZmodEmbeddingStatement` | wave-reused |

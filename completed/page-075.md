@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051146 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOne` | volunteer-build-reviewed |
+| M051147 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharSymplecticLocalLatticeEqOneStatement` | volunteer-build-reviewed |
+| M051148 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdditiveCharacterProductFormula` | volunteer-build-reviewed |
+| M051150 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicAddCharNontrivialFinitePlaceStatement` | volunteer-build-reviewed |
 | M051151 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOne` | volunteer-build-reviewed |
 | M051152 | P2020 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharExistsNeOneStatement` | volunteer-build-reviewed |
 | M051154 | P1304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAdelicCharFiniteSuperDiagonalSumIntegralStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M051865 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReduction` | volunteer-build-reviewed |
 | M051866 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingBlockReductionStatement` | volunteer-build-reviewed |
 | M051867 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOne` | volunteer-build-reviewed |
-| M051868 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOneStatement` | volunteer-build-reviewed |
-| M051871 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExists` | volunteer-build-reviewed |
-| M051872 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExistsStatement` | volunteer-build-reviewed |
-| M051873 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticZmodLift` | volunteer-build-reviewed |

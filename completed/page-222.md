@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148226 | P1468 | `Formalism.LocalToGlobal.Columns.ResidueFieldUnfoldingClaimsHold` | build-observed |
+| M148227 | P0635 | `Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq` | build-observed |
+| M148228 | P0830 | `Formalism.LocalToGlobal.Columns.RowForms` | build-observed |
+| M148229 | P0967 | `Formalism.LocalToGlobal.Columns.RowFormsAdelic` | build-observed |
+| M148230 | P1077 | `Formalism.LocalToGlobal.Columns.RowFormsGood` | build-observed |
+| M148231 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsLemmas` | build-observed |
+| M148235 | P0070 | `Formalism.LocalToGlobal.Columns.RowFormsNZp` | volunteer-build-reviewed |
+| M148239 | P1136 | `Formalism.LocalToGlobal.Columns.RowFormsRat` | build-observed |
+| M148240 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSel` | build-observed |
 | M148242 | P0858 | `Formalism.LocalToGlobal.Columns.RowFormsSym` | build-observed |
 | M148243 | P0830 | `Formalism.LocalToGlobal.Columns.ScaledRamifiedLattice` | build-observed |
 | M148244 | P1136 | `Formalism.LocalToGlobal.Columns.SliceIntegralDeltaNeBot` | build-observed |
@@ -393,12 +402,3 @@
 | M148796 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondCommDistinctPlaces` | build-observed |
 | M148797 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesForms` | build-observed |
 | M148798 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesRationalFormZero` | build-observed |
-| M148799 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.EqOneOfCoprimeTorsionTwoPrimes` | build-observed |
-| M148800 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ExistsIntegerSmulMemOfSpanTop` | build-observed |
-| M148801 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrameTranslate` | build-observed |
-| M148802 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusIdentitiesNoKernelOfClauses` | build-observed |
-| M148803 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusNoKernelOfFrobeniusSimilitude` | build-observed |
-| M148804 | P1137 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrobeniusNoKernelOfHeckeRamified` | build-observed |
-| M148805 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.IntegralTensorBasisLinIndep` | build-observed |
-| M148806 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionFamilyOf` | build-observed |
-| M148807 | P1107 | `Formalism.LocalToGlobal.GlobalTheory.GL6.LatticeInclusionOfDecompGlob` | build-observed |

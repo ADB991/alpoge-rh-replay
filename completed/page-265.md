@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171430 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure` | wave-reused |
+| M171431 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureA` | wave-reused |
+| M171432 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureB` | wave-reused |
+| M171433 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Measure` | wave-reused |
+| M171434 | P0703 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurve` | wave-reused |
+| M171435 | P0646 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveA` | wave-reused |
+| M171436 | P0676 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLCurveB` | wave-reused |
+| M171437 | P0729 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PLLocalStatement` | wave-reused |
+| M171438 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.Partition` | wave-reused |
 | M171439 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt` | wave-reused |
 | M171442 | P0755 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLineFubiniStudyFacts` | wave-reused |
 | M171443 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.ProjectiveLinePartitionContinuousCoe` | wave-reused |
@@ -393,12 +402,3 @@
 | M171900 | P0233 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.DefectSt` | pilot-reused |
 | M171901 | P0090 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.SimplexSumSt` | volunteer-build-reviewed |
 | M171902 | P0290 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily` | wave-reused |
-| M171903 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm` | wave-reused |
-| M171904 | P0432 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountSt` | wave-reused |
-| M171905 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStA` | wave-reused |
-| M171906 | P0343 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStB` | wave-reused |
-| M171907 | P0389 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStC` | wave-reused |
-| M171909 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountZSt` | wave-reused |
-| M171910 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStA` | wave-reused |
-| M171911 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.DegStB` | wave-reused |
-| M171912 | P0168 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.EllipsoidSt` | wave-reused |

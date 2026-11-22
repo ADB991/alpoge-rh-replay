@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134343 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountStatement` | build-observed |
+| M134344 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBound` | build-observed |
+| M134345 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBoundStatement` | build-observed |
+| M134346 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparison` | build-observed |
+| M134347 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonShift` | build-observed |
+| M134348 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonShiftStatement` | build-observed |
+| M134349 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightComparisonStatement` | build-observed |
+| M134350 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentity` | build-observed |
+| M134351 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginWeightIdentityStatement` | build-observed |
 | M134352 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivative` | build-observed |
 | M134353 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RowProductFirstDerivativeStatement` | build-observed |
 | M134354 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.SameOrbitRefl` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M135085 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfCone` | build-observed |
 | M135086 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfMono` | build-observed |
 | M135087 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafFlqPf` | build-observed |
-| M135088 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokInjPf` | build-observed |
-| M135089 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPf` | build-observed |
-| M135090 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPfSurj` | build-observed |
-| M135091 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCovPf` | build-observed |
-| M135092 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafFstHocPf` | build-observed |
-| M135093 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenKerPf` | build-observed |
-| M135094 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenPf` | build-observed |
-| M135095 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafGenRingPf` | build-observed |
-| M135096 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafGeoPf` | build-observed |

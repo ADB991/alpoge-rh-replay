@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123288 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteMulSupportBnd` | volunteer-build-reviewed |
+| M123289 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlaces` | volunteer-build-reviewed |
+| M123290 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlacesStatement` | volunteer-build-reviewed |
+| M123291 | P1969 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNormOneUnitsTrivialValuation` | build-observed |
+| M123292 | P1989 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNormOneUnitsTrivialValuationStatement` | build-observed |
+| M123293 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfCompact` | volunteer-build-reviewed |
+| M123294 | P2527 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibres` | volunteer-build-reviewed |
+| M123295 | P2552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOfFiniteFibresStatement` | volunteer-build-reviewed |
+| M123296 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOnCompactsOrbitMeasure` | volunteer-build-reviewed |
 | M123297 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOnCompactsOrbitMeasureStatement` | volunteer-build-reviewed |
 | M123298 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteOutNeZero` | volunteer-build-reviewed |
 | M123299 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FinitePartOpen` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M123888 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasProdMoebiusConvOfNormLe` | volunteer-build-reviewed |
 | M123889 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSatakeOfIsSatVecGL` | volunteer-build-reviewed |
 | M123890 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumFloorHalf` | volunteer-build-reviewed |
-| M123893 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeries` | volunteer-build-reviewed |
-| M123894 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeriesStatement` | volunteer-build-reviewed |
-| M123895 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumTaylorOfExpBounds` | volunteer-build-reviewed |
-| M123898 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrinciple` | volunteer-build-reviewed |
-| M123899 | P2220 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitian` | volunteer-build-reviewed |
-| M123900 | P2232 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleHermitianStatement` | volunteer-build-reviewed |
-| M123901 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTrace` | build-observed |
-| M123902 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleNormTraceStatement` | build-observed |
-| M123903 | P2141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HassePrincipleStatement` | volunteer-build-reviewed |

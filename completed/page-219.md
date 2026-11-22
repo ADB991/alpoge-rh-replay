@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146739 | P1238 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCChain` | build-observed |
+| M146740 | P1344 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCFinal` | build-observed |
+| M146741 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCGlob` | build-observed |
+| M146742 | P1136 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCHerg` | build-observed |
+| M146743 | P0994 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCKer` | build-observed |
+| M146744 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLat` | build-observed |
+| M146745 | P1076 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLim` | build-observed |
+| M146746 | P1187 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCLoc` | build-observed |
+| M146747 | P1048 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCMean` | build-observed |
 | M146748 | P1107 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCSplit` | build-observed |
 | M146749 | P1163 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStep` | build-observed |
 | M146750 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCStmt` | build-observed |
@@ -393,12 +402,3 @@
 | M147338 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColThmC` | wave-reused |
 | M147339 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColumnDegreeBound` | wave-reused |
 | M147340 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.DetLen` | wave-reused |
-| M147341 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ExpRowD` | wave-reused |
-| M147342 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.FiltrationExponentHolds` | wave-reused |
-| M147343 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.HCoefLim` | wave-reused |
-| M147344 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.IdealPowerSumMem` | wave-reused |
-| M147345 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.InvConst` | wave-reused |
-| M147346 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.JumpShift` | wave-reused |
-| M147347 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCoker` | wave-reused |
-| M147348 | P0148 | `Formalism.JumpKernelCokernel.JumpShiftProofs.KerCokerEq` | wave-reused |
-| M147349 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.LemmaDJoint` | wave-reused |

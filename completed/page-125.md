@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088879 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormDerivationGeneratorsEqOneAtSiteStatement` | volunteer-build-reviewed |
+| M088881 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormEqOfSamePlace` | volunteer-build-reviewed |
+| M088884 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLambdaCharacterNormOneIdeleEqPPow` | volunteer-build-reviewed |
+| M088885 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLambdaCharacterNormOneIdeleEqPPowStatement` | volunteer-build-reviewed |
+| M088887 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOfRecurrenceGrowth` | volunteer-build-reviewed |
 | M088888 | P0128 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOfRecurrenceGrowthStatement` | volunteer-build-reviewed |
 | M088890 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLeOneOfTrace` | volunteer-build-reviewed |
 | M088891 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLocalBasisStandardCoordLeOneInert` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M089741 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLawStatement` | volunteer-build-reviewed |
 | M089743 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainStabilisersEqStandardReaderPointsStatement` | volunteer-build-reviewed |
 | M089744 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoiceGoodChartsEveryStage` | volunteer-build-reviewed |
-| M089748 | P2191 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBases` | volunteer-build-reviewed |
-| M089749 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBasesStatement` | volunteer-build-reviewed |
-| M089753 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnJointsHoldAllTuplesStatement` | volunteer-build-reviewed |
-| M089754 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnOrthonormalCoordsEqGiven` | volunteer-build-reviewed |
-| M089756 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnPeriodLatticeVacuumSmooth` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M042765 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedEigenStatement` | volunteer-build-reviewed |
+| M042768 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedIntegral` | volunteer-build-reviewed |
+| M042770 | P2706 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestriction` | volunteer-build-reviewed |
+| M042771 | P2711 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedRestrictionStatement` | volunteer-build-reviewed |
 | M042773 | P2743 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleAdaptedScalarStatement` | volunteer-build-reviewed |
 | M042778 | P2626 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterCondition` | volunteer-build-reviewed |
 | M042779 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MatchedTripleBaseCharacterConditionStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M043437 | P0111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicIdentityContinuationStatement` | volunteer-build-reviewed |
 | M043438 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicSectionLocalOrder` | volunteer-build-reviewed |
 | M043439 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeromorphicSectionLocalOrderStatement` | volunteer-build-reviewed |
-| M043444 | P0708 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticCoverWeilRepresentation` | build-observed |
-| M043445 | P0734 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticCoverWeilRepresentationStatement` | build-observed |
-| M043446 | P0651 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalised` | build-observed |
-| M043447 | P0681 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.MetaplecticGaussianNormalisedStatement` | build-observed |

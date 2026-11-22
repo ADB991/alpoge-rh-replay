@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M051868 | P1769 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticPairingRankOneStatement` | volunteer-build-reviewed |
+| M051871 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExists` | volunteer-build-reviewed |
+| M051872 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticTraceBasisExistsStatement` | volunteer-build-reviewed |
+| M051873 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SymplecticZmodLift` | volunteer-build-reviewed |
 | M051874 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChains` | volunteer-build-reviewed |
 | M051875 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SystemCoverOfChainsStatement` | volunteer-build-reviewed |
 | M051876 | P2664 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SzJetConj` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M052671 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceOffTypePrimeDescriptionStatement` | volunteer-build-reviewed |
 | M052673 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridBlockCongruenceTypePrimeDescriptionStatement` | volunteer-build-reviewed |
 | M052674 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBaseP` | volunteer-build-reviewed |
-| M052675 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBasePStatement` | volunteer-build-reviewed |
-| M052676 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRank` | volunteer-build-reviewed |
-| M052677 | P2021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRankStatement` | volunteer-build-reviewed |
-| M052679 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridSquareRankInequalitiesStatement` | volunteer-build-reviewed |

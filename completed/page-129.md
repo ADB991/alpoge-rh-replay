@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092088 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuumStatement` | volunteer-build-reviewed |
+| M092095 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLattice` | volunteer-build-reviewed |
+| M092096 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLatticeStatement` | volunteer-build-reviewed |
+| M092099 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLattices` | volunteer-build-reviewed |
+| M092100 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
 | M092101 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilators` | volunteer-build-reviewed |
 | M092102 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepPiecesBMutualAnnihilatorsStatement` | volunteer-build-reviewed |
 | M092104 | P2381 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepZeroLineComponentAdjointMemLatticeStatement` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M092835 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSide` | volunteer-build-reviewed |
 | M092836 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSideStatement` | volunteer-build-reviewed |
 | M092837 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesTestDataLargeGapsIntegrable` | volunteer-build-reviewed |
-| M092841 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlaces` | volunteer-build-reviewed |
-| M092842 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlacesStatement` | volunteer-build-reviewed |
-| M092845 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DomainFrameEqRealTranslateMulBorelStatement` | volunteer-build-reviewed |
-| M092846 | P2228 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCosetProjectionVolumeConstMul` | volunteer-build-reviewed |
-| M092848 | P1102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DoubleCoverUpqKsetGeneratedByExp` | build-observed |

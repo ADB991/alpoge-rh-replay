@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M052675 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharacterQuotientNotUnramifiedOverBasePStatement` | volunteer-build-reviewed |
+| M052676 | P2001 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRank` | volunteer-build-reviewed |
+| M052677 | P2021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridCharactersArchExponentsGapGtRankStatement` | volunteer-build-reviewed |
+| M052679 | P1982 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGridSquareRankInequalitiesStatement` | volunteer-build-reviewed |
 | M052683 | P2542 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaGroupActionPullbackThetaSectionsGaloisTwistStatement` | volunteer-build-reviewed |
 | M052696 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntNeZero` | volunteer-build-reviewed |
 | M052699 | P1742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ThetaIntegralCompactInvariant` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M053342 | P2248 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricRatioFieldDataConjugateStatement` | volunteer-build-reviewed |
 | M053345 | P1378 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactors` | build-observed |
 | M053346 | P1402 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactorsStatement` | volunteer-build-reviewed |
-| M053348 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionMatchOfCharacterMapOnTorusStatement` | volunteer-build-reviewed |
-| M053349 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointCharacterEqWeilPairingLabel` | volunteer-build-reviewed |
-| M053351 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionPointOfTorusPointAtClosedPointField` | volunteer-build-reviewed |
-| M053353 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricTorsionSectionEqTorusPointAtClosedPointFiel` | volunteer-build-reviewed |

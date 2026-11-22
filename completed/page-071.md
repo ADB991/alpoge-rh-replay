@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M048331 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictedWittFrameStatement` | volunteer-build-reviewed |
+| M048332 | P1768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartz` | volunteer-build-reviewed |
+| M048333 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionPreservesAdelicSchwartzStatement` | volunteer-build-reviewed |
+| M048337 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictionSubmoduleFunctionalInjectiveStatement` | volunteer-build-reviewed |
 | M048339 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticPowOfRestrictsToQuadraticSig` | volunteer-build-reviewed |
 | M048342 | P1450 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowIdelicRestrictionStatement` | volunteer-build-reviewed |
 | M048343 | P1962 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictsToQuadraticSignPowOfRestrictsToQuadrati` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M048998 | P2083 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyFiniteDimSpanStatement` | volunteer-build-reviewed |
 | M048999 | P0021 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommute` | volunteer-build-reviewed |
 | M049000 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPairingIntegralCommuteStatement` | volunteer-build-reviewed |
-| M049001 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBound` | volunteer-build-reviewed |
-| M049002 | P0185 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFamilyPhaseBoundStatement` | volunteer-build-reviewed |
-| M049003 | P2097 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximation` | volunteer-build-reviewed |
-| M049004 | P2111 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SchwartzFiniteApproximationStatement` | volunteer-build-reviewed |
