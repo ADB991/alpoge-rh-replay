@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.GeometryProofs.GenMapStalkMap",
+  "source_sha256": "f59e20141d534ccf14a246d63d071d57284cf80d0dc2389a53757487cb83e475",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}

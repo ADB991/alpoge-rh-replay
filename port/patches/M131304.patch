@@ -1,0 +1,11 @@
+--- a/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/LatticeGlueOverPrimes.lean
++++ b/src/Development/AutomorphicSpectrum/Proofs/GeometryProofs/LatticeGlueOverPrimes.lean
+@@ -266,7 +266,7 @@
+       noetherianSpace_of_isAffineOpen U₂ hU₂aff
+     have hcpt := hN.isCompact (Subtype.val ⁻¹' C : Set (U₂ : Set X))
+     have := Subtype.isCompact_iff.1 hcpt
+-    rwa [Subtype.image_preimage_coe, Set.inter_eq_right.2 (fun x hx => hx.1)] at this
++    rwa [Subtype.image_preimage_coe, Set.inter_eq_right.2 (fun x (hx : x ∈ C) => hx.1)] at this
+   have key : ∀ x ∈ C, ∃ W : X.Opens, x ∈ W ∧ ∃ m : ℕ, m ≠ 0 ∧ ∀ q : Cpt ξ, q.1 ∈ W → ¬ InFibre ξ l q →
+       (∀ n : ℕ, n.Prime → n ∣ m → ¬ InFibre ξ n q) →
+       L₀ q = Submodule.span (regAt ξ q) (Set.range b) := by

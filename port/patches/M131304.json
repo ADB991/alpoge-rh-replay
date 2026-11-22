@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.GeometryProofs.LatticeGlueOverPrimes",
+  "source_sha256": "123ac43468406d1fed12da7ef21f81d9e1ae813484c8dfbda14eda8805681220",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: the subset proof passed to Set.inter_eq_right.2 now writes the binder type `(hx : x ∈ C)`, because v4.36 no longer infers it before the projection `hx.1`.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}

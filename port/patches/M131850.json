@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.GeometryProofs.RegAtIffChartLocalizationStatement",
+  "source_sha256": "266ffb6fe06fc15a8e0daec879e91951d34fa8989c4373f08279354a42008e30",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}

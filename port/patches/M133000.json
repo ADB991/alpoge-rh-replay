@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MembershipProofs.GoodCharIsLocallyConstant",
+  "source_sha256": "2cc0166875c997dcc6fd62b6e70e53bb00e9f2c60cf03bf3374e2aa8c2f58793",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}

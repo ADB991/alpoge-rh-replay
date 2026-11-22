@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.MembershipProofs.BoundMulTranslate",
+  "source_sha256": "9e0ca9061a352122a83d97ba2b46c2e147b6c67ae9ab3573caf108789d50ea36",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Finset.prod_le_one for nonnegative factors is now Finset.prod_le_one₀ (same arguments), and `by simp; norm_cast` becomes `by simp` because simp now closes that side goal on its own.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0267-lean436-20261122-b/P0267-receipt.json"
+}
