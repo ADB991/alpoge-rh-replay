@@ -1,0 +1,7 @@
+{
+ "module": "Formalism.PeriodIntegrals.OrbitalBoundsConclusion.DensSplit",
+ "source_sha256": "47de09e3e935f0ee1cb69feba75a7b831b812a76ce0b1c2874eaf02acba4a6ab",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
