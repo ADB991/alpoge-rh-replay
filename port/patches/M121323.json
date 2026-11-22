@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChangeVariablesZeroCount",
+  "source_sha256": "25aa16f203ad45685ce2813238462ba580731a73f241611d983bc0805379a60f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Matrix.toEuclideanLin_eq_toLin no longer exists on the target; the rewrite uses Matrix.toEuclideanLin_eq_toLin_orthonormal, which expresses the same map through Matrix.toLin on the orthonormal standard basis, and LinearMap.det_toLin applies as before.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

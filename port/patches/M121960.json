@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ConvergenceGroupOfBlockDet",
+  "source_sha256": "54296d3e93181ca2250663542607c4188e0fe662c202de678ad0b92835628ac3",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: summable_of_finite_support (a deprecated alias on the pinned Mathlib) is replaced by its target, summable_of_hasFiniteSupport.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

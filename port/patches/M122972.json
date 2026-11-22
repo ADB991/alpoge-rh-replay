@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsSchwartzBruhatCharacterIntegralOne",
+  "source_sha256": "5b76b9427a183ccfb4f722c5d11b39215b249894cd07ce2d48262cc47aeaab30",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: loc_compact_Haus_tot_disc_of_zero_dim names its space argument `X` on the target (`H` on the pinned Mathlib), and `open scoped Pointwise in` is added before exists_compact_open_subgroup_trivial because its proof writes `W⁻¹` for a set and the pointwise `Inv (Set G)` instance is scoped on the target. The statement uses no pointwise notation and is unchanged.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}

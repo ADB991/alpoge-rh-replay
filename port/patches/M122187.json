@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CyclicAlgebraHilbertNinety",
+  "source_sha256": "a6d954b72c73e60932aec82019be955a2cc1cb89812a7d3b6ceed602fe9889c2",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: AlgEquiv.toAlgHom_eq_coe was removed from Mathlib (it had become a syntactic equality) and is dropped from one `simp only` list.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0265-issue-31463-lean436/P0265-receipt.json"
+}
