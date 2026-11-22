@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.DeterminantPairingQuotientValuationLowerBoundStatement",
+  "source_sha256": "2ec69857e2ec8a217dcb7690524e8d2717f6d3bfc04601ba69f57430e84af350",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Replace the removed index-first MvPolynomial.coeff A p by the polynomial-first p.coeff A in the theorem statement. In the pinned Mathlib, MvPolynomial.coeff m p is defined as (AddMonoidAlgebra.coeff p) m, and on the target p.coeff m is that same term (checked by rfl), so the statement is the same term: no hypotheses or conclusions are added or removed."
+}

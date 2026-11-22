@@ -1,0 +1,7 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.EvSelfTwo",
+  "source_sha256": "7a4572b8fc07c0838e80936579193caf04b41fd3beef347b24f454802664f5fd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The target MvPowerSeries.pderiv takes the coefficient ring implicitly, so pderiv R i becomes pderiv (R := R) i, including in the statement of partial_eq. The definition of pderiv is otherwise identical in the pinned and target Mathlib (only `variable (R) in` was dropped), so these are the same terms and the statement is unchanged in meaning."
+}
