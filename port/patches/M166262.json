@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutTransportLast",
+  "source_sha256": "a7e0761f4ee53fcf01dd7916a766d3cd8cd71dd2230ea0b55c5a1cca37956ea3",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}

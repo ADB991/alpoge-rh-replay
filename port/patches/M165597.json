@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.VanishingCechMultInvariants",
+  "source_sha256": "ed49c0feda826584a7fd72dad656ce59025dccd0a7c06ef32f0f9e99e79ab6ad",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}

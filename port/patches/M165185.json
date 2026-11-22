@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PMultAtOfSaturated",
+  "source_sha256": "015f4d5fc4f198e9681ee8269ec0a1e4bdabfe9a744b1c1c093d0a65d5af004a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.HeightKernels.PRestCutCompareReal",
+  "source_sha256": "e1221c97e5e736ec831a429f3c2f1994e2f10a4971e2f25b3c4d4c33cb516c06",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: replace removed MvPolynomial.coeff \u03b1 P with the dot-notation polynomial coefficient projection P.coeff \u03b1 in realFlagIntegral_eq_sum and in the proof of RestCutCompareReal.proof. This is definitionally the same coefficient operation on MvPolynomial; no mathematical condition changes.",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}

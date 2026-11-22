@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.ElementarySymmetric.ResidueChartModel",
+  "source_sha256": "98a31d0465755891227664e1063334805aec5dbf884c5c7becd527040212b52b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: replace removed MvPolynomial.coeff_zero rewrites in polyPiece_eq_zero_of_neg and polyPiece_zero_eq_zero_of_eval with simp only [AddMonoidAlgebra.coeff_zero, Finsupp.zero_apply], and replace removed bare MvPolynomial.coeff d m in local helper key with dot-notation m.coeff d.",
+  "evidence": "https://github.com/pCwOrM/alpoge-rh-replay/releases/download/port-P0285-issue-32755-lean436/P0285-receipt.json"
+}

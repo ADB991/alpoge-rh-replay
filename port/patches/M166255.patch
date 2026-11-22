@@ -1,0 +1,16 @@
+--- a/src/GroundTheory/HeightsAndTheta/Heights/HeightKernels/PRestCutPsiFlag.lean
++++ b/src/GroundTheory/HeightsAndTheta/Heights/HeightKernels/PRestCutPsiFlag.lean
+@@ -18,10 +18,10 @@
+     rw [map_sum]
+     refine Finset.sum_congr rfl fun α _ => ?_
+     rw [KRest.coeff_psiPoly]
+-    have h : coeff α P * ((coeff α (RestTerms.blockVandermonde f N) *
++    have h : P.coeff α * (((RestTerms.blockVandermonde f N).coeff α *
+         α.prod (fun _ e => (e.factorial : ℚ)) : ℚ) : ℝ) =
+-        (coeff α (RestTerms.blockVandermonde f N) *
+-          α.prod (fun _ e => (e.factorial : ℚ))) • coeff α P := by
++        ((RestTerms.blockVandermonde f N).coeff α *
++          α.prod (fun _ e => (e.factorial : ℚ))) • P.coeff α := by
+       rw [Rat.smul_def, mul_comm]
+     rw [h, ψ.map_smul, smul_eq_mul]
+     ring
