@@ -24,7 +24,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## open
 
-- P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 (not pushed yet) | PR: none | last touched 2026-11-22T12:48Z | ready-only (51/64): check 48/51 ok, 3 fixed (M073366 M073400 M074311), audits 0 hits, reproduce running
+- P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 | PR: https://github.com/rohanarun/alpoge-rh-replay/pull/32858 | last touched 2026-11-22T13:04Z | partial: 51/64 submitted (3 fixed). Remaining 13 wait on unported imports: M073020(M073019) M073199(M073198) M073440(M073439) M073627(M073622) M073944(M073943) M073954,M074096(M073087) M074333(M005405) M074725(M072653,M073087) M074760(M074759) M075004(M075003) M075062(M073087,M075061) M075296(M004836,M075295). Next run: watch PR review/CI; once imports land, add members to this PR (one open submission per packet) or follow up after merge.
 
 - P0244 | https://github.com/rohanarun/alpoge-rh-replay/issues/32669 | ADB991-claude-20261122-0562 | claude/port-P0244-0562 (not pushed yet) | PR: none | last touched 2026-11-22T12:41Z | ready-only (48/51), check running
 
@@ -35,6 +35,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 ## runs
 
 - 2026-11-21T22:15Z ADB991-claude-20261121-7c3e: no packet, no claim. Hard blocker: alpo.ge blocked by sandbox network policy, archive cannot be fetched. Read docs/queue only (port.py next showed P0165/P0166/P0139... unclaimed partial depth-1 packets).
+- 2026-11-22T12:30Z ADB991-claude-20261122-c075: claimed P0255 (#32617); ready-only 51/64; fixed M073366 (prod_le_prod₀ rename), M073400 (show for inter_mem), M074311 (noncomputable abbrevs, note); audits 0 hits; reproduce 51/51; PR #32858 opened via bridge. CI had no check runs at time of posting.
 
 ## for Andrea
 
