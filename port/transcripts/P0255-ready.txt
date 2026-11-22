@@ -1,0 +1,183 @@
+== archive: all 14 parts match parts.sha256
+== sources: all 51 packet and 94 import source hashes match
+== remaining: 13 members wait for unported imports and are not built: M073020 M073199 M073440 M073627 M073944 M073954 M074096 M074333 M074725 M074760 M075004 M075062 M075296
+== toolchain: Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release); Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842
+== patch M004075: patching file src/Development/AbelianVarietyTheory/Definitions/Foundations/IsHilbertSchmidtOfFiniteDimensional.lean
+== patch M006244: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/ExistsLinearEquivMapLatticeEq.lean
+== patch M006324: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/LengthCommensurableSpanSpanOfDetNeZero.lean
+== patch M006378: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/SignedLengthEqLogOrdFracDet.lean
+== patch M006379: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/SignedLengthMapEqLogOrdFracDet.lean
+== patch M006381: patching file src/Development/AbelianVarietyTheory/Proofs/CoherentCohomologyProofs/SignedLengthSpanEqOrdFracDet.lean
+== patch M063781: patching file src/Development/AbelianVarietyTheory/Proofs/FoundationProofs/SplitHeightSummableExpNegAbs.lean
+== patch M069757: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsSelfDualOfDualSubgroups.lean
+== patch M069777: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ExistsSmallDualLattices.lean
+== patch M073009: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/NormalOfInvMul.lean
+== patch M073157: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PartialFourierHermitianBlockUnitIndicator.lean
+== patch M073169: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/PeriodDataComparison.lean
+== patch M075178: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/VanishAtHodgeTateCocharacter.lean
+== patch M075422: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/WittVectorGaussNormUltrametric.lean
+== patch M094655: patching file src/Development/AbelianVarietyTheory/Proofs/TwistedOperators/HasSumTupleProdOfSummableNormComplex.lean
+== patch M073366: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/ProdTsumEqTsumIndicatorEnnreal.lean
+== patch M073400: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/QuadraticGaussIntegralStableOfDualLattice.lean
+== patch M074311: patching file src/Development/AbelianVarietyTheory/Proofs/InertiaEigenvalues/SumLatticePairsIndexRpowLe.lean
+== build: lake --no-cache build +<Module>:olean for each of 51 modules
+M072892 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyMeasAndReps exit=0 43.4s
+    ⚠ [18268/18268] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyMeasAndReps (4.5s)
+    Build completed successfully (18268 jobs).
+M072908 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartFrameProperties exit=0 19.6s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartFrameProperties (3.5s)
+    Build completed successfully (18258 jobs).
+M072912 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartProdInl exit=0 8.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartProdInl (3.1s)
+    Build completed successfully (18256 jobs).
+M072942 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormFrobeniusWindowSeriesTermMonoStatement exit=0 17.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormFrobeniusWindowSeriesTermMonoStatement (2.7s)
+    Build completed successfully (18256 jobs).
+M073010 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalOfInvMulStatement exit=0 10.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalOfInvMulStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M073012 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalisedPeriodAlgebraicEstimateStatement exit=0 16.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalisedPeriodAlgebraicEstimateStatement (2.8s)
+    Build completed successfully (18256 jobs).
+M073032 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotIsIntegralResidueInvSmallIntegerStatement exit=0 11.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotIsIntegralResidueInvSmallIntegerStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M073150 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierGLBlockUnitIndicatorStatement exit=0 11.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierGLBlockUnitIndicatorStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M073154 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockHasCompactSupportStatement exit=0 12.9s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockHasCompactSupportStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M073156 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockIsLocallyConstantStatement exit=0 12.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockIsLocallyConstantStatement (2.9s)
+    Build completed successfully (18256 jobs).
+M073158 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockUnitIndicatorStatement exit=0 12.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockUnitIndicatorStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M073170 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PeriodDataComparisonStatement exit=0 27.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PeriodDataComparisonStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M073287 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PowPrimeSubOneNormLeStatement exit=0 17.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PowPrimeSubOneNormLeStatement (3.1s)
+    Build completed successfully (18256 jobs).
+M073305 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PreimageDiagOneGeneralLinearEmbeddingIntegralGLS exit=0 14.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PreimageDiagOneGeneralLinearEmbeddingIntegralGLS (2.9s)
+    Build completed successfully (18256 jobs).
+M073366 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdTsumEqTsumIndicatorEnnreal exit=0 29.6s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdTsumEqTsumIndicatorEnnreal (3.1s)
+    Build completed successfully (18260 jobs).
+M073370 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProductLatticePositionsAndTerms exit=0 9.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProductLatticePositionsAndTerms (4.1s)
+    Build completed successfully (18256 jobs).
+M073387 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PsiKMulNLEqOneOnIntegralLattice exit=0 9.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PsiKMulNLEqOneOnIntegralLattice (3.6s)
+    Build completed successfully (18256 jobs).
+M073400 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice exit=0 13.7s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice (4.7s)
+    Build completed successfully (18258 jobs).
+M073411 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommute exit=0 8.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommute (2.0s)
+    Build completed successfully (18256 jobs).
+M073698 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RhoProdFiniteAlgebraWithInvolution exit=0 8.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RhoProdFiniteAlgebraWithInvolution (3.4s)
+    Build completed successfully (18256 jobs).
+M073838 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelfDualHermitianLatticeBasisExists exit=0 13.3s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelfDualHermitianLatticeBasisExists (3.0s)
+    Build completed successfully (18258 jobs).
+M074056 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2GeneratedWeylUnipotentStatement exit=0 13.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2GeneratedWeylUnipotentStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M074057 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2PresentationRelations exit=0 10.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2PresentationRelations (5.2s)
+    Build completed successfully (18256 jobs).
+M074216 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticeLeIntegralUnitsSubgroup exit=0 24.3s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticeLeIntegralUnitsSubgroup (3.7s)
+    Build completed successfully (18260 jobs).
+M074218 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticePairRelIndexIntegralUnits exit=0 8.1s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticePairRelIndexIntegralUnits (3.0s)
+    Build completed successfully (18260 jobs).
+M074226 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticeOrbitCountEqSumOrbits exit=0 9.3s
+    ✔ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticeOrbitCountEqSumOrbits (3.9s)
+    Build completed successfully (18260 jobs).
+M074228 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairOrbitsFiniteAndCardProd exit=0 10.8s
+    ⚠ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairOrbitsFiniteAndCardProd (5.3s)
+    Build completed successfully (18260 jobs).
+M074230 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairProjectionSmulUnits exit=0 10.0s
+    ✔ [18260/18260] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairProjectionSmulUnits (4.1s)
+    Build completed successfully (18260 jobs).
+M074300 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumCardSubspaces exit=0 18.3s
+    ⚠ [18258/18258] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumCardSubspaces (2.6s)
+    Build completed successfully (18258 jobs).
+M074311 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumLatticePairsIndexRpowLe exit=0 67.3s
+    ⚠ [18284/18284] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumLatticePairsIndexRpowLe (4.8s)
+    Build completed successfully (18284 jobs).
+M074512 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TestFunctionLocallyInvariant exit=0 11.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TestFunctionLocallyInvariant (3.1s)
+    Build completed successfully (18256 jobs).
+M074705 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TorusOrbitLatticeCountBoundedByRhoStatement exit=0 11.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TorusOrbitLatticeCountBoundedByRhoStatement (2.8s)
+    Build completed successfully (18256 jobs).
+M074721 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceEqSumCoordsOfAlgEquivStatement exit=0 12.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceEqSumCoordsOfAlgEquivStatement (3.2s)
+    Build completed successfully (18256 jobs).
+M074741 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceTowerFiniteEtaleHermitianPairStatement exit=0 12.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceTowerFiniteEtaleHermitianPairStatement (3.0s)
+    Build completed successfully (18256 jobs).
+M074781 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TruncatedSetEmptyOutsideNormCosetStatement exit=0 11.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TruncatedSetEmptyOutsideNormCosetStatement (2.9s)
+    Build completed successfully (18256 jobs).
+M074903 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UUEqSumOverTorusOrbitsStatement exit=0 11.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UUEqSumOverTorusOrbitsStatement (2.9s)
+    Build completed successfully (18256 jobs).
+M074958 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockGlBorderedConjugationActionI exit=0 8.6s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockGlBorderedConjugationActionI (3.5s)
+    Build completed successfully (18256 jobs).
+M074961 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockIsLocallyConstantCompactSuppStatement exit=0 11.5s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockIsLocallyConstantCompactSuppStatement (3.1s)
+    Build completed successfully (18256 jobs).
+M074962 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockLiftBlockMatrixWithLastBasis exit=0 8.2s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockLiftBlockMatrixWithLastBasis (3.0s)
+    Build completed successfully (18256 jobs).
+M074965 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorHermitianBlockLiftLastBasisOfNormLeStatement exit=0 11.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorHermitianBlockLiftLastBasisOfNormLeStatement (2.6s)
+    Build completed successfully (18256 jobs).
+M074967 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorsMatchAtOfOneLtNormFirstMomentStatement exit=0 11.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorsMatchAtOfOneLtNormFirstMomentStatement (2.8s)
+    Build completed successfully (18256 jobs).
+M074978 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitMulMemIff exit=0 21.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitMulMemIff (4.3s)
+    Build completed successfully (18256 jobs).
+M074981 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitPrescribedResidueReducedFiniteAlgebraStatement exit=0 11.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitPrescribedResidueReducedFiniteAlgebraStatement (2.8s)
+    Build completed successfully (18256 jobs).
+M074990 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryActHermitianBlockDiagOneLiftLastBasisStatement exit=0 17.4s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryActHermitianBlockDiagOneLiftLastBasisStatement (2.8s)
+    Build completed successfully (18256 jobs).
+M075012 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryOrbitProperOfInvertibleKrylovColumnsStatement exit=0 15.1s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryOrbitProperOfInvertibleKrylovColumnsStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M075084 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticTraceEqAddStarStatement exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticTraceEqAddStarStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M075087 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedStandardAddCharConductorProperties exit=0 18.3s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedStandardAddCharConductorProperties (3.8s)
+    Build completed successfully (18256 jobs).
+M075179 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.VanishAtHodgeTateCocharacterStatement exit=0 20.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.VanishAtHodgeTateCocharacterStatement (3.4s)
+    Build completed successfully (18256 jobs).
+M075362 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilRepresentationExistsEtaleOfSubsingleton exit=0 12.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilRepresentationExistsEtaleOfSubsingleton (3.2s)
+    Build completed successfully (18256 jobs).
+M075408 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WindowSummedRowPowEqAdditiveSystemPowerSumStatement exit=0 11.7s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WindowSummedRowPowEqAdditiveSystemPowerSumStatement (3.3s)
+    Build completed successfully (18256 jobs).
+M075420 Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WittVectorGaussNormMul exit=0 20.0s
+    ⚠ [18256/18256] Built Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WittVectorGaussNormMul (3.1s)
+    Build completed successfully (18256 jobs).
+== done: 51 of 51 modules built
+
+== Elaborated audits (in the check tree, after building all 51 modules)
+lake env lean --run <repository>/port/reused_audit.lean <51 ready modules>
+reused-audit: 51 module(s), 0 hit(s)
+lake env lean --run <repository>/port/islattice_audit.lean <51 ready modules>
+islattice-audit: 51 module(s), 0 hit(s)

@@ -1,0 +1,686 @@
+{
+  "target": "P0255",
+  "issue": "https://github.com/rohanarun/alpoge-rh-replay/issues/32617",
+  "toolchain": "Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release)",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "started_utc": "2026-11-22T12:48:32.050143+00:00",
+  "ended_utc": "2026-11-22T13:02:09.318946+00:00",
+  "host": {
+    "cpu_count": 4,
+    "mem_total_kib": 16473744,
+    "peak_child_rss_kib": 6729780
+  },
+  "command": "lake --no-cache build +<Module>:olean, one run per module, in a fresh tree from the pinned archive plus port patches",
+  "patches": [
+    {
+      "id": "M004075",
+      "role": "import",
+      "patch_sha256": "6157bfe8ef103a564bee8b2757d6aef5a4dcfb7692a84c288910ab200c962abb"
+    },
+    {
+      "id": "M006244",
+      "role": "import",
+      "patch_sha256": "69bc7782fc8ebc2c2f3fc20ed0b555eb41dcd2c84d26d11ae4efd1fb22ed66f7"
+    },
+    {
+      "id": "M006324",
+      "role": "import",
+      "patch_sha256": "80dee6181acd09a71f29d30d9d2dfdb513fcc84c583d99715a943ae3fe321919"
+    },
+    {
+      "id": "M006378",
+      "role": "import",
+      "patch_sha256": "1e5b38ebb90f2240924808eb68df22b207356d406ab008f5f3529d0b8499856e"
+    },
+    {
+      "id": "M006379",
+      "role": "import",
+      "patch_sha256": "8bc9def70d05e7d376a22d0c845423778a430ccd58d49393b64731373aa1e8b7"
+    },
+    {
+      "id": "M006381",
+      "role": "import",
+      "patch_sha256": "9afc6f6897062b66ab7600a2bab026d8280547119a8028885b87cded59285836"
+    },
+    {
+      "id": "M063781",
+      "role": "import",
+      "patch_sha256": "67b925a4e6d9b1f46b17d934b2dd517eab1099647da78f6fbf3b1e48b3693b11"
+    },
+    {
+      "id": "M069757",
+      "role": "import",
+      "patch_sha256": "c10fe0664d94e80c418107152dc255e03ce620f0f87c63ca314c5d8a72a66174"
+    },
+    {
+      "id": "M069777",
+      "role": "import",
+      "patch_sha256": "b886fd2d3d0b2b7a1b0ef8f8778555199e16f7c12171d7146a23ee0b3fc149d4"
+    },
+    {
+      "id": "M073009",
+      "role": "import",
+      "patch_sha256": "875fc4cded69a6d8f952f757fe559f232795261928fd3661c3cd2819a0e5bfc4"
+    },
+    {
+      "id": "M073157",
+      "role": "import",
+      "patch_sha256": "7d14df5eb9b1a61b1d9e81006cfe7511cd40ff1575187db049a3b8da6edb5824"
+    },
+    {
+      "id": "M073169",
+      "role": "import",
+      "patch_sha256": "f9eb84c5df1374e3a4dea6d5c3122b98a49182c3872f2399f9f3a665d1975155"
+    },
+    {
+      "id": "M075178",
+      "role": "import",
+      "patch_sha256": "59576af9c3b18b02339feee0fef744864ceaff47cc27468233672c67b935b28e"
+    },
+    {
+      "id": "M075422",
+      "role": "import",
+      "patch_sha256": "c8ef872afda2e1094f43cdd72cf017bf0ca8b88f78a3e48b4a83f5a646332b12"
+    },
+    {
+      "id": "M094655",
+      "role": "import",
+      "patch_sha256": "74ddbebb5d1e033b3819653447602dc7f894c92aaa8da3dc75ba1c371156fb9d"
+    },
+    {
+      "id": "M073366",
+      "role": "target",
+      "patch_sha256": "5f4ea70deba1e7fcb3161bcb0edf2f71f03851d357d739982711ff60dd94bb39"
+    },
+    {
+      "id": "M073400",
+      "role": "target",
+      "patch_sha256": "e0d618e36e3d82caeb24b65719dfd7e16418dcbfa89ffb7ca0972e413b36e8f4"
+    },
+    {
+      "id": "M074311",
+      "role": "target",
+      "patch_sha256": "9f18f0addc016501115fd9a6d3e50c6b849e42cf145e02f84f1b995ffed6d493"
+    }
+  ],
+  "build_log_sha256": "6e0ae6bf7db1e3f367b80a2c9c5261b0caca0d2e700b5616df7825a921ebb4d0",
+  "modules": [
+    {
+      "id": "M072892",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NonemptyMeasAndReps",
+      "source_sha256": "100e1d5d2c45c9e2976d60529b7cc1db05bd0ec0895dad35d5f529a89ec5d8f6",
+      "patch_sha256": null,
+      "built_source_sha256": "100e1d5d2c45c9e2976d60529b7cc1db05bd0ec0895dad35d5f529a89ec5d8f6",
+      "olean_sha256": "4a4854bdaabed3daaca096fd4fcce083c56454c9fdf44e68bb91cb9283f82fd8",
+      "log_sha256": "c275d03518671f1fc6e3424f1cb4657b6a68a3107448c4c105c8c3d8292e3c0c",
+      "exit_code": 0,
+      "seconds": 43.4
+    },
+    {
+      "id": "M072908",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartFrameProperties",
+      "source_sha256": "ff0d030ffee2384c965fb0a6495508b1bf04aa1157b16ece5341ccd222e406c0",
+      "patch_sha256": null,
+      "built_source_sha256": "ff0d030ffee2384c965fb0a6495508b1bf04aa1157b16ece5341ccd222e406c0",
+      "olean_sha256": "0653d77c2c510c927a8cbee5a9b977d441032f294ed0c2b60a724439abbb820e",
+      "log_sha256": "3582d32d4ecc0dba9f79dbabbeaa1cc1a40becee61530f4d4cde9726dce2d471",
+      "exit_code": 0,
+      "seconds": 19.6
+    },
+    {
+      "id": "M072912",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormCharacterOnIdempotentPartProdInl",
+      "source_sha256": "6d7c6063218e8524de206a50935bd9fd902c97c233e3f64638c55a075be92dd2",
+      "patch_sha256": null,
+      "built_source_sha256": "6d7c6063218e8524de206a50935bd9fd902c97c233e3f64638c55a075be92dd2",
+      "olean_sha256": "cdaad35fff9299fdebbda96636610c530607a597d34cac7968801bf58f49004c",
+      "log_sha256": "768146d0fd46d41836baec1be4f18283f757e98b440507da9aab1eb55310aa52",
+      "exit_code": 0,
+      "seconds": 8.5
+    },
+    {
+      "id": "M072942",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormFrobeniusWindowSeriesTermMonoStatement",
+      "source_sha256": "d9d95e2a941351391aae65675b1f3c7e807ad08fd02dc5b28cc8373dea546eab",
+      "patch_sha256": null,
+      "built_source_sha256": "d9d95e2a941351391aae65675b1f3c7e807ad08fd02dc5b28cc8373dea546eab",
+      "olean_sha256": "b15d29391906f88995aa41dd8bab44c6f53479bd6a0f88741fb899b692de1d0e",
+      "log_sha256": "225d6039ac957263982bf312c11604b5ecf70f145e82cc6542487f3e2d5e1e4c",
+      "exit_code": 0,
+      "seconds": 17.7
+    },
+    {
+      "id": "M073010",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalOfInvMulStatement",
+      "source_sha256": "c94eead0f1223508847747516fa473d0a8b588fd9897c66a2adb6dc2934e0250",
+      "patch_sha256": null,
+      "built_source_sha256": "c94eead0f1223508847747516fa473d0a8b588fd9897c66a2adb6dc2934e0250",
+      "olean_sha256": "ff5398e65515b825a46b1dde9deb5ff8b5be7443fea1ed045f4d3aa69ff7256f",
+      "log_sha256": "f5fb07c4b2d51ac2e4d896fe1aa26097c7e813141787c43e6b1bf3961c5d0e5d",
+      "exit_code": 0,
+      "seconds": 10.5
+    },
+    {
+      "id": "M073012",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NormalisedPeriodAlgebraicEstimateStatement",
+      "source_sha256": "7604e4458c3bf96f19feef576846fc5b7ce2cdcaea9c760163053b75938a636c",
+      "patch_sha256": null,
+      "built_source_sha256": "7604e4458c3bf96f19feef576846fc5b7ce2cdcaea9c760163053b75938a636c",
+      "olean_sha256": "aba1decf5bcb72fafe7545de0066b21d7052a14c83cdfee588f987f93bfcf044",
+      "log_sha256": "58413b25547eb4fe929fff2c43e8b79081245484b6c2380548e3f23ee42e6382",
+      "exit_code": 0,
+      "seconds": 16.6
+    },
+    {
+      "id": "M073032",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.NotIsIntegralResidueInvSmallIntegerStatement",
+      "source_sha256": "8379a9ebc57c74aef47da2eafdfab08902e14827d067eb6c38daa613ad9157a5",
+      "patch_sha256": null,
+      "built_source_sha256": "8379a9ebc57c74aef47da2eafdfab08902e14827d067eb6c38daa613ad9157a5",
+      "olean_sha256": "2da56995fbdcd661a4c6e17c284b0aebd1214c3c138cf47ed60ae1cc538da969",
+      "log_sha256": "f627a5c79bf72d9947547174ae661c3de8b32bd55b24397f5a87136c7d15abde",
+      "exit_code": 0,
+      "seconds": 11.4
+    },
+    {
+      "id": "M073150",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierGLBlockUnitIndicatorStatement",
+      "source_sha256": "a81652c92183b0dc88412b02168f03d187419139d85428556296b14ec3e8913d",
+      "patch_sha256": null,
+      "built_source_sha256": "a81652c92183b0dc88412b02168f03d187419139d85428556296b14ec3e8913d",
+      "olean_sha256": "c7be428c0afc3892c3b657a5e2d07000ec7c48b2fc9f3583f2c1348b969d565a",
+      "log_sha256": "9dc060ee9c431a47d2580ca6fba147b0395dfa0d6e0cc64c6f89ca98ff91f620",
+      "exit_code": 0,
+      "seconds": 11.1
+    },
+    {
+      "id": "M073154",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockHasCompactSupportStatement",
+      "source_sha256": "50c11df7d9e35f39c07188ea1634e99c335d9d3cab8604eca93915bc67e00be7",
+      "patch_sha256": null,
+      "built_source_sha256": "50c11df7d9e35f39c07188ea1634e99c335d9d3cab8604eca93915bc67e00be7",
+      "olean_sha256": "0f4bc91f3a5a52ebe94b642ab1789102e1724b30d0e87b855626b3cbba54a10b",
+      "log_sha256": "5178d877573449c7ff728a0a8e6400e666a8b7a2f499725dfb714851c9791562",
+      "exit_code": 0,
+      "seconds": 12.9
+    },
+    {
+      "id": "M073156",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockIsLocallyConstantStatement",
+      "source_sha256": "c9f8acdf8038355d1d11add02b8007754334d719f8a4584992663d6f590d30dc",
+      "patch_sha256": null,
+      "built_source_sha256": "c9f8acdf8038355d1d11add02b8007754334d719f8a4584992663d6f590d30dc",
+      "olean_sha256": "6466c920a68b7fa7d163cda38c0a51dbfe637e69081b507a02e861eea96af15e",
+      "log_sha256": "cb8347b5b12615589a9cacb57c9e8ac0bb956988ee9c49149789c905b78be314",
+      "exit_code": 0,
+      "seconds": 12.7
+    },
+    {
+      "id": "M073158",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PartialFourierHermitianBlockUnitIndicatorStatement",
+      "source_sha256": "bccda91f3d2bcecb0f4b02becfff95bef5ee9b5f1e7a6f1bbeafe41a6ef738d0",
+      "patch_sha256": null,
+      "built_source_sha256": "bccda91f3d2bcecb0f4b02becfff95bef5ee9b5f1e7a6f1bbeafe41a6ef738d0",
+      "olean_sha256": "4bf78e68dab778905ee039ad6f723b57159fd32eb587d8b704631c22d90912ea",
+      "log_sha256": "c351680065f433e5f4b1b6b370f4240aa11072808902d63aa1e25437468f112b",
+      "exit_code": 0,
+      "seconds": 12.5
+    },
+    {
+      "id": "M073170",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PeriodDataComparisonStatement",
+      "source_sha256": "18485bd9de5d2fc0a372856dadf5db9648e978d317328f56e139e998223d4a0a",
+      "patch_sha256": null,
+      "built_source_sha256": "18485bd9de5d2fc0a372856dadf5db9648e978d317328f56e139e998223d4a0a",
+      "olean_sha256": "ac8b6674162f9da96fec46f25a9f8fe58d1222c8977ca4ffb2e10802140ecbfb",
+      "log_sha256": "e7a131941094fe4a63679dde75bb2a048f0e5be345afd27421b41af066031a0e",
+      "exit_code": 0,
+      "seconds": 27.3
+    },
+    {
+      "id": "M073287",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PowPrimeSubOneNormLeStatement",
+      "source_sha256": "04c08bfa2164a7e5218982f3afa39bc9069edb2a2fe4a04901d4833b53e004a8",
+      "patch_sha256": null,
+      "built_source_sha256": "04c08bfa2164a7e5218982f3afa39bc9069edb2a2fe4a04901d4833b53e004a8",
+      "olean_sha256": "3b87b89bedc9348332160d37c5fafc7b115044facc605aca119bdb537c89da22",
+      "log_sha256": "c5a71b8dbfd14981db3713875835f8f9781c9453fdbf44d9d8680cede2fe489d",
+      "exit_code": 0,
+      "seconds": 17.4
+    },
+    {
+      "id": "M073305",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PreimageDiagOneGeneralLinearEmbeddingIntegralGLS",
+      "source_sha256": "41dc9099b0ee5d2c107751fec8c0674b890fafd9f9232d0ed4c7698321db54d8",
+      "patch_sha256": null,
+      "built_source_sha256": "41dc9099b0ee5d2c107751fec8c0674b890fafd9f9232d0ed4c7698321db54d8",
+      "olean_sha256": "b8d53ae3a3ed68da1bfc15854027fdd3d57ea4d94b3511529a1ab9b9e6044a97",
+      "log_sha256": "bcf5e9cc21564966bd32bcb9742adf0ccbf3f0b738b33d692a9b1d920952fa55",
+      "exit_code": 0,
+      "seconds": 14.3
+    },
+    {
+      "id": "M073366",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProdTsumEqTsumIndicatorEnnreal",
+      "source_sha256": "51bc73b5883120e1eb700bcb33d4f7a85fe49f88672ea11c4d6de1029f59f3da",
+      "patch_sha256": "5f4ea70deba1e7fcb3161bcb0edf2f71f03851d357d739982711ff60dd94bb39",
+      "built_source_sha256": "6119683d1945e03140b7bd3b7e703537e0d01637c89afee1b66ad18fb0171610",
+      "olean_sha256": "cb748b4337982a02aa0253b6cf193628e2f3e9b802fc67020c8ced0b3041fb19",
+      "log_sha256": "cb0bec1215a5c584f406fdc5cf118b40b0f08f51449ad8134753d604d8dfb948",
+      "exit_code": 0,
+      "seconds": 29.6
+    },
+    {
+      "id": "M073370",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ProductLatticePositionsAndTerms",
+      "source_sha256": "644c7b759f84c10f11b4c696b1f89159c6b50e3543da1f491018af41bbad3bdf",
+      "patch_sha256": null,
+      "built_source_sha256": "644c7b759f84c10f11b4c696b1f89159c6b50e3543da1f491018af41bbad3bdf",
+      "olean_sha256": "878eb4b85f318097b7d73a2cf6adf10f091607f8a56fa49d6afba2b54dc58746",
+      "log_sha256": "aa2101744a68763dbddca1069cc09c1006cbdab87e4bbf2ebabee5375756ba66",
+      "exit_code": 0,
+      "seconds": 9.3
+    },
+    {
+      "id": "M073387",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PsiKMulNLEqOneOnIntegralLattice",
+      "source_sha256": "bd8bb6b31b9147431b06bfc34621abbf42b2e37d264e92a30fa46b38bf6a5f01",
+      "patch_sha256": null,
+      "built_source_sha256": "bd8bb6b31b9147431b06bfc34621abbf42b2e37d264e92a30fa46b38bf6a5f01",
+      "olean_sha256": "272202be7ce7371d8ffae1ad262c466d1c699f1416b9ebf2780ac1cc36744099",
+      "log_sha256": "62d75eb61826614bae4a1d0ff29d99a7a245ff194e78b4a2b5b09c2dbaa8377e",
+      "exit_code": 0,
+      "seconds": 9.2
+    },
+    {
+      "id": "M073400",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticGaussIntegralStableOfDualLattice",
+      "source_sha256": "d1c49801f7cbcfbaac96979554553bf9b37cc7f9fbe494d3db1cbe550141620d",
+      "patch_sha256": "e0d618e36e3d82caeb24b65719dfd7e16418dcbfa89ffb7ca0972e413b36e8f4",
+      "built_source_sha256": "64afc0baa6819ee23bb8f05cb1eecc483a37d98f50529089dae027ec4628bbaf",
+      "olean_sha256": "ea3769d6ed6a6483e35c859dd6c620bc0d6b0a65162dc68a8efcab2feedf3418",
+      "log_sha256": "fe4517a6700182cab6f11d31a0e3fb043abfa1fb2e2eab92969e998c488b6af9",
+      "exit_code": 0,
+      "seconds": 13.7
+    },
+    {
+      "id": "M073411",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.QuadraticWeilTorusMulUnipotentCommute",
+      "source_sha256": "2c2abc5a238cba4741ec09b02e7ba23592f313880888e285fbe27ab94ddd22a1",
+      "patch_sha256": null,
+      "built_source_sha256": "2c2abc5a238cba4741ec09b02e7ba23592f313880888e285fbe27ab94ddd22a1",
+      "olean_sha256": "ec40d3075866c2030f60534445af571e1fd23763e4c2c1f640aee2f8b3079789",
+      "log_sha256": "48aed0c52471d3e837caf05b89d80ee3d4e3dcfe730b71ae5a130e4f9b42c325",
+      "exit_code": 0,
+      "seconds": 8.1
+    },
+    {
+      "id": "M073698",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RhoProdFiniteAlgebraWithInvolution",
+      "source_sha256": "4c7ea724af7ef23e7cad90f2b98218d4de6d21766f367bda68f944ba5838542e",
+      "patch_sha256": null,
+      "built_source_sha256": "4c7ea724af7ef23e7cad90f2b98218d4de6d21766f367bda68f944ba5838542e",
+      "olean_sha256": "318e8443f192acf799463546d2cacac7e8e863c9246c0f7b32ec247ac4ae0171",
+      "log_sha256": "56bce79b78d1599a630d33058d5862486e2ebeeb465aa74aa68651169ea05ed3",
+      "exit_code": 0,
+      "seconds": 8.7
+    },
+    {
+      "id": "M073838",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SelfDualHermitianLatticeBasisExists",
+      "source_sha256": "cd8dc6468ac23fa992f47f8edbf5757b2eb4143fbad2040630c5bfa0fb2e6882",
+      "patch_sha256": null,
+      "built_source_sha256": "cd8dc6468ac23fa992f47f8edbf5757b2eb4143fbad2040630c5bfa0fb2e6882",
+      "olean_sha256": "77cb607873fee1fe8f46637c2e601b5b2d0e872ba9b273136752d7566fa4e58d",
+      "log_sha256": "d9be220cf412cce4231966eff264730fc9fa761dfe738155099027dff442f520",
+      "exit_code": 0,
+      "seconds": 13.3
+    },
+    {
+      "id": "M074056",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2GeneratedWeylUnipotentStatement",
+      "source_sha256": "afd255ceb87a934b99d0e5c5ad4a5a204493d0d4d695e2e9e89d1ab05c45d3e8",
+      "patch_sha256": null,
+      "built_source_sha256": "afd255ceb87a934b99d0e5c5ad4a5a204493d0d4d695e2e9e89d1ab05c45d3e8",
+      "olean_sha256": "472fa72fadc8996011ade03a8ffb912114319386901f70355af3a12ed243bf16",
+      "log_sha256": "971c7ee174923a813c4f11e9f01d4d6f83c9593da68c39abeaa61682b7f3c17a",
+      "exit_code": 0,
+      "seconds": 13.6
+    },
+    {
+      "id": "M074057",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Sl2PresentationRelations",
+      "source_sha256": "10b5fcfcbcef8e1358f6b7fc590bf85cbc3153309d126e71a1b3cd0db4f8fc71",
+      "patch_sha256": null,
+      "built_source_sha256": "10b5fcfcbcef8e1358f6b7fc590bf85cbc3153309d126e71a1b3cd0db4f8fc71",
+      "olean_sha256": "a12a72d58f4290ba531e42b7d90aedcece99940cff4ac97da8d8dc02dceb1ca0",
+      "log_sha256": "16643e7d0992120be491b5564f96208616735be02bb594908aae1a312fd0cbb9",
+      "exit_code": 0,
+      "seconds": 10.3
+    },
+    {
+      "id": "M074216",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticeLeIntegralUnitsSubgroup",
+      "source_sha256": "63c70438beb456c5941fb88cc7b90befbfa75304de2ef85b6fc483202a8c1370",
+      "patch_sha256": null,
+      "built_source_sha256": "63c70438beb456c5941fb88cc7b90befbfa75304de2ef85b6fc483202a8c1370",
+      "olean_sha256": "1d368a92fbf12782fc387c95f8eeb4389af2ca995b3821643d09bd123436660b",
+      "log_sha256": "744184e27439c320120d1afe3d723730a1a8f185bbae2c278305f2a330cf5b46",
+      "exit_code": 0,
+      "seconds": 24.3
+    },
+    {
+      "id": "M074218",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StabilizerStableLatticePairRelIndexIntegralUnits",
+      "source_sha256": "422f631774786a516c14e2f227de7b3b8ffa3a7df5639ddbed7693d5459ac1a0",
+      "patch_sha256": null,
+      "built_source_sha256": "422f631774786a516c14e2f227de7b3b8ffa3a7df5639ddbed7693d5459ac1a0",
+      "olean_sha256": "d801e70a36d7b79036374c7fc62e8e8263ecb6ca9b5e99542590563be70b5a41",
+      "log_sha256": "8f4d837c63fdabe25111baa455a293d36e0afd1617aeb2869f320cf18e8d8337",
+      "exit_code": 0,
+      "seconds": 8.1
+    },
+    {
+      "id": "M074226",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticeOrbitCountEqSumOrbits",
+      "source_sha256": "3a48a1161d1cb0b12495998e37a1c8ee81ee5ae0f1a914f16a45f66c06fbe5d1",
+      "patch_sha256": null,
+      "built_source_sha256": "3a48a1161d1cb0b12495998e37a1c8ee81ee5ae0f1a914f16a45f66c06fbe5d1",
+      "olean_sha256": "f2efc02bb5271b5a29dfdabfbe41e21b54c7341f8f5ae887010f17785bd3f9c4",
+      "log_sha256": "441ae4d01ae6162df11fb20502318b543f25800f401737e78182ec2883037366",
+      "exit_code": 0,
+      "seconds": 9.3
+    },
+    {
+      "id": "M074228",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairOrbitsFiniteAndCardProd",
+      "source_sha256": "7b5adaab57b2614a4be802f28c0f7f1c3850414647b0626d3196adaaf3509bb9",
+      "patch_sha256": null,
+      "built_source_sha256": "7b5adaab57b2614a4be802f28c0f7f1c3850414647b0626d3196adaaf3509bb9",
+      "olean_sha256": "fd0b0dce016eecfd5df8d253370c60544827539aaedca417dc85c3b6b2d950f8",
+      "log_sha256": "694507205b05b4d96ae0c3c9c7adffd21d6453a2eed465180c8cd04e14b96a17",
+      "exit_code": 0,
+      "seconds": 10.8
+    },
+    {
+      "id": "M074230",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.StableLatticePairProjectionSmulUnits",
+      "source_sha256": "cbee8c76fea27b18050d0c9c6bd29a7bfd6f96df9e30da384bfaa1fc7319bfe4",
+      "patch_sha256": null,
+      "built_source_sha256": "cbee8c76fea27b18050d0c9c6bd29a7bfd6f96df9e30da384bfaa1fc7319bfe4",
+      "olean_sha256": "72ab9af988b7e2de9b624b6f81ee6200a332e40aff32a1bc111db9643297e86e",
+      "log_sha256": "f205c9a2840a03d5d2a3fff32ffab8776699235795f14f4d93fbeb8c36c1fdad",
+      "exit_code": 0,
+      "seconds": 10.0
+    },
+    {
+      "id": "M074300",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumCardSubspaces",
+      "source_sha256": "4bcb41c67f8d977061134249e78ce5f415980e86480cc6eee54b174e1720c21f",
+      "patch_sha256": null,
+      "built_source_sha256": "4bcb41c67f8d977061134249e78ce5f415980e86480cc6eee54b174e1720c21f",
+      "olean_sha256": "67da7a88cc40d53f6a38b4af36cfd87e53836bd85db535c3303c0d10dfc6e133",
+      "log_sha256": "e8c03c4e4230ef83eb327dd67100d1d7418df5b2dc3937dcbc1faabe24289a68",
+      "exit_code": 0,
+      "seconds": 18.3
+    },
+    {
+      "id": "M074311",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumLatticePairsIndexRpowLe",
+      "source_sha256": "79df901bb57c39d40fff919e3c14625caca83393e6fbfae88f6f50fcf4378deb",
+      "patch_sha256": "9f18f0addc016501115fd9a6d3e50c6b849e42cf145e02f84f1b995ffed6d493",
+      "built_source_sha256": "0f2f6ed505f62a09df413b42b2788eed55932cfbff316c86d93e425f25dd7df8",
+      "olean_sha256": "7dd6674f722f5540f07704090f89c22572f09a8205fa6b6341d04e3989161ad0",
+      "log_sha256": "5b7c60e19631deeebfccb719d4c5dcba023c893a91d473165379442651b34333",
+      "exit_code": 0,
+      "seconds": 67.3
+    },
+    {
+      "id": "M074512",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TestFunctionLocallyInvariant",
+      "source_sha256": "385e05e38257613a8b134e144b4a0d2bc1f0068ef23824c76c1d48f2448cdcfe",
+      "patch_sha256": null,
+      "built_source_sha256": "385e05e38257613a8b134e144b4a0d2bc1f0068ef23824c76c1d48f2448cdcfe",
+      "olean_sha256": "3df1f383a77435886f797484db1e365137d5b7a31d14540abb62f3aba7fc66dc",
+      "log_sha256": "6cadd5d0cc7eedef577e741e0aee6261f1e6141ffc62a12c39227569df5073c5",
+      "exit_code": 0,
+      "seconds": 11.7
+    },
+    {
+      "id": "M074705",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TorusOrbitLatticeCountBoundedByRhoStatement",
+      "source_sha256": "ef1ecbd88dc69e03bce8ad7fa07aa2884ad06de6c14691f1910b69ad12a98aba",
+      "patch_sha256": null,
+      "built_source_sha256": "ef1ecbd88dc69e03bce8ad7fa07aa2884ad06de6c14691f1910b69ad12a98aba",
+      "olean_sha256": "7cf0f561f4a60a9a27330627535a3306985b7ef8011e32a7fada9b75feb7c399",
+      "log_sha256": "5e28501789e24b2ad5a65a6b92161aba369f70a0420b6c912b4e8d2be6cef1e3",
+      "exit_code": 0,
+      "seconds": 11.3
+    },
+    {
+      "id": "M074721",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceEqSumCoordsOfAlgEquivStatement",
+      "source_sha256": "6af636f37b4ea9ebd9b90fb1f912a58101f92661977d506d574a6bea62ff4531",
+      "patch_sha256": null,
+      "built_source_sha256": "6af636f37b4ea9ebd9b90fb1f912a58101f92661977d506d574a6bea62ff4531",
+      "olean_sha256": "4e0de01cf4e3fa2c2d68695c6bc1c3a450a94072055a448be8da6fc2d1311c53",
+      "log_sha256": "eae0c554712234bc78b185f0352d218279de99ce0e492b2e540baa7dfe4f1e20",
+      "exit_code": 0,
+      "seconds": 12.1
+    },
+    {
+      "id": "M074741",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TraceTowerFiniteEtaleHermitianPairStatement",
+      "source_sha256": "87e3aae764b92aa425e6319320acab77b8431653a20ca4f6ff965f997dad6af7",
+      "patch_sha256": null,
+      "built_source_sha256": "87e3aae764b92aa425e6319320acab77b8431653a20ca4f6ff965f997dad6af7",
+      "olean_sha256": "e5c78ceefcd8b49cf9197b2344930476483ac5a4b741c8b2a60224a26ffeac87",
+      "log_sha256": "9ebc7a916277b2e0f40a24605152c4cf86507d75343b53aa0507bce65a659a24",
+      "exit_code": 0,
+      "seconds": 12.3
+    },
+    {
+      "id": "M074781",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TruncatedSetEmptyOutsideNormCosetStatement",
+      "source_sha256": "e26363392faa4fb91c18470e342d2a5a921f72d0617831f5387a05bd1601ba46",
+      "patch_sha256": null,
+      "built_source_sha256": "e26363392faa4fb91c18470e342d2a5a921f72d0617831f5387a05bd1601ba46",
+      "olean_sha256": "67cc70bf26f5e3d298200b2e9e87ceb09251db5228f76dd4a69a616467e8439f",
+      "log_sha256": "08d156b4742444022a53898c163fa6b83162e38838b0e26f9982eff10a6d4243",
+      "exit_code": 0,
+      "seconds": 11.1
+    },
+    {
+      "id": "M074903",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UUEqSumOverTorusOrbitsStatement",
+      "source_sha256": "ada344869e7b3104bcf9cddbf3b57d7482baf44c78daba4c5ad8f829fdf00b56",
+      "patch_sha256": null,
+      "built_source_sha256": "ada344869e7b3104bcf9cddbf3b57d7482baf44c78daba4c5ad8f829fdf00b56",
+      "olean_sha256": "8f782fbb63c5fd46973ded66a054ae9b0ca6bb4f2b34958735a5c429f4acf203",
+      "log_sha256": "ee77e178dba46f9cd6a98efd7b4e4a1a47f285edcf5051f7c9ec4ef56d548df3",
+      "exit_code": 0,
+      "seconds": 11.1
+    },
+    {
+      "id": "M074958",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockGlBorderedConjugationActionI",
+      "source_sha256": "fb57ec0404aa0897ff4d1b189c9f7d4956968098cd5995e1213d261415a1dc05",
+      "patch_sha256": null,
+      "built_source_sha256": "fb57ec0404aa0897ff4d1b189c9f7d4956968098cd5995e1213d261415a1dc05",
+      "olean_sha256": "f96850eb382f576baafd7113d72d4813978909243d1f7d2ee89e2ae7b2d12294",
+      "log_sha256": "e9c0e6b23a920f3f8411d67b47ce0dbf2379413517db8da7b59aa99c95c116ba",
+      "exit_code": 0,
+      "seconds": 8.6
+    },
+    {
+      "id": "M074961",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockIsLocallyConstantCompactSuppStatement",
+      "source_sha256": "3dbf44dd10103c925b4f45cda8afcce0ef424b20527bc8d84940cf5ee2083986",
+      "patch_sha256": null,
+      "built_source_sha256": "3dbf44dd10103c925b4f45cda8afcce0ef424b20527bc8d84940cf5ee2083986",
+      "olean_sha256": "99ad9fc3dbdec4cf386b84759f0880d6cb9d4fc13678fd5d4d36cb1a86813d6e",
+      "log_sha256": "19cc75b237d08c6bae47290a0e568fa6339459b7a44db111ec8e72679b181bdb",
+      "exit_code": 0,
+      "seconds": 11.5
+    },
+    {
+      "id": "M074962",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorGLBlockLiftBlockMatrixWithLastBasis",
+      "source_sha256": "a7e843c1ed5c2be554fdd47196fd0302f6e5396b49f6d5ed1636bb704d8d8f6d",
+      "patch_sha256": null,
+      "built_source_sha256": "a7e843c1ed5c2be554fdd47196fd0302f6e5396b49f6d5ed1636bb704d8d8f6d",
+      "olean_sha256": "e5bea2a01b279874122628b76bbc85b4e015efec2e3a778675ccbb041a8944d5",
+      "log_sha256": "b08c83fb33cd2d05b87ea7437f28b1cf0aa0975dded00579bfaafe2d7c9376bb",
+      "exit_code": 0,
+      "seconds": 8.2
+    },
+    {
+      "id": "M074965",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorHermitianBlockLiftLastBasisOfNormLeStatement",
+      "source_sha256": "1ff6fe7b717d54836d3cf48310aa9ceea57b07d929cfa5fa25a4f3c8fb12ac7e",
+      "patch_sha256": null,
+      "built_source_sha256": "1ff6fe7b717d54836d3cf48310aa9ceea57b07d929cfa5fa25a4f3c8fb12ac7e",
+      "olean_sha256": "2bafc3d28b3c50111e0903e8f727c9e72cd85dce28a0b6826fe697a2610adedd",
+      "log_sha256": "2822d987b6f7f119f1eded53e128c0b7dd26184ca99093db535b2f0040fb2038",
+      "exit_code": 0,
+      "seconds": 11.4
+    },
+    {
+      "id": "M074967",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitIndicatorsMatchAtOfOneLtNormFirstMomentStatement",
+      "source_sha256": "2deb465af032359ebb7fc7c4aa85b939b55fdfdb1327e5d86cf5a8aed1fe43f4",
+      "patch_sha256": null,
+      "built_source_sha256": "2deb465af032359ebb7fc7c4aa85b939b55fdfdb1327e5d86cf5a8aed1fe43f4",
+      "olean_sha256": "84dfbc3f6cc51a4f61db97d91986b1a25985a06909361b7e86701d6883aa6802",
+      "log_sha256": "65909014da16bec56845cc5c20bbc1396c2bdb0b082ead60d05bc7044d39a245",
+      "exit_code": 0,
+      "seconds": 11.1
+    },
+    {
+      "id": "M074978",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitMulMemIff",
+      "source_sha256": "fc991eaca4099d10bebe25eea5238613b4731a31a83d135fa5525a347136bbe5",
+      "patch_sha256": null,
+      "built_source_sha256": "fc991eaca4099d10bebe25eea5238613b4731a31a83d135fa5525a347136bbe5",
+      "olean_sha256": "1eb82bce8bd6478aee0dfcdd451c150a26c95de343452a4ba320fcb19eef3a04",
+      "log_sha256": "93520a94f9fc065751204e91c3bd7b87e5bb95a53a946acb1bf9b5876faa45be",
+      "exit_code": 0,
+      "seconds": 21.3
+    },
+    {
+      "id": "M074981",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitPrescribedResidueReducedFiniteAlgebraStatement",
+      "source_sha256": "c3060d2a322e85a25afa42e0a6845ab4fdbc5a5783c19d92c588259f60c524d4",
+      "patch_sha256": null,
+      "built_source_sha256": "c3060d2a322e85a25afa42e0a6845ab4fdbc5a5783c19d92c588259f60c524d4",
+      "olean_sha256": "d79e9c4170716a7ff3bdaa446802bddb7d79b1afb5c36146136cb52bfe918cbc",
+      "log_sha256": "9cde6bf84cf715bd871c5ead9bd1ba967ac0d0d2ee94a5355d3e33d081ef0faa",
+      "exit_code": 0,
+      "seconds": 11.0
+    },
+    {
+      "id": "M074990",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryActHermitianBlockDiagOneLiftLastBasisStatement",
+      "source_sha256": "88d27923dd347ae52a01fdacccee3136e776e30c438d7b219983f1d4f90eb379",
+      "patch_sha256": null,
+      "built_source_sha256": "88d27923dd347ae52a01fdacccee3136e776e30c438d7b219983f1d4f90eb379",
+      "olean_sha256": "9c49b27564779db8ab47bb284209aafe000fb1a4348ad97a101b01afb607b14b",
+      "log_sha256": "1c7f5037d62238ca5890e658b02f5c22898b62fa737af23bfef4a119b667405a",
+      "exit_code": 0,
+      "seconds": 17.4
+    },
+    {
+      "id": "M075012",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnitaryOrbitProperOfInvertibleKrylovColumnsStatement",
+      "source_sha256": "c7cbd05ccee008fb18a0cb8a9aab43bee6a11c59326d969b349e98f270b0d209",
+      "patch_sha256": null,
+      "built_source_sha256": "c7cbd05ccee008fb18a0cb8a9aab43bee6a11c59326d969b349e98f270b0d209",
+      "olean_sha256": "0945330fefd93c7797b2c742a526a943b17b7fe163978a24fb6abd94f4206445",
+      "log_sha256": "e6b43a11c6c16706c01a82da166ea8cef29100c99b527707c84659c58c102263",
+      "exit_code": 0,
+      "seconds": 15.1
+    },
+    {
+      "id": "M075084",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticTraceEqAddStarStatement",
+      "source_sha256": "60ed0904574a9eda646e99475a2b88c7c04a00981d5d81e74c10e097662195af",
+      "patch_sha256": null,
+      "built_source_sha256": "60ed0904574a9eda646e99475a2b88c7c04a00981d5d81e74c10e097662195af",
+      "olean_sha256": "d63e221a934078613749d0d98ab835ead6d0aac4c78ccc5f45bc4cfe4eab7b0a",
+      "log_sha256": "cef652b614d043f41f633fcdc3b8e27e5690f8ae517129a5d5105ccfa6dfce4b",
+      "exit_code": 0,
+      "seconds": 12.0
+    },
+    {
+      "id": "M075087",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedStandardAddCharConductorProperties",
+      "source_sha256": "2692d9aa4396ff131c26d2ece5fde8bbf3af55f09a69630a6ac8e61d0af81ef8",
+      "patch_sha256": null,
+      "built_source_sha256": "2692d9aa4396ff131c26d2ece5fde8bbf3af55f09a69630a6ac8e61d0af81ef8",
+      "olean_sha256": "0913c8bc64cbd736b0759669f41b3e5141f9cf17546814dd7c15fb92d5be12f8",
+      "log_sha256": "40e01435776d3cf85b6735ce25951c66a846c573d2fa23ba79bebe4928367709",
+      "exit_code": 0,
+      "seconds": 18.3
+    },
+    {
+      "id": "M075179",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.VanishAtHodgeTateCocharacterStatement",
+      "source_sha256": "6599ccd96effd72cea7fca1f1c69f3bbaebb1c1700d4e5b988e9b48ff852a017",
+      "patch_sha256": null,
+      "built_source_sha256": "6599ccd96effd72cea7fca1f1c69f3bbaebb1c1700d4e5b988e9b48ff852a017",
+      "olean_sha256": "e2aa51a3c2fa59a0835c42a6b67bc6ae23d752a4d54ea149b93b258e890d048c",
+      "log_sha256": "c2b8e60de1ac47840094ce270ccada1a7899762001c227c5b34daf7c90afad5f",
+      "exit_code": 0,
+      "seconds": 20.0
+    },
+    {
+      "id": "M075362",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilRepresentationExistsEtaleOfSubsingleton",
+      "source_sha256": "8416f0970258fd167848134bd025801296d3d510ca896e6d3a32397c8821a86c",
+      "patch_sha256": null,
+      "built_source_sha256": "8416f0970258fd167848134bd025801296d3d510ca896e6d3a32397c8821a86c",
+      "olean_sha256": "a890fae7efed5e2905fd082c9aad7c850b16c3c3c411f5259d72fe7f631e5dc4",
+      "log_sha256": "fd1cedfa584eda38615baecc5a0a7dd543c55a78df49b45aefe3272653db8f1e",
+      "exit_code": 0,
+      "seconds": 12.0
+    },
+    {
+      "id": "M075408",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WindowSummedRowPowEqAdditiveSystemPowerSumStatement",
+      "source_sha256": "87456ae0076651db5499c14c3757787ad2a1a442f0b6a29ebe2d0404ca68b6e8",
+      "patch_sha256": null,
+      "built_source_sha256": "87456ae0076651db5499c14c3757787ad2a1a442f0b6a29ebe2d0404ca68b6e8",
+      "olean_sha256": "a3e71b390476cc427ca302ff4c49e570cbd8fd134afc3ac2f14caf35f40bfd13",
+      "log_sha256": "de851f59068526cad22a273f5ebf9ebd8810f0e484efb88c097fd5faa1fdeb7d",
+      "exit_code": 0,
+      "seconds": 11.7
+    },
+    {
+      "id": "M075420",
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WittVectorGaussNormMul",
+      "source_sha256": "8e95d7e886f0ebf4f4c482900c93fda25557bc0bf1a16f5743f60024b1c165aa",
+      "patch_sha256": null,
+      "built_source_sha256": "8e95d7e886f0ebf4f4c482900c93fda25557bc0bf1a16f5743f60024b1c165aa",
+      "olean_sha256": "3974098db2a7a31569586a00577046ef22d9c51857f36f84ec2c6d1e235136b0",
+      "log_sha256": "ef81c180a44ec2d1735b027a3cb9604e6ae46f5b92078287c001d565ba1cca67",
+      "exit_code": 0,
+      "seconds": 20.0
+    }
+  ],
+  "remaining": [
+    "M073020",
+    "M073199",
+    "M073440",
+    "M073627",
+    "M073944",
+    "M073954",
+    "M074096",
+    "M074333",
+    "M074725",
+    "M074760",
+    "M075004",
+    "M075062",
+    "M075296"
+  ]
+}
