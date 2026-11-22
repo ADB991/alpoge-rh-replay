@@ -1,0 +1,15 @@
+{
+ "request_file": "20261122T124559Z-claim-P0257.json",
+ "processed_at": "2026-11-22T12:46:18Z",
+ "request": {
+  "type": "issue",
+  "title": "Port P0257",
+  "body": "Porting this packet to the target in port/target.json. See PORTING.md. Session: ADB991-claude-20261122-ae30"
+ },
+ "status": 201,
+ "ok": true,
+ "html_url": "https://github.com/rohanarun/alpoge-rh-replay/issues/32733",
+ "id": 6542551871,
+ "number": 32733,
+ "created_at": "2026-11-22T12:46:19Z"
+}
