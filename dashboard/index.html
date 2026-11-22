@@ -59,6 +59,11 @@
   #rate-details { margin-top: 8px; }
   #rate-details summary { cursor: pointer; color: var(--accent); }
   #error { color: #dc2626; }
+  .avatar { width: 22px; height: 22px; border-radius: 50%; vertical-align: middle; margin-right: 6px; border: 1px solid var(--border); background: var(--card); object-fit: cover; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .chip { display: inline-flex; align-items: center; background: var(--card); border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px 3px 4px; font-size: 0.85rem; text-decoration: none; color: var(--fg); }
+  .chip:hover { border-color: var(--c4); }
+  .chip .cnt { color: var(--muted); margin-left: 5px; font-variant-numeric: tabular-nums; }
 </style>
 </head>
 <body>
@@ -85,8 +90,9 @@
     <div id="port-depths" style="margin-top:14px"></div>
     <div id="port-history-section" hidden>
       <h3 style="font-size:1rem;margin:20px 0 6px">Live modules ported to Lean 4.36 over time</h3>
-      <p class="sub">Cumulative live (non-pruned) modules in <code>port/patches/</code> from git history.</p>
+      <p class="sub">Cumulative live (non-pruned) modules in <code>port/patches/</code> from git history, with contributor avatars on major landings.</p>
       <div id="port-history-chart"></div>
+      <div class="chips" id="port-contributors"></div>
     </div>
     <div id="pruning-chart-section" hidden>
       <h3 style="font-size:1rem;margin:20px 0 6px">Proof Pruning &amp; Simplification Hillclimb</h3>
@@ -254,7 +260,67 @@ function renderRate(history, remaining) {
   el("rate-stats").insertAdjacentHTML("beforeend", card(estimate, "projected full module coverage (UTC)"));
   el("rate-note").textContent = note + " Final proof verification requires a separate end-to-end replay and audit.";
 }
-fetch("data.json")
+function avatarUrl(user) {
+  return "https://github.com/" + encodeURIComponent(user) + ".png?size=48";
+}
+function portHistorySvg(hist) {
+  var W = 920, H = 250, padL = 4, padR = 76, padT = 26, padB = 26;
+  var iw = W - padL - padR, ih = H - padT - padB;
+  var times = hist.map(function (p) { return Date.parse(p.t); });
+  var t0 = Math.min.apply(null, times), t1 = Math.max.apply(null, times);
+  var vmax = Math.max.apply(null, hist.map(function (p) { return p.ported; })) || 1;
+  function X(t, i) {
+    var frac = t1 > t0 ? (t - t0) / (t1 - t0) : (hist.length > 1 ? i / (hist.length - 1) : 0.5);
+    return padL + frac * iw;
+  }
+  function Y(v) { return padT + ih - (v / vmax) * ih; }
+  var pts = hist.map(function (p, i) { return X(times[i], i).toFixed(1) + "," + Y(p.ported).toFixed(1); });
+  var last = hist[hist.length - 1];
+  var lastX = X(times[times.length - 1], hist.length - 1), lastY = Y(last.ported);
+  var sameDay = new Date(hist[0].t).toISOString().slice(0, 10) === new Date(last.t).toISOString().slice(0, 10);
+  function tlbl(t) {
+    var iso = new Date(t).toISOString();
+    return sameDay ? iso.slice(0, 10) + " " + iso.slice(11, 16) + " UTC" : iso.slice(0, 10);
+  }
+  // Pick up to 14 non-overlapping biggest jumps to pin contributor avatars onto the curve
+  var order = hist.map(function (p, i) { return i; }).sort(function (a, b) {
+    return (hist[b].added || 0) - (hist[a].added || 0);
+  });
+  var placed = [];
+  order.forEach(function (idx) {
+    if (placed.length >= 14) return;
+    var p = hist[idx];
+    if (!p.user) return;
+    var cx = X(times[idx], idx), cy = Y(p.ported);
+    var clash = placed.some(function (q) { return Math.hypot(q.cx - cx, q.cy - cy) < 28; });
+    if (!clash) placed.push({ idx: idx, cx: cx, cy: cy, p: p });
+  });
+  var defs = "<defs>" + placed.map(function (q, k) {
+    return '<clipPath id="pc' + k + '"><circle cx="' + q.cx.toFixed(1) + '" cy="' + q.cy.toFixed(1) + '" r="11"/></clipPath>';
+  }).join("") + "</defs>";
+  var s = '<svg viewBox="0 0 ' + W + " " + H + '" width="100%" role="img" ' +
+    'aria-label="Line chart of live modules ported to Lean 4.36 over time" style="display:block">' + defs;
+  if (hist.length > 1) {
+    s += '<polygon fill="var(--c4)" opacity="0.14" points="' + pts.join(" ") + " " +
+      lastX.toFixed(1) + "," + (padT + ih) + " " + padL + "," + (padT + ih) + '"/>';
+    s += '<polyline fill="none" stroke="var(--c4)" stroke-width="2.2" points="' + pts.join(" ") + '"/>';
+  }
+  placed.forEach(function (q, k) {
+    var u = q.p.user, tip = "@" + u + " (+" + fmt(q.p.added || 0) + " → " + fmt(q.p.ported) + " ported)";
+    s += '<a href="https://github.com/' + encodeURIComponent(u) + '" target="_blank" rel="noopener">' +
+      '<title>' + esc(tip) + '</title>' +
+      '<circle cx="' + q.cx.toFixed(1) + '" cy="' + q.cy.toFixed(1) + '" r="12" fill="var(--bg)" stroke="var(--c4)" stroke-width="1.5"/>' +
+      '<image href="' + esc(avatarUrl(u)) + '" x="' + (q.cx - 11).toFixed(1) + '" y="' + (q.cy - 11).toFixed(1) +
+      '" width="22" height="22" clip-path="url(#pc' + k + ')" preserveAspectRatio="xMidYMid slice"/></a>';
+  });
+  s += '<text x="' + (lastX + 16).toFixed(1) + '" y="' + (lastY + 4).toFixed(1) +
+    '" fill="var(--muted)" font-size="13" font-weight="700">' + esc(fmt(last.ported)) + "</text>";
+  s += '<text x="' + padL + '" y="' + (padT + ih - 6) + '" fill="var(--muted)" font-size="12">0</text>';
+  s += '<text x="' + padL + '" y="' + (H - 6) + '" fill="var(--muted)" font-size="12">' + esc(tlbl(hist[0].t)) + "</text>";
+  s += '<text x="' + (W - 2) + '" y="' + (H - 6) + '" fill="var(--muted)" font-size="12" text-anchor="end">' + esc(tlbl(last.t)) + "</text>";
+  return s + "</svg>";
+}
+fetch("data.json?t=" + Date.now())
   .then(function (r) { if (!r.ok) { throw new Error("data.json: HTTP " + r.status); } return r.json(); })
   .then(function (d) {
     var t = d.totals;
@@ -293,8 +359,14 @@ fetch("data.json")
 
       if (pt.history && pt.history.length > 0) {
         el("port-history-section").hidden = false;
-        var ph = pt.history.map(function (x) { return { t: x.t, with_evidence: x.ported }; });
-        el("port-history-chart").innerHTML = historySvg(ph).replace(/var\(--accent\)/g, "var(--c4)");
+        el("port-history-chart").innerHTML = portHistorySvg(pt.history);
+      }
+      if (pt.contributors && pt.contributors.length > 0) {
+        el("port-contributors").innerHTML = pt.contributors.slice(0, 14).map(function (c) {
+          return '<a class="chip" href="https://github.com/' + encodeURIComponent(c.contributor) + '" target="_blank" rel="noopener">' +
+            '<img class="avatar" src="' + esc(avatarUrl(c.contributor)) + '" alt="" loading="lazy"/>' +
+            esc(c.contributor) + '<span class="cnt">' + fmt(c.modules) + '</span></a>';
+        }).join("");
       }
       if (pr.milestones && pr.milestones.length > 0) {
         el("pruning-chart-section").hidden = false;
@@ -306,7 +378,11 @@ fetch("data.json")
           var color = m.status === "baseline" ? "var(--muted)" : (m.status === "merged" ? "var(--accent2)" : "var(--c3)");
           var opacity = m.status === "open-pr" ? "0.6" : "1";
           var detail = saved > 0 ? " (−" + savedPct + "%)" : "";
-          return '<div class="rowbar"><div class="lab" style="width:185px;font-size:0.86rem">' + esc(m.label) + '</div>' +
+          var av = m.user
+            ? '<a href="https://github.com/' + encodeURIComponent(m.user) + '" target="_blank" rel="noopener" title="@' + esc(m.user) + '">' +
+              '<img class="avatar" src="' + esc(avatarUrl(m.user)) + '" alt="@' + esc(m.user) + '" loading="lazy"/></a>'
+            : "";
+          return '<div class="rowbar"><div class="lab" style="width:215px;font-size:0.86rem;display:flex;align-items:center">' + av + '<span>' + esc(m.label) + '</span></div>' +
             '<div class="bar"><div style="width:' + pct + '%;background:' + color + ';opacity:' + opacity + '"></div></div>' +
             '<div class="val" style="width:190px">' + fmt(m.files) + " files" + detail + "</div></div>";
         }).join("");
@@ -350,7 +426,8 @@ fetch("data.json")
       card(fmt(p.total), "total packets");
 
     el("volunteers").querySelector("tbody").innerHTML = d.volunteers.map(function (v) {
-      return '<tr><td><a href="https://github.com/' + esc(v.contributor) + '">' + esc(v.contributor) +
+      return '<tr><td><a href="https://github.com/' + encodeURIComponent(v.contributor) + '" target="_blank" rel="noopener">' +
+        '<img class="avatar" src="' + esc(avatarUrl(v.contributor)) + '" alt="" loading="lazy"/>' + esc(v.contributor) +
         '</a></td><td class="num">' + fmt(v.modules) + '</td><td class="num">' + fmt(v.packets) +
         '</td><td class="num">' + fmt(v.receipts) + "</td></tr>";
     }).join("");

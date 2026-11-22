@@ -1,7 +1,7 @@
 {
   "ledger_history": null,
   "history": [],
-  "generated_at": "2026-11-22T11:47:04Z",
+  "generated_at": "2026-11-22T14:13:54Z",
   "snapshot": "2026-11-20T15:56:00Z",
   "scope": "project modules reachable from Main",
   "lean": "4.33.1",
@@ -9,9 +9,9 @@
   "totals": {
     "modules": 175187,
     "packets": 2858,
-    "with_evidence": 108675,
-    "remaining": 66512,
-    "percent_done": 62.03
+    "with_evidence": 108702,
+    "remaining": 66485,
+    "percent_done": 62.05
   },
   "pruning": {
     "total_archive": 175187,
@@ -22,32 +22,38 @@
       {
         "label": "Original archive",
         "files": 175187,
-        "status": "baseline"
+        "status": "baseline",
+        "user": "leanprover-community"
       },
       {
         "label": "Upstream main (pruned)",
         "files": 164463,
-        "status": "merged"
+        "status": "merged",
+        "user": "rohanarun"
       },
       {
         "label": "#55 (S1 unused decls)",
         "files": 150632,
-        "status": "open-pr"
+        "status": "open-pr",
+        "user": "james-shore"
       },
       {
         "label": "#58 (Wave 1 wrappers)",
         "files": 126605,
-        "status": "open-pr"
+        "status": "open-pr",
+        "user": "rohanarun"
       },
       {
         "label": "#61 (Wave 2 wrappers)",
         "files": 121061,
-        "status": "open-pr"
+        "status": "open-pr",
+        "user": "rohanarun"
       },
       {
         "label": "#63 (Antichain bundles)",
         "files": 10690,
-        "status": "open-pr"
+        "status": "open-pr",
+        "user": "rohanarun"
       }
     ]
   },
@@ -115,963 +121,1481 @@
     "history": [
       {
         "t": "2026-11-21T12:26:02Z",
-        "ported": 2301
+        "ported": 2301,
+        "added": 2301,
+        "user": "github-actions[bot]"
       },
       {
-        "t": "2026-11-21T15:46:16Z",
-        "ported": 2311
+        "t": "2026-11-21T15:46:28Z",
+        "ported": 2320,
+        "added": 9,
+        "user": "nico1996it"
       },
       {
         "t": "2026-11-21T15:47:02Z",
-        "ported": 2360
+        "ported": 2360,
+        "added": 17,
+        "user": "brysontang"
       },
       {
-        "t": "2026-11-21T16:18:16Z",
-        "ported": 2369
+        "t": "2026-11-21T16:22:56Z",
+        "ported": 2384,
+        "added": 15,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T16:23:15Z",
-        "ported": 2400
+        "t": "2026-11-21T16:23:24Z",
+        "ported": 2406,
+        "added": 6,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T16:37:08Z",
-        "ported": 2412
-      },
-      {
-        "t": "2026-11-21T16:58:41Z",
-        "ported": 2444
+        "t": "2026-11-21T16:58:26Z",
+        "ported": 2438,
+        "added": 11,
+        "user": "brysontang"
       },
       {
         "t": "2026-11-21T17:21:02Z",
-        "ported": 2457
+        "ported": 2457,
+        "added": 10,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T17:42:34Z",
-        "ported": 2465
+        "ported": 2465,
+        "added": 4,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T17:49:59Z",
-        "ported": 2491
+        "ported": 2491,
+        "added": 10,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T17:54:42Z",
-        "ported": 2509
+        "ported": 2509,
+        "added": 10,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T17:57:37Z",
-        "ported": 2523
+        "t": "2026-11-21T18:20:00Z",
+        "ported": 2539,
+        "added": 16,
+        "user": "matiasm15"
       },
       {
-        "t": "2026-11-21T18:20:53Z",
-        "ported": 2549
+        "t": "2026-11-21T18:21:07Z",
+        "ported": 2554,
+        "added": 5,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-21T18:24:15Z",
-        "ported": 2575
+        "t": "2026-11-21T18:24:37Z",
+        "ported": 2585,
+        "added": 10,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T19:00:40Z",
-        "ported": 2649
+        "ported": 2649,
+        "added": 64,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T19:20:04Z",
-        "ported": 2713
+        "ported": 2713,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T19:20:29Z",
-        "ported": 2738
+        "t": "2026-11-21T19:20:21Z",
+        "ported": 2728,
+        "added": 6,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T19:20:47Z",
-        "ported": 2752
+        "ported": 2752,
+        "added": 9,
+        "user": "TomMoeras"
       },
       {
         "t": "2026-11-21T19:21:05Z",
-        "ported": 2771
+        "ported": 2771,
+        "added": 11,
+        "user": "nico1996it"
       },
       {
-        "t": "2026-11-21T19:21:22Z",
-        "ported": 2792
+        "t": "2026-11-21T19:21:30Z",
+        "ported": 2793,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T19:21:47Z",
-        "ported": 2871
+        "ported": 2871,
+        "added": 64,
+        "user": "TomMoeras"
+      },
+      {
+        "t": "2026-11-21T19:21:55Z",
+        "ported": 2935,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T19:22:05Z",
-        "ported": 2999
+        "ported": 2999,
+        "added": 64,
+        "user": "roy7"
+      },
+      {
+        "t": "2026-11-21T19:22:13Z",
+        "ported": 3063,
+        "added": 64,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T19:22:21Z",
-        "ported": 3127
+        "ported": 3127,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T19:22:47Z",
-        "ported": 3193
+        "t": "2026-11-21T19:22:30Z",
+        "ported": 3191,
+        "added": 64,
+        "user": "zediir"
       },
       {
-        "t": "2026-11-21T19:22:59Z",
-        "ported": 3320
+        "t": "2026-11-21T19:22:39Z",
+        "ported": 3192,
+        "added": 1,
+        "user": "alectionary"
+      },
+      {
+        "t": "2026-11-21T19:22:55Z",
+        "ported": 3257,
+        "added": 64,
+        "user": "roy7"
       },
       {
         "t": "2026-11-21T19:23:12Z",
-        "ported": 3446
+        "ported": 3446,
+        "added": 64,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-21T19:23:37Z",
-        "ported": 3574
+        "t": "2026-11-21T19:23:20Z",
+        "ported": 3510,
+        "added": 64,
+        "user": "f10etclawdbot"
+      },
+      {
+        "t": "2026-11-21T19:23:29Z",
+        "ported": 3511,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T19:23:53Z",
-        "ported": 3638
+        "ported": 3638,
+        "added": 63,
+        "user": "rohanarun"
+      },
+      {
+        "t": "2026-11-21T19:24:02Z",
+        "ported": 3702,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T19:24:16Z",
-        "ported": 3766
+        "ported": 3766,
+        "added": 64,
+        "user": "TomMoeras"
+      },
+      {
+        "t": "2026-11-21T19:24:25Z",
+        "ported": 3767,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T19:24:33Z",
-        "ported": 3831
+        "ported": 3831,
+        "added": 64,
+        "user": "rohanarun"
+      },
+      {
+        "t": "2026-11-21T19:24:42Z",
+        "ported": 3895,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T19:35:32Z",
-        "ported": 3960
+        "ported": 3960,
+        "added": 64,
+        "user": "rohanarun"
+      },
+      {
+        "t": "2026-11-21T19:39:43Z",
+        "ported": 3961,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T19:44:34Z",
-        "ported": 4025
+        "ported": 4025,
+        "added": 64,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-21T20:08:18Z",
-        "ported": 4027
+        "t": "2026-11-21T19:49:26Z",
+        "ported": 4026,
+        "added": 1,
+        "user": "alectionary"
+      },
+      {
+        "t": "2026-11-21T20:29:39Z",
+        "ported": 4029,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T20:30:16Z",
-        "ported": 4093
+        "ported": 4093,
+        "added": 64,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T20:37:47Z",
-        "ported": 4157
+        "ported": 4157,
+        "added": 1,
+        "user": "nico1996it"
       },
       {
         "t": "2026-11-21T20:50:15Z",
-        "ported": 4231
+        "ported": 4231,
+        "added": 64,
+        "user": "surfyhou"
+      },
+      {
+        "t": "2026-11-21T20:50:19Z",
+        "ported": 4295,
+        "added": 64,
+        "user": "TomMoeras"
       },
       {
         "t": "2026-11-21T20:50:24Z",
-        "ported": 4359
+        "ported": 4359,
+        "added": 64,
+        "user": "surfyhou"
+      },
+      {
+        "t": "2026-11-21T20:50:29Z",
+        "ported": 4423,
+        "added": 64,
+        "user": "TomMoeras"
+      },
+      {
+        "t": "2026-11-21T20:50:34Z",
+        "ported": 4487,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T20:50:40Z",
-        "ported": 4551
+        "ported": 4551,
+        "added": 64,
+        "user": "f10etclawdbot"
+      },
+      {
+        "t": "2026-11-21T20:50:45Z",
+        "ported": 4615,
+        "added": 64,
+        "user": "zediir"
       },
       {
         "t": "2026-11-21T20:50:50Z",
-        "ported": 4679
+        "ported": 4679,
+        "added": 64,
+        "user": "rohanarun"
+      },
+      {
+        "t": "2026-11-21T20:50:56Z",
+        "ported": 4743,
+        "added": 64,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T20:51:01Z",
-        "ported": 4807
+        "ported": 4807,
+        "added": 64,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-21T20:51:16Z",
-        "ported": 4999
+        "t": "2026-11-21T20:51:06Z",
+        "ported": 4871,
+        "added": 64,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-21T20:51:27Z",
-        "ported": 5127
+        "t": "2026-11-21T20:51:22Z",
+        "ported": 5063,
+        "added": 64,
+        "user": "roy7"
       },
       {
         "t": "2026-11-21T20:51:37Z",
-        "ported": 5255
+        "ported": 5255,
+        "added": 64,
+        "user": "f10etclawdbot"
       },
       {
         "t": "2026-11-21T20:51:47Z",
-        "ported": 5377
+        "ported": 5377,
+        "added": 63,
+        "user": "roy7"
       },
       {
         "t": "2026-11-21T20:52:22Z",
-        "ported": 5569
+        "ported": 5569,
+        "added": 64,
+        "user": "zediir"
       },
       {
-        "t": "2026-11-21T21:17:18Z",
-        "ported": 5570
+        "t": "2026-11-21T21:42:04Z",
+        "ported": 5571,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T21:42:20Z",
-        "ported": 5574
+        "t": "2026-11-21T21:42:51Z",
+        "ported": 5635,
+        "added": 1,
+        "user": "maugomez77"
       },
       {
-        "t": "2026-11-21T21:42:59Z",
-        "ported": 5699
+        "t": "2026-11-21T21:43:48Z",
+        "ported": 5762,
+        "added": 62,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T21:43:37Z",
-        "ported": 5700
+        "t": "2026-11-21T21:44:54Z",
+        "ported": 5873,
+        "added": 48,
+        "user": "rohanarun"
       },
       {
-        "t": "2026-11-21T21:44:18Z",
-        "ported": 5825
+        "t": "2026-11-21T22:14:25Z",
+        "ported": 5939,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T21:45:15Z",
-        "ported": 5937
-      },
-      {
-        "t": "2026-11-21T22:14:29Z",
-        "ported": 6003
-      },
-      {
-        "t": "2026-11-21T22:14:38Z",
-        "ported": 6118
+        "t": "2026-11-21T22:14:33Z",
+        "ported": 6067,
+        "added": 64,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-21T22:14:47Z",
-        "ported": 6246
+        "ported": 6246,
+        "added": 64,
+        "user": "emsi"
       },
       {
         "t": "2026-11-21T22:15:00Z",
-        "ported": 6375
+        "ported": 6375,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-21T22:15:09Z",
-        "ported": 6377
+        "ported": 6377,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T22:15:18Z",
-        "ported": 6379
+        "t": "2026-11-21T22:15:23Z",
+        "ported": 6380,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T22:15:27Z",
-        "ported": 6381
+        "t": "2026-11-21T22:16:06Z",
+        "ported": 6382,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T22:18:57Z",
-        "ported": 6384
+        "t": "2026-11-21T22:22:15Z",
+        "ported": 6385,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-21T22:43:28Z",
-        "ported": 7806
+        "ported": 7806,
+        "added": 1421,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-21T23:32:49Z",
-        "ported": 7807
+        "ported": 7807,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-21T23:33:03Z",
-        "ported": 7906
+        "ported": 7906,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-21T23:33:12Z",
-        "ported": 7908
+        "t": "2026-11-21T23:33:17Z",
+        "ported": 7963,
+        "added": 55,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-21T23:33:21Z",
-        "ported": 7977
+        "t": "2026-11-21T23:33:25Z",
+        "ported": 7983,
+        "added": 6,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-21T23:33:29Z",
-        "ported": 7990
+        "t": "2026-11-21T23:33:39Z",
+        "ported": 8032,
+        "added": 27,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-21T23:33:44Z",
-        "ported": 8095
-      },
-      {
-        "t": "2026-11-21T23:33:55Z",
-        "ported": 8133
+        "t": "2026-11-21T23:33:48Z",
+        "ported": 8096,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-21T23:34:03Z",
-        "ported": 8193
+        "ported": 8193,
+        "added": 6,
+        "user": "emsi"
       },
       {
         "t": "2026-11-21T23:34:17Z",
-        "ported": 8278
+        "ported": 8278,
+        "added": 16,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-21T23:34:25Z",
-        "ported": 8280
+        "ported": 8280,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T23:34:35Z",
-        "ported": 8330
+        "t": "2026-11-21T23:34:42Z",
+        "ported": 8331,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T23:34:49Z",
-        "ported": 8334
+        "t": "2026-11-21T23:34:54Z",
+        "ported": 8335,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-21T23:35:04Z",
-        "ported": 8451
+        "t": "2026-11-21T23:45:01Z",
+        "ported": 8466,
+        "added": 15,
+        "user": "matiasm15"
       },
       {
-        "t": "2026-11-21T23:45:16Z",
-        "ported": 8524
+        "t": "2026-11-21T23:45:20Z",
+        "ported": 8525,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-21T23:45:25Z",
-        "ported": 8526
-      },
-      {
-        "t": "2026-11-22T00:58:38Z",
-        "ported": 8612
+        "t": "2026-11-22T00:58:34Z",
+        "ported": 8581,
+        "added": 54,
+        "user": "sderrow"
       },
       {
         "t": "2026-11-22T00:58:49Z",
-        "ported": 8682
+        "ported": 8682,
+        "added": 64,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T00:58:58Z",
-        "ported": 8793
+        "ported": 8793,
+        "added": 47,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T00:59:11Z",
-        "ported": 8857
+        "ported": 8857,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T00:59:20Z",
-        "ported": 8960
+        "ported": 8960,
+        "added": 40,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T00:59:28Z",
-        "ported": 9028
+        "t": "2026-11-22T00:59:33Z",
+        "ported": 9070,
+        "added": 42,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T00:59:37Z",
-        "ported": 9132
+        "t": "2026-11-22T00:59:46Z",
+        "ported": 9244,
+        "added": 61,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T00:59:50Z",
-        "ported": 9305
-      },
-      {
-        "t": "2026-11-22T01:00:00Z",
-        "ported": 9413
+        "t": "2026-11-22T00:59:55Z",
+        "ported": 9364,
+        "added": 59,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T01:00:09Z",
-        "ported": 9487
+        "ported": 9487,
+        "added": 62,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T01:00:22Z",
-        "ported": 9621
+        "t": "2026-11-22T01:00:18Z",
+        "ported": 9592,
+        "added": 62,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T01:00:32Z",
-        "ported": 9668
+        "ported": 9668,
+        "added": 38,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T01:00:43Z",
-        "ported": 9746
+        "t": "2026-11-22T01:00:48Z",
+        "ported": 9779,
+        "added": 33,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T01:00:53Z",
-        "ported": 9780
+        "t": "2026-11-22T01:00:57Z",
+        "ported": 9791,
+        "added": 11,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T01:01:05Z",
-        "ported": 9856
+        "t": "2026-11-22T01:01:10Z",
+        "ported": 9864,
+        "added": 8,
+        "user": "matiasm15"
       },
       {
-        "t": "2026-11-22T01:01:14Z",
-        "ported": 9865
+        "t": "2026-11-22T01:01:18Z",
+        "ported": 9866,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T01:01:23Z",
-        "ported": 9867
+        "t": "2026-11-22T01:01:32Z",
+        "ported": 9926,
+        "added": 58,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T01:01:36Z",
-        "ported": 9931
-      },
-      {
-        "t": "2026-11-22T01:01:45Z",
-        "ported": 10035
+        "t": "2026-11-22T01:01:40Z",
+        "ported": 9984,
+        "added": 53,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T01:01:53Z",
-        "ported": 10115
+        "ported": 10115,
+        "added": 36,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T01:02:02Z",
-        "ported": 10240
+        "t": "2026-11-22T01:02:07Z",
+        "ported": 10302,
+        "added": 62,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T01:02:15Z",
-        "ported": 10375
+        "ported": 10375,
+        "added": 63,
+        "user": "zediir"
       },
       {
-        "t": "2026-11-22T01:02:24Z",
-        "ported": 10498
+        "t": "2026-11-22T01:02:28Z",
+        "ported": 10558,
+        "added": 60,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T01:02:33Z",
-        "ported": 10617
+        "t": "2026-11-22T01:02:38Z",
+        "ported": 10627,
+        "added": 10,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T01:03:11Z",
-        "ported": 10691
-      },
-      {
-        "t": "2026-11-22T09:13:36Z",
-        "ported": 10696
+        "t": "2026-11-22T09:13:31Z",
+        "ported": 10692,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:13:45Z",
-        "ported": 10699
+        "ported": 10699,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:13:53Z",
-        "ported": 10701
+        "ported": 10701,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:14:07Z",
-        "ported": 10705
+        "ported": 10705,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:14:14Z",
-        "ported": 10708
+        "ported": 10708,
+        "added": 2,
+        "user": "Jason Yandell"
       },
       {
-        "t": "2026-11-22T09:14:27Z",
-        "ported": 10710
+        "t": "2026-11-22T09:14:34Z",
+        "ported": 10711,
+        "added": 1,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:14:48Z",
-        "ported": 10713
+        "ported": 10713,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:14:56Z",
-        "ported": 10715
-      },
-      {
-        "t": "2026-11-22T09:15:09Z",
-        "ported": 10775
+        "t": "2026-11-22T09:15:05Z",
+        "ported": 10716,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:15:14Z",
-        "ported": 10840
+        "ported": 10840,
+        "added": 64,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:15:22Z",
-        "ported": 10905
+        "t": "2026-11-22T09:15:18Z",
+        "ported": 10904,
+        "added": 63,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:15:30Z",
-        "ported": 10970
+        "ported": 10970,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:15:39Z",
-        "ported": 10988
+        "ported": 10988,
+        "added": 17,
+        "user": "WorldianAI"
       },
       {
         "t": "2026-11-22T09:15:46Z",
-        "ported": 10991
+        "ported": 10991,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:15:51Z",
-        "ported": 11055
+        "t": "2026-11-22T09:15:54Z",
+        "ported": 11057,
+        "added": 2,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:15:57Z",
-        "ported": 11058
+        "t": "2026-11-22T09:16:02Z",
+        "ported": 11059,
+        "added": 1,
+        "user": "zediir"
       },
       {
-        "t": "2026-11-22T09:16:07Z",
-        "ported": 11060
+        "t": "2026-11-22T09:16:15Z",
+        "ported": 11062,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:16:19Z",
-        "ported": 11126
-      },
-      {
-        "t": "2026-11-22T09:16:27Z",
-        "ported": 11128
+        "t": "2026-11-22T09:16:23Z",
+        "ported": 11127,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:16:35Z",
-        "ported": 11130
+        "ported": 11130,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:16:44Z",
-        "ported": 11178
+        "ported": 11178,
+        "added": 2,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:16:53Z",
-        "ported": 11180
+        "ported": 11180,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:17:01Z",
-        "ported": 11187
+        "t": "2026-11-22T09:17:06Z",
+        "ported": 11188,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:17:14Z",
-        "ported": 11192
+        "ported": 11192,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:17:22Z",
-        "ported": 11257
+        "t": "2026-11-22T09:17:23Z",
+        "ported": 11321,
+        "added": 64,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:17:26Z",
-        "ported": 11322
+        "t": "2026-11-22T09:17:28Z",
+        "ported": 11386,
+        "added": 64,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:17:31Z",
-        "ported": 11387
-      },
-      {
-        "t": "2026-11-22T09:17:37Z",
-        "ported": 11512
+        "t": "2026-11-22T09:17:35Z",
+        "ported": 11451,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:17:42Z",
-        "ported": 11517
+        "ported": 11517,
+        "added": 4,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:17:47Z",
-        "ported": 11569
+        "ported": 11569,
+        "added": 51,
+        "user": "rohanarun"
       },
       {
         "t": "2026-11-22T09:17:56Z",
-        "ported": 11574
+        "ported": 11574,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:18:05Z",
-        "ported": 11576
+        "ported": 11576,
+        "added": 1,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:18:13Z",
-        "ported": 11578
+        "t": "2026-11-22T09:18:18Z",
+        "ported": 11579,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:18:22Z",
-        "ported": 11641
+        "t": "2026-11-22T09:18:30Z",
+        "ported": 11722,
+        "added": 64,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:18:34Z",
-        "ported": 11786
-      },
-      {
-        "t": "2026-11-22T09:18:46Z",
-        "ported": 11788
+        "t": "2026-11-22T09:18:42Z",
+        "ported": 11787,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:18:53Z",
-        "ported": 11853
+        "ported": 11853,
+        "added": 64,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:19:00Z",
-        "ported": 11957
+        "t": "2026-11-22T09:18:57Z",
+        "ported": 11956,
+        "added": 63,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T09:19:07Z",
-        "ported": 11959
+        "ported": 11959,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:19:11Z",
-        "ported": 12032
+        "ported": 12032,
+        "added": 10,
+        "user": "Jonathan Roy"
       },
       {
-        "t": "2026-11-22T09:19:20Z",
-        "ported": 12118
+        "t": "2026-11-22T09:19:24Z",
+        "ported": 12128,
+        "added": 10,
+        "user": "Jonathan Roy"
       },
       {
-        "t": "2026-11-22T09:19:33Z",
-        "ported": 12200
+        "t": "2026-11-22T09:19:37Z",
+        "ported": 12202,
+        "added": 2,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:19:41Z",
-        "ported": 12203
+        "t": "2026-11-22T09:19:45Z",
+        "ported": 12204,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:19:49Z",
-        "ported": 12206
+        "t": "2026-11-22T09:19:57Z",
+        "ported": 12209,
+        "added": 2,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:20:01Z",
-        "ported": 12210
-      },
-      {
-        "t": "2026-11-22T09:20:09Z",
-        "ported": 12214
+        "t": "2026-11-22T09:20:05Z",
+        "ported": 12211,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:20:17Z",
-        "ported": 12217
+        "ported": 12217,
+        "added": 2,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:20:25Z",
-        "ported": 12280
+        "t": "2026-11-22T09:20:30Z",
+        "ported": 12342,
+        "added": 62,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:20:38Z",
-        "ported": 12353
+        "ported": 12353,
+        "added": 10,
+        "user": "Jonathan Roy"
       },
       {
-        "t": "2026-11-22T09:20:46Z",
-        "ported": 12449
+        "t": "2026-11-22T09:20:50Z",
+        "ported": 12510,
+        "added": 61,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:20:54Z",
-        "ported": 12520
+        "t": "2026-11-22T09:20:58Z",
+        "ported": 12521,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:21:08Z",
-        "ported": 12591
+        "t": "2026-11-22T09:21:12Z",
+        "ported": 12654,
+        "added": 63,
+        "user": "jasonyandell"
       },
       {
-        "t": "2026-11-22T09:21:16Z",
-        "ported": 12655
-      },
-      {
-        "t": "2026-11-22T09:21:23Z",
-        "ported": 12657
+        "t": "2026-11-22T09:21:20Z",
+        "ported": 12656,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:21:29Z",
-        "ported": 12669
+        "ported": 12669,
+        "added": 11,
+        "user": "YutoriKomeiji"
       },
       {
         "t": "2026-11-22T09:21:38Z",
-        "ported": 12721
+        "ported": 12721,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:21:45Z",
-        "ported": 12725
+        "ported": 12725,
+        "added": 3,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:21:53Z",
-        "ported": 12727
+        "t": "2026-11-22T09:21:56Z",
+        "ported": 12728,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:22:03Z",
-        "ported": 12790
+        "ported": 12790,
+        "added": 61,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T09:22:08Z",
-        "ported": 12832
-      },
-      {
-        "t": "2026-11-22T09:22:12Z",
-        "ported": 12834
+        "t": "2026-11-22T09:22:10Z",
+        "ported": 12833,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:22:20Z",
-        "ported": 12836
+        "ported": 12836,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:22:31Z",
-        "ported": 12896
+        "t": "2026-11-22T09:22:27Z",
+        "ported": 12895,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:22:39Z",
-        "ported": 12898
+        "ported": 12898,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:22:45Z",
-        "ported": 12956
+        "ported": 12956,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:22:57Z",
-        "ported": 12959
+        "ported": 12959,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:23:01Z",
-        "ported": 13012
+        "t": "2026-11-22T09:23:06Z",
+        "ported": 13013,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:23:10Z",
-        "ported": 13014
+        "t": "2026-11-22T09:23:14Z",
+        "ported": 13015,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:23:18Z",
-        "ported": 13066
+        "t": "2026-11-22T09:23:21Z",
+        "ported": 13115,
+        "added": 49,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:23:25Z",
-        "ported": 13116
-      },
-      {
-        "t": "2026-11-22T09:23:33Z",
-        "ported": 13118
+        "t": "2026-11-22T09:23:29Z",
+        "ported": 13117,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:23:42Z",
-        "ported": 13220
+        "ported": 13220,
+        "added": 56,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T09:23:56Z",
-        "ported": 13333
+        "t": "2026-11-22T09:23:51Z",
+        "ported": 13297,
+        "added": 37,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:24:05Z",
-        "ported": 13416
+        "ported": 13416,
+        "added": 49,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:24:12Z",
-        "ported": 13522
+        "t": "2026-11-22T09:24:13Z",
+        "ported": 13523,
+        "added": 1,
+        "user": "WorldianAI"
       },
       {
         "t": "2026-11-22T09:24:21Z",
-        "ported": 13616
+        "ported": 13616,
+        "added": 40,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:24:31Z",
-        "ported": 13623
+        "t": "2026-11-22T09:24:35Z",
+        "ported": 13678,
+        "added": 55,
+        "user": "jasonyandell"
       },
       {
-        "t": "2026-11-22T09:24:37Z",
-        "ported": 13735
+        "t": "2026-11-22T09:24:40Z",
+        "ported": 13767,
+        "added": 32,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T09:24:42Z",
-        "ported": 13822
-      },
-      {
-        "t": "2026-11-22T09:24:49Z",
-        "ported": 13901
+        "t": "2026-11-22T09:24:47Z",
+        "ported": 13875,
+        "added": 52,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:24:58Z",
-        "ported": 13904
+        "ported": 13904,
+        "added": 2,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:25:08Z",
-        "ported": 13931
+        "ported": 13931,
+        "added": 26,
+        "user": "jasonyandell"
       },
       {
         "t": "2026-11-22T09:25:22Z",
-        "ported": 13963
+        "ported": 13963,
+        "added": 22,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:25:31Z",
-        "ported": 14004
+        "ported": 14004,
+        "added": 20,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:25:39Z",
-        "ported": 14030
+        "t": "2026-11-22T09:25:42Z",
+        "ported": 14041,
+        "added": 11,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:25:46Z",
-        "ported": 14052
+        "t": "2026-11-22T09:25:49Z",
+        "ported": 14062,
+        "added": 10,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:25:57Z",
-        "ported": 14066
-      },
-      {
-        "t": "2026-11-22T09:26:04Z",
-        "ported": 14077
+        "t": "2026-11-22T09:26:00Z",
+        "ported": 14069,
+        "added": 3,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T09:26:11Z",
-        "ported": 14084
+        "ported": 14084,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:26:20Z",
-        "ported": 14100
+        "t": "2026-11-22T09:26:18Z",
+        "ported": 14095,
+        "added": 5,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:26:28Z",
-        "ported": 14108
+        "ported": 14108,
+        "added": 4,
+        "user": "emsi"
       },
       {
         "t": "2026-11-22T09:26:38Z",
-        "ported": 14168
+        "ported": 14168,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:26:46Z",
-        "ported": 14170
+        "t": "2026-11-22T09:26:51Z",
+        "ported": 14171,
+        "added": 1,
+        "user": "emsi"
       },
       {
-        "t": "2026-11-22T09:27:01Z",
-        "ported": 14173
+        "t": "2026-11-22T09:27:06Z",
+        "ported": 14174,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:27:11Z",
-        "ported": 14237
+        "t": "2026-11-22T09:27:16Z",
+        "ported": 14238,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:27:21Z",
-        "ported": 14239
+        "t": "2026-11-22T09:27:31Z",
+        "ported": 14292,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:27:37Z",
-        "ported": 14293
-      },
-      {
-        "t": "2026-11-22T09:28:01Z",
-        "ported": 14295
+        "t": "2026-11-22T09:27:43Z",
+        "ported": 14294,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:28:19Z",
-        "ported": 14297
+        "ported": 14297,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:29:10Z",
-        "ported": 14299
+        "ported": 14299,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T09:29:21Z",
-        "ported": 14302
+        "ported": 14302,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T09:29:30Z",
-        "ported": 14304
+        "t": "2026-11-22T09:29:33Z",
+        "ported": 14305,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T09:29:37Z",
-        "ported": 14308
+        "t": "2026-11-22T09:29:41Z",
+        "ported": 14309,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:29:51Z",
-        "ported": 14313
+        "t": "2026-11-22T09:29:57Z",
+        "ported": 14316,
+        "added": 3,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:30:00Z",
-        "ported": 14317
-      },
-      {
-        "t": "2026-11-22T09:30:07Z",
-        "ported": 14321
+        "t": "2026-11-22T09:30:03Z",
+        "ported": 14318,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:30:17Z",
-        "ported": 14323
+        "ported": 14323,
+        "added": 1,
+        "user": "Cinna Davis"
       },
       {
         "t": "2026-11-22T09:30:32Z",
-        "ported": 14326
+        "ported": 14326,
+        "added": 1,
+        "user": "alectionary"
       },
       {
         "t": "2026-11-22T09:30:43Z",
-        "ported": 14332
+        "ported": 14332,
+        "added": 3,
+        "user": "Cinna Davis"
       },
       {
-        "t": "2026-11-22T09:30:53Z",
-        "ported": 14336
+        "t": "2026-11-22T09:30:57Z",
+        "ported": 14339,
+        "added": 3,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T09:31:07Z",
-        "ported": 14341
+        "ported": 14341,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T09:31:15Z",
-        "ported": 14379
-      },
-      {
-        "t": "2026-11-22T09:31:27Z",
-        "ported": 14392
+        "t": "2026-11-22T09:31:22Z",
+        "ported": 14380,
+        "added": 1,
+        "user": "maugomez77"
       },
       {
         "t": "2026-11-22T09:31:36Z",
-        "ported": 14403
+        "ported": 14403,
+        "added": 10,
+        "user": "Jonathan Roy"
       },
       {
-        "t": "2026-11-22T09:31:53Z",
-        "ported": 14406
+        "t": "2026-11-22T09:31:45Z",
+        "ported": 14405,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:32:03Z",
-        "ported": 14408
+        "ported": 14408,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:32:16Z",
-        "ported": 14410
+        "ported": 14410,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:32:31Z",
-        "ported": 14431
+        "ported": 14431,
+        "added": 10,
+        "user": "TomMoeras"
       },
       {
         "t": "2026-11-22T09:32:41Z",
-        "ported": 14440
+        "ported": 14440,
+        "added": 8,
+        "user": "TomMoeras"
       },
       {
-        "t": "2026-11-22T09:32:50Z",
-        "ported": 14442
+        "t": "2026-11-22T09:32:56Z",
+        "ported": 14443,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:33:06Z",
-        "ported": 14445
+        "t": "2026-11-22T09:33:12Z",
+        "ported": 14446,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:33:17Z",
-        "ported": 14447
-      },
-      {
-        "t": "2026-11-22T09:33:27Z",
-        "ported": 14449
+        "t": "2026-11-22T09:33:22Z",
+        "ported": 14448,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:33:36Z",
-        "ported": 14451
+        "ported": 14451,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:33:52Z",
-        "ported": 14454
+        "t": "2026-11-22T09:33:47Z",
+        "ported": 14453,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
         "t": "2026-11-22T09:34:01Z",
-        "ported": 14456
+        "ported": 14456,
+        "added": 1,
+        "user": "UnityChaos"
       },
       {
-        "t": "2026-11-22T09:34:12Z",
-        "ported": 14458
+        "t": "2026-11-22T09:35:10Z",
+        "ported": 14459,
+        "added": 1,
+        "user": "1337isnot1337"
       },
       {
         "t": "2026-11-22T10:58:17Z",
-        "ported": 14481
+        "ported": 14481,
+        "added": 21,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T10:58:28Z",
-        "ported": 14483
+        "t": "2026-11-22T10:58:33Z",
+        "ported": 14484,
+        "added": 1,
+        "user": "roy7"
       },
       {
-        "t": "2026-11-22T10:58:37Z",
-        "ported": 14486
-      },
-      {
-        "t": "2026-11-22T10:58:47Z",
-        "ported": 14497
+        "t": "2026-11-22T10:58:42Z",
+        "ported": 14496,
+        "added": 10,
+        "user": "roy7"
       },
       {
         "t": "2026-11-22T10:59:00Z",
-        "ported": 14517
+        "ported": 14517,
+        "added": 10,
+        "user": "roy7"
       },
       {
         "t": "2026-11-22T10:59:09Z",
-        "ported": 14558
+        "ported": 14558,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T10:59:20Z",
-        "ported": 14628
+        "t": "2026-11-22T10:59:25Z",
+        "ported": 14629,
+        "added": 1,
+        "user": "alectionary"
       },
       {
-        "t": "2026-11-22T10:59:35Z",
-        "ported": 14640
+        "t": "2026-11-22T10:59:40Z",
+        "ported": 14693,
+        "added": 53,
+        "user": "jasonyandell"
       },
       {
-        "t": "2026-11-22T10:59:44Z",
-        "ported": 14694
-      },
-      {
-        "t": "2026-11-22T10:59:54Z",
-        "ported": 14758
+        "t": "2026-11-22T10:59:49Z",
+        "ported": 14704,
+        "added": 10,
+        "user": "roy7"
       },
       {
         "t": "2026-11-22T11:12:24Z",
-        "ported": 14761
+        "ported": 14761,
+        "added": 2,
+        "user": "1337isnot1337"
       },
       {
-        "t": "2026-11-22T11:24:56Z",
-        "ported": 14852
+        "t": "2026-11-22T11:24:52Z",
+        "ported": 14834,
+        "added": 10,
+        "user": "roy7"
       },
       {
         "t": "2026-11-22T11:25:06Z",
-        "ported": 14863
+        "ported": 14863,
+        "added": 10,
+        "user": "roy7"
+      }
+    ],
+    "contributors": [
+      {
+        "contributor": "emsi",
+        "modules": 4299
+      },
+      {
+        "contributor": "rohanarun",
+        "modules": 2796
+      },
+      {
+        "contributor": "github-actions[bot]",
+        "modules": 2301
+      },
+      {
+        "contributor": "1337isnot1337",
+        "modules": 1462
+      },
+      {
+        "contributor": "TomMoeras",
+        "modules": 1118
+      },
+      {
+        "contributor": "f10etclawdbot",
+        "modules": 496
+      },
+      {
+        "contributor": "zediir",
+        "modules": 436
+      },
+      {
+        "contributor": "roy7",
+        "modules": 386
+      },
+      {
+        "contributor": "jasonyandell",
+        "modules": 341
+      },
+      {
+        "contributor": "Jonathan Roy",
+        "modules": 202
+      },
+      {
+        "contributor": "Cinna Davis",
+        "modules": 186
+      },
+      {
+        "contributor": "UnityChaos",
+        "modules": 165
+      },
+      {
+        "contributor": "surfyhou",
+        "modules": 145
+      },
+      {
+        "contributor": "nico1996it",
+        "modules": 93
+      },
+      {
+        "contributor": "sderrow",
+        "modules": 87
+      },
+      {
+        "contributor": "alectionary",
+        "modules": 87
+      },
+      {
+        "contributor": "CubeJerry",
+        "modules": 63
+      },
+      {
+        "contributor": "Jacqueline Henriksen",
+        "modules": 52
+      },
+      {
+        "contributor": "matiasm15",
+        "modules": 49
+      },
+      {
+        "contributor": "brysontang",
+        "modules": 43
+      },
+      {
+        "contributor": "WorldianAI",
+        "modules": 25
+      },
+      {
+        "contributor": "maugomez77",
+        "modules": 11
+      },
+      {
+        "contributor": "YutoriKomeiji",
+        "modules": 11
+      },
+      {
+        "contributor": "Jason Yandell",
+        "modules": 9
       }
     ]
   },
@@ -1079,7 +1603,7 @@
     {
       "value": "volunteer-build-reviewed",
       "label": "Volunteer build evidence reviewed",
-      "count": 64891
+      "count": 64918
     },
     {
       "value": "build-observed",
@@ -1110,10 +1634,10 @@
   "state_counts": {
     "assigned": 436,
     "build-observed": 26591,
-    "open": 66076,
+    "open": 66049,
     "pilot-reused": 150,
     "pilot-witness-checked": 1,
-    "volunteer-build-reviewed": 64891,
+    "volunteer-build-reviewed": 64918,
     "wave-reused": 16970,
     "worker-kernel-checked": 72
   },
@@ -1158,13 +1682,13 @@
     {
       "band": "5",
       "total": 2937,
-      "done": 2208,
-      "percent": 75.18
+      "done": 2233,
+      "percent": 76.03
     },
     {
       "band": "6-10",
       "total": 12021,
-      "done": 8419,
+      "done": 8420,
       "percent": 70.04
     },
     {
@@ -1188,15 +1712,15 @@
     {
       "band": "81+",
       "total": 36849,
-      "done": 20795,
-      "percent": 56.43
+      "done": 20796,
+      "percent": 56.44
     }
   ],
   "packets": {
     "total": 2858,
     "fully_done": 899,
-    "partially_done": 1887,
-    "untouched": 72
+    "partially_done": 1888,
+    "untouched": 71
   },
   "volunteers": [
     {
@@ -1207,9 +1731,9 @@
     },
     {
       "contributor": "emsi",
-      "modules": 11243,
+      "modules": 11244,
       "packets": 187,
-      "receipts": 340
+      "receipts": 341
     },
     {
       "contributor": "JamCh01",
@@ -1255,9 +1779,9 @@
     },
     {
       "contributor": "vivekshivarajkumar",
-      "modules": 1855,
+      "modules": 1880,
       "packets": 0,
-      "receipts": 1855
+      "receipts": 1880
     },
     {
       "contributor": "Amahane-Hikari",
@@ -1735,6 +2259,12 @@
     },
     {
       "contributor": "burbon",
+      "modules": 1,
+      "packets": 0,
+      "receipts": 1
+    },
+    {
+      "contributor": "f10etclawdbot",
       "modules": 1,
       "packets": 0,
       "receipts": 1

@@ -19,6 +19,7 @@ import csv
 import datetime
 import gzip
 import json
+import re
 import subprocess
 from collections import Counter
 from pathlib import Path
@@ -160,35 +161,74 @@ def cumulative_history(module_ids, recorded):
 
 
 def port_cumulative_history(pruned_ids):
-    """Cumulative live ported module count over time from first-parent git log of port/patches/."""
+    """Cumulative live ported module count + contributor attribution from first-parent git log of port/patches/."""
     try:
         out = subprocess.check_output(
             ["git", "log", "--first-parent", "--reverse", "--diff-filter=A",
-             "--name-only", "--format=COMMIT %ct", "--", "port/patches"],
+             "--name-only", "--format=COMMIT %ct\t%an\t%ae\t%s", "--", "port/patches"],
             cwd=ROOT, text=True, stderr=subprocess.DEVNULL,
         )
     except Exception:
-        return []
+        return [], []
     seen = set()
     points = []
-    cur_ts = None
+    by_user = Counter()
+    cur = None
+
+    def resolve_user(an, ae, subj):
+        m = re.search(r"Merge pull request #\d+ from ([^/\s]+)/", subj)
+        if m:
+            return m.group(1)
+        m2 = re.match(r"^(?:\d+\+)?([^@]+)@users\.noreply\.github\.com$", ae)
+        if m2:
+            return m2.group(1)
+        if an.lower() in ("rohan", "rohan arun", "rohanarun"):
+            return "rohanarun"
+        return an
+
+    def flush():
+        if cur is None:
+            return
+        ts, user, added = cur
+        if added > 0:
+            by_user[user] += added
+            when = datetime.datetime.fromtimestamp(ts, datetime.timezone.utc)
+            points.append({
+                "t": when.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "ported": len(seen),
+                "added": added,
+                "user": user,
+            })
+
     for line in out.splitlines():
         if line.startswith("COMMIT "):
-            if cur_ts is not None and seen:
-                when = datetime.datetime.fromtimestamp(cur_ts, datetime.timezone.utc)
-                points.append({"t": when.strftime("%Y-%m-%dT%H:%M:%SZ"), "ported": len(seen)})
-            cur_ts = int(line.split()[1])
+            flush()
+            parts = line[7:].split("\t", 3)
+            ts = int(parts[0])
+            an = parts[1] if len(parts) > 1 else ""
+            ae = parts[2] if len(parts) > 2 else ""
+            subj = parts[3] if len(parts) > 3 else ""
+            cur = [ts, resolve_user(an, ae, subj), 0]
         elif line.startswith("port/patches/M") and line.endswith(".json"):
             mid = Path(line).stem
-            if mid not in pruned_ids:
+            if mid not in pruned_ids and mid not in seen:
                 seen.add(mid)
-    if cur_ts is not None and seen:
-        when = datetime.datetime.fromtimestamp(cur_ts, datetime.timezone.utc)
-        points.append({"t": when.strftime("%Y-%m-%dT%H:%M:%SZ"), "ported": len(seen)})
+                if cur is not None:
+                    cur[2] += 1
+    flush()
+
     if len(points) > 240:
-        keep = sorted({round(i * (len(points) - 1) / 239) for i in range(240)})
+        # Always preserve the biggest contributor jumps plus evenly spaced points
+        top_idx = sorted(range(len(points)), key=lambda i: -points[i]["added"])[:30]
+        even_idx = [round(i * (len(points) - 1) / 210) for i in range(211)]
+        keep = sorted(set(top_idx) | set(even_idx))
         points = [points[i] for i in keep]
-    return points
+
+    leaderboard = [
+        {"contributor": u, "modules": n}
+        for u, n in by_user.most_common(25)
+    ]
+    return points, leaderboard
 
 
 def main():
@@ -355,14 +395,15 @@ def main():
         "pruned_percent": round(100.0 * len(pruned_ids) / total, 2) if total else 0.0,
         "live_modules": live_total,
         "milestones": [
-            {"label": "Original archive", "files": total, "status": "baseline"},
-            {"label": "Upstream main (pruned)", "files": live_total, "status": "merged"},
-            {"label": "#55 (S1 unused decls)", "files": 150632, "status": "open-pr"},
-            {"label": "#58 (Wave 1 wrappers)", "files": 126605, "status": "open-pr"},
-            {"label": "#61 (Wave 2 wrappers)", "files": 121061, "status": "open-pr"},
-            {"label": "#63 (Antichain bundles)", "files": 10690, "status": "open-pr"},
+            {"label": "Original archive", "files": total, "status": "baseline", "user": "leanprover-community"},
+            {"label": "Upstream main (pruned)", "files": live_total, "status": "merged", "user": "rohanarun"},
+            {"label": "#55 (S1 unused decls)", "files": 150632, "status": "open-pr", "user": "james-shore"},
+            {"label": "#58 (Wave 1 wrappers)", "files": 126605, "status": "open-pr", "user": "rohanarun"},
+            {"label": "#61 (Wave 2 wrappers)", "files": 121061, "status": "open-pr", "user": "rohanarun"},
+            {"label": "#63 (Antichain bundles)", "files": 10690, "status": "open-pr", "user": "rohanarun"},
         ],
     }
+    port_hist, port_contributors = port_cumulative_history(pruned_ids)
     porting_stats = {
         "lean": port_target.get("lean"),
         "mathlib": port_target.get("mathlib"),
@@ -374,7 +415,8 @@ def main():
         "unchanged": live_unchanged,
         "claimable_now": claimable_now,
         "depths": port_depths,
-        "history": port_cumulative_history(pruned_ids),
+        "history": port_hist,
+        "contributors": port_contributors,
     }
 
     data = {
