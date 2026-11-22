@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.ThetaMetrics.TensorContentEqPolyContentScalarCoeffs",
+  "source_sha256": "4cd0d7dd006a929cdb9f1d74ab242e9ad0281764dbdbb8ecd1e94bd86e93f763",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MvPolynomial.coeff was removed, so the statements write f.coeff m (and (... ).coeff m) for coeff m f; p.coeff m elaborates to the term the old MvPolynomial.coeff m p unfolded to, so the propositions are unchanged. In proofs, MvPolynomial.coeff_add and coeff_zero are now protected and named, the zero coefficient is simplified with Finsupp.coe_zero and Pi.zero_apply, Finsupp.finset_sum_apply is now finsetSum_apply, simp unfolds AddMonoidAlgebra.coeff in place of the removed coeff, and the tensor-product inductions drop their zero case.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.AlgebraMapBaseMemMaximalIdealIff",
+  "source_sha256": "1eb685eca435681bb5b4d08432becc6cedeb7937a7da4a2a25ad70dc262359fd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Localization.AtPrime.IsLiesOverAlgebra is now a deprecated abbreviation for IsScalarTower A (Localization.AtPrime p) (Localization.AtPrime P), so the instance is proved by inferInstance (Mathlib supplies it for algebraOfLiesOver) instead of the old anonymous constructor. The instance's declared type is unchanged; proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}

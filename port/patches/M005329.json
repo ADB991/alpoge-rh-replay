@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.SpecHomCompCoaction",
+  "source_sha256": "14d3c6b6f48e1f387946bd121f1e6e0670ef2d5af9c8d99b2c0eed0589d98d5a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "The tensor-product induction eliminator no longer has a zero case, so the six | zero => simp alternatives are removed. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0003-issue-22877"
+}
