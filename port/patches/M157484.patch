@@ -1,0 +1,11 @@
+--- a/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/WeightedLimitGauge/GaugeExists.lean
++++ b/src/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/WeightedLimitGauge/GaugeExists.lean
+@@ -126,7 +126,7 @@
+     have h1 := congrArg (fun μ : Measure (Mt k r) => μ Set.univ) h0
+     simpa [hc] using h1
+   · rw [Measure.smul_apply, h.2.2.1, smul_zero]
+-  · rw [Measure.map_smul, h.2.2.2 s hs]
++  · rw [Measure.map_smul _ (HU.lmulM_cont s).measurable.aemeasurable, h.2.2.2 s hs]
+ 
+ theorem tBall_mass (ν : Measure (Mt k r)) (h : IsHaarOn (UWb k r) ν) (m : Mat k r) (hm : m ∈ UWb k r) (ρ : ℝ) :
+     ν (tBall k r m ρ) = ν (bBall k r ρ) := by

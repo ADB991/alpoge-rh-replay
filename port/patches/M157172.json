@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TwistedEisensteinCoset.UnfoldingMatrixFreeCoordinate",
+  "source_sha256": "32ce87c63477a54b0d9deae79b8e9194b1af0a9f1452a2e22e90d5087f64b730",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}

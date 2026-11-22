@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.GaugeExists",
+  "source_sha256": "b4d6a8c4147e57569187c16024e26223e4ece8f3fd3e95d717a447383b44889a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: Measure.map_smul now requires AEMeasurable of the map; it is supplied from the existing continuity lemma HU.lmulM_cont s. The map is measurable, so the pushforward is the same measure as on the pinned Mathlib.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}

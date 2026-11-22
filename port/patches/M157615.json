@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.LocDensFFIn",
+  "source_sha256": "9104924c2472560f28972951457e9e3e22368c78f16046614c49774f5f65c17f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: FiniteField.X_pow_card_sub_X_ne_zero and FiniteField.X_pow_card_sub_X_natDegree_eq are deprecated aliases whose ring argument became implicit; they are replaced by Polynomial.X_pow_sub_X_ne_zero and Polynomial.natDegree_X_pow_sub_X with `(R := K)`.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}

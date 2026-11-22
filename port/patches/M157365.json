@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ModBase",
+  "source_sha256": "77f6d196426abb1fcd5ec1e404149112bd67e67020a742ac4d287c3c5459d7d6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: two simp calls are restricted to the lemmas they need (`simpa only [Equiv.apply_symm_apply]` in the membership proof inside `mk`, `simp only [mk, toM, Equiv.apply_symm_apply]` in `toM_mk`). The target simp set first rewrites `Matrix.of.symm g` to `g.row` and then no longer closes the goals. The data of `mk` and every statement are unchanged.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}

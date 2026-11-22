@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeightedLimitGauge.RhsHaar",
+  "source_sha256": "a0a2eacbff347fb5d11b84f3b03b6a2341cce7b6cad4ab43f40a222dad8cf25a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: measurable_pi_lambda (now a deprecated alias whose function argument became implicit) is replaced by Measurable.of_eval, and measure_mono_null is given its superset `(goodS k r z z')ᶜ` explicitly, which the target elaborator no longer infers before checking the inclusion proof.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0279-issue-31407-lean436/P0279-receipt.json"
+}
