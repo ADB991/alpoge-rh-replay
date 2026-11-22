@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Action",
+  "source_sha256": "f84ab6a4b33a9062bc5894cc1b7c96d7bf275c8e0447abbb1a8872304e61a1de",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0318 packet build transcript linked from the PR."
+}

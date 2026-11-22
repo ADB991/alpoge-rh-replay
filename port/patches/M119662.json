@@ -1,0 +1,7 @@
+{
+  "module": "Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsCompactUnitaryPointsAtPlaceFstMemCompact",
+  "source_sha256": "81fb760b24ed12cfa79150cdeceb6a9748cbb394b499d8a57f9f7e1c467f4224",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement change, equivalent: preserve the pinned lattice predicate in the structure field HTChart.om_lat. The module compiles unchanged, but Mathlib #44365 renamed the pinned Submodule.IsLattice to IsFullLattice and reused the name IsLattice for a weaker notion, so the unchanged `om.IsLattice K` (dot notation) would silently weaken the structure; the reused-name audit flagged it. In the pinned Mathlib, IsLattice K M is a Prop class with exactly two fields, fg : M.FG and span_eq_top : Submodule.span K M = ⊤. Here A and K are arbitrary (Algebra A K, not a fraction field), so IsFullLattice would not be equivalent; as in the accepted record for StatementLat (M147293), the field is written as om.FG ∧ Submodule.span K (om : Set Ω) = ⊤. No condition is added or removed. Downstream proofs that use D.om_lat.fg or D.om_lat.span_eq_top (none has a record yet) will use .1 and .2 instead."
+}

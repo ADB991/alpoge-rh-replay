@@ -1,0 +1,11 @@
+--- a/src/Development/AutomorphicSpectrum/Definitions/CommutativeAlgebra/IsCompactUnitaryPointsAtPlaceFstMemCompact.lean
++++ b/src/Development/AutomorphicSpectrum/Definitions/CommutativeAlgebra/IsCompactUnitaryPointsAtPlaceFstMemCompact.lean
+@@ -12,7 +12,7 @@
+     (Ω : Type) [AddCommGroup Ω] [Module K Ω] [Module A Ω] [IsScalarTower A K Ω] where
+ 
+   om : Submodule A Ω
+-  om_lat : om.IsLattice K
++  om_lat : om.FG ∧ Submodule.span K (om : Set Ω) = ⊤
+   om_proj : Module.Projective A om
+ 
+   ρΩ : 𝓞 E →+* Module.End K Ω

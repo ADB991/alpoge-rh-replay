@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Definitions.GlobalGeometry.LevelSectionsExactKernelLocusOpen",
+  "source_sha256": "9438f661be7559742c59eff5a1dd08dbd9a23d4f77f2575e002cbdc1c8f30b5b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0318 packet build transcript linked from the PR."
+}
