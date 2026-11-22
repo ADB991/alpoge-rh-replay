@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.PAdicHodge.ExtRobbaUntilt",
+  "source_sha256": "427fb3ba9405838d98ec453e4bfe37aed4e66e50d180ef163a40b2568c027033",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/rohanarun/alpoge-rh-replay/issues/32235"
+}
