@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.SpecialFibreConnectedOfBaseChangeStatement",
+  "source_sha256": "f077c075b80602eb3ced45c63480742abdd6396bc489635c6ee74efd8cd8ad31",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0248-lean436-20261122-b/P0248-receipt.json"
+}
