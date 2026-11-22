@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagDegreeFormula",
+  "source_sha256": "86b850f599d83c0215cc4b484e7beffe996d07fdf20c25d509f439db619f2b1b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement of the private helper `coeff_linearForm_pow_eq_factorial_mul_prod` changed syntactically only: Mathlib removed `MvPolynomial.coeff m p` and replaced it with `p.coeff m` (`AddMonoidAlgebra.coeff`), which gives the same coefficient (the old `MvPolynomial.coeff m p` was `p m`; the new `p.coeff m` is the same Finsupp evaluation). So `coeff d (P)` became `(P).coeff d` with the same mathematical meaning. The lemma is private and only used in the same module's proof of `flagDegFormula`, whose statement is unchanged.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisDescentSemilinearBijectiveStatement",
+  "source_sha256": "46d9f4e39416351b561fc887413858e170ef32aeb71c159711165df3dc2d1b88",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

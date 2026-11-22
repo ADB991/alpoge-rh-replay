@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaloisElementDvdOfFormallyUnramifiedStatement",
+  "source_sha256": "73b14a04dbc6b5ed8ba58605cf12adb2cf3fd7b448676eb7e213f4aaa9b3b9bf",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

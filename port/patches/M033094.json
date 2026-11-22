@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FrobeniusOfPadic",
+  "source_sha256": "5ff90b61e6cc33cfba65a9ccf1e00a351981dce3a23869b149bc4e237af65bec",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

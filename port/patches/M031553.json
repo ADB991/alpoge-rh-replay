@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinrankAddValuationIntegerSubmoduleEqFinrankSpanStatement",
+  "source_sha256": "9f9cb6bf559952db9ff15f9c612a7f02475f7e981bfb7094f53eb3e790e30e6d",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

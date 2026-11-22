@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FderivEqMulVecOfSchrodingerAnnihilated",
+  "source_sha256": "2e0942632dee4b0e4111fb5f1307dbbb6a6fb8798695577368a7e78b96a48d70",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only rename: Mathlib removed `EuclideanSpace.single_apply`; `EuclideanSpace.single` is now an abbrev for `PiLp.single 2`, so the simp set uses `PiLp.single_apply`. No statement or definition changed.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussianPairingUnitaryGroupTwoThree",
+  "source_sha256": "7d191180612a89837ec52ff1b828eb4bd95400109b42fcf7fcf07add65b5be9f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: in the final calc of `lam_mu_eq`, `integral_sum_elim _ hMi` hit the heartbeat limit while unifying the integrand; the integrand `fun x => cexp (-(π : ℂ) * (star x ⬝ᵥ M *ᵥ x))` is now passed explicitly. No statement changed.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}

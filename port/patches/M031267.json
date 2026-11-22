@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteGaussianExtensionUnitsQuotUnits",
+  "source_sha256": "facd44ba72703575a47f08767751ff72ff70cffc142006a1baafdaa4f8640099",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: `isIntegral_algebraMap_iff` no longer takes the injectivity proof as an explicit argument (it now uses a `[FaithfulSMul A B]` instance, available for the field extension F -> Ext F). Replaced `(isIntegral_algebraMap_iff (algebraMap F (Ext F)).injective).1` with `(isIntegral_algebraMap_iff (R := ℤ) (A := F) (B := Ext F)).1`; the explicit named arguments avoid a stuck instance problem. No statement changed.",
+  "evidence": "https://github.com/ADB991/alpoge-rh-replay/blob/1abb1d50752a594575d24fe6ea221f2a7e1fb117/P0244-0562/P0244-receipt.json"
+}
