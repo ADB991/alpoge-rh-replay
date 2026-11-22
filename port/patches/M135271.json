@@ -1,0 +1,8 @@
+{
+  "module": "Development.EtaleCohomology.DivisorCycles.SpecLiePf",
+  "source_sha256": "5832c5a42c041238b371133f15751a46ba1dc01d884d9233fd2a32d330d5c590",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

@@ -1,0 +1,8 @@
+{
+  "module": "Development.EtaleCohomology.DivisorCycles.CycleCount",
+  "source_sha256": "21d1650cc03c984e4da7309f6ce38cff921089b8489f8229f26a48e595bbd676",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

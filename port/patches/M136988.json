@@ -1,0 +1,8 @@
+{
+  "module": "Development.WeilBound.CoreStatements.AbelianHeightsDuality.ZarhinTrick.QiCore",
+  "source_sha256": "f4807284afa49ed990f1e43fcf67db1fbc4dca7c8812ff4ff9f9d085df9fa318",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}

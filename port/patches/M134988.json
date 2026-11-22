@@ -1,0 +1,8 @@
+{
+  "module": "Development.DiscreteGroups.PiInvariants.CompactSupportTwists.PairZero",
+  "source_sha256": "2a166b3f0c5c8cb58e0338e800b3cdd3aa99b1a4c88fb11a02900c34276ae839",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "MemLp is now the single condition eLpNorm f p μ < ∞ (the target eLpNorm is ∞ for functions that are not a.e. strongly measurable), so the projection hf.1 becomes hf.aestronglyMeasurable; and eLpNorm_eq_lintegral_rpow_enorm is now eLpNorm_eq_lintegral_rpow_eNorm_toReal, which takes the a.e. strong measurability that MemLp supplies. The MemLp hypotheses are equivalent to the pinned AEStronglyMeasurable ∧ eLpNorm < ∞, and eLpNorm appears only inside the proof, at functions that are a.e. strongly measurable. Proof-only change.",
+  "evidence": "https://github.com/zediir/alpoge-rh-replay/releases/tag/port-P0268-issue-31408"
+}
