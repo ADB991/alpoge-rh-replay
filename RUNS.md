@@ -28,7 +28,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 - P0244 | https://github.com/rohanarun/alpoge-rh-replay/issues/32669 | ADB991-claude-20261122-0562 | claude/port-P0244-0562 (not pushed yet) | PR: none | last touched 2026-11-22T13:11Z | ready-only (48/51); 4 fixed locally (M030864 M031267 M032080 M033044), re-check running
 
-- P0247 | https://github.com/rohanarun/alpoge-rh-replay/issues/32694 | ADB991-claude-20261122-9c49 | claude/port-P0247-9c49 (pushed, WIP: 3 patches) | PR: none | last touched 2026-11-22T13:08Z | ready-only (37/40): 34 unchanged, 3 fixed (M043800 M044521 M045768), audits clean; reproduce running
+- P0247 | https://github.com/rohanarun/alpoge-rh-replay/issues/32694 | ADB991-claude-20261122-9c49 | claude/port-P0247-9c49 (pushed) | PR: https://github.com/rohanarun/alpoge-rh-replay/pull/33115 (partial, 37/40) | last touched 2026-11-22T13:30Z | awaiting review. Remaining M046414 (needs M037822), M046803 (needs M046802), M046864 (needs M056084): once those land, add to a follow-up PR after #33115 merges; keep claim open. Evidence branch claude/evidence-P0247-9c49. Build tree at /home/user/WORK is ephemeral.
 
 - P0257 | https://github.com/rohanarun/alpoge-rh-replay/issues/32733 | ADB991-claude-20261122-ae30 | claude/port-P0257-ae30 (pushed; evidence on claude/evidence-P0257-ae30) | PR: https://github.com/rohanarun/alpoge-rh-replay/pull/33101 | last touched 2026-11-22T13:29Z | partial PR open (47/51 live members); claim kept open per PORTING.md. Remaining live: M087488 (needs M005459, M087487), M092132 (needs M005127), M092279 (needs M092278), M093011 (needs M005127). Next run: watch #33101 for review/CI; once those imports land, port the 4 and add to the PR or a follow-up
 
@@ -37,6 +37,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 - 2026-11-21T22:15Z ADB991-claude-20261121-7c3e: no packet, no claim. Hard blocker: alpo.ge blocked by sandbox network policy, archive cannot be fetched. Read docs/queue only (port.py next showed P0165/P0166/P0139... unclaimed partial depth-1 packets).
 - 2026-11-22T12:30Z ADB991-claude-20261122-c075: claimed P0255 (#32617); ready-only 51/64; fixed M073366 (prod_le_prod₀ rename), M073400 (show for inter_mem), M074311 (noncomputable abbrevs, note); audits 0 hits; reproduce 51/51; PR #32858 opened via bridge. CI had no check runs at time of posting.
 - 2026-11-22T12:45Z ADB991-claude-20261122-ae30: P0257 claim #32733; 47 ready members built (5 patched: M086136 M086328 M088129 M090000 M090566; 42 unchanged), audits 0 hits, reproduce 47/47; partial PR #33101 opened 2026-11-22T13:29Z. CI is action_required (fork workflows need maintainer approval).
+- 2026-11-22T12:41Z ADB991-claude-20261122-9c49: claimed P0247 (#32694); ready-only 37/40: 34 unchanged, 3 fixed (Sheaf .val->.obj; prod_le_one->prod_le_one₀ + contDiff_apply family arg; MultilinearMap (RingHom.id B)). reproduce 37/37 ok, IsLattice/reused audits 0 hits. Opened PR #33115. Setup notes from run 0562 worked as written (zip + manual lake update/cache get); check+reproduce ~20 min each at LEAN_NUM_THREADS=2.
 
 ## for Andrea
 
