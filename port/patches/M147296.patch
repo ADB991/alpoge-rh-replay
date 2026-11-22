@@ -1,0 +1,11 @@
+--- a/src/Formalism/HermitianLattices/StatementTheta.lean
++++ b/src/Formalism/HermitianLattices/StatementTheta.lean
+@@ -66,7 +66,7 @@
+     [IsScalarTower (NumberField.RingOfIntegers K) K V]
+     (h : V →ₗ⋆[K] V →ₗ[K] K), h.IsSymm →
+     (∀ x : V, x ≠ 0 → 0 < Algebra.trace ℚ K (h x x)) →
+-    ∀ L : Submodule (NumberField.RingOfIntegers K) V, Submodule.IsLattice K L →
++    ∀ L : Submodule (NumberField.RingOfIntegers K) V, Submodule.IsFullLattice K L →
+     ∀ (γ : V) (τ : ℂ), 0 < τ.im →
+       Summable (fun x : L => Complex.exp (Real.pi * Complex.I * τ *
+         ((Algebra.trace ℚ K (h (γ + x) (γ + x)) : ℚ) : ℂ)))

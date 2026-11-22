@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.IncomingBounds.DefsThmP",
+  "source_sha256": "f0837cf1ca916a25205a8aa9dfaca1932321828372a384bcf6239fa010b25cce",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Replaced MvPolynomial.coeff a P with P.coeff a in pp and PsDiv. The AddMonoidAlgebra coefficient field returns the same coefficient of the monomial indexed by a.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

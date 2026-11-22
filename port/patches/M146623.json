@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.HermitianCurvatureProofs.MeanNormSquaredBound",
+  "source_sha256": "d2bed0b20ce696187d7211d28bbbe601680cd70e9abafac237304efdfc3b6997",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

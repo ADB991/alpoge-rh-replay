@@ -1,0 +1,15 @@
+--- a/src/Formalism/HermitianLattices/NeighbourConstruct.lean
++++ b/src/Formalism/HermitianLattices/NeighbourConstruct.lean
+@@ -30,10 +30,10 @@
+     [IsFractionRing R K] [AddCommGroup V] [Module K V] [FiniteDimensional K V] [Module R V]
+     [IsScalarTower R K V] (h : V →ₗ⋆[K] V →ₗ[K] K), h.IsSymm → h.Nondegenerate →
+     (∀ r : R, star (algebraMap R K r) ∈ Set.range (algebraMap R K)) →
+-    ∀ (P : Ideal R), P.IsMaximal → P ≠ ⊥ → ∀ L : Submodule R V, Submodule.IsLattice K L →
++    ∀ (P : Ideal R), P.IsMaximal → P ≠ ⊥ → ∀ L : Submodule R V, Submodule.IsFullLattice K L →
+     IsUnimodular h L → ∀ x ∈ L, x ∉ P • L →
+     (∃ r ∈ P * conjIdeal (K := K) P, algebraMap R K r = h x x) →
+-      Submodule.IsLattice K (neighbourOf h P L x) ∧
++      Submodule.IsFullLattice K (neighbourOf h P L x) ∧
+       IsIntegralLat h (neighbourOf h P L x) ∧ IsUnimodular h (neighbourOf h P L x) ∧
+       IsNeighbour (K := K) P L (neighbourOf h P L x) ∧
+       L ⊓ neighbourOf h P L x = neighbourCore h P L x

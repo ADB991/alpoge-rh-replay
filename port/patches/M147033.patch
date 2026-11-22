@@ -1,0 +1,23 @@
+--- a/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/SubmoduleMultiplication.lean
++++ b/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/SubmoduleMultiplication.lean
+@@ -101,16 +101,14 @@
+     exact ⟨(ϖ : K) ^ d * r, R.mul_mem (R.pow_mem hϖ d) hr, by ring⟩
+   obtain ⟨n, hn'⟩ := hs.elim_directed_family_closed (fun n : ℕ => I R ((ϖ : K) ^ n))
+     (fun n => (I_compact hD.isCompact _).isClosed) (by
+-      rw [Set.eq_empty_iff_forall_notMem]
+-      rintro x ⟨⟨-, hxW⟩, hx⟩
++      apply Set.disjoint_left.2
++      rintro x ⟨-, hxW⟩ hx
+       have := inter_zero hD.isCompact hn (ϖ : K) hu x (fun n => Set.mem_iInter.1 hx n)
+       exact hxW (this ▸ h0)) hanti.directed_ge
+   refine ⟨n, fun r hr => hW'W ?_⟩
+   by_contra hc
+-  have : (ϖ : K) ^ n * r ∈ ((R : Set K) ∩ W'ᶜ) ∩ I R ((ϖ : K) ^ n) :=
+-    ⟨⟨R.mul_mem (R.pow_mem hϖ n) hr, hc⟩, r, hr, rfl⟩
+-  rw [hn'] at this
+-  exact this
++  exact Set.disjoint_left.1 hn'
++    ⟨R.mul_mem (R.pow_mem hϖ n) hr, hc⟩ ⟨r, hr, rfl⟩
+ 
+ variable {R : Subring K} {ϖ : Kˣ}
+ 

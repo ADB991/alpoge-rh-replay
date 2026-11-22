@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.JumpKernelCokernel.JumpShiftProofs.ThickB",
+  "source_sha256": "81a0e827c17a3eb3500c90b2a2ff8ed5c16cc248669476ecd7236266510cc99c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

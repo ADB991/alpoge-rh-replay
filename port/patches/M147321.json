@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.IncomingBounds.FlowDegreeBounds.ProdRangeEqFactorialMulProdIco",
+  "source_sha256": "2803ad94785b2a82e367a5932dbfb0dc80266332d9e7c9e556f4e99a0b7bda2b",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only update to use multiplicity-based divisibility and Legendre lemmas through Nat.padicValNat_def and the renamed Nat.length_digits. The proofs retain the pinned valuation expressions and digit-length identity.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

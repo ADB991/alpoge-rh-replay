@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianLattices.HermitianLatticesProofs.ExampleZ",
+  "source_sha256": "0daa2e1981dfc84d094c82b8a35fd67fd897a97fbc1f1506f7306a1dc82ed136",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only update to construct the IsFullLattice result in the imported ExampleZ statement. Submodule.IsLattice.of_fg over ℚ supplies the parent field from the existing finite-generation proof, and the same span proof supplies span_eq_top.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

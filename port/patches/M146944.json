@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.HermitianCurvatureProofs.SecondPolynomialClauses",
+  "source_sha256": "cfdf35df317a4c9dc441c44e6051dd01df817df3941a044ca3bf542d056cac65",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only change to use Finset.prod_le_prod₀ for the same four pointwise bounds on nonnegative factors.",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}

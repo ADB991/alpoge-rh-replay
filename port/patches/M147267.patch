@@ -1,0 +1,11 @@
+--- a/src/Formalism/HermitianLattices/HermitianLatticesProofs/ExampleZ.lean
++++ b/src/Formalism/HermitianLattices/HermitianLatticesProofs/ExampleZ.lean
+@@ -136,7 +136,7 @@
+       obtain ⟨m, rfl⟩ := (exampleZ_mem_span _ _).mp hy
+       exact (exampleZ_mem_one _).mpr ⟨m * n, by push_cast; ring⟩
+   refine ⟨?_, ?_, ?_, hdual2, ?_, ?_, ?_⟩
+-  · refine ⟨?_, ?_⟩
++  · refine { toIsLattice := Submodule.IsLattice.of_fg ℚ ?_, span_eq_top := ?_ }
+     · rw [Submodule.one_eq_span]; exact Submodule.fg_span_singleton _
+     · rw [eq_top_iff]
+       intro x _

@@ -1,0 +1,8 @@
+{
+  "module": "Formalism.HermitianCurvature.HermitianCurvatureProofs.ReductionSurjective",
+  "source_sha256": "4a92930b0d5e20a9ef27f6cce8720e0493f1c6e0317e084cab208aeb7680269c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0273-lean436-20261122/P0273-receipt.json"
+}
