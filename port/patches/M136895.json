@@ -1,0 +1,8 @@
+{
+  "module": "Development.ResolutionOfSingularities.Foundations.Blowup.BlowupCoproduct",
+  "source_sha256": "5e94724fbeca5ef15afe4d5c489373a0e086af7a9ce31c284c58ca81c28d3cee",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0322 packet build transcript linked from the PR."
+}

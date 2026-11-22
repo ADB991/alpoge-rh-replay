@@ -1,0 +1,7 @@
+{
+  "module": "Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.CoordinateSubscheme",
+  "source_sha256": "9c4d689d2c19458a6f04b1614192e5f6d06057eac85b0a7d4f509dd18f802710",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "TensorProduct.induction_on is now a deprecated alias of TensorProduct.inductionOn, which has no zero case and does not infer the motive under refine; call TensorProduct.inductionOn with the motive given explicitly and drop the zero branch. Proof-only change; no statements, definitions or instances changed."
+}
