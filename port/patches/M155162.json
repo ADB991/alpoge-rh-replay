@@ -1,0 +1,7 @@
+{
+ "module": "Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.PhGramOf",
+ "source_sha256": "2fb5ac7d9c7d81feea095af7bcab339dc199efc39eceadbb2210fb95ef2346a4",
+ "lean": "leanprover/lean4:v4.36.0",
+ "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+ "notes": "unchanged"
+}
