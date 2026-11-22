@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Statements.AlgebraStatements.HodgeTateDatumStatement",
+  "source_sha256": "a4d0f39112858bc89d7b369fd3f707a1d90929150476116ade09f2397d36e9f6",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0371 packet build transcript linked from the PR."
+}
