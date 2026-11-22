@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.AlgebraTools.DeterminantRepresentations.OElRep",
+  "source_sha256": "ed3ac54a14c0b1e4c363518d019b14288fa642931d81bb61c98c37aa8aa00cbd",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0312 packet build transcript linked from the PR."
+}
