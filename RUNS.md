@@ -5,6 +5,8 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## setup notes
 
+(2026-11-22, run c075) alpo.ge, releases.lean-lang.org reachable now. elan's own toolchain download crashes (curl error in elan), so: download github.com/leanprover/lean4/releases/download/v4.36.0/lean-4.36.0-linux.zip (no zstd binary on box; use .zip), unzip, `elan toolchain link`. port_build.py prepare uses ELAN_HOME=WORK/elan, so link there too (ELAN_HOME=WORK/elan elan toolchain link ...) then rerun its remaining steps by hand: `lake update`, `lake exe cache get` in WORK/lean (cache works). gh: GraphQL is blocked, use `gh api` REST (search/issues needs is:issue or is:pr). In the shared checkout, `origin` = upstream: always push to remote `fork`.
+
 (2026-11-22) Andrea added alpo.ge, releases.lean-lang.org and mathlib4.lean-cache.cloud to the environment's network allowlist after the first run. Retest them before treating any as blocked.
 
 (2026-11-21, run ADB991-claude-20261121-7c3e) Cloud sandbox: 4 vCPU, 15 GB RAM, ~60 GB free disk.
@@ -18,7 +20,7 @@ One line per run, newest last: UTC start, packet, issue, PR, outcome.
 
 ## open
 
-(none)
+- P0255 | https://github.com/rohanarun/alpoge-rh-replay/issues/32617 | ADB991-claude-20261122-c075 | claude/port-P0255-c075 (not pushed yet) | PR: none | last touched 2026-11-22T12:40Z | ready-only (51/64), check running
 
 ## runs
 
