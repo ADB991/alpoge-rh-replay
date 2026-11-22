@@ -1,0 +1,11 @@
+--- a/src/GroundTheory/HeightsAndTheta/Heights/OrbitLimits/PLatticeImageZLattice.lean
++++ b/src/GroundTheory/HeightsAndTheta/Heights/OrbitLimits/PLatticeImageZLattice.lean
+@@ -8,7 +8,7 @@
+ 
+ theorem LatticeImageZLattice.exists_int_mul_integral {F : Type} [Field F] [NumberField F]
+     (L : AddSubgroup F) (hfg : L.FG) : ∃ N : ℤ, N ≠ 0 ∧ ∀ x ∈ L, IsIntegral ℤ (N • x) := by
+-  obtain ⟨S, hS⟩ := hfg
++  obtain ⟨S, hS⟩ := AddSubgroup.isAddFG_iff.1 hfg
+   have halg : ∀ s : F, ∃ y : ℤ, y ≠ 0 ∧ IsIntegral ℤ (y • s) := fun s =>
+     ((IsFractionRing.isAlgebraic_iff ℤ ℚ F).mpr (Algebra.IsAlgebraic.isAlgebraic s)).exists_integral_multiple
+   choose y hy0 hyint using halg

@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.PFlagIntegralPermute",
+  "source_sha256": "80612027f4481be880b1e887ef3a5fa42bd2c42567eb6305134e24b731ade727",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Proof-only: six `coeff α H` terms inside the proof are respelled `H.coeff α` (MvPolynomial.coeff was replaced by the AddMonoidAlgebra projection).",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}

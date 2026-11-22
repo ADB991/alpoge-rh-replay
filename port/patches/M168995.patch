@@ -1,0 +1,16 @@
+--- a/src/GroundTheory/HeightsAndTheta/Heights/OrbitLimits/PNumberFieldBoxCount.lean
++++ b/src/GroundTheory/HeightsAndTheta/Heights/OrbitLimits/PNumberFieldBoxCount.lean
+@@ -27,10 +27,11 @@
+     simpa [mul_comm] using h
+ 
+ theorem fg_of_le {G : Type*} [AddCommGroup G] {H K : AddSubgroup G} (hK : K.FG) (hHK : H ≤ K) : H.FG := by
+-  obtain ⟨S, hS⟩ := hK
++  obtain ⟨S, hS⟩ := AddSubgroup.isAddFG_iff.1 hK
+   have hK' : (AddSubgroup.toIntSubmodule K).FG := ⟨S, by rw [← AddSubgroup.toIntSubmodule_closure, hS]⟩
+   obtain ⟨T, hT⟩ := hK'.of_le (S := AddSubgroup.toIntSubmodule H) hHK
+-  exact ⟨T, AddSubgroup.toIntSubmodule.injective (by rw [AddSubgroup.toIntSubmodule_closure, hT])⟩
++  exact AddSubgroup.isAddFG_iff.2
++    ⟨T, AddSubgroup.toIntSubmodule.injective (by rw [AddSubgroup.toIntSubmodule_closure, hT])⟩
+ 
+ theorem forall_le_iff {F : Type*} [Field F] [NumberField F] (ρ : (F →+* ℂ) → ℝ)
+     (hρc : ∀ σ, ρ (ComplexEmbedding.conjugate σ) = ρ σ) (x : F) :

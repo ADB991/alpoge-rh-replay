@@ -1,0 +1,8 @@
+{
+  "module": "GroundTheory.HeightsAndTheta.Heights.RemainderTerms.CoeffRenameProdCongrRight",
+  "source_sha256": "48eb6c8967ac2a23cc49da112cfc9f6baa7f1553470ab409bfc5b8b370481b7f",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "Statement: MvPolynomial.coeff d P was removed from Mathlib; the coefficient is now the AddMonoidAlgebra projection, written P.coeff d. Three theorem statements (coeff_rename_prodCongrRight, coeff_rho_antisym, coeff_blockVandermonde) are respelled that way; the pinned accessor is defined as that same application, so the statements are definitionally the same, with polynomials, indices and hypotheses unchanged. In one proof Finsupp.mapDomain_apply, whose injective form was renamed, becomes Finsupp.mapDomain_apply_of_injective.",
+  "evidence": "https://github.com/UnityChaos/alpoge-rh-replay/releases/download/port-P0287-issue-31942-lean436/P0287-receipt.json"
+}
