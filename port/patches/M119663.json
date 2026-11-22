@@ -1,0 +1,8 @@
+{
+  "module": "Development.AutomorphicSpectrum.Definitions.CommutativeAlgebra.IsFinFlatSub",
+  "source_sha256": "47badb53c921b7bc48fb3e7b8bdd3fd314fc52b9faa8d2dc1ad5a7e9f4cd823c",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "Compiled unchanged on leanprover/lean4:v4.36.0 with Mathlib fc4f59e577feb1a4956671bc04ac18aaaf8cd842 in the P0318 packet build transcript linked from the PR."
+}
