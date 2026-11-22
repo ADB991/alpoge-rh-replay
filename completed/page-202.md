@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M134332 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeEigenProjectionStatement` | volunteer-build-reviewed |
+| M134333 | P0565 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeQuotientCompat` | wave-reused |
+| M134334 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeQuotientCompatStatement` | wave-reused |
+| M134339 | P2472 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootModelOriginCompatibility` | volunteer-build-reviewed |
+| M134340 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootModelOriginCompatibilityStatement` | volunteer-build-reviewed |
+| M134341 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCount` | build-observed |
+| M134342 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountAltBis` | build-observed |
 | M134343 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountStatement` | build-observed |
 | M134344 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBound` | build-observed |
 | M134345 | P0718 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginMultiplicityBoundStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M135078 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcLevelPf` | build-observed |
 | M135079 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcOfEqvPf` | build-observed |
 | M135080 | P0662 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcOfEqvPfSq` | build-observed |
-| M135081 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPPf` | build-observed |
-| M135082 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPf` | build-observed |
-| M135083 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSheafCut` | build-observed |
-| M135084 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPf` | build-observed |
-| M135085 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfCone` | build-observed |
-| M135086 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfMono` | build-observed |
-| M135087 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafFlqPf` | build-observed |

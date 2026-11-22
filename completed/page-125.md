@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M088874 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormAevalSubLe` | wave-reused |
+| M088876 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOne` | volunteer-build-reviewed |
+| M088877 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOneStatement` | volunteer-build-reviewed |
+| M088878 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormDerivationGeneratorsEqOneAtSite` | volunteer-build-reviewed |
 | M088879 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormDerivationGeneratorsEqOneAtSiteStatement` | volunteer-build-reviewed |
 | M088881 | P1572 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormEqOfSamePlace` | volunteer-build-reviewed |
 | M088884 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormLambdaCharacterNormOneIdeleEqPPow` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M089736 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissible` | volunteer-build-reviewed |
 | M089737 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedLatticesTwoClassesAdmissibleStatement` | volunteer-build-reviewed |
 | M089738 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TransportedPolynomialComplexPointEvaluation` | volunteer-build-reviewed |
-| M089740 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLaw` | volunteer-build-reviewed |
-| M089741 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLawStatement` | volunteer-build-reviewed |
-| M089743 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainStabilisersEqStandardReaderPointsStatement` | volunteer-build-reviewed |
-| M089744 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoiceGoodChartsEveryStage` | volunteer-build-reviewed |

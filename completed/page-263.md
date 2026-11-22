@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170012 | P0288 | `GroundTheory.PAdicHodge.BdRLattice` | wave-reused |
+| M170013 | P0086 | `GroundTheory.PAdicHodge.BdRSeries` | wave-reused |
+| M170014 | P0512 | `GroundTheory.PAdicHodge.BdRTGalois` | wave-reused |
+| M170026 | P1141 | `GroundTheory.PAdicHodge.ExistsNormLeOfNormLtOneFinite` | build-observed |
+| M170063 | P0612 | `GroundTheory.PAdicHodge.FWCharP` | build-observed |
+| M170064 | P0703 | `GroundTheory.PAdicHodge.FWCyclotomic` | build-observed |
+| M170066 | P0645 | `GroundTheory.PAdicHodge.FWGalois` | build-observed |
+| M170068 | P0612 | `GroundTheory.PAdicHodge.FWNatural` | build-observed |
+| M170069 | P0342 | `GroundTheory.PAdicHodge.FactorizationFactorialLe` | wave-reused |
 | M170070 | P0755 | `GroundTheory.PAdicHodge.FieldOfNorms` | build-observed |
 | M170071 | P0703 | `GroundTheory.PAdicHodge.FieldOfNormsAPF` | build-observed |
 | M170072 | P0915 | `GroundTheory.PAdicHodge.FieldOfNormsCyclBase` | build-observed |
@@ -393,12 +402,3 @@
 | M170887 | P0089 | `Lemmata.SmulListSum.SmulListSum` | volunteer-build-reviewed |
 | M170888 | P0472 | `Lemmata.TwistedIdempotents.TwistedIdem` | build-observed |
 | M170890 | P0167 | `PositivityTheory.AutomorphicForms.PublishedInputs.BorelInjectivity.EquivariantProjections.ExistsEquivariantProjOfLeSumIrreducible` | volunteer-build-reviewed |
-| M170891 | P1687 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf` | build-observed |
-| M170897 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdelicGaussians.UpperRightUnipotentInvariance` | build-observed |
-| M170901 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.CoefZero` | volunteer-build-reviewed |
-| M170902 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.FinsumOfIntegral` | volunteer-build-reviewed |
-| M170903 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.FrobeniusEigenvaluesTraceZeroAdjoint` | volunteer-build-reviewed |
-| M170905 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.ToIdeleSq` | volunteer-build-reviewed |
-| M170911 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.EulerProducts.GenStable` | build-observed |
-| M170913 | P1759 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.GTorus` | build-observed |
-| M170914 | P1735 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.SSmoothW` | build-observed |

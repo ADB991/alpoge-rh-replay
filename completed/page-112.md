@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077052 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLift` | volunteer-build-reviewed |
+| M077053 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdicCompletionLiftStatement` | volunteer-build-reviewed |
+| M077054 | P1595 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdlCutProj` | volunteer-build-reviewed |
 | M077055 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAdmissibleLocalComponentDefiniteUnitary` | volunteer-build-reviewed |
 | M077057 | P0447 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAevalEqSmulOnEigenspace` | build-observed |
 | M077058 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsAffineCoverSquarePolarisationSections` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M077856 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsResOfTameAt` | volunteer-build-reviewed |
 | M077858 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsRestrictedProductTupleMeasureStatement` | volunteer-build-reviewed |
 | M077859 | P2250 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsTrans` | build-observed |
-| M077860 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitSubOfIsSplitting` | volunteer-build-reviewed |
-| M077861 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasure` | volunteer-build-reviewed |
-| M077862 | P1333 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasureStatement` | build-observed |

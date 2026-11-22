@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M022410 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntireEqOfEqOnHalfPlane` | wave-reused |
 | M022411 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EntryMemSubringOfTraceGramUnit` | volunteer-build-reviewed |
 | M022416 | P1618 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EnvelopingAlgebraLineWords` | build-observed |
 | M022422 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EpiPowOfIsAbelianScheme` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M023024 | P2109 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvLocOpComm` | volunteer-build-reviewed |
 | M023026 | P1838 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvREqOfReadsSmul` | volunteer-build-reviewed |
 | M023028 | P0948 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvResCounitCompat` | build-observed |
-| M023029 | P0976 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.EvResCounitCompatStatement` | build-observed |

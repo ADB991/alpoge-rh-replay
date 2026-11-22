@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M125381 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierTransformIdentity` | volunteer-build-reviewed |
+| M125382 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompat` | build-observed |
+| M125383 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompatStatement` | build-observed |
+| M125384 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEq` | build-observed |
+| M125385 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEqStatement` | build-observed |
+| M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
+| M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |
 | M125389 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationFourthHypothesis` | volunteer-build-reviewed |
 | M125390 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalEquationNinthHypothesis` | volunteer-build-reviewed |
 | M125392 | P1753 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFunctionalSectionInvariance` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M125997 | P1524 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocks` | volunteer-build-reviewed |
 | M125998 | P1552 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProdEquivStandardBlocksStatement` | volunteer-build-reviewed |
 | M125999 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiProductSingleFactorEquiv` | volunteer-build-reviewed |
-| M126002 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulticonePointDescendsToSubvarietyStatement` | volunteer-build-reviewed |
-| M126003 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactors` | build-observed |
-| M126004 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactorsStatement` | build-observed |
-| M126005 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnCone` | volunteer-build-reviewed |
-| M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
-| M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
-| M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |

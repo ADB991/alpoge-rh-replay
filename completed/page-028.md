@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M019016 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePart` | volunteer-build-reviewed |
 | M019017 | P2167 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePartStatement` | volunteer-build-reviewed |
 | M019018 | P2178 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesTheta` | volunteer-build-reviewed |
 | M019019 | P2188 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationIntertwinesThetaStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M019711 | P0101 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnCosSq` | volunteer-build-reviewed |
 | M019712 | P2645 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnDens` | volunteer-build-reviewed |
 | M019718 | P2278 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOnReadingIntegerExponentSection` | build-observed |
-| M019721 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousOneAddLowRankEmbeddingQuaternionMatrixStatement` | volunteer-build-reviewed |

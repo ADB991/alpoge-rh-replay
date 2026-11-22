@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M081277 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharactersStatement` | volunteer-build-reviewed |
+| M081279 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PatchAtSelf` | volunteer-build-reviewed |
+| M081284 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodChartRescaleBallToUnitPolydisc` | volunteer-build-reviewed |
 | M081292 | P2379 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFamilyChartHolomorphicStatement` | build-observed |
 | M081293 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodFormsIsometryColumnPairingAtState` | volunteer-build-reviewed |
 | M081306 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodMatrixBoundaryExtensionMonodromyPosSemidef` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M082378 | P1910 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateClose` | volunteer-build-reviewed |
 | M082379 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardFrameConjugateCloseStatement` | volunteer-build-reviewed |
 | M082380 | P1698 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonal` | volunteer-build-reviewed |
-| M082381 | P1721 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonalStatement` | volunteer-build-reviewed |
-| M082383 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLiftReadingOfDecoratedLatticePresentatioStatement` | volunteer-build-reviewed |
-| M082384 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTrans` | volunteer-build-reviewed |

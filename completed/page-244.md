@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159628 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamAddC` | build-observed |
+| M159629 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamPolySmulRight` | build-observed |
+| M159630 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LastNeZero` | build-observed |
+| M159631 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.MemInvariantSectionsIffIntegral` | build-observed |
+| M159632 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.MemInvariantSectionsTwoWeightIff` | build-observed |
+| M159633 | P1711 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ModelIdentificationHolds` | build-observed |
+| M159634 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfLoZero` | build-observed |
+| M159635 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfWtPQCast` | build-observed |
 | M159636 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PbSmithLam` | build-observed |
 | M159637 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.PdAevalScale` | build-observed |
 | M159638 | P1530 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ProdMemHten` | build-observed |
@@ -394,11 +402,3 @@
 | M160039 | P1111 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GeneratedWeightLemmaOfReducibility` | wave-reused |
 | M160040 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GenericMatrixEvaluationDet` | wave-reused |
 | M160041 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorMemIntegralEnveloping` | wave-reused |
-| M160042 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorPreservesMultidegree` | wave-reused |
-| M160043 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HeisenbergDividedPowerExpansion` | wave-reused |
-| M160044 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightDominantHolds` | wave-reused |
-| M160045 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightLatticeOfFirstPart` | wave-reused |
-| M160046 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightModuleBounds` | wave-reused |
-| M160047 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HomLatticeDividedPowerStable` | wave-reused |
-| M160048 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IdentityEvaluationGenericMatrix` | wave-reused |
-| M160049 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesLattice` | wave-reused |

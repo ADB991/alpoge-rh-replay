@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M144750 | P1106 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ApplyMemSmul` | wave-reused |
+| M144751 | P1186 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ApplyMemSmulOfMemAutSub` | wave-reused |
+| M144752 | P1368 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.AutSubApplyMem` | wave-reused |
+| M144753 | P0857 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.BoxInterEqEmpty` | wave-reused |
+| M144754 | P1162 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardEqRelIndex` | wave-reused |
+| M144755 | P0910 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardFibGEqProd` | wave-reused |
+| M144756 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardFiberMulCardRange` | wave-reused |
+| M144757 | P0069 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardFilterResCharLe` | wave-reused |
 | M144758 | P0147 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardLiftMatrix` | wave-reused |
 | M144759 | P0212 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardLiftUnimod` | wave-reused |
 | M144760 | P0502 | `Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardMapEquiv` | wave-reused |
@@ -394,11 +402,3 @@
 | M145152 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussMul` | wave-reused |
 | M145153 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactBis` | wave-reused |
 | M145154 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.GaussValueContractionProofFactVariant` | wave-reused |
-| M145155 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.KapBoundProof` | wave-reused |
-| M145156 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.LemmaCVal` | wave-reused |
-| M145157 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.PhiIterXProof` | wave-reused |
-| M145158 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.ScaledPowMemSpanCeil` | wave-reused |
-| M145159 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.SigBound` | wave-reused |
-| M145160 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.TruncationExponentBounds` | wave-reused |
-| M145161 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.WStepContract` | wave-reused |
-| M145162 | P0212 | `Formalism.GaussValuationBounds.KapBound3` | wave-reused |

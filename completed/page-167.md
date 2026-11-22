@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M113609 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PGFine` | volunteer-build-reviewed |
+| M113610 | P2766 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PGUnif` | volunteer-build-reviewed |
+| M113611 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PHeckeCoord` | volunteer-build-reviewed |
+| M113612 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PHermOfJ` | volunteer-build-reviewed |
+| M113613 | P1341 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PHolPi` | build-observed |
+| M113614 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIntMult` | volunteer-build-reviewed |
+| M113615 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PInvMin` | volunteer-build-reviewed |
 | M113616 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIsogAt` | volunteer-build-reviewed |
 | M113618 | P2642 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PIsogForm` | volunteer-build-reviewed |
 | M113619 | P2660 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalCoordinates.PJLine` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M114095 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutProd` | volunteer-build-reviewed |
 | M114096 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutProdA` | volunteer-build-reviewed |
 | M114097 | P2229 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutReal` | volunteer-build-reviewed |
-| M114098 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealA` | volunteer-build-reviewed |
-| M114099 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealB` | volunteer-build-reviewed |
-| M114100 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSer` | volunteer-build-reviewed |
-| M114101 | P2241 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSerA` | volunteer-build-reviewed |
-| M114102 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSubst` | volunteer-build-reviewed |
-| M114103 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutTrace` | volunteer-build-reviewed |
-| M114105 | P2241 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpDatum` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158732 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanAlg` | wave-reused |
+| M158733 | P1241 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDir` | build-observed |
+| M158734 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDirAlg` | volunteer-build-reviewed |
+| M158735 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanPf` | build-observed |
+| M158736 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FramedFamilyStatement` | build-observed |
+| M158737 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GCorCut` | volunteer-build-reviewed |
+| M158741 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GSplit` | build-observed |
+| M158743 | P0157 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeExpPow` | volunteer-build-reviewed |
 | M158744 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeIntCut` | volunteer-build-reviewed |
 | M158745 | P0638 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniq` | build-observed |
 | M158746 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeUniqA` | build-observed |
@@ -394,11 +402,3 @@
 | M159191 | P1081 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.StandardPathBasisAnyRing` | build-observed |
 | M159192 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.SubProjectorProductMemStrict` | build-observed |
 | M159193 | P0970 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.ToralGalois` | build-observed |
-| M159194 | P1296 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.TorusComponentMemDominatedWeightPolynomials` | build-observed |
-| M159195 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio` | build-observed |
-| M159196 | P1242 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.AiAddMulLeA0` | build-observed |
-| M159197 | P1167 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockFG` | build-observed |
-| M159198 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockInj` | build-observed |
-| M159199 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockRank` | build-observed |
-| M159200 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Bracket` | build-observed |
-| M159201 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CardEqChainSum` | build-observed |

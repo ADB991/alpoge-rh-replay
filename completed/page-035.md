@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M023668 | P2035 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenKodairaSpencerLeftInverseStatement` | volunteer-build-reviewed |
 | M023673 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSectionsDistinctInFibres` | volunteer-build-reviewed |
 | M023675 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasicOpenSmoothOfRelativeDimensionOfGeneri` | volunteer-build-reviewed |
 | M023679 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBasisAdaptedToCartanInvolution` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M024327 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCongruenceHeckeCharacterBoundedLevelTrivia` | volunteer-build-reviewed |
 | M024329 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCongruenceKernelIdeleCharacterTrivialAtInf` | volunteer-build-reviewed |
 | M024330 | P1506 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsCongruenceKernelIdeleCharacterTrivialAtInfStatement` | volunteer-build-reviewed |
-| M024333 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjDiagonal` | volunteer-build-reviewed |

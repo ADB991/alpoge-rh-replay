@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122009 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIndicatorUnitScalingStatement` | volunteer-build-reviewed |
+| M122010 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIntegralUnramified` | volunteer-build-reviewed |
+| M122011 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetIntegralUnramifiedStatement` | volunteer-build-reviewed |
+| M122012 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetMeasureFormula` | volunteer-build-reviewed |
+| M122014 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetOff` | volunteer-build-reviewed |
+| M122015 | P0961 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetRepsOfFactorization` | build-observed |
+| M122016 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetRepsOfFactorizationStatement` | build-observed |
 | M122017 | P0138 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShifted` | volunteer-build-reviewed |
 | M122018 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSeriesSummableShiftedStatement` | volunteer-build-reviewed |
 | M122019 | P0060 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CosetSumTranslateInvariant` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M122631 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductLintegralLimitStatement` | volunteer-build-reviewed |
 | M122635 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EulerProductMeasureEventuallyStandardStatement` | volunteer-build-reviewed |
 | M122636 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvFinSSOneNot` | volunteer-build-reviewed |
-| M122637 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvProdBlockUnit` | volunteer-build-reviewed |
-| M122639 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalMod` | volunteer-build-reviewed |
-| M122640 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalRestrictSection` | volunteer-build-reviewed |
-| M122643 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalZeroOfMemHomogeneousIdeal` | volunteer-build-reviewed |
-| M122645 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvaluationMapsLinear` | volunteer-build-reviewed |
-| M122647 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyActMemLatVIff` | volunteer-build-reviewed |
-| M122648 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyEqOfAgreeGLs` | build-observed |

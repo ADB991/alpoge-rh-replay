@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114966 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AgreeOfAdjoin` | volunteer-build-reviewed |
+| M114967 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraSmulCommClassComplex` | volunteer-build-reviewed |
+| M114968 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraicPointIntegral` | volunteer-build-reviewed |
+| M114969 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlternatingSumZero` | volunteer-build-reviewed |
+| M114970 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalConjugation` | volunteer-build-reviewed |
+| M114971 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalTranspose` | volunteer-build-reviewed |
+| M114972 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ArithmeticCylinders` | volunteer-build-reviewed |
 | M114973 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.Artin` | volunteer-build-reviewed |
 | M114975 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AuxiliaryNormPrimes` | build-observed |
 | M114976 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.BallRing` | wave-reused |
@@ -395,10 +402,3 @@
 | M115395 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerAlt` | build-observed |
 | M115396 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerBis` | build-observed |
 | M115397 | P0715 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerExtra` | wave-reused |
-| M115398 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerFurther` | volunteer-build-reviewed |
-| M115399 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerLast` | volunteer-build-reviewed |
-| M115400 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerMore` | volunteer-build-reviewed |
-| M115401 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerRest` | volunteer-build-reviewed |
-| M115402 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerSide` | volunteer-build-reviewed |
-| M115403 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTail` | volunteer-build-reviewed |
-| M115404 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTer` | build-observed |

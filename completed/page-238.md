@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156926 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabNu` | wave-reused |
+| M156927 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabOrb` | wave-reused |
+| M156928 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabSt` | wave-reused |
+| M156929 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabTop` | wave-reused |
+| M156930 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExStabU` | wave-reused |
+| M156931 | P1392 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.ExistsUnifFv` | wave-reused |
+| M156932 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibDis` | wave-reused |
+| M156933 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibFour` | wave-reused |
 | M156934 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibGlue` | wave-reused |
 | M156935 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibOfTens` | wave-reused |
 | M156936 | P1442 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.FibTop` | wave-reused |
@@ -394,11 +402,3 @@
 | M157348 | P0697 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UJClassMassOfOpen` | build-observed |
 | M157349 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryClassMass.UnitaryClassMass` | build-observed |
 | M157351 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.ExistsUnitReal` | volunteer-build-reviewed |
-| M157352 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.SubmatrixMemUnitaryGroup` | volunteer-build-reviewed |
-| M157353 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.Transfer` | volunteer-build-reviewed |
-| M157354 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.TransferStep` | volunteer-build-reviewed |
-| M157355 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.Decomp` | wave-reused |
-| M157356 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.Derived` | wave-reused |
-| M157357 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.EvalBindTorusSubst` | wave-reused |
-| M157358 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.GramStep` | wave-reused |
-| M157359 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.VanishInvertible` | wave-reused |

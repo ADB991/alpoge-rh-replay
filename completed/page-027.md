@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M018279 | P2095 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientBoundOfPublishedInputsStatement` | volunteer-build-reviewed |
 | M018282 | P1940 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientConjugateThetaForm` | volunteer-build-reviewed |
 | M018283 | P1977 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientFieldIsFieldOfDefinitionChainSteps` | volunteer-build-reviewed |
 | M018289 | P2081 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CoefficientModelTopClassesMap` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M019011 | P2304 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenStabilizerIntegralStatement` | volunteer-build-reviewed |
 | M019014 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelation` | volunteer-build-reviewed |
 | M019015 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEigenTripleRelationStatement` | volunteer-build-reviewed |
-| M019016 | P2156 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConfigBEvaluationInfinitePart` | volunteer-build-reviewed |

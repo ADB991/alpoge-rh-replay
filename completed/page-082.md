@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056153 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumFixesVacuumNonSplitPlaceUnramified` | volunteer-build-reviewed |
 | M056155 | P1796 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumRealPlacesFockVacuumCharacter` | volunteer-build-reviewed |
 | M056159 | P2070 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetCh` | volunteer-build-reviewed |
 | M056160 | P2084 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeilDatumSplitSupportedEqIntertwinerMulHalfDetChStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M056875 | P0869 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotent` | build-observed |
 | M056876 | P0895 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselRootDilationNormalizesContractsUnipotentStatement` | build-observed |
 | M056879 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficient` | build-observed |
-| M056880 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficientStatement` | build-observed |

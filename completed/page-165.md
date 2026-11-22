@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M112406 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDenseUs` | volunteer-build-reviewed |
+| M112407 | P2619 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDetEx` | volunteer-build-reviewed |
+| M112408 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDivDet` | volunteer-build-reviewed |
+| M112409 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDivOne` | volunteer-build-reviewed |
+| M112410 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDivSet` | volunteer-build-reviewed |
+| M112411 | P2572 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PDivUniq` | volunteer-build-reviewed |
+| M112412 | P2103 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PGapLac` | volunteer-build-reviewed |
 | M112413 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PGenPin` | volunteer-build-reviewed |
 | M112414 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PInFacts` | volunteer-build-reviewed |
 | M112415 | P2089 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.IntegralStructures.ZetaCharacterDivisibility.PIsoMove` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M113035 | P2739 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.PlainTorOfMono0` | volunteer-build-reviewed |
 | M113036 | P2687 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.PlainTorsionPairs.TypePlain` | volunteer-build-reviewed |
 | M113037 | P1725 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CentralEig2` | volunteer-build-reviewed |
-| M113038 | P2607 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CharConj` | volunteer-build-reviewed |
-| M113039 | P2667 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CharConjHolds` | volunteer-build-reviewed |
-| M113040 | P1703 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CompLocOfApart` | volunteer-build-reviewed |
-| M113041 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.ConjLoc` | volunteer-build-reviewed |
-| M113042 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.KPlace` | volunteer-build-reviewed |
-| M113043 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.NormEmb` | volunteer-build-reviewed |
-| M113044 | P1777 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ProjectiveAutomorphicHecke.CyclotomicConjugation.NormGlob` | volunteer-build-reviewed |

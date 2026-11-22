@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M082381 | P1721 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLatticesDiagonalStatement` | volunteer-build-reviewed |
+| M082383 | P1772 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardLiftReadingOfDecoratedLatticePresentatioStatement` | volunteer-build-reviewed |
+| M082384 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTrans` | volunteer-build-reviewed |
 | M082385 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StandardReadingTransportAndExtensionTransStatement` | volunteer-build-reviewed |
 | M082386 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarCharacterEqProdAdditiveCharactersRoot` | volunteer-build-reviewed |
 | M082391 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StarDepthCommonDenominatorRankLeStatement` | volunteer-build-reviewed |
@@ -79,6 +82,7 @@
 | M082556 | P1202 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameCharEqOfTameRepCongr` | volunteer-build-reviewed |
 | M082557 | P1228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameCharEqOfTameRepCongrStatement` | volunteer-build-reviewed |
 | M082559 | P2085 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameCharactersTypePrimesEqOfExtension` | volunteer-build-reviewed |
+| M082561 | P0361 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameEisensteinExtensionUniqueTotallyRamifiedPlac` | volunteer-build-reviewed |
 | M082563 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameHeckeCharLocalEqInvTypeCharacter` | volunteer-build-reviewed |
 | M082568 | P2228 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameInertiaFixedDvdValuationOrder` | volunteer-build-reviewed |
 | M082575 | P1570 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.TameValuesGaloisCharFormResidueUnitCharacter` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M083460 | P0524 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensor` | wave-reused |
 | M083461 | P0557 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirBoundProjectionDualTensorStatement` | wave-reused |
 | M083462 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotone` | wave-reused |
-| M083463 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotoneStatement` | wave-reused |
-| M083464 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaise` | wave-reused |
-| M083465 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaiseStatement` | wave-reused |
-| M083468 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjoint` | wave-reused |

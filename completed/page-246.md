@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160486 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalEndApply` | build-observed |
+| M160487 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalMemOfStable` | build-observed |
+| M160489 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ClassMapPf` | build-observed |
+| M160490 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ConstantCoeffQZeroEqP` | build-observed |
+| M160492 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DecompCoord` | volunteer-build-reviewed |
+| M160493 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DescentValuation` | build-observed |
+| M160494 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdCondition` | build-observed |
+| M160495 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero` | volunteer-build-reviewed |
 | M160499 | P0222 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExistsInfFilVEqBot` | volunteer-build-reviewed |
 | M160503 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ExtPfMultVEqZero` | build-observed |
 | M160504 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.FinrankMapMkQ` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M161270 | P0724 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.JointDModelAppliesUnitLattice` | build-observed |
 | M161271 | P0280 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LevelOfCongruence` | build-observed |
 | M161272 | P0638 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LipschitzWeightAndMinimum` | build-observed |
-| M161273 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LocalizationStructureHolds` | build-observed |
-| M161274 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.OneLeThresholdMulPowers` | build-observed |
-| M161275 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PBrDiv` | build-observed |
-| M161276 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PChain` | build-observed |
-| M161277 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PSmall` | build-observed |
-| M161278 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PrimeCongruenceConditions` | build-observed |
-| M161279 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ProjectiveLines` | build-observed |
-| M161280 | P0464 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.RiemannHypothesisOfPowerBound` | build-observed |

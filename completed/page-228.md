@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152203 | P1189 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCellConvergence.PairMeasBad` | build-observed |
+| M152205 | P1641 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ConcreteSettingExists` | build-observed |
+| M152207 | P1268 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.ConstPinOfStd` | build-observed |
+| M152211 | P2197 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CutAtHolds` | build-observed |
+| M152212 | P1295 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DFrameAtPf` | build-observed |
+| M152215 | P1369 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DegenerateConstant` | build-observed |
+| M152216 | P2031 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DoubleCosetBesselBoundOfBesselUniq` | build-observed |
+| M152217 | P1832 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DstarIdxPf` | build-observed |
 | M152218 | P1855 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DstarVolPf` | build-observed |
 | M152219 | P0831 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.DvPosC` | build-observed |
 | M152220 | P2154 | `Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.EPerpMid` | build-observed |
@@ -394,11 +402,3 @@
 | M152767 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementB` | wave-reused |
 | M152768 | P0422 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementC` | wave-reused |
 | M152771 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementI` | build-observed |
-| M152775 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementW` | build-observed |
-| M152776 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionHypothesesOfLevelOne` | wave-reused |
-| M152777 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionPointsIntegral` | wave-reused |
-| M152779 | P1189 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.FinalOfNRDense` | build-observed |
-| M152782 | P0748 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.AtVariableArtinHasseEqOneLog` | wave-reused |
-| M152783 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionHypothesesOfConditions` | wave-reused |
-| M152784 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionOfExpSpec` | wave-reused |
-| M152785 | P0748 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionPointsOfExpSpec` | wave-reused |

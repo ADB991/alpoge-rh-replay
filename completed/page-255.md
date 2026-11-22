@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165140 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericPieceRank` | wave-reused |
+| M165141 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDim` | build-observed |
+| M165142 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDivisor` | wave-reused |
+| M165144 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGradedPieceFree` | wave-reused |
+| M165145 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGradedPieceQuot` | wave-reused |
+| M165146 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbDegBound` | wave-reused |
+| M165147 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnCut` | wave-reused |
+| M165148 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnVanishBlock` | wave-reused |
+| M165149 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingDimLe` | build-observed |
 | M165150 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingIsLocal` | build-observed |
 | M165151 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingLocal` | build-observed |
 | M165152 | P0575 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingMem` | build-observed |
@@ -393,12 +402,3 @@
 | M165672 | P0671 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMChartTrdeg` | wave-reused |
 | M165673 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMixedDiffConst` | pilot-reused |
 | M165674 | P0337 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PMultEqualsCoeff` | pilot-reused |
-| M165675 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PNoetherIntegralClosure` | wave-reused |
-| M165676 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContracted` | pilot-reused |
-| M165677 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContractedDim` | pilot-reused |
-| M165678 | P0338 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFDegree` | pilot-reused |
-| M165679 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPNProduct` | pilot-reused |
-| M165680 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPolyOfDiffs` | pilot-reused |
-| M165681 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPrimeFiltration` | pilot-reused |
-| M165682 | P0468 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRelevantPrimeDimGe` | pilot-reused |
-| M165683 | P0384 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameHilbFn` | pilot-reused |

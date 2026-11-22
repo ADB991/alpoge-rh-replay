@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M038294 | P0245 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassTorsionQCoefficients` | volunteer-build-reviewed |
 | M038295 | P0299 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegralWeierstrassTorsionQCoefficientsStatement` | volunteer-build-reviewed |
 | M038296 | P0016 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedAdjoin` | volunteer-build-reviewed |
 | M038297 | P0300 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInClosureLocalization` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M039074 | P2399 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsTerms` | volunteer-build-reviewed |
 | M039079 | P2456 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaConstantListOfFibrePullbackFieldExtension` | volunteer-build-reviewed |
 | M039082 | P1906 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProduct` | volunteer-build-reviewed |
-| M039083 | P1924 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsThetaFunDoubledSpaceBoxProductStatement` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M087814 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresentedStatement` | volunteer-build-reviewed |
+| M087815 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizer` | volunteer-build-reviewed |
+| M087816 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizerStatement` | volunteer-build-reviewed |
+| M087817 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GalRepRankTwo` | volunteer-build-reviewed |
 | M087820 | P1867 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisCompatibilityOfJumpsStatement` | volunteer-build-reviewed |
 | M087823 | P1311 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisLogTeichmullerRatioEqAddKummer` | volunteer-build-reviewed |
 | M087824 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GaloisLogTeichmullerRatioEqAddKummerStatement` | build-observed |
@@ -398,7 +402,3 @@
 | M088871 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreement` | volunteer-build-reviewed |
 | M088872 | P2215 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyJoinOfAgreementStatement` | volunteer-build-reviewed |
 | M088873 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NonemptyPlacesOfRecord` | build-observed |
-| M088874 | P0039 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormAevalSubLe` | wave-reused |
-| M088876 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOne` | volunteer-build-reviewed |
-| M088877 | P2299 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormCmEmbeddingNormOneLocalUnitEqOneStatement` | volunteer-build-reviewed |
-| M088878 | P2286 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.NormDerivationGeneratorsEqOneAtSite` | volunteer-build-reviewed |

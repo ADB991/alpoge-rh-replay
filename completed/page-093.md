@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M063535 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOne` | wave-reused |
+| M063536 | P0710 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOneStatement` | wave-reused |
 | M063538 | P2585 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientCharTrivialInertiaCyclotomicTower` | volunteer-build-reviewed |
 | M063540 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphic` | wave-reused |
 | M063541 | P0404 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QuotientIntegralHolomorphicStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M064177 | P0189 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.UpperTriangularMulEqMulUpperTriangularGamma1InteStatement` | volunteer-build-reviewed |
 | M064184 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOne` | build-observed |
 | M064185 | P1150 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairModulusOneStatement` | build-observed |
-| M064186 | P1452 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactor` | build-observed |
-| M064187 | P1481 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.VacuumUnderAdelicPairUnitModulusFactorStatement` | build-observed |

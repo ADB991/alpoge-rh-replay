@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |
 | M003606 | P0615 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasLevelStd` | volunteer-build-reviewed |
 | M003608 | P0002 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasQIff` | wave-reused |
 | M003610 | P2706 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasRigidChart` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M004253 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsWeight` | volunteer-build-reviewed |
 | M004254 | P0295 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsZeroFreeSchOfIsEmpty` | volunteer-build-reviewed |
 | M004255 | P0705 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsobaricDiscreteSelfDualStrongMultiplicityOne` | volunteer-build-reviewed |
-| M004256 | P2662 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IwahoriAdmissibleSet` | volunteer-build-reviewed |

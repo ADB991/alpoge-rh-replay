@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M124564 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntZero` | volunteer-build-reviewed |
+| M124565 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalization` | volunteer-build-reviewed |
+| M124566 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalizationStatement` | volunteer-build-reviewed |
+| M124567 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIsoFrameFirstCols` | volunteer-build-reviewed |
+| M124570 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLCRes` | volunteer-build-reviewed |
+| M124572 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLatIntVec` | volunteer-build-reviewed |
+| M124576 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLocallyConstantToZModPow` | build-observed |
 | M124579 | P0853 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsMultOfFintype` | build-observed |
 | M124580 | P2028 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNMapAdd` | volunteer-build-reviewed |
 | M124581 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsNormalisedOfDualIsConj` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M125376 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadical` | volunteer-build-reviewed |
 | M125377 | P0266 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFiniteAlgebraJacobsonRadicalStatement` | volunteer-build-reviewed |
 | M125380 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierCosetIndValBall` | volunteer-build-reviewed |
-| M125381 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFourierTransformIdentity` | volunteer-build-reviewed |
-| M125382 | P1315 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompat` | build-observed |
-| M125383 | P1342 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameDerivationCompatStatement` | build-observed |
-| M125384 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEq` | build-observed |
-| M125385 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFrameTaylorClassEqStatement` | build-observed |
-| M125386 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplitting` | volunteer-build-reviewed |
-| M125387 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LocalFreeKernelSplittingStatement` | volunteer-build-reviewed |

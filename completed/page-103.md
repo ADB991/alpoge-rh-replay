@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M070369 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpaceStatement` | volunteer-build-reviewed |
+| M070372 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockInnerProductPosDefCompactMatrixUnitAdjoint` | volunteer-build-reviewed |
 | M070374 | P1482 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockMinorProductEqSignDualWeylExtremalVector` | volunteer-build-reviewed |
 | M070376 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockOfApply` | volunteer-build-reviewed |
 | M070379 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockPolynomialSubstitutionCommuteTargetGlAction` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M071005 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeisenbergRealPointFockVacuumPairingScalarStatement` | volunteer-build-reviewed |
 | M071009 | P2159 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HenselRootsOfLocalFamilyStatement` | volunteer-build-reviewed |
 | M071010 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermBasisOrthonormal` | volunteer-build-reviewed |
-| M071011 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatch` | volunteer-build-reviewed |
-| M071012 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatchStatement` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M158245 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenA` | build-observed |
+| M158246 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenB` | build-observed |
+| M158247 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelIdx` | build-observed |
+| M158248 | P1321 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLitG` | build-observed |
+| M158250 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeMainT` | build-observed |
+| M158251 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeNGLQ` | build-observed |
+| M158252 | P0887 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsGenus` | build-observed |
+| M158253 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsLift` | build-observed |
 | M158255 | P1110 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeVolRatio` | build-observed |
 | M158256 | P1166 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeWeylDS` | build-observed |
 | M158257 | P1241 | `Formalism.SharpRestriction.CuspSpanNormBounds.BruhatCellsKronecker` | build-observed |
@@ -394,11 +402,3 @@
 | M158726 | P0697 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FBMapPf` | wave-reused |
 | M158729 | P0777 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FormalGroupLinearSecond` | build-observed |
 | M158731 | P0969 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrRatio` | build-observed |
-| M158732 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanAlg` | wave-reused |
-| M158733 | P1241 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDir` | build-observed |
-| M158734 | P0078 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanDirAlg` | volunteer-build-reviewed |
-| M158735 | P1214 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FrTanPf` | build-observed |
-| M158736 | P0832 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.FramedFamilyStatement` | build-observed |
-| M158737 | P1269 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GCorCut` | volunteer-build-reviewed |
-| M158741 | P0724 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GSplit` | build-observed |
-| M158743 | P0157 | `Formalism.SharpRestriction.Divisibility.GeneratorPowers.GaugeExpPow` | volunteer-build-reviewed |

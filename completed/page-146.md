@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101975 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatReal` | volunteer-build-reviewed |
+| M101976 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CongruenceNumberRankThree` | volunteer-build-reviewed |
+| M101977 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountK` | volunteer-build-reviewed |
+| M101978 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountQ` | volunteer-build-reviewed |
+| M101983 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.DownCsd` | volunteer-build-reviewed |
 | M101984 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.EventuallyNotMem` | volunteer-build-reviewed |
 | M101985 | P2547 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.ExistenceOfGaloisRepresentationsOfHyp` | volunteer-build-reviewed |
 | M101989 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.GelfandKazhdanReal` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M102565 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerHom` | volunteer-build-reviewed |
 | M102566 | P0313 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.EigenMem` | wave-reused |
 | M102567 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLiftDominatingPairOfMaximalIdealPowEqBot` | volunteer-build-reviewed |
-| M102568 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLimitOfSuccessiveDiffMemFiltration` | volunteer-build-reviewed |
-| M102569 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLocallyConstantDOneEqCocycleOfTameInertia` | volunteer-build-reviewed |
-| M102570 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FiniteLiftDualNumberOfPhiCond` | volunteer-build-reviewed |
-| M102571 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FrameCount` | volunteer-build-reviewed |
-| M102572 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedGrading` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062359 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEqStatement` | wave-reused |
 | M062360 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInv` | wave-reused |
 | M062361 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesPowOfLeadingQInvStatement` | wave-reused |
 | M062362 | P0250 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesQDerivativeSubstUpperTriangular` | volunteer-build-reviewed |
@@ -273,6 +274,7 @@
 | M062770 | P1007 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsPosHermFormV` | volunteer-build-reviewed |
 | M062771 | P1983 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsPowOfGaussValuationCongrOneAlmostAllPrimes` | volunteer-build-reviewed |
 | M062772 | P2002 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsPowOfGaussValuationCongrOneAlmostAllPrimesStatement` | volunteer-build-reviewed |
+| M062773 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsPrimitiveRootEOmLevel` | volunteer-build-reviewed |
 | M062775 | P2492 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsQuotientMapToGSProd` | volunteer-build-reviewed |
 | M062776 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsRightGamma0CosetDecompositionHeckeU` | wave-reused |
 | M062777 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsRightGamma0CosetDecompositionHeckeUStatement` | wave-reused |
@@ -400,5 +402,3 @@
 | M062954 | P0305 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumSubgroupCharacterProperties` | wave-reused |
 | M062955 | P0357 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelDatumSubgroupCharacterPropertiesStatement` | wave-reused |
 | M062956 | P1008 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansion` | wave-reused |
-| M062957 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansionStatement` | wave-reused |
-| M062958 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBound` | volunteer-build-reviewed |

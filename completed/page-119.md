@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M083463 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeSubspaceMonotoneStatement` | wave-reused |
+| M083464 | P0448 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaise` | wave-reused |
+| M083465 | P0486 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompactCasimirLeTensorOperatorRaiseStatement` | wave-reused |
+| M083468 | P0848 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjoint` | wave-reused |
 | M083469 | P0874 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.ComplexifiedDerivedActionLieHomGramAdjointStatement` | wave-reused |
 | M083470 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetProperties` | wave-reused |
 | M083471 | P0819 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.CompoundMatrixCauchyBinetPropertiesStatement` | wave-reused |
@@ -398,7 +402,3 @@
 | M084317 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.PullAlValueIntegralPoint` | wave-reused |
 | M084319 | P0256 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QdetTopThreeOrders` | volunteer-build-reviewed |
 | M084323 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorIntertwiningApply` | build-observed |
-| M084325 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorPolyMap` | volunteer-build-reviewed |
-| M084327 | P0127 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuadraticFieldDiscPrimeThreeModFour` | volunteer-build-reviewed |
-| M084329 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalue` | wave-reused |
-| M084330 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalueStatement` | wave-reused |

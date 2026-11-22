@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174311 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelSpace` | wave-reused |
+| M174312 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau` | wave-reused |
+| M174313 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTwist` | wave-reused |
+| M174314 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OneParam` | wave-reused |
+| M174315 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OpEqExp` | wave-reused |
+| M174316 | P0809 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents` | wave-reused |
+| M174317 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.CompactRelationsApplyComm` | wave-reused |
+| M174318 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.HighestWeightDifferencesNat` | wave-reused |
+| M174319 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.ParthasarathyTensorMatrix` | wave-reused |
 | M174320 | P0756 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.TensorActionLieRelations` | wave-reused |
 | M174321 | P0092 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.BlockSum` | wave-reused |
 | M174322 | P1243 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PieriRules.CartanKType` | wave-reused |
@@ -393,12 +402,3 @@
 | M174883 | P0916 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.IsPhysSet` | build-observed |
 | M174885 | P1083 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.LoweringSpanDiagStable` | build-observed |
 | M174886 | P0944 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemHighestWeightSubIff` | build-observed |
-| M174887 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemTensorFockOfCoeffs` | build-observed |
-| M174888 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ProdModeCharExp` | build-observed |
-| M174889 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.SignedActionTensor` | build-observed |
-| M174893 | P0093 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TraceEqTraceRestrictOfRangeLe` | volunteer-build-reviewed |
-| M174895 | P1371 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TsubValInjective` | build-observed |
-| M174897 | P0093 | `ReciprocityTheory.ReductiveGroups.ExtensionEmbeddings.ExtEmb` | volunteer-build-reviewed |
-| M174898 | P0171 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlace` | volunteer-build-reviewed |
-| M174899 | P0093 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlaceB` | volunteer-build-reviewed |
-| M174900 | P0093 | `ReciprocityTheory.ReductiveGroups.Lattices.LatUnrCharA` | volunteer-build-reviewed |

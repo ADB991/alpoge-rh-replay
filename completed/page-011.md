@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M006405 | P0296 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ContinuousNormMulOneAddAbsLogPow` | volunteer-build-reviewed |
 | M006406 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DifferentiableOnOfTendstoLocallyUniformlyOn` | wave-reused |
 | M006407 | P0099 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DiscreteTopologySpanOfLinearIndependent` | volunteer-build-reviewed |
 | M006408 | P0005 | `Development.AbelianVarietyTheory.Proofs.CovolumeBounds.DualRestrictSurjectiveOfIsTorsionFreeQuotient` | wave-reused |
@@ -401,4 +402,3 @@
 | M007230 | P0005 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThetaWeightData` | volunteer-build-reviewed |
 | M007231 | P0918 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsThickPointHyperbolic` | wave-reused |
 | M007233 | P1057 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsTorusOfSelfD` | volunteer-build-reviewed |
-| M007237 | P1170 | `Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsTranslationSectionsUniversalObject` | build-observed |

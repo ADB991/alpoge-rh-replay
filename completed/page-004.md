@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002135 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodIdempotentBadPlaces` | build-observed |
 | M002136 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodReductionModelReading` | build-observed |
 | M002139 | P1349 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HalfLatticeTypes` | volunteer-build-reviewed |
 | M002140 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HermitianCompactForm` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M002789 | P1501 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.HomExtendsOverDVRHolds` | volunteer-build-reviewed |
 | M002792 | P0810 | `Development.AbelianVarietyTheory.Counterexamples.AbelianLawCounterexamples.WeilIsUniqueOfLocal` | volunteer-build-reviewed |
 | M002793 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LfacDenominatorNeZero` | volunteer-build-reviewed |
-| M002794 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LocalConditionsOfGlobal` | volunteer-build-reviewed |

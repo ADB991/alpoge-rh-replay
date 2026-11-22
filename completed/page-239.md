@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157352 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.SubmatrixMemUnitaryGroup` | volunteer-build-reviewed |
+| M157353 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.Transfer` | volunteer-build-reviewed |
+| M157354 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryConjugation.TransferStep` | volunteer-build-reviewed |
+| M157355 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.Decomp` | wave-reused |
+| M157356 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.Derived` | wave-reused |
+| M157357 | P0220 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.EvalBindTorusSubst` | wave-reused |
+| M157358 | P0155 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.GramStep` | wave-reused |
+| M157359 | P0279 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryDensity.VanishInvertible` | wave-reused |
 | M157360 | P0378 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.ExistsModularFunction` | build-observed |
 | M157361 | P0331 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.GPolar` | build-observed |
 | M157362 | P0463 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitaryQuotientCompactness.IsClosedS` | build-observed |
@@ -394,11 +402,3 @@
 | M157832 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LemmaDSkeletonFour` | wave-reused |
 | M157833 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LocalComponentGL` | wave-reused |
 | M157834 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LogarithmEquivalence` | wave-reused |
-| M157835 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LowerTriangularIntegral` | wave-reused |
-| M157836 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LpcDpartCommEps` | wave-reused |
-| M157837 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrbPiSingleCast` | wave-reused |
-| M157838 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrcFockZeroRight` | wave-reused |
-| M157839 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrfcApplyWordAppendSingle` | wave-reused |
-| M157840 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LriEVPowCoe` | wave-reused |
-| M157841 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrjTransposeLift` | wave-reused |
-| M157842 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MaxValEqZeroOfLt` | wave-reused |

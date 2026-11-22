@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M150274 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompFin` | build-observed |
+| M150275 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.CompHt` | build-observed |
+| M150276 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.CompOrd` | build-observed |
+| M150279 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.CompSplitPfC` | volunteer-build-reviewed |
+| M150281 | P1137 | `Formalism.LocalToGlobal.ProjectiveLattices.CompTie` | volunteer-build-reviewed |
+| M150282 | P1137 | `Formalism.LocalToGlobal.ProjectiveLattices.CompTieA` | build-observed |
+| M150283 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplPf` | build-observed |
+| M150284 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplSt` | volunteer-build-reviewed |
 | M150285 | P1078 | `Formalism.LocalToGlobal.ProjectiveLattices.ComponentWModel` | build-observed |
 | M150286 | P0748 | `Formalism.LocalToGlobal.ProjectiveLattices.ConjNeSelfOfCM` | build-observed |
 | M150289 | P1164 | `Formalism.LocalToGlobal.ProjectiveLattices.CoreExists` | build-observed |
@@ -394,11 +402,3 @@
 | M150800 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.QuotIndepPf` | build-observed |
 | M150801 | P0071 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.QuotIndepStmt` | volunteer-build-reviewed |
 | M150802 | P1640 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPf` | build-observed |
-| M150803 | P1662 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfApprox` | build-observed |
-| M150804 | P1709 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfApproxFinal` | build-observed |
-| M150805 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfConj` | build-observed |
-| M150806 | P1733 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfFinal` | build-observed |
-| M150807 | P0149 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfKer` | build-observed |
-| M150808 | P1662 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfMain` | build-observed |
-| M150809 | P1709 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfMem` | build-observed |
-| M150810 | P1686 | `Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.RCocompactPfMemConj` | build-observed |

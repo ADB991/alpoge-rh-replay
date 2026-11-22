@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M072527 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSqStatement` | volunteer-build-reviewed |
+| M072528 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible` | volunteer-build-reviewed |
 | M072535 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixMulEntryNormLeUltrametric` | volunteer-build-reviewed |
 | M072537 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeep` | volunteer-build-reviewed |
 | M072538 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixNearOnePowPrimeDeepStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M073203 | P0737 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiInjectiveQuotientH2Statement` | build-observed |
 | M073206 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLattice` | build-observed |
 | M073207 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedLatticeStatement` | build-observed |
-| M073208 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvaria` | build-observed |
-| M073209 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvariaStatement` | build-observed |

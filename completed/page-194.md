@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M128701 | P1970 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegralStatement` | build-observed |
+| M128703 | P1915 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaSpherical` | build-observed |
+| M128704 | P1934 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaValueIndicator` | build-observed |
+| M128706 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerDiagonalBound` | volunteer-build-reviewed |
+| M128707 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewform` | volunteer-build-reviewed |
+| M128708 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewformStatement` | volunteer-build-reviewed |
+| M128710 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerSphericalSpanStatement` | volunteer-build-reviewed |
 | M128711 | P1851 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnstatedLocalWeilLemma` | build-observed |
 | M128712 | P0716 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicComplete` | wave-reused |
 | M128713 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UntiltAdicCompleteStatement` | wave-reused |
@@ -395,10 +402,3 @@
 | M129446 | P2751 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputs` | volunteer-build-reviewed |
 | M129447 | P2758 | `Development.AutomorphicSpectrum.Proofs.DivisibilityProofs.VolumeTheoremOfInputsStatement` | volunteer-build-reviewed |
 | M129456 | P0826 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbBound` | volunteer-build-reviewed |
-| M129457 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBound` | volunteer-build-reviewed |
-| M129458 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBoundStatement` | volunteer-build-reviewed |
-| M129461 | P2752 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianCmCompLawsBound` | volunteer-build-reviewed |
-| M129462 | P2758 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianCmCompLawsBoundStatement` | volunteer-build-reviewed |
-| M129463 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianFamilyHodgeLattice` | volunteer-build-reviewed |
-| M129466 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelEigenFrameStatement` | volunteer-build-reviewed |
-| M129470 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelLatticeStatement` | volunteer-build-reviewed |

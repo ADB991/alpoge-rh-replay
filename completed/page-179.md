@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119077 | P1726 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StringDecompHolds` | volunteer-build-reviewed |
+| M119078 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGood` | volunteer-build-reviewed |
+| M119079 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGoodStatement` | volunteer-build-reviewed |
+| M119080 | P2232 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumExpStAltAlt` | volunteer-build-reviewed |
+| M119081 | P2243 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumExpStStatement` | volunteer-build-reviewed |
+| M119082 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSize` | volunteer-build-reviewed |
+| M119083 | P2551 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizeStatement` | volunteer-build-reviewed |
 | M119084 | P2471 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizes` | volunteer-build-reviewed |
 | M119085 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizesStatement` | volunteer-build-reviewed |
 | M119086 | P2770 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SummandEigen` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M119571 | P2046 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegrableMulConjOfModerateGrowthOfCuspidal` | volunteer-build-reviewed |
 | M119573 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralEvenPowerGaussianMulAbsRpow` | volunteer-build-reviewed |
 | M119574 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralMaxCompactEqCircleAverage` | volunteer-build-reviewed |
-| M119575 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralQuotientDerivativeOneParameterEqZero` | volunteer-build-reviewed |
-| M119578 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnfoldedIntegrandEqZetaIntegral` | volunteer-build-reviewed |
-| M119579 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnipotentCoordinatesEqZeroOfCuspidal` | volunteer-build-reviewed |
-| M119580 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.IsAffineOpenImagePullbackOpenImmersionChart` | volunteer-build-reviewed |
-| M119583 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.KAtDiagIdeleOfNatMulRotationOfNotDvd` | volunteer-build-reviewed |
-| M119584 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesFixedAtPlace` | volunteer-build-reviewed |
-| M119585 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesRightInvarianceFiniteAdelic` | volunteer-build-reviewed |

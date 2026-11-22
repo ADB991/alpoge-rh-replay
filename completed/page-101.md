@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069092 | P1038 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRoot` | wave-reused |
+| M069093 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisMovesFlatByUnitRootStatement` | wave-reused |
 | M069094 | P0446 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnity` | build-observed |
 | M069095 | P0484 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPowMovesPadicRootOfUnityStatement` | build-observed |
 | M069096 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsGaloisPrescribedUnramifiedKummer` | wave-reused |
@@ -400,5 +402,3 @@
 | M069705 | P2071 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentationComponentStatement` | volunteer-build-reviewed |
 | M069707 | P0122 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepresentativesTwoElementOrbitsInvolutionStatement` | volunteer-build-reviewed |
 | M069708 | P1542 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRepsLatticeQuotientConjugateHalfOrthogonal` | volunteer-build-reviewed |
-| M069710 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRescaleEigenSeriesZero` | volunteer-build-reviewed |
-| M069711 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormA` | volunteer-build-reviewed |

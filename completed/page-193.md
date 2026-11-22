@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127968 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero` | volunteer-build-reviewed |
+| M127969 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmall` | build-observed |
+| M127970 | P0414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmallStatement` | build-observed |
+| M127976 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateLocalL1` | volunteer-build-reviewed |
+| M127979 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateShafarevichTransport` | volunteer-build-reviewed |
+| M127982 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentative` | build-observed |
+| M127983 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentativeStatement` | build-observed |
 | M127984 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrame` | build-observed |
 | M127985 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorOfLocalFrameStatement` | build-observed |
 | M127987 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TeichmullerCharacterEqResidueLift` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M128698 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedRankinSelbergLocalFactorStatement` | volunteer-build-reviewed |
 | M128699 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedSatake` | volunteer-build-reviewed |
 | M128700 | P1953 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegral` | build-observed |
-| M128701 | P1970 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedStandardValuesAtIntegralStatement` | build-observed |
-| M128703 | P1915 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaSpherical` | build-observed |
-| M128704 | P1934 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedThetaValueIndicator` | build-observed |
-| M128706 | P2130 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerDiagonalBound` | volunteer-build-reviewed |
-| M128707 | P1782 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewform` | volunteer-build-reviewed |
-| M128708 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerNewformStatement` | volunteer-build-reviewed |
-| M128710 | P1875 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.UnramifiedWhittakerSphericalSpanStatement` | volunteer-build-reviewed |

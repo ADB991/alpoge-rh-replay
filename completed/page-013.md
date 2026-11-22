@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008275 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondFixedLeve` | volunteer-build-reviewed |
 | M008277 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepIntegrandRightInvariantSecondOffLevel` | volunteer-build-reviewed |
 | M008279 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepLocalWeilActionLineCharactersCancel` | volunteer-build-reviewed |
 | M008280 | P1856 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.DoubleStepLocalWeilActionLineCharactersCancelStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M008943 | P1533 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTransvectionFixingIsotropicLastSumStatement` | volunteer-build-reviewed |
 | M008945 | P2093 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTrivialCharLevelEltRationalAtTwistPrimesStatement` | volunteer-build-reviewed |
 | M008946 | P2133 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePoints` | volunteer-build-reviewed |
-| M008947 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePointsStatement` | volunteer-build-reviewed |

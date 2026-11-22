@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071011 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatch` | volunteer-build-reviewed |
+| M071012 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftMatchStatement` | volunteer-build-reviewed |
 | M071013 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasis` | volunteer-build-reviewed |
 | M071014 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockHasInvariantsOfLiftWithLastBasisStatement` | volunteer-build-reviewed |
 | M071016 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HermitianBlockInvariantsIffIsometryStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M071739 | P0873 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfIsConjPl` | volunteer-build-reviewed |
 | M071740 | P0791 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfNotIsConjPl` | build-observed |
 | M071741 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitPlOfTwoMem` | build-observed |
-| M071744 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitting` | volunteer-build-reviewed |
-| M071746 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStableGauss` | volunteer-build-reviewed |

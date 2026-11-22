@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067101 | P1094 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomEisensteinSpanAndNonZeroDivisor` | wave-reused |
+| M067102 | P1123 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomEisensteinSpanAndNonZeroDivisorStatement` | wave-reused |
 | M067103 | P0981 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomImageXDeltaZeroLiftsUniformizer` | wave-reused |
 | M067104 | P1009 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinHomImageXDeltaZeroLiftsUniformizerStatement` | wave-reused |
 | M067107 | P1037 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BreuilKisinIsBetaSubOfLpowSmul` | wave-reused |
@@ -400,5 +402,3 @@
 | M067714 | P2180 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevels` | volunteer-build-reviewed |
 | M067715 | P2190 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesConjugateResidueLevelsStatement` | volunteer-build-reviewed |
 | M067716 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugate` | volunteer-build-reviewed |
-| M067717 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugateStatement` | volunteer-build-reviewed |
-| M067718 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVector` | volunteer-build-reviewed |

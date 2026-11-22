@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096397 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsClasses` | volunteer-build-reviewed |
+| M096398 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEq` | volunteer-build-reviewed |
+| M096399 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairPtsEqSum` | volunteer-build-reviewed |
+| M096400 | P1912 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairTable` | volunteer-build-reviewed |
 | M096401 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwiner` | volunteer-build-reviewed |
 | M096402 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairThetaLiftFactorsThroughIntertwinerStatement` | volunteer-build-reviewed |
 | M096403 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.PairVEqOfProdFunEq` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M096925 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepth` | volunteer-build-reviewed |
 | M096926 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDataLocalPureTensorsLargeDepthStatement` | volunteer-build-reviewed |
 | M096927 | P1043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowDivEqZeroOfMatRepUnipotentFixed` | build-observed |
-| M096928 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowGrpEq` | volunteer-build-reviewed |
-| M096929 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowLevelMatchAtOfLevelConjugation` | volunteer-build-reviewed |
-| M096931 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateLast` | volunteer-build-reviewed |
-| M096932 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateZero` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M077860 | P2352 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitSubOfIsSplitting` | volunteer-build-reviewed |
+| M077861 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasure` | volunteer-build-reviewed |
+| M077862 | P1333 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsUnitaryAdelicVolumeMeasureStatement` | build-observed |
 | M077864 | P1455 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilDatumOOfRankEq` | volunteer-build-reviewed |
 | M077866 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsWeilOnSwap` | volunteer-build-reviewed |
 | M077867 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsoPolarisedOfCompatibleThickeningsSquare` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M078595 | P2113 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeeds` | volunteer-build-reviewed |
 | M078596 | P2126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniformNormalisedAdelicSeedsStatement` | volunteer-build-reviewed |
 | M078603 | P2057 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEq` | volunteer-build-reviewed |
-| M078604 | P2071 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUnipotentTriangularOfPeriodCoordinatesEqStatement` | volunteer-build-reviewed |
-| M078607 | P0485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueEmbeddingEigenspaceSum` | volunteer-build-reviewed |
-| M078611 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsUniqueInfEmb` | build-observed |

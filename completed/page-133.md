@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094463 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluationStatement` | volunteer-build-reviewed |
+| M094464 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModel` | volunteer-build-reviewed |
+| M094465 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModelStatement` | volunteer-build-reviewed |
+| M094466 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRows` | volunteer-build-reviewed |
 | M094467 | P2059 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRowsStatement` | volunteer-build-reviewed |
 | M094468 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTuple` | volunteer-build-reviewed |
 | M094469 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodSplitPlaceOfFamilyPrimeBaseTupleStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M094944 | P1891 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InertPlaceStabilizersFixWeilLatticeVacuumStatement` | volunteer-build-reviewed |
 | M094945 | P2007 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfOfMulFinOf` | volunteer-build-reviewed |
 | M094946 | P1232 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfPartOneSubEInfSmul` | volunteer-build-reviewed |
-| M094947 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLe` | volunteer-build-reviewed |
-| M094948 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLeStatement` | volunteer-build-reviewed |
-| M094949 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwise` | volunteer-build-reviewed |
-| M094950 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwiseStatement` | volunteer-build-reviewed |

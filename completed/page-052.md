@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M034565 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable` | volunteer-build-reviewed |
 | M034566 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentableStatement` | volunteer-build-reviewed |
 | M034567 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HartTensorOfFlat` | volunteer-build-reviewed |
 | M034573 | P1960 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasArchimedeanCharExponentsConjOfHasInfExp` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M035231 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhat` | volunteer-build-reviewed |
 | M035232 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergPreservesSchwartzBruhatStatement` | volunteer-build-reviewed |
 | M035237 | P2069 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValues` | volunteer-build-reviewed |
-| M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |

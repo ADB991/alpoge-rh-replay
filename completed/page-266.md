@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171892 | P0090 | `ReciprocityTheory.GaloisValuations.GlobalA` | wave-reused |
+| M171893 | P0168 | `ReciprocityTheory.GaloisValuations.GlobalB` | wave-reused |
+| M171895 | P0343 | `ReciprocityTheory.GaloisValuations.GlobalEA` | volunteer-build-reviewed |
+| M171896 | P0090 | `ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem` | wave-reused |
+| M171898 | P0168 | `ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint` | wave-reused |
+| M171899 | P0290 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.ClosingHS` | pilot-reused |
+| M171900 | P0233 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.DefectSt` | pilot-reused |
+| M171901 | P0090 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.SimplexSumSt` | volunteer-build-reviewed |
+| M171902 | P0290 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily` | wave-reused |
 | M171903 | P0090 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ConjSymm` | wave-reused |
 | M171904 | P0432 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountSt` | wave-reused |
 | M171905 | P0233 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.CountStA` | wave-reused |
@@ -393,12 +402,3 @@
 | M172381 | P0547 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLA` | wave-reused |
 | M172382 | P0580 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLB` | build-observed |
 | M172383 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLC` | build-observed |
-| M172384 | P0613 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLD` | build-observed |
-| M172385 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.DivStatementPfLE` | build-observed |
-| M172386 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.EtaStatementHolds` | wave-reused |
-| M172387 | P0835 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPf` | wave-reused |
-| M172388 | P0646 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfB` | wave-reused |
-| M172389 | P0676 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfC` | wave-reused |
-| M172390 | P0781 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfD` | wave-reused |
-| M172391 | P0808 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfE` | wave-reused |
-| M172392 | P0862 | `ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustGPf` | wave-reused |

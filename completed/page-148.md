@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103270 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Strict` | volunteer-build-reviewed |
+| M103271 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SumLe` | wave-reused |
+| M103272 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TameInertiaCondition` | wave-reused |
+| M103273 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TanFinite` | wave-reused |
+| M103275 | P0625 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ThickOfDer` | wave-reused |
 | M103278 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TrdegQuotLeOne` | wave-reused |
 | M103279 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TriangularRepresentationDiagonal` | wave-reused |
 | M103281 | P2587 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Ufacts` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M103810 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.SystemCuspInfinityComponentCongrOne` | volunteer-build-reviewed |
 | M103811 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesCongrOneModPOfIsometry` | volunteer-build-reviewed |
 | M103812 | P2617 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesHolomorphicQExpansionOfBoundedCoeff` | volunteer-build-reviewed |
-| M103813 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesTranslationTwistsCoefficients` | volunteer-build-reviewed |
-| M103814 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSlashEighthRootOfSquareDet` | volunteer-build-reviewed |
-| M103815 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaTranslateIntegralCongruentOneModPrime` | volunteer-build-reviewed |
-| M103816 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.TotallyPositiveSummandsWithDenominatorFinite` | volunteer-build-reviewed |
-| M103817 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.WeilIndexConstantCongruentOneModPrime` | volunteer-build-reviewed |

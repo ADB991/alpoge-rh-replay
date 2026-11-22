@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153324 | P0376 | `Formalism.MoebiusJetDuality.StatementV` | build-observed |
+| M153325 | P0462 | `Formalism.MonomialMeanResidues.BetaLogMean` | build-observed |
+| M153326 | P0422 | `Formalism.MonomialMeanResidues.FilteredDegree` | build-observed |
+| M153327 | P0215 | `Formalism.MonomialMeanResidues.MonomialMean` | build-observed |
+| M153328 | P0722 | `Formalism.MonomialMeanResidues.MonomialMeanProofs.SpanEqTopAndRankOfLinearIndependent` | build-observed |
+| M153329 | P0749 | `Formalism.MonomialMeanResidues.MonomialMeanProofs.SubmoduleSlopeLowerOfFiltration` | build-observed |
+| M153330 | P0776 | `Formalism.MonomialMeanResidues.ZerosPerVariable` | build-observed |
+| M153331 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.CoefficientBoundHolds` | build-observed |
 | M153332 | P0275 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.ExistsNeZeroNormLeRankDivOfDualMinimum` | build-observed |
 | M153333 | P0215 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.GaussianCoefficientFactorialBound` | build-observed |
 | M153334 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.IntegralExpInt` | build-observed |
@@ -394,11 +402,3 @@
 | M153749 | P0776 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.FrameInd` | wave-reused |
 | M153750 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGCardUni` | build-observed |
 | M153751 | P0636 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGConvScalar` | build-observed |
-| M153752 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGGenRatio` | build-observed |
-| M153753 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMatBound` | build-observed |
-| M153754 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMirBound` | build-observed |
-| M153755 | P0912 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTBranch` | build-observed |
-| M153757 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTLower` | build-observed |
-| M153759 | P0803 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GZeroLogBound` | build-observed |
-| M153760 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GelfConv` | volunteer-build-reviewed |
-| M153762 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GenFrameSB` | build-observed |

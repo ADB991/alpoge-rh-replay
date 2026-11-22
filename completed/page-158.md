@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M108913 | P2619 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.H5` | volunteer-build-reviewed |
+| M108914 | P0366 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.HomOfDer` | volunteer-build-reviewed |
+| M108915 | P2590 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Imports` | volunteer-build-reviewed |
+| M108916 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.ImportsAlt` | volunteer-build-reviewed |
+| M108918 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.IsDvrCoef` | volunteer-build-reviewed |
+| M108919 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.Labels` | volunteer-build-reviewed |
 | M108920 | P1848 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LatSix` | volunteer-build-reviewed |
 | M108921 | P1632 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LayerEx` | volunteer-build-reviewed |
 | M108922 | P2619 | `Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.LinkEx` | volunteer-build-reviewed |
@@ -396,9 +402,3 @@
 | M109419 | P2550 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CardResOK` | volunteer-build-reviewed |
 | M109420 | P0593 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CompLeft` | volunteer-build-reviewed |
 | M109421 | P2102 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrysCopy` | volunteer-build-reviewed |
-| M109422 | P1104 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineAlgebraAlgebraMap` | build-observed |
-| M109423 | P0741 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineComparison` | build-observed |
-| M109425 | P2498 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.E4` | volunteer-build-reviewed |
-| M109426 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EPin` | volunteer-build-reviewed |
-| M109430 | P0961 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.A11` | worker-kernel-checked |
-| M109431 | P0688 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.CechLevels` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059702 | P1090 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDual` | build-observed |
 | M059703 | P1120 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDualStatement` | build-observed |
 | M059705 | P0815 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdPartialZpow` | build-observed |
 | M059708 | P1174 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdShiftedCyclicWordExpansionStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M060408 | P0025 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TsumTransversalEqTsumOrbitQuotientGeneral` | wave-reused |
 | M060409 | P0402 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometry` | wave-reused |
 | M060410 | P0444 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TupleJacobianRightMulIsometryStatement` | wave-reused |
-| M060417 | P0249 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.TwoGeometricSumsIndexBound` | wave-reused |

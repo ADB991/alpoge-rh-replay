@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M074587 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlacesStatement` | volunteer-build-reviewed |
+| M074590 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftHasPointAtLocalisationSamePlace` | volunteer-build-reviewed |
 | M074592 | P2703 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSum` | volunteer-build-reviewed |
 | M074593 | P2707 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftTwistLevelFormEqUnitMulClassSumStatement` | volunteer-build-reviewed |
 | M074595 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftVanishesSingleCoefficientOfKernelKillsStatement` | volunteer-build-reviewed |
@@ -284,6 +286,7 @@
 | M075081 | P0124 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticNormsTraceUniformizerFacts` | volunteer-build-reviewed |
 | M075082 | P0193 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticNormsTraceUniformizerFactsStatement` | volunteer-build-reviewed |
 | M075084 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticTraceEqAddStarStatement` | volunteer-build-reviewed |
+| M075085 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedQuadraticUniformizerTraceNorm` | volunteer-build-reviewed |
 | M075087 | P0255 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedStandardAddCharConductorProperties` | volunteer-build-reviewed |
 | M075088 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedStandardAddCharConductorPropertiesStatement` | volunteer-build-reviewed |
 | M075092 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedValuationParitySignCharacterKernelNorm` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M075314 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGL` | build-observed |
 | M075315 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedCountStableLatticesProductDescentGLStatement` | build-observed |
 | M075316 | P0309 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRing` | volunteer-build-reviewed |
-| M075317 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRingStatement` | build-observed |
-| M075318 | P0406 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplitting` | build-observed |
-| M075319 | P0447 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplittingStatement` | build-observed |

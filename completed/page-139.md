@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M097472 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumPureMemAlgD` | volunteer-build-reviewed |
+| M097474 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumQuotientIntegerMatricesInvariantIntegralGLMulStatement` | volunteer-build-reviewed |
+| M097475 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumReImAddSmul` | volunteer-build-reviewed |
+| M097476 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimir` | build-observed |
 | M097477 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimirStatement` | build-observed |
 | M097478 | P2074 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumSymmetricTranslatesThetaPullbackExtends` | volunteer-build-reviewed |
 | M097480 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumWithLatKerEqMulSumWithKerLat` | volunteer-build-reviewed |
@@ -267,6 +271,7 @@
 | M097881 | P1677 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TraceMulEndomorphismIsotypicRepStatement` | volunteer-build-reviewed |
 | M097884 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TraceZeroIntegersIndexInUniformizerMultiples` | build-observed |
 | M097885 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TraceZeroIntegersIndexInUniformizerMultiplesStatement` | build-observed |
+| M097886 | P0363 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TracedQminorComatrixTruncatedInverse` | volunteer-build-reviewed |
 | M097887 | P0408 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TracedQminorComatrixTruncatedInverseStatement` | volunteer-build-reviewed |
 | M097889 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TransferBottom` | volunteer-build-reviewed |
 | M097890 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.TransferFlip` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M098106 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryHeisenbergRadicalCoordinatesStatement` | build-observed |
 | M098108 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIdeleCharEqProdLocOfTameAtStatement` | volunteer-build-reviewed |
 | M098109 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlace` | volunteer-build-reviewed |
-| M098110 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlaceStatement` | volunteer-build-reviewed |
-| M098112 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInductionOnSplitPlaceSupportStatement` | volunteer-build-reviewed |
-| M098117 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjoint` | build-observed |
-| M098118 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjointStatement` | build-observed |
-| M098119 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExists` | build-observed |

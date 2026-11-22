@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M173900 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.KUnitB` | wave-reused |
+| M173901 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.KhwWeightEqOfIrr` | wave-reused |
+| M173902 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.LayerBasic` | wave-reused |
+| M173903 | P0646 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.LayerBound` | wave-reused |
+| M173904 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.LayerOrth` | wave-reused |
+| M173905 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.LayerWeight` | wave-reused |
+| M173906 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.NcVOneDecomp` | wave-reused |
+| M173907 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.NumRho` | wave-reused |
+| M173908 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.Numerics` | wave-reused |
 | M173909 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.Permute` | wave-reused |
 | M173910 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.PhiPerm` | wave-reused |
 | M173911 | P0292 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.BochnerInequality.PositionPrependMemNoncompactPositionSubmodule` | wave-reused |
@@ -393,12 +402,3 @@
 | M174308 | P0614 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGen` | wave-reused |
 | M174309 | P0581 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelGenA` | wave-reused |
 | M174310 | P0677 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelInner` | wave-reused |
-| M174311 | P0647 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelSpace` | wave-reused |
-| M174312 | P0704 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTau` | wave-reused |
-| M174313 | P0434 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.ModelTwist` | wave-reused |
-| M174314 | P0344 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OneParam` | wave-reused |
-| M174315 | P0514 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.OpEqExp` | wave-reused |
-| M174316 | P0809 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents` | wave-reused |
-| M174317 | P0235 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.CompactRelationsApplyComm` | wave-reused |
-| M174318 | P0548 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.HighestWeightDifferencesNat` | wave-reused |
-| M174319 | P0782 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.PRVComponents.ParthasarathyTensorMatrix` | wave-reused |

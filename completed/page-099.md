@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M067717 | P2463 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTuplesTwistedThetaSeriesConjugateStatement` | volunteer-build-reviewed |
+| M067718 | P1719 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVector` | volunteer-build-reviewed |
 | M067719 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateTypeVectorStatement` | volunteer-build-reviewed |
 | M067720 | P2436 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspace` | volunteer-build-reviewed |
 | M067721 | P2464 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConjugateVectorInSubspaceStatement` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M068408 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfNodupSumMultisetOfEq` | volunteer-build-reviewed |
 | M068409 | P2125 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfOverTwo` | volunteer-build-reviewed |
 | M068412 | P0030 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnit` | volunteer-build-reviewed |
-| M068413 | P0121 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootCongrOfDerivUnitStatement` | volunteer-build-reviewed |
-| M068414 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.EqOfRootsBarEq` | volunteer-build-reviewed |

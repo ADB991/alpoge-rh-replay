@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110001 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.TraceForm` | volunteer-build-reviewed |
+| M110002 | P0201 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.ValGen` | volunteer-build-reviewed |
+| M110003 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.AttExp` | volunteer-build-reviewed |
+| M110004 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.BdLoss` | volunteer-build-reviewed |
+| M110005 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.BvvInt` | volunteer-build-reviewed |
+| M110006 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbIop` | volunteer-build-reviewed |
+| M110007 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbJet` | volunteer-build-reviewed |
 | M110008 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepSum` | volunteer-build-reviewed |
 | M110009 | P2102 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.DepthDrop` | volunteer-build-reviewed |
 | M110010 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.ExpLoss` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M110454 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WeightUnitsSectionAtPoint` | volunteer-build-reviewed |
 | M110455 | P2498 | `Development.AutomorphicArithmetic.DivisorFrames.WeilPairingLabelsTorsionPoints` | volunteer-build-reviewed |
 | M110456 | P1950 | `Development.AutomorphicArithmetic.DivisorFrames.WtGeneric` | volunteer-build-reviewed |
-| M110457 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.CorrespondenceNormBoundOfAffineOpens` | build-observed |
-| M110459 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.CrystallineExpansionRelationOfScaledEndomorphism` | build-observed |
-| M110461 | P0491 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCoefficientEquivCohomologyOfElements` | build-observed |
-| M110462 | P0491 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCohomologyZeroEquivSectionsNatural` | build-observed |
-| M110463 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCrystallineLatticeExpansion` | build-observed |
-| M110464 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsFiniteSectionsDeterminingRingHomOfSmooth` | build-observed |
-| M110465 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsLiftThroughSharp` | build-observed |

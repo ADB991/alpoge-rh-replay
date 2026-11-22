@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133665 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecompositionStatement` | build-observed |
+| M133666 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCell` | build-observed |
+| M133667 | P0456 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCellStatement` | build-observed |
+| M133669 | P1552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyAnalyticSystemExistsStatement` | volunteer-build-reviewed |
+| M133670 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyArithmetic` | volunteer-build-reviewed |
+| M133672 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyBoundaryDimensionDrop` | volunteer-build-reviewed |
+| M133674 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyModelBaseMetric` | volunteer-build-reviewed |
 | M133676 | P0597 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlatWeightExtends` | build-observed |
 | M133679 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FormPolyIsHomogeneousAndEval` | volunteer-build-reviewed |
 | M133680 | P0882 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FrameChangeRegularEntries` | wave-reused |
@@ -395,10 +402,3 @@
 | M134328 | P0143 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminantBound` | volunteer-build-reviewed |
 | M134329 | P0208 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannFormPeriodDeterminantBoundStatement` | volunteer-build-reviewed |
 | M134331 | P0631 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeEigenProjection` | wave-reused |
-| M134332 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeEigenProjectionStatement` | volunteer-build-reviewed |
-| M134333 | P0565 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeQuotientCompat` | wave-reused |
-| M134334 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RiemannLatticeQuotientCompatStatement` | wave-reused |
-| M134339 | P2472 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootModelOriginCompatibility` | volunteer-build-reviewed |
-| M134340 | P2501 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootModelOriginCompatibilityStatement` | volunteer-build-reviewed |
-| M134341 | P0937 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCount` | build-observed |
-| M134342 | P0965 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.RootOriginDegreeCountAltBis` | build-observed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M089740 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLaw` | volunteer-build-reviewed |
+| M089741 | P2006 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainComplexFormsStabiliserLawStatement` | volunteer-build-reviewed |
+| M089743 | P2042 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueChainStabilisersEqStandardReaderPointsStatement` | volunteer-build-reviewed |
+| M089744 | P2381 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoiceGoodChartsEveryStage` | volunteer-build-reviewed |
 | M089748 | P2191 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBases` | volunteer-build-reviewed |
 | M089749 | P2203 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnChoicesKernelDatumAdaptedBasesStatement` | volunteer-build-reviewed |
 | M089753 | P2523 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.TrueColumnJointsHoldAllTuplesStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M090654 | P1285 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisedKeyInvariantRuleCharZeroStatement` | build-observed |
 | M090655 | P0767 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOrigin` | wave-reused |
 | M090656 | P0794 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsNormalisingUnitSimilitudeOriginStatement` | volunteer-build-reviewed |
-| M090660 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPoint` | build-observed |
-| M090661 | P1231 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPointStatement` | build-observed |
-| M090662 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointOfPerLev` | build-observed |
-| M090663 | P1043 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnit` | wave-reused |

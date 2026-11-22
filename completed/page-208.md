@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M138564 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivTate` | build-observed |
+| M138565 | P0209 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ValAtRestrict` | volunteer-build-reviewed |
+| M138571 | P2661 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ZarTop` | volunteer-build-reviewed |
+| M138572 | P0720 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.BtExistsBc` | build-observed |
+| M138573 | P0993 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.BtHopf` | build-observed |
+| M138576 | P0209 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CPluri` | volunteer-build-reviewed |
+| M138579 | P1186 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpBuild` | build-observed |
+| M138580 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpHodgeTied` | volunteer-build-reviewed |
 | M138581 | P0372 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.ContinuousAtOfClosedRel` | build-observed |
 | M138582 | P0144 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CrtGood` | volunteer-build-reviewed |
 | M138583 | P0664 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.DenseNonvan` | build-observed |
@@ -394,11 +402,3 @@
 | M139459 | P0664 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCGradAtlas` | build-observed |
 | M139462 | P1237 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCUnif` | build-observed |
 | M139463 | P0966 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XCWArith` | build-observed |
-| M139467 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibHess` | build-observed |
-| M139468 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibMdisc` | build-observed |
-| M139469 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibStereo` | build-observed |
-| M139471 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XGramGrad` | volunteer-build-reviewed |
-| M139472 | P0419 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XGramSize` | volunteer-build-reviewed |
-| M139474 | P0419 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPerCell` | volunteer-build-reviewed |
-| M139478 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyDelta` | volunteer-build-reviewed |
-| M139479 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyTowtBound` | volunteer-build-reviewed |

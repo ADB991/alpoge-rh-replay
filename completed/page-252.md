@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M163420 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdTransition` | wave-reused |
+| M163421 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBdWeight` | wave-reused |
+| M163422 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBddOnInner` | wave-reused |
+| M163423 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PBoundingKaehler` | wave-reused |
+| M163424 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PChartCont` | wave-reused |
+| M163425 | P0541 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PCoordDivDivisible` | wave-reused |
+| M163426 | P0465 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PDivisorNull` | wave-reused |
+| M163427 | P0507 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGluedLocal` | wave-reused |
 | M163428 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassError` | wave-reused |
 | M163429 | P0806 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplace` | wave-reused |
 | M163430 | P0778 | `GroundTheory.HeightsAndTheta.Heights.AnalyticLimit.PGreenMassReplaceKappa` | wave-reused |
@@ -394,11 +402,3 @@
 | M163959 | P0381 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.GraphChartEventuallyEqSheet` | wave-reused |
 | M163961 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HeightCoheightQuotient` | volunteer-build-reviewed |
 | M163962 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HolomorphicZerosNotIsolated` | volunteer-build-reviewed |
-| M163963 | P0226 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.Imports` | volunteer-build-reviewed |
-| M163964 | P0283 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.ImportsAlt` | volunteer-build-reviewed |
-| M163965 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.ImportsBis` | wave-reused |
-| M163966 | P0335 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.IsAddHaarMeasureHausdorffMeasureEuclideanSpaceCo` | wave-reused |
-| M163967 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.IsClosedComplexSubmanifoldIn` | volunteer-build-reviewed |
-| M163969 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalLimitGlue` | wave-reused |
-| M163970 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalLimitGlueOn` | volunteer-build-reviewed |
-| M163971 | P0161 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.LocalParametrisation` | volunteer-build-reviewed |

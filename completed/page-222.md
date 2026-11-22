@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148218 | P1498 | `Formalism.LocalToGlobal.Columns.ReducedMatrixExtensionEntry` | build-observed |
+| M148219 | P1583 | `Formalism.LocalToGlobal.Columns.ReductionColumnStandardBasis` | build-observed |
+| M148220 | P1556 | `Formalism.LocalToGlobal.Columns.ReductionExistsInLatticeStabilizerHolds` | build-observed |
+| M148221 | P1614 | `Formalism.LocalToGlobal.Columns.RefKEquivOfCpTop` | build-observed |
+| M148222 | P1468 | `Formalism.LocalToGlobal.Columns.RefLevChFstSurjective` | build-observed |
+| M148223 | P1440 | `Formalism.LocalToGlobal.Columns.RefXi1Above` | build-observed |
+| M148224 | P1187 | `Formalism.LocalToGlobal.Columns.ReferenceActionRationalLevels` | build-observed |
+| M148225 | P1498 | `Formalism.LocalToGlobal.Columns.ReferenceKernelEquivOfLastComponent` | build-observed |
 | M148226 | P1468 | `Formalism.LocalToGlobal.Columns.ResidueFieldUnfoldingClaimsHold` | build-observed |
 | M148227 | P0635 | `Formalism.LocalToGlobal.Columns.RhoEqOfSmulEq` | build-observed |
 | M148228 | P0830 | `Formalism.LocalToGlobal.Columns.RowForms` | build-observed |
@@ -394,11 +402,3 @@
 | M148785 | P1239 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.LocalDiamondOfSplitIdempotent` | build-observed |
 | M148787 | P1318 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.MetricDisjointSupportOrthogonal` | build-observed |
 | M148789 | P1267 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PSplitT` | build-observed |
-| M148790 | P1345 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PolynomialFunctionFrameTranslate` | build-observed |
-| M148791 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PowSmulLatticeLeWeightLatticeTop` | build-observed |
-| M148792 | P1368 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeFormulaOfCharacterFinite` | build-observed |
-| M148793 | P1498 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeLineRamifiedFormula` | build-observed |
-| M148794 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeRamifiedInducedPrimeField` | build-observed |
-| M148796 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondCommDistinctPlaces` | build-observed |
-| M148797 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesForms` | build-observed |
-| M148798 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesRationalFormZero` | build-observed |

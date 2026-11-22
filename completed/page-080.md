@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054804 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisationStatement` | volunteer-build-reviewed |
 | M054807 | P2226 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricAction` | volunteer-build-reviewed |
 | M054808 | P2239 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationRowCoreFormsOfGeometricActionStatement` | volunteer-build-reviewed |
 | M054809 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationSectionsExtendingPointsMultiply` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M055506 | P2002 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionHermitianFunctionStatement` | volunteer-build-reviewed |
 | M055507 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPoint` | volunteer-build-reviewed |
 | M055508 | P2761 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTorsionRigidOverModuliFieldPointStatement` | volunteer-build-reviewed |
-| M055509 | P2463 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniversalTripleFibrePrincipallyPolarisedDimensio` | volunteer-build-reviewed |

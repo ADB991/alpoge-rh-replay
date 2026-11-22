@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M103813 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSeriesTranslationTwistsCoefficients` | volunteer-build-reviewed |
+| M103814 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaSlashEighthRootOfSquareDet` | volunteer-build-reviewed |
+| M103815 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.ThetaTranslateIntegralCongruentOneModPrime` | volunteer-build-reviewed |
+| M103816 | P2588 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.TotallyPositiveSummandsWithDenominatorFinite` | volunteer-build-reviewed |
+| M103817 | P2605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GaussSumFiltrations.WeilIndexConstantCongruentOneModPrime` | volunteer-build-reviewed |
 | M103818 | P0488 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.Bridge` | build-observed |
 | M103824 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.ConeHomotopyBoundaryFormula` | volunteer-build-reviewed |
 | M103825 | P0261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.GeneratorCountTuples.LeftMulChainChainHomotopic` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M104395 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.PetEx` | volunteer-build-reviewed |
 | M104402 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformAdj` | volunteer-build-reviewed |
 | M104403 | P1655 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.TformPos` | volunteer-build-reviewed |
-| M104405 | P1749 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.BorelHarmonicForms.ZalgCommute` | volunteer-build-reviewed |
-| M104406 | P1577 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.ClozelConjCOf` | volunteer-build-reviewed |
-| M104408 | P2672 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.NormEqOneOfKillsMu` | volunteer-build-reviewed |
-| M104409 | P2498 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetAdj` | volunteer-build-reviewed |
-| M104410 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.CocycleCoefficients.PetAdjQuot` | build-observed |

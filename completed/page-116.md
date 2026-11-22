@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M080347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLattice` | volunteer-build-reviewed |
+| M080348 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLatticeStatement` | volunteer-build-reviewed |
+| M080350 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicative` | volunteer-build-reviewed |
 | M080351 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicativeStatement` | volunteer-build-reviewed |
 | M080352 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurent` | volunteer-build-reviewed |
 | M080353 | P0126 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentPolyEvalOfLaurentStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M081269 | P2523 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ParameterOfDiscreteSeriesReciprocityStatement` | volunteer-build-reviewed |
 | M081272 | P1515 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartAtUpdSReFace` | volunteer-build-reviewed |
 | M081276 | P1928 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharacters` | volunteer-build-reviewed |
-| M081277 | P1946 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PartsRowOfEigensystemIndexGoodCharactersStatement` | volunteer-build-reviewed |
-| M081279 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PatchAtSelf` | volunteer-build-reviewed |
-| M081284 | P2568 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PeriodChartRescaleBallToUnitPolydisc` | volunteer-build-reviewed |

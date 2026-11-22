@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120851 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturality` | wave-reused |
+| M120852 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturalityStatement` | wave-reused |
+| M120853 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineSmoothFormsBijective` | volunteer-build-reviewed |
+| M120854 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineSmoothFormsBijectiveStatement` | volunteer-build-reviewed |
+| M120855 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AicValOfIsColim` | volunteer-build-reviewed |
+| M120858 | P0493 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapConeRing` | build-observed |
+| M120859 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapHalfTr` | volunteer-build-reviewed |
 | M120861 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraicOverTorusOfIntegral` | volunteer-build-reviewed |
 | M120865 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsion` | volunteer-build-reviewed |
 | M120866 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlmostFiniteModuleBoundedTorsionStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M121433 | P1607 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStable` | volunteer-build-reviewed |
 | M121434 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedCellRightStableStatement` | volunteer-build-reviewed |
 | M121437 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedDoubleCosetCriterion` | volunteer-build-reviewed |
-| M121439 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationEquivariant` | volunteer-build-reviewed |
-| M121441 | P1703 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationInduced` | volunteer-build-reviewed |
-| M121442 | P1726 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationInducedStatement` | volunteer-build-reviewed |
-| M121443 | P1751 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationSurjective` | volunteer-build-reviewed |
-| M121444 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationSurjectiveStatement` | volunteer-build-reviewed |
-| M121445 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationVanishingOnOpen` | volunteer-build-reviewed |
-| M121446 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ClosedEvaluationVanishingOnOpenStatement` | volunteer-build-reviewed |

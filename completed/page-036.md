@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M024333 | P0010 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjDiagonal` | volunteer-build-reviewed |
 | M024335 | P0517 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjEisensteinPolynomialLevelOneStatement` | build-observed |
 | M024340 | P2224 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjHalfCosetRepsScalarDilation` | volunteer-build-reviewed |
 | M024344 | P1476 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsConjIntegralGaloisRep` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M024900 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveCartierGluingLocalTuples` | volunteer-build-reviewed |
 | M024901 | P2759 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveCartierGluingLocalTuplesStatement` | volunteer-build-reviewed |
 | M024902 | P2393 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveQDivisorOffPointAmpleClass` | volunteer-build-reviewed |
-| M024903 | P2422 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsEffectiveQDivisorOffPointAmpleClassStatement` | volunteer-build-reviewed |

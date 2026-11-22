@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M069710 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsRescaleEigenSeriesZero` | volunteer-build-reviewed |
+| M069711 | P0031 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueAnnihilatorOfNotStandardColumnFormA` | volunteer-build-reviewed |
 | M069713 | P1744 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOver` | volunteer-build-reviewed |
 | M069714 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueFieldEmbeddingPlaceOverStatement` | volunteer-build-reviewed |
 | M069715 | P1066 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsResidueTiltInjectiveRetract` | wave-reused |
@@ -400,5 +402,3 @@
 | M070364 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeries` | volunteer-build-reviewed |
 | M070365 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockCoefficientExtremalEqDiscreteSeriesStatement` | volunteer-build-reviewed |
 | M070368 | P1594 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpace` | volunteer-build-reviewed |
-| M070369 | P1623 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockHarmonicLatticeFgAndSpansValueSpaceStatement` | volunteer-build-reviewed |
-| M070372 | P1909 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FockInnerProductPosDefCompactMatrixUnitAdjoint` | volunteer-build-reviewed |

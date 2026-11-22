@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135081 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPPf` | build-observed |
+| M135082 | P0496 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcPf` | build-observed |
+| M135083 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSheafCut` | build-observed |
+| M135084 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPf` | build-observed |
+| M135085 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfCone` | build-observed |
+| M135086 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafExcSpPfMono` | build-observed |
+| M135087 | P0531 | `Development.EtaleCohomology.CohomologicalPurity.LeafFlqPf` | build-observed |
 | M135088 | P0631 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokInjPf` | build-observed |
 | M135089 | P0565 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPf` | build-observed |
 | M135090 | P0598 | `Development.EtaleCohomology.CohomologicalPurity.LeafFreeCokPfSurj` | build-observed |
@@ -395,10 +402,3 @@
 | M135684 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPicCut` | wave-reused |
 | M135685 | P0497 | `Development.EtaleCohomology.EtaleSheaves.LeafPointCut` | wave-reused |
 | M135686 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafPointTransferCut` | wave-reused |
-| M135688 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafPreTensLocInjPf` | wave-reused |
-| M135689 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafPrimCoverPf` | wave-reused |
-| M135697 | P0662 | `Development.EtaleCohomology.EtaleSheaves.LeafReducedSmooth` | volunteer-build-reviewed |
-| M135700 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafRepCut` | build-observed |
-| M135701 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRepVanishPf` | wave-reused |
-| M135704 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRingUnitPf` | wave-reused |
-| M135708 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafRootLocPf` | wave-reused |

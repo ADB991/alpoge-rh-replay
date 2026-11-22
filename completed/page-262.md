@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M169574 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDegree` | wave-reused |
+| M169575 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDvd` | wave-reused |
+| M169576 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PCodimOnePrimeAvoid` | wave-reused |
+| M169577 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PDerivSpanTrdeg` | wave-reused |
+| M169578 | P0166 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreClosedComponent` | wave-reused |
+| M169579 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreCompDim` | wave-reused |
+| M169580 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreCut` | wave-reused |
+| M169581 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFiniteOrd` | wave-reused |
+| M169582 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFreeParAlgIndep` | wave-reused |
 | M169583 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussDVR` | wave-reused |
 | M169584 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGaussEq` | wave-reused |
 | M169585 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PGenChowIrreducible` | wave-reused |
@@ -393,12 +402,3 @@
 | M170009 | P0471 | `GroundTheory.PAdicHodge.BdRField` | wave-reused |
 | M170010 | P0431 | `GroundTheory.PAdicHodge.BdRGalois` | wave-reused |
 | M170011 | P0579 | `GroundTheory.PAdicHodge.BdRInvariants` | build-observed |
-| M170012 | P0288 | `GroundTheory.PAdicHodge.BdRLattice` | wave-reused |
-| M170013 | P0086 | `GroundTheory.PAdicHodge.BdRSeries` | wave-reused |
-| M170014 | P0512 | `GroundTheory.PAdicHodge.BdRTGalois` | wave-reused |
-| M170026 | P1141 | `GroundTheory.PAdicHodge.ExistsNormLeOfNormLtOneFinite` | build-observed |
-| M170063 | P0612 | `GroundTheory.PAdicHodge.FWCharP` | build-observed |
-| M170064 | P0703 | `GroundTheory.PAdicHodge.FWCyclotomic` | build-observed |
-| M170066 | P0645 | `GroundTheory.PAdicHodge.FWGalois` | build-observed |
-| M170068 | P0612 | `GroundTheory.PAdicHodge.FWNatural` | build-observed |
-| M170069 | P0342 | `GroundTheory.PAdicHodge.FactorizationFactorialLe` | wave-reused |

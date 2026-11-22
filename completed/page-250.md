@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162532 | P1242 | `GroundTheory.AutomorphicForms.CuspidalProjection.OrthogonalProjectionOntoCompSubtypeL` | build-observed |
+| M162533 | P0080 | `GroundTheory.AutomorphicForms.CuspidalProjection.Unfold` | volunteer-build-reviewed |
+| M162534 | P0805 | `GroundTheory.AutomorphicForms.CuspidalSplitting` | build-observed |
+| M162535 | P0698 | `GroundTheory.AutomorphicForms.CuspidalSplittingCoeff` | build-observed |
+| M162536 | P0778 | `GroundTheory.AutomorphicForms.CuspidalSplittingIsotypic` | build-observed |
+| M162537 | P0725 | `GroundTheory.AutomorphicForms.CuspidalSplittingPositivity` | build-observed |
+| M162538 | P0751 | `GroundTheory.AutomorphicForms.CuspidalSplittingProjective` | build-observed |
+| M162539 | P0670 | `GroundTheory.AutomorphicForms.CuspidalSplittingSums` | build-observed |
 | M162540 | P0507 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.AdelicLattice` | wave-reused |
 | M162541 | P0606 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.Finiteness` | wave-reused |
 | M162542 | P0159 | `GroundTheory.AutomorphicForms.DefiniteClassNumber.GramReduction` | wave-reused |
@@ -394,11 +402,3 @@
 | M162956 | P1026 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.CuspScalar` | wave-reused |
 | M162957 | P1168 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.FiltrationCocycleLiftCriterion` | wave-reused |
 | M162958 | P0971 | `GroundTheory.AutomorphicForms.UnitaryAdmissible.Scalar` | wave-reused |
-| M162959 | P0282 | `GroundTheory.AutomorphicForms.UnitaryGroupEquations` | wave-reused |
-| M162960 | P0225 | `GroundTheory.AutomorphicForms.UnitaryGroupScheme` | wave-reused |
-| M162961 | P0225 | `GroundTheory.AutomorphicForms.UnitaryRepresentations` | wave-reused |
-| M162962 | P0160 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.DirectSum` | wave-reused |
-| M162963 | P0160 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.ExistsEqAlgebraMapOfIsSelfAdjoint` | wave-reused |
-| M162964 | P0160 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.Integrated` | wave-reused |
-| M162965 | P0081 | `GroundTheory.AutomorphicForms.UnitaryRepresentations.IsInvariantIffCommuteStarProjection` | wave-reused |
-| M162966 | P0282 | `GroundTheory.AutomorphicForms.UnitarySplit` | wave-reused |

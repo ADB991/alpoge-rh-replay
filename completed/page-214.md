@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M143897 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.MemIntGLIff` | volunteer-build-reviewed |
+| M143908 | P2592 | `Development.WeilBound.ThetaLifts.SphericalLattices.TheoremKSphOf` | volunteer-build-reviewed |
+| M143911 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.UnitLiftSt` | volunteer-build-reviewed |
+| M143915 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.ExistsHaarOfIsCompact` | volunteer-build-reviewed |
+| M143916 | P0068 | `Development.WeilBound.ThetaLifts.TowerModels.ExistsRefl` | volunteer-build-reviewed |
+| M143919 | P0068 | `Development.WeilBound.ThetaLifts.TowerModels.LeviAlg` | volunteer-build-reviewed |
+| M143925 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneForm` | volunteer-build-reviewed |
+| M143926 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm` | volunteer-build-reviewed |
 | M143937 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.AddCharHalfTraceTensorLatticeHeisenbergCocycle` | volunteer-build-reviewed |
 | M143947 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSchwartzBruhatSchroedingerFixedLocalField` | volunteer-build-reviewed |
 | M143948 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.TwistedSums.ExistsSubgroupSymplecticAnnihilatorLocalField` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M144345 | P0271 | `Formalism.EllipticTorsion.JetsCube` | wave-reused |
 | M144346 | P0211 | `Formalism.EllipticTorsion.Statement` | wave-reused |
 | M144347 | P0271 | `Formalism.EllipticTorsion.UnitCancel` | wave-reused |
-| M144348 | P0271 | `Formalism.EllipticTorsion.VeluIntegralModel` | wave-reused |
-| M144349 | P0146 | `Formalism.EllipticTorsion.WChordSeries` | wave-reused |
-| M144350 | P0068 | `Formalism.EllipticTorsion.WSeriesUnique` | wave-reused |
-| M144351 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.BCount` | build-observed |
-| M144352 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.DetMulEqSumPrincipal` | wave-reused |
-| M144353 | P0271 | `Formalism.FilteredPoleLength.LocalDescentLevels.ExistsSmulMemOfMemSpan` | build-observed |
-| M144354 | P0146 | `Formalism.FilteredPoleLength.LocalDescentLevels.ExistsSumOfMemSpanImage` | wave-reused |
-| M144355 | P0211 | `Formalism.FilteredPoleLength.LocalDescentLevels.FilIntegerStep` | build-observed |

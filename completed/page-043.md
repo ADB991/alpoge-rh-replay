@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M028619 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankNormalFormMatrixFieldStatement` | volunteer-build-reviewed |
 | M028621 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankOneChangeImprovesImageRealPrimeStatement` | volunteer-build-reviewed |
 | M028622 | P0584 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRankTwoBasisModN` | build-observed |
 | M028624 | P1196 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsRapidSuperpositionCharacters` | build-observed |
@@ -401,4 +402,3 @@
 | M029209 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectDeeperLevelOfSections` | volunteer-build-reviewed |
 | M029210 | P2343 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectDeeperLevelOfSectionsStatement` | volunteer-build-reviewed |
 | M029214 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectLoweredLevelStatement` | volunteer-build-reviewed |
-| M029216 | P2324 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsSiegelObjectOfGaloisDescendedDataStatement` | volunteer-build-reviewed |

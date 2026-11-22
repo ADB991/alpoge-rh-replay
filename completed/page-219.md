@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M146729 | P0461 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralReduction` | build-observed |
+| M146730 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalMeasurabilityWeakThreshold` | build-observed |
+| M146731 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrderChainWeights` | build-observed |
+| M146732 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrderIndexAndStrata` | build-observed |
+| M146735 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OutsideSystemsBound` | build-observed |
+| M146736 | P0994 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBLiftV` | build-observed |
+| M146737 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBStmt` | build-observed |
+| M146738 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCBlk` | build-observed |
 | M146739 | P1238 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCChain` | build-observed |
 | M146740 | P1344 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCFinal` | build-observed |
 | M146741 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCGlob` | build-observed |
@@ -394,11 +402,3 @@
 | M147330 | P0148 | `Formalism.IncomingBounds.StatementThmP` | wave-reused |
 | M147331 | P0213 | `Formalism.IncomingBounds.ValuationWindowImpliesOriginal` | wave-reused |
 | M147332 | P0327 | `Formalism.IncomingBounds.WeightIdentities` | build-observed |
-| M147333 | P0502 | `Formalism.JacobiWeightFamilies.LFunctionOnePositive` | build-observed |
-| M147334 | P0421 | `Formalism.JacobiWeightFamilies.Statement` | build-observed |
-| M147335 | P0069 | `Formalism.JacquetSubsetSums.JacquetSubsetSum` | build-observed |
-| M147336 | P0461 | `Formalism.JacquetSubsetSums.SeparationTR` | build-observed |
-| M147337 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.CokerTors` | wave-reused |
-| M147338 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColThmC` | wave-reused |
-| M147339 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColumnDegreeBound` | wave-reused |
-| M147340 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.DetLen` | wave-reused |

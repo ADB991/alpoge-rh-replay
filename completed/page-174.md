@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M116872 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealQuotientBottomInvariantsEquiv` | volunteer-build-reviewed |
+| M116873 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealTranslatePreservesRationalAction` | volunteer-build-reviewed |
+| M116874 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RealWeilRepresentationSchurScalar` | volunteer-build-reviewed |
+| M116875 | P2803 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RegConstEqAwayUnitMulFactor` | volunteer-build-reviewed |
+| M116876 | P2786 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RegularisedIntegralComparison` | volunteer-build-reviewed |
+| M116877 | P2751 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RegularizedIntegralSmallConstant` | volunteer-build-reviewed |
+| M116878 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RestrictedTensorSphericalUniquenessOffFinite` | volunteer-build-reviewed |
 | M116879 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.RowSumOfHyp` | volunteer-build-reviewed |
 | M116880 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.SchwartzFunctionSlopeEstimate` | volunteer-build-reviewed |
 | M116882 | P2383 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.SeparatingFamilyExtendsByTwistedRow` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M117306 | P2206 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClosingFamilyX` | volunteer-build-reviewed |
 | M117307 | P2442 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClsPinDOfFamCol` | volunteer-build-reviewed |
 | M117308 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ClsPinDOfFamColStatement` | volunteer-build-reviewed |
-| M117309 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefAtOfTwAdm` | volunteer-build-reviewed |
-| M117310 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefAtOfTwAdmStatement` | volunteer-build-reviewed |
-| M117311 | P2287 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefSt` | volunteer-build-reviewed |
-| M117312 | P2301 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefStStatement` | volunteer-build-reviewed |
-| M117313 | P1777 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefficientExtensionDecomposition` | volunteer-build-reviewed |
-| M117314 | P2762 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CoefficientFieldRingOfIntegersThird` | volunteer-build-reviewed |
-| M117315 | P2252 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CofiniteLabelsAt` | volunteer-build-reviewed |

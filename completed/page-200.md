@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M133056 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdjacentSwapHeightPolynomialRelation` | volunteer-build-reviewed |
+| M133059 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AemeasurableCxPosDensityStatement` | volunteer-build-reviewed |
+| M133060 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AevalNeZeroOfNotMem` | wave-reused |
+| M133061 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AffineChartIdealPrimeAndSaturated` | build-observed |
+| M133062 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AffineChartIdealPrimeAndSaturatedStatement` | build-observed |
+| M133063 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositive` | volunteer-build-reviewed |
+| M133064 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositiveStatement` | build-observed |
 | M133070 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlgebraicSquareIntersectionPullbackStatement` | volunteer-build-reviewed |
 | M133073 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescent` | volunteer-build-reviewed |
 | M133074 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AlternatingFormHermitianDescentStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M133661 | P1135 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointTriangularChangeOrbitStatement` | build-observed |
 | M133662 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPointsIntegralProductFormula` | volunteer-build-reviewed |
 | M133664 | P0661 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecomposition` | volunteer-build-reviewed |
-| M133665 | P0691 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialBlockDecompositionStatement` | build-observed |
-| M133666 | P0416 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCell` | build-observed |
-| M133667 | P0456 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagPotentialLeviFormCellStatement` | build-observed |
-| M133669 | P1552 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyAnalyticSystemExistsStatement` | volunteer-build-reviewed |
-| M133670 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyArithmetic` | volunteer-build-reviewed |
-| M133672 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyBoundaryDimensionDrop` | volunteer-build-reviewed |
-| M133674 | P0744 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.FlagVarietyModelBaseMetric` | volunteer-build-reviewed |

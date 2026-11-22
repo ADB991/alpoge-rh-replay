@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M130930 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorIff` | build-observed |
+| M130931 | P0744 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptInteriorIffStatement` | volunteer-build-reviewed |
+| M130932 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptIsoCompare` | volunteer-build-reviewed |
+| M130933 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptIsoCompareStatement` | volunteer-build-reviewed |
+| M130934 | P2472 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptLabelBases` | volunteer-build-reviewed |
+| M130935 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptLabelBasesStatement` | volunteer-build-reviewed |
+| M130936 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptLieMetricBound` | volunteer-build-reviewed |
 | M130937 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptLieMetricBoundStatement` | volunteer-build-reviewed |
 | M130938 | P2385 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptMultihomogForm` | volunteer-build-reviewed |
 | M130939 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.HodgeCptMultihomogFormStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M131590 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ModelSmallSectionsMulStatement` | volunteer-build-reviewed |
 | M131596 | P0456 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MonoLinesLineSmooth` | wave-reused |
 | M131597 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MulMemSqOfSmulEqZero` | volunteer-build-reviewed |
-| M131599 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogComponentQuotientStatement` | volunteer-build-reviewed |
-| M131600 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogCoveringForms` | volunteer-build-reviewed |
-| M131601 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogCoveringFormsStatement` | volunteer-build-reviewed |
-| M131605 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogNonvanishingRatioStatement` | volunteer-build-reviewed |
-| M131608 | P0630 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogRatioInduction` | volunteer-build-reviewed |
-| M131609 | P0661 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultihomogRatioInductionStatement` | volunteer-build-reviewed |
-| M131610 | P0063 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.MultiplicativeDerivationRank` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M132287 | P2336 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerComponentsEquivOfGivenStatement` | volunteer-build-reviewed |
+| M132295 | P2730 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerIntersectionOfSandwichSplitStatement` | volunteer-build-reviewed |
+| M132296 | P2501 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerOriginComponentBound` | volunteer-build-reviewed |
+| M132297 | P2528 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerOriginComponentBoundStatement` | volunteer-build-reviewed |
+| M132298 | P2415 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerWeightOfZero` | volunteer-build-reviewed |
+| M132299 | P2444 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TowerWeightOfZeroStatement` | volunteer-build-reviewed |
+| M132300 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TraceIntegralSubringExtension` | volunteer-build-reviewed |
 | M132301 | P0208 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TraceIntegralSubringExtensionStatement` | volunteer-build-reviewed |
 | M132304 | P0772 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslDiffEq` | build-observed |
 | M132305 | P0321 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.TranslateIntoSmallerOpen` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M133052 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameInversePropertiesStatement` | volunteer-build-reviewed |
 | M133053 | P1236 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalent` | volunteer-build-reviewed |
 | M133054 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdaptedFrameOfEquivalentStatement` | volunteer-build-reviewed |
-| M133056 | P1438 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AdjacentSwapHeightPolynomialRelation` | volunteer-build-reviewed |
-| M133059 | P0799 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AemeasurableCxPosDensityStatement` | volunteer-build-reviewed |
-| M133060 | P0690 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AevalNeZeroOfNotMem` | wave-reused |
-| M133061 | P0936 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AffineChartIdealPrimeAndSaturated` | build-observed |
-| M133062 | P0964 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AffineChartIdealPrimeAndSaturatedStatement` | build-observed |
-| M133063 | P1264 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositive` | volunteer-build-reviewed |
-| M133064 | P1291 | `Development.AutomorphicSpectrum.Proofs.MetricProofs.AgreementPositiveStatement` | build-observed |

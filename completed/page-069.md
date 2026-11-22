@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046919 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetricStatement` | volunteer-build-reviewed |
 | M046920 | P0585 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSumEqCharSumAgainstCuspForm` | wave-reused |
 | M046921 | P2516 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiTwistedEqPsiMulCharacterOfPoint` | volunteer-build-reviewed |
 | M046923 | P2755 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiUnitOnBasicOpenOfComesFromBase` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M047594 | P2000 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLiftReadingsScaleClassSumEigenspacesStatement` | volunteer-build-reviewed |
 | M047595 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLineStabilizerDecomposition` | volunteer-build-reviewed |
 | M047597 | P1480 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatricesDiscreteCocompactAdelicMatrixSpa` | volunteer-build-reviewed |
-| M047599 | P0113 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalMatrixEigenspaceImageSpannedRational` | volunteer-build-reviewed |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085759 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliRepOfBase` | build-observed |
+| M085761 | P2099 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeLevelMapsHeckePointsStatement` | build-observed |
+| M085763 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeNonemptyAtEveryLevelStatement` | build-observed |
+| M085765 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MonoOfUnramifiedOfPoints` | volunteer-build-reviewed |
 | M085766 | P0821 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfield` | build-observed |
 | M085767 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MorphismsDescendToLargeSubfieldStatement` | volunteer-build-reviewed |
 | M085773 | P0038 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MvPolynomialMapMaximalIdealIsPrime` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M086640 | P1335 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BetaImageDeRhamPlusDvdOfLAdicResiduesStatement` | build-observed |
 | M086643 | P2114 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducible` | volunteer-build-reviewed |
 | M086644 | P2126 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BiInvariantHeckeOpScalarOnSphericalIrreducibleStatement` | volunteer-build-reviewed |
-| M086645 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfIntertwining` | volunteer-build-reviewed |
-| M086646 | P2568 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfSplit` | volunteer-build-reviewed |
-| M086647 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRange` | volunteer-build-reviewed |
-| M086648 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRangeStatement` | volunteer-build-reviewed |

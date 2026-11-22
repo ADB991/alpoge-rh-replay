@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M056880 | P0787 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSchurTranslatedMatrixCoefficientStatement` | build-observed |
 | M056881 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselForm` | build-observed |
 | M056882 | P1089 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupIntegralEqInnerBesselFormStatement` | build-observed |
 | M056883 | P0761 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.BesselSubgroupRepTwistedIsUnitaryRep` | build-observed |
@@ -401,4 +402,3 @@
 | M057669 | P0481 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaxVector` | build-observed |
 | M057671 | P2070 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalCompactReductionStandardFrameStatement` | volunteer-build-reviewed |
 | M057672 | P0620 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormal` | build-observed |
-| M057673 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormalStatement` | build-observed |

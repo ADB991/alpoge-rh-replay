@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M085051 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGaloisCoverOfIsQProjOver` | volunteer-build-reviewed |
+| M085053 | P1406 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGenSecNear` | volunteer-build-reviewed |
+| M085054 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGrpPullbackRetraction` | wave-reused |
+| M085055 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsHeckeIsog` | build-observed |
 | M085056 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfComplementary` | build-observed |
 | M085057 | P1128 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsMonHomOfMapLattice` | build-observed |
 | M085058 | P1258 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsOpenImmersionQuotient` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M085749 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModNOfDvdModulus` | volunteer-build-reviewed |
 | M085752 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModelFiniteOverModuliModelDescends` | volunteer-build-reviewed |
 | M085756 | P1311 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliFiniteSurjectiveOverGenericFamilyStatement` | volunteer-build-reviewed |
-| M085759 | P0739 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliRepOfBase` | build-observed |
-| M085761 | P2099 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeLevelMapsHeckePointsStatement` | build-observed |
-| M085763 | P2041 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ModuliSchemeNonemptyAtEveryLevelStatement` | build-observed |
-| M085765 | P1230 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.MonoOfUnramifiedOfPoints` | volunteer-build-reviewed |

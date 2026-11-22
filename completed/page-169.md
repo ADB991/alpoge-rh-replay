@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114521 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.SlopeTestRemainingChoices` | volunteer-build-reviewed |
+| M114522 | P1133 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.AllHolds` | build-observed |
+| M114524 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.FLOf` | wave-reused |
+| M114525 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.ImgcSpec` | wave-reused |
+| M114526 | P0317 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsWtZero` | wave-reused |
+| M114527 | P0453 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpec` | wave-reused |
+| M114528 | P1104 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpecHolds` | wave-reused |
 | M114529 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.OpEqOf` | wave-reused |
 | M114530 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PArtSum` | wave-reused |
 | M114531 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.PChart` | wave-reused |
@@ -395,10 +402,3 @@
 | M114963 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulHomog` | volunteer-build-reviewed |
 | M114964 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AevalMulOfIsHomogeneous` | volunteer-build-reviewed |
 | M114965 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AffineGenerators` | volunteer-build-reviewed |
-| M114966 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AgreeOfAdjoin` | volunteer-build-reviewed |
-| M114967 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraSmulCommClassComplex` | volunteer-build-reviewed |
-| M114968 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlgebraicPointIntegral` | volunteer-build-reviewed |
-| M114969 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AlternatingSumZero` | volunteer-build-reviewed |
-| M114970 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalConjugation` | volunteer-build-reviewed |
-| M114971 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.AntidiagonalTranspose` | volunteer-build-reviewed |
-| M114972 | P0047 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ArithmeticCylinders` | volunteer-build-reviewed |

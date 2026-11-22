@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093950 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLeStatement` | volunteer-build-reviewed |
+| M093952 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteClassesRationalIsometriesBoundedDenominatoStatement` | volunteer-build-reviewed |
+| M093953 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottom` | volunteer-build-reviewed |
+| M093954 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottomStatement` | volunteer-build-reviewed |
 | M093955 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalar` | volunteer-build-reviewed |
 | M093956 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumLocalFunctionsEqPureTensorScalarStatement` | volunteer-build-reviewed |
 | M093957 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumSourceLevelCharacterLaw` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M094460 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtension` | volunteer-build-reviewed |
 | M094461 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodReductionStableValuationRingExtensionStatement` | volunteer-build-reviewed |
 | M094462 | P1967 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluation` | volunteer-build-reviewed |
-| M094463 | P1987 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsCompareByLevelMatchingEvaluationStatement` | volunteer-build-reviewed |
-| M094464 | P1337 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModel` | volunteer-build-reviewed |
-| M094465 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsLevelSubPrincipalLevelHilbertModelStatement` | volunteer-build-reviewed |
-| M094466 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.GoodRowsPrincipalLevelAreRows` | volunteer-build-reviewed |

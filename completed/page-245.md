@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M160042 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.GlOperatorPreservesMultidegree` | wave-reused |
+| M160043 | P1242 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HeisenbergDividedPowerExpansion` | wave-reused |
+| M160044 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightDominantHolds` | wave-reused |
+| M160045 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightLatticeOfFirstPart` | wave-reused |
+| M160046 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HighestWeightModuleBounds` | wave-reused |
+| M160047 | P1140 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.HomLatticeDividedPowerStable` | wave-reused |
+| M160048 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IdentityEvaluationGenericMatrix` | wave-reused |
+| M160049 | P1024 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesLattice` | wave-reused |
 | M160050 | P0998 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesStable` | wave-reused |
 | M160051 | P0970 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralEnvelopingPreservesSubmodule` | wave-reused |
 | M160052 | P1081 | `Formalism.SharpRestriction.GrowthBounds.RootWeights.IntegralGeneratorsPreserveLattice` | wave-reused |
@@ -394,11 +402,3 @@
 | M160479 | P1191 | `Formalism.SharpRestriction.LevelLetterCocycles.DistinctEigenvalueCornerPerturbationOfBlocks` | build-observed |
 | M160480 | P0887 | `Formalism.SharpRestriction.LevelLetterCocycles.DivisibilityInvariantMulLinear` | wave-reused |
 | M160482 | P0970 | `Formalism.SharpRestriction.LevelLetterCocycles.DownSlotProposition` | build-observed |
-| M160486 | P1112 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalEndApply` | build-observed |
-| M160487 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalMemOfStable` | build-observed |
-| M160489 | P1081 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ClassMapPf` | build-observed |
-| M160490 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ConstantCoeffQZeroEqP` | build-observed |
-| M160492 | P0157 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DecompCoord` | volunteer-build-reviewed |
-| M160493 | P1140 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DescentValuation` | build-observed |
-| M160494 | P1025 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdCondition` | build-observed |
-| M160495 | P0078 | `Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.DvdOfCoeffSubstXPowNeZero` | volunteer-build-reviewed |

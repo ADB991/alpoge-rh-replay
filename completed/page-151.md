@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M104995 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsCent` | volunteer-build-reviewed |
+| M104996 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsOfForm` | volunteer-build-reviewed |
+| M104997 | P2629 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.PsPlain` | volunteer-build-reviewed |
+| M104998 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.RankFourAutomorphyOfTensor` | volunteer-build-reviewed |
+| M104999 | P2724 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SeedII` | volunteer-build-reviewed |
 | M105000 | P2755 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SphOfUnrW` | volunteer-build-reviewed |
 | M105001 | P2707 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.SphPlain` | volunteer-build-reviewed |
 | M105002 | P2703 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.AutomorphyLifting.PrimeIndexConstruction.ThruBad` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M105528 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.PolMix` | volunteer-build-reviewed |
 | M105529 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDec` | volunteer-build-reviewed |
 | M105530 | P2679 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.SplitOfDecAlt` | volunteer-build-reviewed |
-| M105531 | P2685 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.UnrOfIne` | volunteer-build-reviewed |
-| M105533 | P1913 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.AdmCusp` | volunteer-build-reviewed |
-| M105534 | P1932 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.AdmissibleCuspFormsFinite` | volunteer-build-reviewed |
-| M105535 | P1604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.BfFun` | volunteer-build-reviewed |
-| M105536 | P1521 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.BlkInvVal` | volunteer-build-reviewed |

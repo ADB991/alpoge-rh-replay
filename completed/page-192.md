@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M127225 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2SumStatement` | volunteer-build-reviewed |
+| M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
+| M127228 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite` | volunteer-build-reviewed |
+| M127229 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfiniteStatement` | volunteer-build-reviewed |
+| M127230 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFactorizableDecomposition` | volunteer-build-reviewed |
+| M127233 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFiniteSumOfProductsStatement` | volunteer-build-reviewed |
+| M127235 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAdelicStatement` | volunteer-build-reviewed |
 | M127236 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAnyHaar` | volunteer-build-reviewed |
 | M127238 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpan` | volunteer-build-reviewed |
 | M127239 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatPlaneCosetSpanStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M127957 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartInProd` | volunteer-build-reviewed |
 | M127959 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistCompactPartLe` | volunteer-build-reviewed |
 | M127961 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SwapTwistedCentralizerDiagonal` | volunteer-build-reviewed |
-| M127968 | P0062 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TZero` | volunteer-build-reviewed |
-| M127969 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmall` | build-observed |
-| M127970 | P0414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TailSumOverPlacesSmallStatement` | build-observed |
-| M127976 | P1806 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateLocalL1` | volunteer-build-reviewed |
-| M127979 | P0596 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TateShafarevichTransport` | volunteer-build-reviewed |
-| M127982 | P1160 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentative` | build-observed |
-| M127983 | P1184 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TaylorDifferentialRepresentativeStatement` | build-observed |

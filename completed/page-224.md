@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M149299 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FWTie` | build-observed |
+| M149300 | P0967 | `Formalism.LocalToGlobal.IndefiniteReal.FaceOf3` | build-observed |
+| M149301 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ActsLinOfSplitLin` | volunteer-build-reviewed |
+| M149316 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FactPrincipalDatum` | build-observed |
+| M149336 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemSumOfNoConj` | volunteer-build-reviewed |
+| M149340 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IntegrableOnOfPeriodic` | volunteer-build-reviewed |
+| M149364 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceS` | build-observed |
+| M149379 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.StepVecThetaLem` | build-observed |
 | M149380 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TameAtOne` | volunteer-build-reviewed |
 | M149383 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.TwoSplitIdem` | build-observed |
 | M149387 | P0939 | `Formalism.LocalToGlobal.IndefiniteReal.FinrankISupLeSum` | build-observed |
@@ -394,11 +402,3 @@
 | M150271 | P1164 | `Formalism.LocalToGlobal.ProjectiveLattices.ChiProofs` | build-observed |
 | M150272 | P1212 | `Formalism.LocalToGlobal.ProjectiveLattices.CombAlgOfCombBound` | volunteer-build-reviewed |
 | M150273 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompData` | build-observed |
-| M150274 | P0570 | `Formalism.LocalToGlobal.ProjectiveLattices.CompFin` | build-observed |
-| M150275 | P0635 | `Formalism.LocalToGlobal.ProjectiveLattices.CompHt` | build-observed |
-| M150276 | P0602 | `Formalism.LocalToGlobal.ProjectiveLattices.CompOrd` | build-observed |
-| M150279 | P0071 | `Formalism.LocalToGlobal.ProjectiveLattices.CompSplitPfC` | volunteer-build-reviewed |
-| M150281 | P1137 | `Formalism.LocalToGlobal.ProjectiveLattices.CompTie` | volunteer-build-reviewed |
-| M150282 | P1137 | `Formalism.LocalToGlobal.ProjectiveLattices.CompTieA` | build-observed |
-| M150283 | P0214 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplPf` | build-observed |
-| M150284 | P0149 | `Formalism.LocalToGlobal.ProjectiveLattices.ComplSt` | volunteer-build-reviewed |

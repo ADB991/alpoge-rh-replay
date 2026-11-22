@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M016617 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightComparison` | volunteer-build-reviewed |
 | M016619 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightLower` | volunteer-build-reviewed |
 | M016621 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightUpper` | volunteer-build-reviewed |
 | M016623 | P2714 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingNormBound` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M017416 | P1116 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecond` | volunteer-build-reviewed |
 | M017417 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantSecondStatement` | volunteer-build-reviewed |
 | M017422 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantThird` | volunteer-build-reviewed |
-| M017423 | P1145 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.CharacterSumLocalConstantTwelfth` | volunteer-build-reviewed |

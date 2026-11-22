@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154200 | P0722 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Reduce` | build-observed |
+| M154201 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitGL` | build-observed |
+| M154202 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitIso` | build-observed |
+| M154203 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.AdeleLC` | wave-reused |
+| M154204 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension` | wave-reused |
+| M154205 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CartierFrobeniusFormLocal` | build-observed |
+| M154206 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionA` | build-observed |
+| M154207 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionB` | build-observed |
 | M154208 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionD` | build-observed |
 | M154209 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CoordTmulOneMul` | build-observed |
 | M154210 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatLocal` | build-observed |
@@ -394,11 +402,3 @@
 | M154691 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepGood` | build-observed |
 | M154692 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepRank` | build-observed |
 | M154693 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OFRepTop` | build-observed |
-| M154694 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitCountSecondStage` | build-observed |
-| M154695 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitFiniteOf` | build-observed |
-| M154700 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ProdAbsNormDifferentIdealPowers` | build-observed |
-| M154701 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResCharLeAbsNorm` | build-observed |
-| M154702 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResidueFieldCard` | build-observed |
-| M154703 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResidueFieldCount` | build-observed |
-| M154716 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.Stage1OfUnipotentIntegralIsGroup` | build-observed |
-| M154718 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.TransMemUnipotentIntegral` | build-observed |

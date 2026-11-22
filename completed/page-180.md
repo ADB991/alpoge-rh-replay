@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M119575 | P1848 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralQuotientDerivativeOneParameterEqZero` | volunteer-build-reviewed |
+| M119578 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnfoldedIntegrandEqZetaIntegral` | volunteer-build-reviewed |
+| M119579 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.IntegralUnipotentCoordinatesEqZeroOfCuspidal` | volunteer-build-reviewed |
+| M119580 | P0058 | `Development.AutomorphicArithmetic.WhittakerHecke.IsAffineOpenImagePullbackOpenImmersionChart` | volunteer-build-reviewed |
+| M119583 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.KAtDiagIdeleOfNatMulRotationOfNotDvd` | volunteer-build-reviewed |
+| M119584 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesFixedAtPlace` | volunteer-build-reviewed |
+| M119585 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesRightInvarianceFiniteAdelic` | volunteer-build-reviewed |
 | M119586 | P1951 | `Development.AutomorphicArithmetic.WhittakerHecke.LieActionPreservesSatakeEigenAtPlace` | volunteer-build-reviewed |
 | M119587 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvMemArchSmoothAndEnvelopingActionEq` | volunteer-build-reviewed |
 | M119588 | P1726 | `Development.AutomorphicArithmetic.WhittakerHecke.LiftOneRconvTensorModerateGrowthUniform` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M120155 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibreDim` | build-observed |
 | M120156 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FibrePowerMapOfTotalSpacesIsPullback` | volunteer-build-reviewed |
 | M120157 | P0797 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvariance` | build-observed |
-| M120158 | P0825 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvarianceStatement` | build-observed |
-| M120161 | P1234 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffine` | build-observed |
-| M120162 | P1262 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffineStatement` | build-observed |
-| M120165 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreeHom` | volunteer-build-reviewed |
-| M120166 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffine` | build-observed |
-| M120167 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffineStatement` | build-observed |
-| M120168 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlat` | volunteer-build-reviewed |

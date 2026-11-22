@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M026095 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeMapHarrisTaylorIntegralModelsStatement` | volunteer-build-reviewed |
 | M026097 | P2774 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslateLocallyNoetherianBaseStatement` | volunteer-build-reviewed |
 | M026098 | P2780 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundle` | volunteer-build-reviewed |
 | M026099 | P2782 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsHeckeTranslatePolarisationBundleStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M026702 | P2557 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisationTranslateOrderTwo` | volunteer-build-reviewed |
 | M026703 | P2578 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisationTranslateOrderTwoStatement` | volunteer-build-reviewed |
 | M026704 | P2479 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisedGroupsSameSiegelFibre` | volunteer-build-reviewed |
-| M026705 | P2509 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIsoUniformisedGroupsSameSiegelFibreStatement` | volunteer-build-reviewed |

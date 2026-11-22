@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155164 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.GaloisClause` | build-observed |
+| M155165 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.IrreducibleCharpolyInv` | build-observed |
+| M155166 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.RootPowCard` | volunteer-build-reviewed |
+| M155167 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.ExistsNeZeroTensor` | build-observed |
+| M155168 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.Simple` | wave-reused |
+| M155169 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.Transp` | build-observed |
+| M155171 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.Development` | volunteer-build-reviewed |
+| M155176 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExChar` | build-observed |
 | M155177 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExCore` | build-observed |
 | M155180 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.UniqGen` | volunteer-build-reviewed |
 | M155181 | P0377 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarScaling.MapEqSelfOfIterate` | build-observed |
@@ -394,11 +402,3 @@
 | M155622 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfAdapted` | build-observed |
 | M155623 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfBasisAdapted` | build-observed |
 | M155624 | P1269 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfFrameBasis` | build-observed |
-| M155625 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfResidueFrame` | build-observed |
-| M155626 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicReductionImage` | build-observed |
-| M155627 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PhiBijective` | build-observed |
-| M155628 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiKerIff` | build-observed |
-| M155629 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiVHA` | build-observed |
-| M155630 | P1584 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiVIteOne` | build-observed |
-| M155631 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.QuadRoot` | build-observed |
-| M155632 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageEveryPlace` | build-observed |

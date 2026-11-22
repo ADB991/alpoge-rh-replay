@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M094947 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLe` | volunteer-build-reviewed |
+| M094948 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfiniteHeightTransposeGramUnitaryLeStatement` | volunteer-build-reviewed |
+| M094949 | P1653 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwise` | volunteer-build-reviewed |
+| M094950 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartActDiscreteSeriesHomFactorwiseStatement` | volunteer-build-reviewed |
 | M094951 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSum` | volunteer-build-reviewed |
 | M094952 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePartEqZeroOfIsHalfIdempotentSumStatement` | volunteer-build-reviewed |
 | M094955 | P1362 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.InfinitePlaceRelativeNormLeMaxEmbeddingPow` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M095419 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselCorePieceNonzeroVacuumStatement` | volunteer-build-reviewed |
 | M095420 | P2150 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselFlatMapEquivariant` | volunteer-build-reviewed |
 | M095421 | P2161 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselFlatMapEquivariantStatement` | volunteer-build-reviewed |
-| M095422 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLattices` | volunteer-build-reviewed |
-| M095423 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
-| M095424 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilators` | volunteer-build-reviewed |
-| M095425 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilatorsStatement` | volunteer-build-reviewed |

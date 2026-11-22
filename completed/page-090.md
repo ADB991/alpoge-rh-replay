@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061708 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar` | build-observed |
 | M061709 | P0355 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHom` | wave-reused |
 | M061710 | P0402 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHahnSeriesScaleTwistRingHomStatement` | wave-reused |
 | M061712 | P1330 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsHalfOfBasePins` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M062356 | P0356 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSer` | wave-reused |
 | M062357 | P0403 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesCommonDenominatorEqMonomialMulPowerSerStatement` | wave-reused |
 | M062358 | P0522 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEq` | wave-reused |
-| M062359 | P0554 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.HahnSeriesEqOfQExpansionSumAboveEventuallyEqStatement` | wave-reused |

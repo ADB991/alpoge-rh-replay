@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098708 | P1602 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSectionsStatement` | build-observed |
+| M098709 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroup` | volunteer-build-reviewed |
+| M098710 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroupStatement` | wave-reused |
+| M098712 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanGenerateValuationRingsStatement` | volunteer-build-reviewed |
+| M098713 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegeneration` | wave-reused |
 | M098714 | P0989 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegenerationStatement` | wave-reused |
 | M098715 | P0877 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralOfTorsion` | volunteer-build-reviewed |
 | M098716 | P1157 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralThetaSectionWithExpansion` | build-observed |
@@ -397,8 +402,3 @@
 | M099318 | P1723 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtFormalTorsion` | build-observed |
 | M099319 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValueAtOrigin` | build-observed |
 | M099322 | P0796 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ValuesNatural` | wave-reused |
-| M099323 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPull` | build-observed |
-| M099324 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPw` | build-observed |
-| M099325 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPwOfAffineLoci` | build-observed |
-| M099326 | P0768 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WchartCompLePull` | build-observed |
-| M099328 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsion` | build-observed |

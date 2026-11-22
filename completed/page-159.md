@@ -2,6 +2,12 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M109422 | P1104 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineAlgebraAlgebraMap` | build-observed |
+| M109423 | P0741 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.CrystallineComparison` | build-observed |
+| M109425 | P2498 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.E4` | volunteer-build-reviewed |
+| M109426 | P1314 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EPin` | volunteer-build-reviewed |
+| M109430 | P0961 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.A11` | worker-kernel-checked |
+| M109431 | P0688 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.CechLevels` | build-observed |
 | M109432 | P0626 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.DescentSteps` | build-observed |
 | M109433 | P0658 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.EquivalenceQuasiAffine` | build-observed |
 | M109434 | P0527 | `Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.EtaleAxioms.EtaleCovers` | build-observed |
@@ -296,6 +302,7 @@
 | M109846 | P0201 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.Duality` | volunteer-build-reviewed |
 | M109847 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.EmbDefY` | volunteer-build-reviewed |
 | M109848 | P0367 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.ExistsHostDataWild` | volunteer-build-reviewed |
+| M109849 | P0367 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.ExistsIsPrimitiveRootIff` | volunteer-build-reviewed |
 | M109851 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.FieldDisc` | volunteer-build-reviewed |
 | M109852 | P0263 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.Filtration` | volunteer-build-reviewed |
 | M109856 | P0135 | `Development.AutomorphicArithmetic.CyclotomicBounds.ClassNumberBounds.InertiaRamification.IsImagQuad` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M109998 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.EmbSum` | volunteer-build-reviewed |
 | M109999 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.LocalGen` | volunteer-build-reviewed |
 | M110000 | P2252 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.NormGen` | volunteer-build-reviewed |
-| M110001 | P0046 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.TraceForm` | volunteer-build-reviewed |
-| M110002 | P0201 | `Development.AutomorphicArithmetic.CyclotomicBounds.TraceDuality.ValGen` | volunteer-build-reviewed |
-| M110003 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.AttExp` | volunteer-build-reviewed |
-| M110004 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.BdLoss` | volunteer-build-reviewed |
-| M110005 | P2089 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.BvvInt` | volunteer-build-reviewed |
-| M110006 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbIop` | volunteer-build-reviewed |
-| M110007 | P2061 | `Development.AutomorphicArithmetic.CyclotomicBounds.WildJets.CmbJet` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004256 | P2662 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IwahoriAdmissibleSet` | volunteer-build-reviewed |
 | M004258 | P1472 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JetSplitAmb` | volunteer-build-reviewed |
 | M004262 | P0731 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.JumpWindow` | volunteer-build-reviewed |
 | M004263 | P0435 | `Development.AbelianVarietyTheory.Definitions.GaloisGeometry.KaehlerOneFormsToExtensionDeRhamMulSelf` | build-observed |
@@ -401,4 +402,3 @@
 | M004966 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsNormalFormStabilizerMeasure` | volunteer-build-reviewed |
 | M004967 | P0810 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.IsProjOnOne` | volunteer-build-reviewed |
 | M004968 | P0758 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LamXEquivariant` | build-observed |
-| M004970 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LayerProd` | build-observed |

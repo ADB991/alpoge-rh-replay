@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M035238 | P2082 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSchwartzFiniteValuesStatement` | volunteer-build-reviewed |
 | M035239 | P2096 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLine` | volunteer-build-reviewed |
 | M035240 | P2110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSelfDualLatticeFixedFunctionsLineStatement` | volunteer-build-reviewed |
 | M035241 | P0107 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeisenbergSmoothOfWeakDerivativeClosedSet` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M036017 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftPullbackStatement` | build-observed |
 | M036018 | P0398 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftSmooth` | build-observed |
 | M036019 | P0440 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalLiftSmoothStatement` | build-observed |
-| M036021 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.HorizontalPrimeDivisorIntegralEqGenericFibreStatement` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M004970 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LayerProd` | build-observed |
 | M004971 | P1218 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LevelMatchIff` | volunteer-build-reviewed |
 | M004974 | P1194 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.LocClosed` | volunteer-build-reviewed |
 | M004977 | P0731 | `Development.AbelianVarietyTheory.Definitions.SemilocalFrames.MatrixOfBesselTwoSidedAction` | build-observed |
@@ -401,4 +402,3 @@
 | M005484 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsQuadraticSqrtExtensionOfNotSquareStatement` | wave-reused |
 | M005486 | P0003 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsUnitFormSelfOfNotMem` | wave-reused |
 | M005487 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsometryMatrixRange` | volunteer-build-reviewed |
-| M005488 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectors` | volunteer-build-reviewed |

@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136753 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheaf` | wave-reused |
+| M136754 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBasic` | wave-reused |
+| M136755 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBlowupSequence` | wave-reused |
+| M136756 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafLcm` | wave-reused |
+| M136757 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafMultiplicativity` | wave-reused |
+| M136758 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafPullback` | wave-reused |
+| M136759 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRule` | wave-reused |
 | M136760 | P0856 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRuleCompatibility` | wave-reused |
 | M136761 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceChartPresentation` | wave-reused |
 | M136762 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineSpaceFieldBaseChange` | wave-reused |
@@ -221,6 +228,7 @@
 | M137038 | P2385 | `Development.WeilBound.CoreStatements.AutomorphicKernels.AbelianDeRham.AbelianWedgeProducts.PullbackWedgeCupSquare` | volunteer-build-reviewed |
 | M137039 | P0064 | `Development.WeilBound.CoreStatements.AutomorphicKernels.AbelianDeRham.AbelianWedgeProducts.ThetaMulti` | volunteer-build-reviewed |
 | M137040 | P2385 | `Development.WeilBound.CoreStatements.AutomorphicKernels.AbelianDeRham.ClosedPoints.IsClosedPoint` | volunteer-build-reviewed |
+| M137044 | P0372 | `Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.FiberLocalization.EqZeroOfFiberEquivariant` | volunteer-build-reviewed |
 | M137046 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.FrobeniusReciprocity.PullHomeoApply` | volunteer-build-reviewed |
 | M137047 | P0209 | `Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.FrobeniusReciprocity.SupportedInIffOfFrob` | volunteer-build-reviewed |
 | M137048 | P0372 | `Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.FrobeniusReciprocity.TensInduction` | build-observed |
@@ -394,11 +402,3 @@
 | M137510 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalOperatorBlocks.UnitDetOfUnitary` | volunteer-build-reviewed |
 | M137513 | P2091 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.EpsNegUnit` | volunteer-build-reviewed |
 | M137519 | P1706 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalUnitExistence.InclusionFromRowsIdentityZero` | volunteer-build-reviewed |
-| M137522 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.Assemble` | volunteer-build-reviewed |
-| M137526 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.GoodAwayEx` | volunteer-build-reviewed |
-| M137531 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocNbar` | volunteer-build-reviewed |
-| M137532 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocOpExOfTAll` | volunteer-build-reviewed |
-| M137534 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocalOperatorLongWeylIntegral` | volunteer-build-reviewed |
-| M137538 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.OppositeUnipotentWeylConj` | volunteer-build-reviewed |
-| M137547 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepW` | volunteer-build-reviewed |
-| M137548 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepWN` | volunteer-build-reviewed |

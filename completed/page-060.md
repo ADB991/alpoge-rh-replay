@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M040576 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthEqKerAddRange` | volunteer-build-reviewed |
 | M040578 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthGeFinrankOfSemilinearSurjectiveStatement` | volunteer-build-reviewed |
 | M040579 | P0017 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwap` | volunteer-build-reviewed |
 | M040580 | P0110 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LengthKerCokerLsmulQuotientSpanSwapStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M041385 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeAdditive` | volunteer-build-reviewed |
 | M041386 | P1886 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeAdditiveStatement` | volunteer-build-reviewed |
 | M041387 | P1862 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeBlockConjugate` | volunteer-build-reviewed |
-| M041388 | P1767 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.LineDerivativeCommTranslate` | volunteer-build-reviewed |

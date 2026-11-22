@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M008947 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTupleAdelicDataStandardBasePointsStatement` | volunteer-build-reviewed |
 | M008950 | P1587 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBounds` | volunteer-build-reviewed |
 | M008951 | P1617 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistIndexRepresentativeOfBoundsStatement` | volunteer-build-reviewed |
 | M008952 | P2144 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ExistsTwistRationalLevelElementsSameCharacters` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M009474 | P1835 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacua` | volunteer-build-reviewed |
 | M009475 | P1857 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationDisjointPlacesCommuteVacuaStatement` | volunteer-build-reviewed |
 | M009476 | P2051 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOne` | volunteer-build-reviewed |
-| M009477 | P2065 | `Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.HeisenbergCombinationEqOnVacuaOfEqOneStatement` | volunteer-build-reviewed |

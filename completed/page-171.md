@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115398 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerFurther` | volunteer-build-reviewed |
+| M115399 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerLast` | volunteer-build-reviewed |
+| M115400 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerMore` | volunteer-build-reviewed |
+| M115401 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerRest` | volunteer-build-reviewed |
+| M115402 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerSide` | volunteer-build-reviewed |
+| M115403 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTail` | volunteer-build-reviewed |
+| M115404 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsTerTer` | build-observed |
 | M115405 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InPApplyEqZero` | wave-reused |
 | M115407 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.InclR` | build-observed |
 | M115408 | P0052 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IndependenceCharacters` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M115824 | P0058 | `Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ZeroContDiffOnSupported` | volunteer-build-reviewed |
 | M115825 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Action` | wave-reused |
 | M115826 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Coefficients` | wave-reused |
-| M115827 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Comparison` | wave-reused |
-| M115828 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.CrisTheta` | wave-reused |
-| M115829 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRham` | wave-reused |
-| M115830 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamLog` | wave-reused |
-| M115831 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamMap` | wave-reused |
-| M115832 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Embedding` | wave-reused |
-| M115833 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Envelope` | wave-reused |

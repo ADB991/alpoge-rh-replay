@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    "M108914"
+  ],
+  "started_utc": "2026-11-22T11:06:10.755684+00:00",
+  "ended_utc": "2026-11-22T11:08:10.821476+00:00",
+  "elapsed_seconds": 120.0,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5535564
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.HomOfDer:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "1f76125c05bebb6f25c7655564286f0bf1ba21d913b2eb2afe14c3c3b4280b20",
+  "rebuilt_project_modules": [
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.CoSpan",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.DerHom",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.SymplecticGSp4.MapRepApply",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.CompactIntegralFields.RedTan",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.RedDim",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.RedDual",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.RedIdeal",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.RedTanDefs",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.RedTanFlow",
+    "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.SpaceMap",
+    "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.FGe"
+  ],
+  "objects": {
+    "M108914": "79130cb5f0f192a09040bac8da977a71945bd0bcbddf882e029bd831585d7d47"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "7069a1a5e56f0a6eae25026d5cdc4421c1542008567ec5d05962f91cdb3433b6",
+  "packet": "M108914",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31655#issuecomment-7078304428",
+  "reviewed_utc": "2026-11-22T11:44:40.120959+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

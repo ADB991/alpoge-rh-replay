@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M137522 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.Assemble` | volunteer-build-reviewed |
+| M137526 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.GoodAwayEx` | volunteer-build-reviewed |
+| M137531 | P2153 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocNbar` | volunteer-build-reviewed |
+| M137532 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocOpExOfTAll` | volunteer-build-reviewed |
+| M137534 | P2164 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.LocalOperatorLongWeylIntegral` | volunteer-build-reviewed |
+| M137538 | P1755 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.OppositeUnipotentWeylConj` | volunteer-build-reviewed |
+| M137547 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepW` | volunteer-build-reviewed |
+| M137548 | P2142 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalWeilOperators.StepWN` | volunteer-build-reviewed |
 | M137551 | P1637 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LowerRankDatum` | volunteer-build-reviewed |
 | M137553 | P2196 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.CountGood` | volunteer-build-reviewed |
 | M137556 | P0144 | `Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.MassOneCounts.SolCountOneOne` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M138558 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twomega` | build-observed |
 | M138562 | P0500 | `Development.WeilBound.CoreStatements.HodgeTatePoints.Twpdiv` | build-observed |
 | M138563 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivHopf` | build-observed |
-| M138564 | P0418 | `Development.WeilBound.CoreStatements.HodgeTatePoints.TwpdivTate` | build-observed |
-| M138565 | P0209 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ValAtRestrict` | volunteer-build-reviewed |
-| M138571 | P2661 | `Development.WeilBound.CoreStatements.HodgeTatePoints.ZarTop` | volunteer-build-reviewed |
-| M138572 | P0720 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.BtExistsBc` | build-observed |
-| M138573 | P0993 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.BtHopf` | build-observed |
-| M138576 | P0209 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CPluri` | volunteer-build-reviewed |
-| M138579 | P1186 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpBuild` | build-observed |
-| M138580 | P2444 | `Development.WeilBound.CoreStatements.HomogeneousNonvanishing.CmpHodgeTied` | volunteer-build-reviewed |

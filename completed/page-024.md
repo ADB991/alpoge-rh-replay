@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M015827 | P2736 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeights` | volunteer-build-reviewed |
 | M015828 | P2741 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithMixedInterInductiveOfMixedHeightsStatement` | volunteer-build-reviewed |
 | M015829 | P2803 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBound` | volunteer-build-reviewed |
 | M015830 | P2804 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ArithNefVolumeUpperBoundStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M016614 | P1475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundStatement` | volunteer-build-reviewed |
 | M016615 | P1534 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwo` | build-observed |
 | M016616 | P1562 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySectionPullbackBoundTwoStatement` | volunteer-build-reviewed |
-| M016617 | P2475 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.BoundarySettingHeightComparison` | volunteer-build-reviewed |

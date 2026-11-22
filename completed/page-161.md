@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M110457 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.CorrespondenceNormBoundOfAffineOpens` | build-observed |
+| M110459 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.CrystallineExpansionRelationOfScaledEndomorphism` | build-observed |
+| M110461 | P0491 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCoefficientEquivCohomologyOfElements` | build-observed |
+| M110462 | P0491 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCohomologyZeroEquivSectionsNatural` | build-observed |
+| M110463 | P0769 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsCrystallineLatticeExpansion` | build-observed |
+| M110464 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsFiniteSectionsDeterminingRingHomOfSmooth` | build-observed |
+| M110465 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsLiftThroughSharp` | build-observed |
 | M110466 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsMatchingOfSameNorm` | build-observed |
 | M110467 | P1133 | `Development.AutomorphicArithmetic.EtaleIdempotents.ExistsOrthogonalIdempotentsSubordinateOfEtaleSec` | build-observed |
 | M110469 | P0046 | `Development.AutomorphicArithmetic.EtaleIdempotents.GaloisEquivariantTensorDescentOfPrimePowerUnits` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M110986 | P1725 | `Development.AutomorphicArithmetic.Foundations.Convolution.OrbitNormCounting.PolFin` | volunteer-build-reviewed |
 | M110989 | P1826 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.AbsGrow` | volunteer-build-reviewed |
 | M110990 | P1848 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.AbsTaylor` | volunteer-build-reviewed |
-| M110991 | P0263 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.AevalSingleZero` | volunteer-build-reviewed |
-| M110993 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.ChebClosed` | volunteer-build-reviewed |
-| M110995 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.Degree` | volunteer-build-reviewed |
-| M110996 | P0202 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.ExistsFinMap` | volunteer-build-reviewed |
-| M110997 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenFund` | volunteer-build-reviewed |
-| M111000 | P0135 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenRed` | volunteer-build-reviewed |
-| M111001 | P0046 | `Development.AutomorphicArithmetic.Foundations.Convolution.PolynomialCoefficientBounds.GenTrunc` | volunteer-build-reviewed |

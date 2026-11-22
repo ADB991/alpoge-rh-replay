@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099323 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPull` | build-observed |
+| M099324 | P1132 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPw` | build-observed |
+| M099325 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.VeryAmpleByPwOfAffineLoci` | build-observed |
+| M099326 | P0768 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WchartCompLePull` | build-observed |
+| M099328 | P1073 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsion` | build-observed |
 | M099329 | P1103 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.WeilQkIsIffCommutatorPairingTorsionStatement` | build-observed |
 | M099334 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealProperties` | volunteer-build-reviewed |
 | M099335 | P0196 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AdelicCompletionFractionalIdealPropertiesStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M099962 | P0130 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.NsmulIntegralMemNhdsZero` | build-observed |
 | M099965 | P1044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjIsAbelianSchemeDimRigidifiedSym` | build-observed |
 | M099966 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ObjMapIdCompCancel` | wave-reused |
-| M099967 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.OneMemSecAndSecInfEqBot` | volunteer-build-reviewed |
-| M099972 | P2088 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRank` | volunteer-build-reviewed |
-| M099973 | P2102 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRankStatement` | volunteer-build-reviewed |
-| M099974 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorph` | volunteer-build-reviewed |
-| M099975 | P2061 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorphStatement` | volunteer-build-reviewed |

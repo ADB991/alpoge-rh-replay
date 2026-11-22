@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M086645 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfIntertwining` | volunteer-build-reviewed |
+| M086646 | P2568 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BijectiveOfSplit` | volunteer-build-reviewed |
+| M086647 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRange` | volunteer-build-reviewed |
+| M086648 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BilinFormInjectiveExistsNsmulMemRangeStatement` | volunteer-build-reviewed |
 | M086654 | P0849 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockComplementIsSubAtEnlargementStatement` | volunteer-build-reviewed |
 | M086661 | P0959 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BlockRowsMemIcc` | build-observed |
 | M086672 | P2696 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.BundleBothPartsOfStandardKernelAndSixHypotheses` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M087811 | P1986 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslate` | volunteer-build-reviewed |
 | M087812 | P2005 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalConditionInvariantRightLevelTranslateStatement` | volunteer-build-reviewed |
 | M087813 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresented` | volunteer-build-reviewed |
-| M087814 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.FunctionalFixedByIdempotentRepresentedStatement` | volunteer-build-reviewed |
-| M087815 | P0038 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizer` | volunteer-build-reviewed |
-| M087816 | P0127 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GLInvMulCongrOneModUniformizerStatement` | volunteer-build-reviewed |
-| M087817 | P1598 | `Development.AbelianVarietyTheory.Proofs.SatakeParameters.GalRepRankTwo` | volunteer-build-reviewed |

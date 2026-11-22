@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M165675 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PNoetherIntegralClosure` | wave-reused |
+| M165676 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContracted` | pilot-reused |
+| M165677 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFContractedDim` | pilot-reused |
+| M165678 | P0338 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPFDegree` | pilot-reused |
+| M165679 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPNProduct` | pilot-reused |
+| M165680 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPolyOfDiffs` | pilot-reused |
+| M165681 | P0228 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PPrimeFiltration` | pilot-reused |
+| M165682 | P0468 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRelevantPrimeDimGe` | pilot-reused |
+| M165683 | P0384 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameHilbFn` | pilot-reused |
 | M165684 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameIntNum` | pilot-reused |
 | M165685 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiHomog` | pilot-reused |
 | M165686 | P0285 | `GroundTheory.HeightsAndTheta.Heights.FieldsOfNumbers.PRenameMultiProjPrime` | pilot-reused |
@@ -393,12 +402,3 @@
 | M166130 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCoords` | build-observed |
 | M166131 | P0861 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcCycle` | build-observed |
 | M166132 | P0672 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcGeoFirst` | build-observed |
-| M166137 | P0752 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcResidueExists` | build-observed |
-| M166140 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedGraphHorizontal` | build-observed |
-| M166154 | P0544 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopLatticeChange` | build-observed |
-| M166156 | P0806 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopSimpleStacked` | build-observed |
-| M166161 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsConjInvariant` | volunteer-build-reviewed |
-| M166164 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsLineSmooth` | volunteer-build-reviewed |
-| M166165 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussConstant` | volunteer-build-reviewed |
-| M166166 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDetFactor` | volunteer-build-reviewed |
-| M166167 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDualMin` | volunteer-build-reviewed |

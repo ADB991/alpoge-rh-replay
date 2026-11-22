@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M114098 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealA` | volunteer-build-reviewed |
+| M114099 | P2173 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutRealB` | volunteer-build-reviewed |
+| M114100 | P2252 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSer` | volunteer-build-reviewed |
+| M114101 | P2241 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSerA` | volunteer-build-reviewed |
+| M114102 | P2217 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutSubst` | volunteer-build-reviewed |
+| M114103 | P2275 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpAutTrace` | volunteer-build-reviewed |
+| M114105 | P2241 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpDatum` | volunteer-build-reviewed |
 | M114106 | P2193 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpEta` | volunteer-build-reviewed |
 | M114107 | P2184 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpEtaA` | volunteer-build-reviewed |
 | M114108 | P2162 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.RedWpSwap` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M114517 | P2572 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.ThetaKernels.WpSTop` | volunteer-build-reviewed |
 | M114518 | P2643 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ThetaParseval.TwoUpOKOfSteps` | volunteer-build-reviewed |
 | M114520 | P2287 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.LimFinOddOf` | volunteer-build-reviewed |
-| M114521 | P2205 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TraceLimits.SlopeTestRemainingChoices` | volunteer-build-reviewed |
-| M114522 | P1133 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.AllHolds` | build-observed |
-| M114524 | P0594 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.FLOf` | wave-reused |
-| M114525 | P0491 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.ImgcSpec` | wave-reused |
-| M114526 | P0317 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsWtZero` | wave-reused |
-| M114527 | P0453 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpec` | wave-reused |
-| M114528 | P1104 | `Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpecHolds` | wave-reused |

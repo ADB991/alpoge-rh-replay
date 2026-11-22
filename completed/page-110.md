@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M075317 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeightedOrbitSumCongrCoefficientRingStatement` | build-observed |
+| M075318 | P0406 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplitting` | build-observed |
+| M075319 | P0447 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConditionProductSplittingStatement` | build-observed |
 | M075321 | P0485 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilConstantStandardHermitianEqOneStatement` | volunteer-build-reviewed |
 | M075322 | P2022 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevels` | volunteer-build-reviewed |
 | M075323 | P2040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDatumCharactersUnramifiedOffLevelsStatement` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M076232 | P1514 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointGeometricFibresFinite` | volunteer-build-reviewed |
 | M076233 | P2282 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosedPointMemAbLocus` | build-observed |
 | M076235 | P0124 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClosureAdjoinUnitBallCoeffBoundStatement` | volunteer-build-reviewed |
-| M076238 | P1405 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ClsAt` | volunteer-build-reviewed |
-| M076239 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmDataIsCMExtAndGramIsHermND` | build-observed |
-| M076240 | P1256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CmExtensionLocalFieldProductRingExistsSmulEq` | volunteer-build-reviewed |

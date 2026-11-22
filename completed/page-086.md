@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M059030 | P1197 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBigCellHaarDensityConstantStatement` | build-observed |
 | M059032 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralBoundByDyadicSummationStatement` | volunteer-build-reviewed |
 | M059033 | P0870 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBessel` | build-observed |
 | M059034 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.LintegralCompactLeQuotientMeasureBesselStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M059697 | P0897 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSq` | build-observed |
 | M059698 | P0924 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLayerHeightQuotientsEqSqStatement` | build-observed |
 | M059700 | P2137 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalQuotientMassEqMeasureRatio` | volunteer-build-reviewed |
-| M059702 | P1090 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ProdLocalRelIndexDvdHermitianDual` | build-observed |

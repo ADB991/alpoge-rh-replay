@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M164632 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicDerivNeZero` | volunteer-build-reviewed |
+| M164633 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicInverse` | volunteer-build-reviewed |
+| M164634 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicJacobianNeZero` | volunteer-build-reviewed |
+| M164635 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicOpen` | volunteer-build-reviewed |
+| M164636 | P0082 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInvarianceOfDomain` | volunteer-build-reviewed |
+| M164637 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleFiniteGermProjectionOpenAt` | volunteer-build-reviewed |
+| M164638 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermComplementConnected` | volunteer-build-reviewed |
+| M164639 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermCurve` | volunteer-build-reviewed |
+| M164640 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermMeetOverHypersurface` | volunteer-build-reviewed |
 | M164641 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPointsOffDiscriminant` | volunteer-build-reviewed |
 | M164642 | P0227 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermPrimitiveForm` | volunteer-build-reviewed |
 | M164643 | P0162 | `GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StIrreducibleGermProjectionImageNear` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M165137 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimBound` | wave-reused |
 | M165138 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericDimGe` | wave-reused |
 | M165139 | P0284 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericFibProps` | wave-reused |
-| M165140 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericPieceRank` | wave-reused |
-| M165141 | P0542 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDim` | build-observed |
-| M165142 | P0509 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGenericProjClosureDivisor` | wave-reused |
-| M165144 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGradedPieceFree` | wave-reused |
-| M165145 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PGradedPieceQuot` | wave-reused |
-| M165146 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbDegBound` | wave-reused |
-| M165147 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnCut` | wave-reused |
-| M165148 | P0228 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHilbFnVanishBlock` | wave-reused |
-| M165149 | P0607 | `GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.PHomLocRingDimLe` | build-observed |

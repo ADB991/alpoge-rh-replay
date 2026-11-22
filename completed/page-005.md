@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M002794 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.LocalConditionsOfGlobal` | volunteer-build-reviewed |
 | M002795 | P0173 | `Development.AbelianVarietyTheory.Counterexamples.AdelicSplittingExamples.TwoPrimesOfSplitPl` | volunteer-build-reviewed |
 | M002798 | P0095 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.ExistsStrictAnti` | volunteer-build-reviewed |
 | M002800 | P0758 | `Development.AbelianVarietyTheory.Counterexamples.DegenerateExamples.NotAdmissibleWithAmbientTop` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M003602 | P1444 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs` | build-observed |
 | M003603 | P1419 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasBoundedPolesGlobalData` | wave-reused |
 | M003604 | P2320 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDefect` | volunteer-build-reviewed |
-| M003605 | P2554 | `Development.AbelianVarietyTheory.Definitions.Divisors.HasDivPlace` | volunteer-build-reviewed |

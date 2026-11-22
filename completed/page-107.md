@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073208 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvaria` | build-observed |
+| M073209 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiMemInvertedPrimeLatticeOfMemEisensteinInvariaStatement` | build-observed |
 | M073210 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTilt` | build-observed |
 | M073211 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiModuleHomShortExactSplitWittTiltStatement` | build-observed |
 | M073213 | P0765 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.PhiSubSubMemXiOfMonodromyEq` | build-observed |
@@ -400,5 +402,3 @@
 | M073875 | P0900 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearCoefficientMapCocycles` | build-observed |
 | M073878 | P0360 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearMatrixComm` | volunteer-build-reviewed |
 | M073879 | P1040 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleCompose` | wave-reused |
-| M073880 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleComposeStatement` | wave-reused |
-| M073881 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfInjective` | build-observed |

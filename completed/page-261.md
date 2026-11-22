@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168856 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermB` | volunteer-build-reviewed |
+| M168858 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermD` | volunteer-build-reviewed |
+| M168860 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTotOfPower` | volunteer-build-reviewed |
+| M168861 | P0578 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SampleConclusion` | worker-kernel-checked |
+| M168862 | P0165 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SecondVolumeConstantNonneg` | volunteer-build-reviewed |
+| M168863 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SingleDecompIsHomDecomp` | volunteer-build-reviewed |
+| M168864 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.Statements` | volunteer-build-reviewed |
+| M168865 | P0287 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsEnd` | volunteer-build-reviewed |
+| M168866 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsHomDecomp` | volunteer-build-reviewed |
 | M168867 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsShTotSmall` | volunteer-build-reviewed |
 | M168869 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TauSumRearrangement` | volunteer-build-reviewed |
 | M168870 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.TendstoSumPrimesInRestP` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M169571 | P0341 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowFormHomog` | wave-reused |
 | M169572 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormForm` | wave-reused |
 | M169573 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowNormFormGeneric` | wave-reused |
-| M169574 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDegree` | wave-reused |
-| M169575 | P0388 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PChowSecDvd` | wave-reused |
-| M169576 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PCodimOnePrimeAvoid` | wave-reused |
-| M169577 | P0431 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PDerivSpanTrdeg` | wave-reused |
-| M169578 | P0166 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreClosedComponent` | wave-reused |
-| M169579 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreCompDim` | wave-reused |
-| M169580 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFibreCut` | wave-reused |
-| M169581 | P0288 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFiniteOrd` | wave-reused |
-| M169582 | P0471 | `GroundTheory.HeightsAndTheta.Heights.VerticalDivisors.PFreeParAlgIndep` | wave-reused |

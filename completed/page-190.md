@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126002 | P1780 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MulticonePointDescendsToSubvarietyStatement` | volunteer-build-reviewed |
+| M126003 | P0369 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactors` | build-observed |
+| M126004 | P0413 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultipliableLocalFactorsStatement` | build-observed |
+| M126005 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnCone` | volunteer-build-reviewed |
+| M126006 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativeCharacterOnConeStatement` | volunteer-build-reviewed |
+| M126007 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlaces` | volunteer-build-reviewed |
+| M126008 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityFinitePlacesStatement` | volunteer-build-reviewed |
 | M126009 | P0140 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicativityInfinitePlaces` | volunteer-build-reviewed |
 | M126011 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramified` | volunteer-build-reviewed |
 | M126012 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MultiplicityBoundUnramifiedStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M126616 | P0206 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PqLift` | volunteer-build-reviewed |
 | M126617 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PreimageMono` | volunteer-build-reviewed |
 | M126622 | P0743 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReduction` | wave-reused |
-| M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
-| M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
-| M126625 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegralBoundOfParts` | volunteer-build-reviewed |
-| M126626 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseBound` | volunteer-build-reviewed |
-| M126627 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseComplex` | volunteer-build-reviewed |
-| M126628 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditive` | volunteer-build-reviewed |
-| M126629 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditiveStatement` | volunteer-build-reviewed |

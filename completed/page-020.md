@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M012775 | P0006 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.DivMemOfForallPowSuccDivPowMem` | volunteer-build-reviewed |
 | M012776 | P1029 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EEContainsStableWeightZero` | build-observed |
 | M012783 | P0679 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfValHomEq` | wave-reused |
 | M012784 | P0649 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.EqOfWeightEq` | wave-reused |
@@ -401,4 +402,3 @@
 | M013441 | P1030 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPow` | volunteer-build-reviewed |
 | M013442 | P1058 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExpansionCoefMemAdicPowStatement` | volunteer-build-reviewed |
 | M013445 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFDivFFMemOOfValuationRing` | volunteer-build-reviewed |
-| M013446 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFTTNeZero` | volunteer-build-reviewed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M099967 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.OneMemSecAndSecInfEqBot` | volunteer-build-reviewed |
+| M099972 | P2088 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRank` | volunteer-build-reviewed |
+| M099973 | P2102 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodFormAdditiveBalancedPosDefBoundedRankStatement` | volunteer-build-reviewed |
+| M099974 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorph` | volunteer-build-reviewed |
+| M099975 | P2061 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PeriodSpacesFixedByCmCurveTorsionFixingAutomorphStatement` | volunteer-build-reviewed |
 | M099976 | P2027 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsion` | volunteer-build-reviewed |
 | M099977 | P2044 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PermutesPeriodSpacesIdOfFixesCmCurveTorsionStatement` | volunteer-build-reviewed |
 | M099978 | P1846 | `Development.AbelianVarietyTheory.Proofs.UnitaryExistence.PointsDetectFrobeniusSections` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M100592 | P0559 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationCoeEqNorm` | wave-reused |
 | M100593 | P1233 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ValuationIntegersPadicComplete` | volunteer-build-reviewed |
 | M100594 | P0686 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeaf` | wave-reused |
-| M100595 | P0713 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeafStatement` | wave-reused |
-| M100596 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOne` | build-observed |
-| M100597 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOneStatement` | build-observed |
-| M100598 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightSubstNonneg` | wave-reused |
-| M100599 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAdd` | wave-reused |

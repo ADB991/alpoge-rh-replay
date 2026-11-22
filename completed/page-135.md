@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M095422 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLattices` | volunteer-build-reviewed |
+| M095423 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesFiniteAdelicLatticesStatement` | volunteer-build-reviewed |
+| M095424 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilators` | volunteer-build-reviewed |
+| M095425 | P2287 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobiToBesselPiecesMutualAnnihilatorsStatement` | volunteer-build-reviewed |
 | M095426 | P0823 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacobianActionUpperRightBlockExpCoords` | build-observed |
 | M095428 | P1409 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjective` | volunteer-build-reviewed |
 | M095429 | P1434 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.JacquetModuleMapInjectiveOfInjectiveStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M095887 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianTransformStatement` | volunteer-build-reviewed |
 | M095888 | P2587 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSum` | volunteer-build-reviewed |
 | M095889 | P2603 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGlobalSumStatement` | volunteer-build-reviewed |
-| M095890 | P2216 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwining` | volunteer-build-reviewed |
-| M095891 | P2229 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwiningStatement` | volunteer-build-reviewed |
-| M095892 | P2182 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelEq` | volunteer-build-reviewed |
-| M095893 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsKernelEqStatement` | volunteer-build-reviewed |

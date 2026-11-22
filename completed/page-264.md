@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M170891 | P1687 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdFormOf` | build-observed |
+| M170897 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.AdelicGaussians.UpperRightUnipotentInvariance` | build-observed |
+| M170901 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.CoefZero` | volunteer-build-reviewed |
+| M170902 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.FinsumOfIntegral` | volunteer-build-reviewed |
+| M170903 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.FrobeniusEigenvaluesTraceZeroAdjoint` | volunteer-build-reviewed |
+| M170905 | P2688 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.CyclicCharacterEigen.ToIdeleSq` | volunteer-build-reviewed |
+| M170911 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.EulerProducts.GenStable` | build-observed |
+| M170913 | P1759 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.GTorus` | build-observed |
+| M170914 | P1735 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.GaugeTopology.SSmoothW` | build-observed |
 | M170916 | P1711 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.ComplexMatrix3` | build-observed |
 | M170925 | P1786 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.AdmInv` | build-observed |
 | M170926 | P1855 | `PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.BaseChangeAssembly` | build-observed |
@@ -393,12 +402,3 @@
 | M171418 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCEqZeroOfEventuallyEqZero` | wave-reused |
 | M171419 | P0289 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HessCIsHermitian` | wave-reused |
 | M171420 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.HomogeneousLiftHolomorphicOnSnd` | volunteer-build-reviewed |
-| M171421 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport` | wave-reused |
-| M171422 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegralIoiFsDensRadial` | wave-reused |
-| M171423 | P0645 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsCompatChartChart` | wave-reused |
-| M171424 | P0703 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsCompatChartRestrOpen` | wave-reused |
-| M171425 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun` | pilot-reused |
-| M171426 | P0232 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement` | wave-reused |
-| M171427 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens` | wave-reused |
-| M171428 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LogInt` | wave-reused |
-| M171429 | P0676 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MIntSumCont` | wave-reused |

@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M093406 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempoteStatement` | volunteer-build-reviewed |
+| M093407 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralUnitDeterminantAtIdempotentResidue` | volunteer-build-reviewed |
+| M093409 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInterpolation` | volunteer-build-reviewed |
+| M093411 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissible` | volunteer-build-reviewed |
 | M093412 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissibleStatement` | volunteer-build-reviewed |
 | M093413 | P0311 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInvariantForm` | volunteer-build-reviewed |
 | M093414 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIrreducibleAdmissibleLocalComponentFiniteA` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M093943 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponents` | volunteer-build-reviewed |
 | M093944 | P1676 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAdelicUnitaryPointExtLocalComponentsStatement` | volunteer-build-reviewed |
 | M093949 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLe` | volunteer-build-reviewed |
-| M093950 | P0129 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteAndNcardMinpolyCoeffHeightLeStatement` | volunteer-build-reviewed |
-| M093952 | P1867 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteClassesRationalIsometriesBoundedDenominatoStatement` | volunteer-build-reviewed |
-| M093953 | P2073 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottom` | volunteer-build-reviewed |
-| M093954 | P2087 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.FiniteDatumIsAlgebraicCombinationDefiniteBottomStatement` | volunteer-build-reviewed |

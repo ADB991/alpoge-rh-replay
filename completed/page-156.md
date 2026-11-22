@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107485 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartGraded` | volunteer-build-reviewed |
+| M107486 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartSpan` | volunteer-build-reviewed |
+| M107487 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CocycleTransportH1fSurjective` | volunteer-build-reviewed |
+| M107488 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CommutingUpperTriangularDistinct` | volunteer-build-reviewed |
+| M107489 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CompKer` | volunteer-build-reviewed |
 | M107490 | P1314 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ConjugateRestrictionOpenNormal` | volunteer-build-reviewed |
 | M107491 | P2570 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousRankOneRep` | volunteer-build-reviewed |
 | M107492 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ContinuousUnitsInvOfContinuousCoeFiniteQpAlgebra` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M108353 | P0045 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TensorHomCubes.StabDirectedSystem` | volunteer-build-reviewed |
 | M108354 | P2618 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.AutP` | volunteer-build-reviewed |
 | M108355 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CharpolyCompNegRoots` | volunteer-build-reviewed |
-| M108356 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CharpolyPow` | volunteer-build-reviewed |
-| M108357 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.CocField` | volunteer-build-reviewed |
-| M108358 | P1605 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.ContinuousCocyclesFgIntegralOfPhiCond` | volunteer-build-reviewed |
-| M108359 | P2606 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.DetGCentral` | volunteer-build-reviewed |
-| M108360 | P2589 | `Development.AutomorphicArithmetic.AutomorphicVarieties.TheoremsMuLinked.CharacteristicPolynomials.EpsDec` | volunteer-build-reviewed |

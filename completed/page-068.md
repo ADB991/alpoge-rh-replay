@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M046242 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefExistsConjTransposeMulMulEqOne` | volunteer-build-reviewed |
 | M046243 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefExistsConjTransposeMulMulEqOneStatement` | volunteer-build-reviewed |
 | M046246 | P0112 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosDefRealGramPairHermitianFormsStatement` | volunteer-build-reviewed |
 | M046248 | P1981 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PosHomApply` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M046910 | P1329 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiHalfSymplecticOrthonormalFrameStatement` | build-observed |
 | M046912 | P1005 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiNormIff` | volunteer-build-reviewed |
 | M046918 | P2744 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetric` | volunteer-build-reviewed |
-| M046919 | P2749 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.PsiSqGenericPointEqMonomialMulSymmetricStatement` | volunteer-build-reviewed |

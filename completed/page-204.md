@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M135688 | P0746 | `Development.EtaleCohomology.EtaleSheaves.LeafPreTensLocInjPf` | wave-reused |
+| M135689 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafPrimCoverPf` | wave-reused |
+| M135697 | P0662 | `Development.EtaleCohomology.EtaleSheaves.LeafReducedSmooth` | volunteer-build-reviewed |
+| M135700 | P0567 | `Development.EtaleCohomology.EtaleSheaves.LeafRepCut` | build-observed |
+| M135701 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRepVanishPf` | wave-reused |
+| M135704 | P0533 | `Development.EtaleCohomology.EtaleSheaves.LeafRingUnitPf` | wave-reused |
+| M135708 | P0599 | `Development.EtaleCohomology.EtaleSheaves.LeafRootLocPf` | wave-reused |
 | M135709 | P0719 | `Development.EtaleCohomology.EtaleSheaves.LeafSHNbSys` | volunteer-build-reviewed |
 | M135712 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHPtPf` | volunteer-build-reviewed |
 | M135714 | P0692 | `Development.EtaleCohomology.EtaleSheaves.LeafSHSysPf` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M136323 | P0499 | `Development.EtaleCohomology.TateTwists.GenConnPf` | wave-reused |
 | M136324 | P0663 | `Development.EtaleCohomology.TateTwists.HoldsOf` | wave-reused |
 | M136327 | P0458 | `Development.EtaleCohomology.TateTwists.IsTensorFlip` | wave-reused |
-| M136328 | P0499 | `Development.EtaleCohomology.TateTwists.KumAddPf` | wave-reused |
-| M136329 | P0499 | `Development.EtaleCohomology.TateTwists.KumExistsPf` | wave-reused |
-| M136330 | P0534 | `Development.EtaleCohomology.TateTwists.KumMulCocPf` | wave-reused |
-| M136331 | P0499 | `Development.EtaleCohomology.TateTwists.KumNatPf` | wave-reused |
-| M136332 | P0534 | `Development.EtaleCohomology.TateTwists.KumPowCocPf` | wave-reused |
-| M136333 | P0534 | `Development.EtaleCohomology.TateTwists.KumUniqPf` | wave-reused |
-| M136334 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAcycPf` | wave-reused |

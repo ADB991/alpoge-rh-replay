@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M021122 | P0009 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBounds` | volunteer-build-reviewed |
 | M021123 | P0102 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetNearOneMatrixNormBoundsStatement` | volunteer-build-reviewed |
 | M021124 | P1859 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDet` | build-observed |
 | M021125 | P1883 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DetOmegaEqConstMulDetStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M021750 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingLFunctionSpecialValueStatement` | volunteer-build-reviewed |
 | M021753 | P1978 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingMapGenericDegree` | volunteer-build-reviewed |
 | M021754 | P1997 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingMapGenericDegreeStatement` | volunteer-build-reviewed |
-| M021757 | P2211 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.DoublingPairGlobalIntegral` | volunteer-build-reviewed |

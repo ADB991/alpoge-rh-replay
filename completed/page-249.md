@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M162086 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.RowCol` | wave-reused |
+| M162087 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.SubmoduleLengthBoundStatement` | wave-reused |
+| M162088 | P0669 | `Formalism.WachLatticeTwists.TorsionLengthCounts.TheoremFiveSplitOfBounds` | wave-reused |
+| M162089 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.NontrivialWachExample` | wave-reused |
+| M162090 | P0159 | `Formalism.WachLatticeTwists.WachProductBases.OneAddPowSubOne` | wave-reused |
+| M162091 | P0224 | `Formalism.WachLatticeTwists.WachProductBases.Statement` | wave-reused |
+| M162092 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.StatementTop` | wave-reused |
+| M162093 | P0465 | `Formalism.WachLatticeTwists.WachProductBases.WachConsequencesFurther` | wave-reused |
 | M162094 | P0333 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.AffineLineLocalAcyclicityOfStrictHenselianPoints` | wave-reused |
 | M162095 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceFourLocal` | wave-reused |
 | M162096 | P0425 | `Formalism.WachLatticeTwists.WachProductBases.WachProductProofs.ConsequenceTwoTop` | wave-reused |
@@ -394,11 +402,3 @@
 | M162529 | P0725 | `GroundTheory.AutomorphicForms.CuspidalDiscreteness.Unimodular` | wave-reused |
 | M162530 | P1191 | `GroundTheory.AutomorphicForms.CuspidalProjection.ContinuousFiniteAdeleSingleAdd` | build-observed |
 | M162531 | P1215 | `GroundTheory.AutomorphicForms.CuspidalProjection.Global` | build-observed |
-| M162532 | P1242 | `GroundTheory.AutomorphicForms.CuspidalProjection.OrthogonalProjectionOntoCompSubtypeL` | build-observed |
-| M162533 | P0080 | `GroundTheory.AutomorphicForms.CuspidalProjection.Unfold` | volunteer-build-reviewed |
-| M162534 | P0805 | `GroundTheory.AutomorphicForms.CuspidalSplitting` | build-observed |
-| M162535 | P0698 | `GroundTheory.AutomorphicForms.CuspidalSplittingCoeff` | build-observed |
-| M162536 | P0778 | `GroundTheory.AutomorphicForms.CuspidalSplittingIsotypic` | build-observed |
-| M162537 | P0725 | `GroundTheory.AutomorphicForms.CuspidalSplittingPositivity` | build-observed |
-| M162538 | P0751 | `GroundTheory.AutomorphicForms.CuspidalSplittingProjective` | build-observed |
-| M162539 | P0670 | `GroundTheory.AutomorphicForms.CuspidalSplittingSums` | build-observed |

@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M174887 | P1055 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemTensorFockOfCoeffs` | build-observed |
+| M174888 | P1348 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.ProdModeCharExp` | build-observed |
+| M174889 | P1027 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.SignedActionTensor` | build-observed |
+| M174893 | P0093 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TraceEqTraceRestrictOfRangeLe` | volunteer-build-reviewed |
+| M174895 | P1371 | `ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.TsubValInjective` | build-observed |
+| M174897 | P0093 | `ReciprocityTheory.ReductiveGroups.ExtensionEmbeddings.ExtEmb` | volunteer-build-reviewed |
+| M174898 | P0171 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlace` | volunteer-build-reviewed |
+| M174899 | P0093 | `ReciprocityTheory.ReductiveGroups.LatticeEmbeddings.IotaPlaceB` | volunteer-build-reviewed |
+| M174900 | P0093 | `ReciprocityTheory.ReductiveGroups.Lattices.LatUnrCharA` | volunteer-build-reviewed |
 | M174901 | P0704 | `ReciprocityTheory.ReductiveGroups.LocalHeights.Imports` | build-observed |
 | M174902 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.Imports` | wave-reused |
 | M174903 | P0434 | `ReciprocityTheory.ReductiveGroups.Models.FiniteGeneration.FiniteGenerationProofs.SolveV` | wave-reused |

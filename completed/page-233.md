@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M154694 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitCountSecondStage` | build-observed |
+| M154695 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.OrbitFiniteOf` | build-observed |
+| M154700 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ProdAbsNormDifferentIdealPowers` | build-observed |
+| M154701 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResCharLeAbsNorm` | build-observed |
+| M154702 | P1022 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResidueFieldCard` | build-observed |
+| M154703 | P1214 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.ResidueFieldCount` | build-observed |
+| M154716 | P1165 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.Stage1OfUnipotentIntegralIsGroup` | build-observed |
+| M154718 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.TransMemUnipotentIntegral` | build-observed |
 | M154721 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.UnipotentIntegralPreservesLattice` | build-observed |
 | M154722 | P1687 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.VFEqEmultiplicity` | build-observed |
 | M154723 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CountingFormula.WeightPositive` | build-observed |
@@ -394,11 +402,3 @@
 | M155161 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.IntegralSubst` | build-observed |
 | M155162 | P0330 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramSubstitutionIntegral.PhGramOf` | build-observed |
 | M155163 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GramUnitMultiplication.BeMulByZero` | build-observed |
-| M155164 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.GaloisClause` | build-observed |
-| M155165 | P0217 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.IrreducibleCharpolyInv` | build-observed |
-| M155166 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelCharpoly.RootPowCard` | volunteer-build-reviewed |
-| M155167 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.ExistsNeZeroTensor` | build-observed |
-| M155168 | P0153 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.Simple` | wave-reused |
-| M155169 | P0218 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GreenLabelSurjective.Transp` | build-observed |
-| M155171 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.Development` | volunteer-build-reviewed |
-| M155176 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarFibreUniqueness.SdExChar` | build-observed |

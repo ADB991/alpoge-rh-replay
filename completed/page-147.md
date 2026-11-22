@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M102568 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLimitOfSuccessiveDiffMemFiltration` | volunteer-build-reviewed |
+| M102569 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.ExistsLocallyConstantDOneEqCocycleOfTameInertia` | volunteer-build-reviewed |
+| M102570 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FiniteLiftDualNumberOfPhiCond` | volunteer-build-reviewed |
+| M102571 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FrameCount` | volunteer-build-reviewed |
+| M102572 | P0409 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedGrading` | build-observed |
 | M102573 | P0198 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedOrigin` | volunteer-build-reviewed |
 | M102574 | P0260 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTangent` | volunteer-build-reviewed |
 | M102575 | P0132 | `Development.AutomorphicArithmetic.AutomorphicVarieties.CommutativeAlgebra.FramedTwoCoboundaries` | wave-reused |
@@ -397,8 +402,3 @@
 | M103267 | P2569 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StTame` | volunteer-build-reviewed |
 | M103268 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrSMul` | wave-reused |
 | M103269 | P0365 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.StrYMap` | wave-reused |
-| M103270 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.Strict` | volunteer-build-reviewed |
-| M103271 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.SumLe` | wave-reused |
-| M103272 | P0657 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TameInertiaCondition` | wave-reused |
-| M103273 | P0410 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.TanFinite` | wave-reused |
-| M103275 | P0625 | `Development.AutomorphicArithmetic.AutomorphicVarieties.FrobeniusSmoothVectors.ThickOfDer` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M013446 | P0975 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FFTTNeZero` | volunteer-build-reviewed |
 | M013447 | P1247 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespond` | build-observed |
 | M013448 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamiliesValuesCorrespondStatement` | volunteer-build-reviewed |
 | M013449 | P1274 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.FamilyFibreEqUniformisedPullbackGenericFibre` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M014107 | P1248 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TorusTorsionPointsCorrespondValues` | build-observed |
 | M014109 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraceEqSumFinrank` | build-observed |
 | M014110 | P1275 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtension` | build-observed |
-| M014111 | P1301 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtensionStatement` | build-observed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M061052 | P1120 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatible` | build-observed |
 | M061053 | P1149 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaComplexConjugationCompatibleStatement` | build-observed |
 | M061056 | P1034 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaLatticePointMemThetaLatticeOfAdelic` | volunteer-build-reviewed |
 | M061062 | P1174 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.CmThetaTaylorCoeffAlgebraicAndConjugate` | build-observed |
@@ -401,4 +402,3 @@
 | M061699 | P0683 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGammaZeroPartitionWeightStatement` | wave-reused |
 | M061704 | P0025 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePa` | volunteer-build-reviewed |
 | M061705 | P0117 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGeneratorValuationPrimeDvdPowSubOfFinitePaStatement` | volunteer-build-reviewed |
-| M061708 | P1121 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsGrpDataMapHaar` | build-observed |

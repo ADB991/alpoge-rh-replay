@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M156073 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MeasurePrjFPreimage` | build-observed |
+| M156074 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NLevelHolds` | build-observed |
+| M156075 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NRatBridgeHolds` | build-observed |
+| M156076 | P1190 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NVolAllOf` | build-observed |
+| M156077 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NfinOfRatN` | build-observed |
+| M156078 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ProdFirstProjectionSmul` | build-observed |
+| M156079 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SigROneTmul` | build-observed |
+| M156080 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SplitG` | build-observed |
 | M156081 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StabFiniteOf` | build-observed |
 | M156082 | P0996 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.StrongApproxN` | build-observed |
 | M156083 | P1296 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SumKfMulZREqZero` | build-observed |
@@ -394,11 +402,3 @@
 | M156508 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupBasics.TriShear` | build-observed |
 | M156509 | P0912 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.ContinuousGS` | build-observed |
 | M156510 | P0887 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.MatEqZeroOfSpan` | build-observed |
-| M156511 | P0940 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupHaar.RootHaarMain` | build-observed |
-| M156512 | P0832 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.BlkLt` | build-observed |
-| M156513 | P0859 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.ContinuousRootCoords` | build-observed |
-| M156514 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootSubgroupJacobian.SUpPowEqZero` | build-observed |
-| M156515 | P0777 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootsOfUnityModPrime.RootUnitModPMain` | build-observed |
-| M156516 | P0219 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.ChainRule` | build-observed |
-| M156517 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.DetDer` | build-observed |
-| M156518 | P0154 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowDerivationChainRule.Development` | build-observed |

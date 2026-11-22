@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M071744 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitting` | volunteer-build-reviewed |
+| M071746 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStableGauss` | volunteer-build-reviewed |
 | M071747 | P0984 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomComp` | wave-reused |
 | M071748 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomCompStatement` | wave-reused |
 | M071749 | P1097 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsStablePrismHomOfFiniteProductComponents` | wave-reused |
@@ -400,5 +402,3 @@
 | M072520 | P0254 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpoly` | volunteer-build-reviewed |
 | M072521 | P0308 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixCommuteOfCommuteSeparableCharpolyStatement` | volunteer-build-reviewed |
 | M072522 | P0928 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixComputesTwistedSelmerResidualTransfer` | build-observed |
-| M072527 | P0192 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumMulDualEqCardPowSqStatement` | volunteer-build-reviewed |
-| M072528 | P0032 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.MatrixGaussSumSingularAndInvertible` | volunteer-build-reviewed |

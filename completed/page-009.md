@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M005488 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectors` | volunteer-build-reviewed |
 | M005489 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsotropicBasisNonorthogonalTwoVectorsStatement` | volunteer-build-reviewed |
 | M005491 | P0096 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCoset` | volunteer-build-reviewed |
 | M005492 | P0174 | `Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsLeftInvariantPolySeparatingCosetStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M005992 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsAbelianByPrimePowerNotDvdCardFixedBy` | wave-reused |
 | M005993 | P0240 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsAbelianByPrimePowerNotDvdCardFixedByStatement` | wave-reused |
 | M005994 | P0097 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsCharacterEigenvectorOfCommutingRepresentat` | wave-reused |
-| M005995 | P0176 | `Development.AbelianVarietyTheory.Proofs.CharacterTheory.ExistsCharacterEigenvectorOfCommutingRepresentatStatement` | wave-reused |

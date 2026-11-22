@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M100595 | P0713 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightGaugeSubMainTermLeafStatement` | wave-reused |
+| M100596 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOne` | build-observed |
+| M100597 | P0312 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightNonnegExpOfWeightGeInvPrimeSubOneStatement` | build-observed |
+| M100598 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightSubstNonneg` | wave-reused |
+| M100599 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAdd` | wave-reused |
 | M100600 | P0259 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WeightedOrderGePrimePowOfSumPurePowersAddStatement` | wave-reused |
 | M100601 | P0197 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.WtAddSingle` | build-observed |
 | M100602 | P0363 | `Development.AbelianVarietyTheory.Proofs.UnramifiedDepth.ZetaSeriesCoeffMulLe` | wave-reused |
@@ -397,8 +402,3 @@
 | M101245 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralSectionLocalScalar` | build-observed |
 | M101246 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CentralizerCommutativeOfSeparableCharpoly` | build-observed |
 | M101249 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.CharpolySeparableUnitSmul` | build-observed |
-| M101251 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductOfQuotientPushforwardSupport` | build-observed |
-| M101252 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductSupportFinite` | build-observed |
-| M101256 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsHaarMeasureAdelicGL` | build-observed |
-| M101260 | P0042 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsNatCombinationIsUnitOfIsUnitCombination` | volunteer-build-reviewed |
-| M101262 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.GeneralLinearPiCentralizerCommOfCharpolySeparabl` | volunteer-build-reviewed |

@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M152775 | P0695 | `Formalism.LocalToGlobal.TorsionIntegrality.FrobeniusFibreCurves.StatementW` | build-observed |
+| M152776 | P0803 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionHypothesesOfLevelOne` | wave-reused |
+| M152777 | P0722 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.BiextensionPointsIntegral` | wave-reused |
+| M152779 | P1189 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.FinalOfNRDense` | build-observed |
+| M152782 | P0748 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.AtVariableArtinHasseEqOneLog` | wave-reused |
+| M152783 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionHypothesesOfConditions` | wave-reused |
+| M152784 | P0776 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionOfExpSpec` | wave-reused |
+| M152785 | P0748 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.BiextensionPointsOfExpSpec` | wave-reused |
 | M152789 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.EqZeroOfPowEqOne` | wave-reused |
 | M152791 | P0666 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.ExponentialSpecification` | wave-reused |
 | M152792 | P0749 | `Formalism.LocalToGlobal.TorsionIntegrality.GaussSumParity.KummerThetaLogarithms.FirstMomentIdempotentLaw` | wave-reused |
@@ -394,11 +402,3 @@
 | M153321 | P0215 | `Formalism.MoebiusJetDuality.Statement` | build-observed |
 | M153322 | P0328 | `Formalism.MoebiusJetDuality.StatementS` | build-observed |
 | M153323 | P0422 | `Formalism.MoebiusJetDuality.StatementU` | build-observed |
-| M153324 | P0376 | `Formalism.MoebiusJetDuality.StatementV` | build-observed |
-| M153325 | P0462 | `Formalism.MonomialMeanResidues.BetaLogMean` | build-observed |
-| M153326 | P0422 | `Formalism.MonomialMeanResidues.FilteredDegree` | build-observed |
-| M153327 | P0215 | `Formalism.MonomialMeanResidues.MonomialMean` | build-observed |
-| M153328 | P0722 | `Formalism.MonomialMeanResidues.MonomialMeanProofs.SpanEqTopAndRankOfLinearIndependent` | build-observed |
-| M153329 | P0749 | `Formalism.MonomialMeanResidues.MonomialMeanProofs.SubmoduleSlopeLowerOfFiltration` | build-observed |
-| M153330 | P0776 | `Formalism.MonomialMeanResidues.ZerosPerVariable` | build-observed |
-| M153331 | P0150 | `Formalism.NormUnitaryBounds.DetPolynomialWeights.CoefficientBoundHolds` | build-observed |

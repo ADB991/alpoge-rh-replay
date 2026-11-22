@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M142895 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.OpenSlices.OpenSlice` | volunteer-build-reviewed |
+| M142896 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVan` | volunteer-build-reviewed |
+| M142898 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.DistrC` | volunteer-build-reviewed |
+| M142899 | P1732 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.ExistsConjEqSemisimple` | volunteer-build-reviewed |
+| M142900 | P0067 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.ExistsQuotientHomeo` | volunteer-build-reviewed |
+| M142902 | P0270 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.IsUnimodOfEquiv` | volunteer-build-reviewed |
+| M142904 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.SemisimpleAdjoint.IsSemisimpleOfMem` | volunteer-build-reviewed |
+| M142905 | P1784 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.SliceVanishing.SliceVanOfFrob` | volunteer-build-reviewed |
 | M142910 | P1582 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocStep` | volunteer-build-reviewed |
 | M142911 | P1612 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocalContinuity.LocalDescentHolds` | volunteer-build-reviewed |
 | M142913 | P1661 | `Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.NilpotentOrbits.BaseOrbits.IntOfSm` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M143893 | P2661 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocDataVAlt` | volunteer-build-reviewed |
 | M143894 | P1732 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocMod` | volunteer-build-reviewed |
 | M143895 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.LocModSt` | volunteer-build-reviewed |
-| M143897 | P1661 | `Development.WeilBound.ThetaLifts.SphericalLattices.MemIntGLIff` | volunteer-build-reviewed |
-| M143908 | P2592 | `Development.WeilBound.ThetaLifts.SphericalLattices.TheoremKSphOf` | volunteer-build-reviewed |
-| M143911 | P1639 | `Development.WeilBound.ThetaLifts.SphericalLattices.UnitLiftSt` | volunteer-build-reviewed |
-| M143915 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.ExistsHaarOfIsCompact` | volunteer-build-reviewed |
-| M143916 | P0068 | `Development.WeilBound.ThetaLifts.TowerModels.ExistsRefl` | volunteer-build-reviewed |
-| M143919 | P0068 | `Development.WeilBound.ThetaLifts.TowerModels.LeviAlg` | volunteer-build-reviewed |
-| M143925 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneForm` | volunteer-build-reviewed |
-| M143926 | P1467 | `Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm` | volunteer-build-reviewed |

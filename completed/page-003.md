@@ -206,6 +206,7 @@
 | M001769 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IsPiecesPiece` | volunteer-build-reviewed |
 | M001772 | P0294 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IsometricLatticeCongruenceSubgroups` | build-observed |
 | M001773 | P0346 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IsometricLatticeCongruenceSubgroupsStatement` | volunteer-build-reviewed |
+| M001777 | P0347 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IwahoriStatementStatement` | volunteer-build-reviewed |
 | M001778 | P0172 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IwahoriUpperLowerFactorization` | volunteer-build-reviewed |
 | M001779 | P0238 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IwahoriUpperLowerFactorizationStatement` | build-observed |
 | M001780 | P0757 | `CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.IwasawaDecomposition` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M002131 | P1419 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericFiniteMaps` | volunteer-build-reviewed |
 | M002132 | P0810 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GenericMultiplicityOne` | build-observed |
 | M002133 | P0393 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GeometricComponentEmbedding` | volunteer-build-reviewed |
-| M002135 | P1193 | `Development.AbelianVarietyTheory.BlockTheory.DivisorBase.GoodIdempotentBadPlaces` | build-observed |

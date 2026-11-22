@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M153752 | P0571 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGGenRatio` | build-observed |
+| M153753 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMatBound` | build-observed |
+| M153754 | P0666 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GGMirBound` | build-observed |
+| M153755 | P0912 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTBranch` | build-observed |
+| M153757 | P0940 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GTLower` | build-observed |
+| M153759 | P0803 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GZeroLogBound` | build-observed |
+| M153760 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GelfConv` | volunteer-build-reviewed |
+| M153762 | P0422 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GenFrameSB` | build-observed |
 | M153763 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GeoProdPow` | volunteer-build-reviewed |
 | M153764 | P0215 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramIso` | build-observed |
 | M153765 | P0216 | `Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GramUnit` | build-observed |
@@ -394,11 +402,3 @@
 | M154197 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQEqOneOfMemNormalizer` | build-observed |
 | M154198 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.ModQOneOfClosure` | build-observed |
 | M154199 | P0749 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Partial` | build-observed |
-| M154200 | P0722 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.Reduce` | build-observed |
-| M154201 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitGL` | build-observed |
-| M154202 | P0636 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicIndexEquality.SplitIso` | build-observed |
-| M154203 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.AdeleLC` | wave-reused |
-| M154204 | P0329 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension` | wave-reused |
-| M154205 | P0074 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.CartierFrobeniusFormLocal` | build-observed |
-| M154206 | P0695 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionA` | build-observed |
-| M154207 | P0571 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ConstructionB` | build-observed |

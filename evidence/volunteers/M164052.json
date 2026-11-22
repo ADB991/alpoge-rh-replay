@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    "M164052"
+  ],
+  "started_utc": "2026-11-22T11:03:21.428498+00:00",
+  "ended_utc": "2026-11-22T11:04:26.928483+00:00",
+  "elapsed_seconds": 65.5,
+  "host": {
+    "cpu_count": 8,
+    "mem_total_kib": 8025700,
+    "peak_child_rss_kib": 5434640
+  },
+  "toolchain": "Lean (version 4.33.1, aarch64-unknown-linux-gnu, commit 819816b2e0a3bf405af45ae5c7af2491d8f5bee6, Release)",
+  "mathlib": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "inputs_manifest_sha256": "d2a5f82a86712b08ff1923e93eabd3dafe9bdd9a7758893384a0e418580aa719",
+  "command": [
+    "lake",
+    "build",
+    "+GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PCriticalFlatNotInjective:olean"
+  ],
+  "exit_code": 0,
+  "log_sha256": "33c26ff1046d2841f94c281b1a5cfa0aac086c466e3374f24323ad2b269f47a8",
+  "rebuilt_project_modules": [
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.AnalyticGerm",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.HolomorphicZerosNotIsolated",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PGermFiniteProjection",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PInjectiveHolomorphicInverse",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.PRegularLocusDense",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.RegularLocus",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StCriticalFlatNotInjective",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StGermFiniteProjection",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicInverse",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicJacobianNeZero",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StInjectiveHolomorphicOpen",
+    "GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StRegularLocusDense"
+  ],
+  "objects": {
+    "M164052": "3d6ec81e4f176ade0b25fc4702d236e6f15f05659eee0a2e0c9d00925c1845e6"
+  },
+  "project_root": "/work/vol/lean",
+  "bundle_sha256": "eef28ceec250deb1c026c350c995748fd09bc4e6b5d737d0cda1c59ce0bf17a5",
+  "packet": "M164052",
+  "contributor": "vivekshivarajkumar",
+  "claim": "https://github.com/rohanarun/alpoge-rh-replay/issues/31623#issuecomment-7078204934",
+  "reviewed_utc": "2026-11-22T11:44:40.173753+00:00",
+  "review": "Verified the grant, pinned source hashes, receipt pins and exact targets, and matching successful build transcript. No binary bundle was supplied for independent checksum review."
+}

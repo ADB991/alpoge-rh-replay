@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M136328 | P0499 | `Development.EtaleCohomology.TateTwists.KumAddPf` | wave-reused |
+| M136329 | P0499 | `Development.EtaleCohomology.TateTwists.KumExistsPf` | wave-reused |
+| M136330 | P0534 | `Development.EtaleCohomology.TateTwists.KumMulCocPf` | wave-reused |
+| M136331 | P0499 | `Development.EtaleCohomology.TateTwists.KumNatPf` | wave-reused |
+| M136332 | P0534 | `Development.EtaleCohomology.TateTwists.KumPowCocPf` | wave-reused |
+| M136333 | P0534 | `Development.EtaleCohomology.TateTwists.KumUniqPf` | wave-reused |
+| M136334 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAcycPf` | wave-reused |
 | M136335 | P0499 | `Development.EtaleCohomology.TateTwists.LeafAwPf` | wave-reused |
 | M136336 | P0499 | `Development.EtaleCohomology.TateTwists.LeafWaPf` | wave-reused |
 | M136337 | P0568 | `Development.EtaleCohomology.TateTwists.MapMapEq` | wave-reused |
@@ -395,10 +402,3 @@
 | M136750 | P0144 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdeal` | wave-reused |
 | M136751 | P0209 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealPowers` | volunteer-build-reviewed |
 | M136752 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedIdealSheaf` | wave-reused |
-| M136753 | P0535 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheaf` | wave-reused |
-| M136754 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBasic` | wave-reused |
-| M136755 | P0663 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafBlowupSequence` | wave-reused |
-| M136756 | P0600 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafLcm` | wave-reused |
-| M136757 | P0568 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafMultiplicativity` | wave-reused |
-| M136758 | P0632 | `Development.ResolutionOfSingularities.EmbeddedResolution.MaximalContactHypersurfaces.TunedSheafPullback` | wave-reused |
-| M136759 | P0268 | `Development.ResolutionOfSingularities.EmbeddedResolution.ResolutionDescent.AffineResolutionRule` | wave-reused |

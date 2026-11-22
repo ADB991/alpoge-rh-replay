@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M148790 | P1345 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PolynomialFunctionFrameTranslate` | build-observed |
+| M148791 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.PowSmulLatticeLeWeightLatticeTop` | build-observed |
+| M148792 | P1368 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeFormulaOfCharacterFinite` | build-observed |
+| M148793 | P1498 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeLineRamifiedFormula` | build-observed |
+| M148794 | P1293 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiagonalSlopes.SlopeRamifiedInducedPrimeField` | build-observed |
+| M148796 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondCommDistinctPlaces` | build-observed |
+| M148797 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesForms` | build-observed |
+| M148798 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.DiamondPreservesRationalFormZero` | build-observed |
 | M148799 | P1021 | `Formalism.LocalToGlobal.GlobalTheory.GL6.EqOneOfCoprimeTorsionTwoPrimes` | build-observed |
 | M148800 | P1049 | `Formalism.LocalToGlobal.GlobalTheory.GL6.ExistsIntegerSmulMemOfSpanTop` | build-observed |
 | M148801 | P1077 | `Formalism.LocalToGlobal.GlobalTheory.GL6.FrameTranslate` | build-observed |
@@ -394,11 +402,3 @@
 | M149295 | P0502 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsStrictHenselianAbsolutelyClosedLocalRing` | build-observed |
 | M149296 | P1239 | `Formalism.LocalToGlobal.IndefiniteReal.ExistsSumOfMemISup` | build-observed |
 | M149298 | P1345 | `Formalism.LocalToGlobal.IndefiniteReal.FWExist` | build-observed |
-| M149299 | P1318 | `Formalism.LocalToGlobal.IndefiniteReal.FWTie` | build-observed |
-| M149300 | P0967 | `Formalism.LocalToGlobal.IndefiniteReal.FaceOf3` | build-observed |
-| M149301 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.ActsLinOfSplitLin` | volunteer-build-reviewed |
-| M149316 | P0802 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.FactPrincipalDatum` | build-observed |
-| M149336 | P1368 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IdemSumOfNoConj` | volunteer-build-reviewed |
-| M149340 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.IntegrableOnOfPeriodic` | volunteer-build-reviewed |
-| M149364 | P1187 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.PlaceS` | build-observed |
-| M149379 | P1212 | `Formalism.LocalToGlobal.IndefiniteReal.FinitePlaces.StepVecThetaLem` | build-observed |

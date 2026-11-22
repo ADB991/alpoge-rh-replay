@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M167659 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsInvOpenInside` | wave-reused |
+| M167660 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsInvOpenInsideRat` | wave-reused |
+| M167661 | P0429 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsIsoGlueTwo` | volunteer-build-reviewed |
+| M167662 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsKrullAkizuki` | wave-reused |
+| M167663 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsLocSectionsInj` | volunteer-build-reviewed |
+| M167664 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsPullInjLoc` | volunteer-build-reviewed |
+| M167665 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsPullbackFaithful` | wave-reused |
+| M167666 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsRatDenominators` | volunteer-build-reviewed |
+| M167668 | P0339 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHom` | wave-reused |
 | M167669 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomInjLoc` | volunteer-build-reviewed |
 | M167670 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomLoc` | volunteer-build-reviewed |
 | M167671 | P0385 | `GroundTheory.HeightsAndTheta.Heights.IntegralModels.StatementsSpreadHomNbhd` | wave-reused |
@@ -393,12 +402,3 @@
 | M168302 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemChartSecOverOfMem` | wave-reused |
 | M168303 | P0644 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemClosureOfMemChartRing` | wave-reused |
 | M168304 | P0675 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MemMIdealOverIff` | wave-reused |
-| M168307 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulMemSecsTwistIdealSys` | volunteer-build-reviewed |
-| M168308 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulQuotEqSt` | wave-reused |
-| M168309 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefExtendIsoSt` | volunteer-build-reviewed |
-| M168310 | P0578 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefFibresSegreSt` | pilot-reused |
-| M168311 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefGenericDVRSt` | pilot-reused |
-| M168314 | P0165 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Objects` | pilot-reused |
-| M168315 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ObjectsAlt` | wave-reused |
-| M168317 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfModelNumEq` | build-observed |
-| M168319 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfPowRealises` | build-observed |

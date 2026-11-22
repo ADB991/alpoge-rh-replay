@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161675 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLiftLeOne` | wave-reused |
+| M161676 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormNatCastLeOfDvd` | build-observed |
+| M161677 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NotDvdChoosePowMul` | wave-reused |
+| M161678 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.OmegaOfTraceDuality` | build-observed |
+| M161679 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.PartialCoboundaryLinear` | wave-reused |
+| M161680 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ScalingSwapLemmas` | wave-reused |
+| M161681 | P0280 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremCIiiMulti` | build-observed |
+| M161682 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremSFromKOneOf` | wave-reused |
 | M161684 | P0379 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartA` | wave-reused |
 | M161685 | P0464 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartB` | wave-reused |
 | M161687 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.WModel` | build-observed |
@@ -394,11 +402,3 @@
 | M162083 | P0725 | `Formalism.WachLatticeTwists.TorsionKernelSplitting.WachTwistSplitTheoremStatedForm` | wave-reused |
 | M162084 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.CardFilterAddLeOfNone` | wave-reused |
 | M162085 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.LengthHomCoker` | wave-reused |
-| M162086 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.RowCol` | wave-reused |
-| M162087 | P0224 | `Formalism.WachLatticeTwists.TorsionLengthCounts.SubmoduleLengthBoundStatement` | wave-reused |
-| M162088 | P0669 | `Formalism.WachLatticeTwists.TorsionLengthCounts.TheoremFiveSplitOfBounds` | wave-reused |
-| M162089 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.NontrivialWachExample` | wave-reused |
-| M162090 | P0159 | `Formalism.WachLatticeTwists.WachProductBases.OneAddPowSubOne` | wave-reused |
-| M162091 | P0224 | `Formalism.WachLatticeTwists.WachProductBases.Statement` | wave-reused |
-| M162092 | P0281 | `Formalism.WachLatticeTwists.WachProductBases.StatementTop` | wave-reused |
-| M162093 | P0465 | `Formalism.WachLatticeTwists.WachProductBases.WachConsequencesFurther` | wave-reused |

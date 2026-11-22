@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M091357 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharacters` | build-observed |
+| M091358 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharactersStatement` | build-observed |
+| M091359 | P0623 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusProjPeriodZeroEqReal` | build-observed |
+| M091360 | P0524 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqFinrankMulSum` | build-observed |
 | M091361 | P0685 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqSumRingHom` | build-observed |
 | M091362 | P0932 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceFormTwistIsoOfPullback` | wave-reused |
 | M091364 | P1205 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TripleIsoRespectsLevelRatioPoints` | build-observed |
@@ -398,7 +402,3 @@
 | M092077 | P2191 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuous` | volunteer-build-reviewed |
 | M092078 | P2203 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodHandedFunctionConvergesContinuousStatement` | volunteer-build-reviewed |
 | M092079 | P2617 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthData` | volunteer-build-reviewed |
-| M092080 | P2628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthDataStatement` | volunteer-build-reviewed |
-| M092081 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselSecondBasePointCharacterTrivialDepthLattic` | volunteer-build-reviewed |
-| M092083 | P2042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepBasePointScaledCoordinates` | volunteer-build-reviewed |
-| M092087 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuum` | volunteer-build-reviewed |

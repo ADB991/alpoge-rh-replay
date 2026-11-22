@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M118656 | P1826 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointInputAwayFromTypePrimesStatement` | volunteer-build-reviewed |
+| M118657 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointRead` | volunteer-build-reviewed |
+| M118658 | P2758 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointStageEigenspaceSpan` | volunteer-build-reviewed |
+| M118659 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointsOfTiedLattices` | volunteer-build-reviewed |
+| M118660 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointsPreservedUnderLevelTransferOfCmDatum` | volunteer-build-reviewed |
+| M118661 | P2785 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PointwiseGaloisPropertiesOfLocalInputs` | volunteer-build-reviewed |
+| M118662 | P2288 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PolynomialBoundSetup` | volunteer-build-reviewed |
 | M118663 | P2185 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PostOnMemEEatOfCenter` | volunteer-build-reviewed |
 | M118664 | P2790 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PreAtMem` | volunteer-build-reviewed |
 | M118665 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.PrimitiveAtLinkedAlt` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M119074 | P2219 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrInertTyz` | volunteer-build-reviewed |
 | M119075 | P2773 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplit` | volunteer-build-reviewed |
 | M119076 | P2776 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StrSplitStatement` | volunteer-build-reviewed |
-| M119077 | P1726 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.StringDecompHolds` | volunteer-build-reviewed |
-| M119078 | P2500 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGood` | volunteer-build-reviewed |
-| M119079 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumCOfDeepGoodStatement` | volunteer-build-reviewed |
-| M119080 | P2232 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumExpStAltAlt` | volunteer-build-reviewed |
-| M119081 | P2243 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumExpStStatement` | volunteer-build-reviewed |
-| M119082 | P2527 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSize` | volunteer-build-reviewed |
-| M119083 | P2551 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.SumPtOfSizeStatement` | volunteer-build-reviewed |

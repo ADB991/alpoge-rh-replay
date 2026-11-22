@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M027378 | P1860 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasis` | volunteer-build-reviewed |
 | M027379 | P1884 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalWittBasisStatement` | volunteer-build-reviewed |
 | M027381 | P0011 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrime` | volunteer-build-reviewed |
 | M027382 | P0104 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsLocalizationAwayFromPrimeStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M027996 | P2366 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenOfSaturatedLocalSchemeBaseChangeStatement` | volunteer-build-reviewed |
 | M027997 | P2366 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenPreimageEqBaseChangeSqZeroAugmentation` | volunteer-build-reviewed |
 | M028002 | P2753 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSectionNonvanishingClosedFibreStatement` | volunteer-build-reviewed |
-| M028003 | P1791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsOpenSubgroupCompactInterFinite` | volunteer-build-reviewed |

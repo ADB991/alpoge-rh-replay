@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M129457 | P0062 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBound` | volunteer-build-reviewed |
+| M129458 | P0142 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelSummationBoundStatement` | volunteer-build-reviewed |
+| M129461 | P2752 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianCmCompLawsBound` | volunteer-build-reviewed |
+| M129462 | P2758 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianCmCompLawsBoundStatement` | volunteer-build-reviewed |
+| M129463 | P1897 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianFamilyHodgeLattice` | volunteer-build-reviewed |
+| M129466 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelEigenFrameStatement` | volunteer-build-reviewed |
+| M129470 | P1524 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianMapLieModelLatticeStatement` | volunteer-build-reviewed |
 | M129480 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPoint` | volunteer-build-reviewed |
 | M129482 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartIntegralPointStatement` | volunteer-build-reviewed |
 | M129486 | P1875 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.AbelianPartLieMultShiftStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M130233 | P2264 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFamilyUniformisation` | volunteer-build-reviewed |
 | M130236 | P2592 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteExtensionPrimes` | volunteer-build-reviewed |
 | M130237 | P2608 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteExtensionPrimesStatement` | volunteer-build-reviewed |
-| M130240 | P1018 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteNormalModelOfResidueFinite` | build-observed |
-| M130241 | P1046 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFiniteNormalModelOfResidueFiniteStatement` | build-observed |
-| M130242 | P1580 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFinitePartMulConstant` | build-observed |
-| M130243 | P0881 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFlagBasisAtStalk` | build-observed |
-| M130244 | P0907 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFlagBasisAtStalkStatement` | build-observed |
-| M130246 | P0716 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormNotInCoordIdeal` | wave-reused |
-| M130249 | P1438 | `Development.AutomorphicSpectrum.Proofs.GeometryProofs.ExistsFormalGermOpenAffine` | volunteer-build-reviewed |

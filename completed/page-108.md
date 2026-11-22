@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M073880 | P1068 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemilinearProjectiveModuleComposeStatement` | wave-reused |
+| M073881 | P1012 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfInjective` | build-observed |
 | M073882 | P0556 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSup` | build-observed |
 | M073883 | P0589 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimpleOfSimpleSSupStatement` | build-observed |
 | M073884 | P0985 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SemisimplificationOfLinearEquiv` | build-observed |
@@ -400,5 +402,3 @@
 | M074583 | P2671 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftExtremalVectorEqClassSumStatement` | volunteer-build-reviewed |
 | M074585 | P2585 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationAtRealPlacesStatement` | volunteer-build-reviewed |
 | M074586 | P2113 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlaces` | volunteer-build-reviewed |
-| M074587 | P2126 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftGenerationFinitePlacesStatement` | volunteer-build-reviewed |
-| M074590 | P1771 | `Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaLiftHasPointAtLocalisationSamePlace` | volunteer-build-reviewed |

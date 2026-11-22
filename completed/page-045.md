@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M029774 | P2768 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSectionNormalisedUnitAtTraitsStatement` | volunteer-build-reviewed |
 | M029776 | P2793 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupIdealOverClopenComponentStatement` | volunteer-build-reviewed |
 | M029777 | P2670 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupLevelCoverEveryPoint` | volunteer-build-reviewed |
 | M029779 | P2683 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsThetaSetupPrimePowerLevelRegularChart` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M030383 | P2737 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPELTypeFactorDegData` | volunteer-build-reviewed |
 | M030384 | P2742 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPELTypeFactorDegDataStatement` | volunteer-build-reviewed |
 | M030385 | P1979 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPairPartnerCmExtension` | volunteer-build-reviewed |
-| M030386 | P1998 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsUnitaryPairPartnerCmExtensionStatement` | volunteer-build-reviewed |

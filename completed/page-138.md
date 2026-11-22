@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M096928 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowGrpEq` | volunteer-build-reviewed |
+| M096929 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowLevelMatchAtOfLevelConjugation` | volunteer-build-reviewed |
+| M096931 | P2043 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateLast` | volunteer-build-reviewed |
+| M096932 | P2060 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowMapVUpdateZero` | volunteer-build-reviewed |
 | M096933 | P2171 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepth` | volunteer-build-reviewed |
 | M096934 | P2183 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodGroupsSplitRealFiniteLargeDepthStatement` | volunteer-build-reviewed |
 | M096935 | P2192 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.RowPeriodSubgroupFinitePointsSemidirect` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M097467 | P2044 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdPartialEqZero` | volunteer-build-reviewed |
 | M097468 | P0041 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroup` | volunteer-build-reviewed |
 | M097469 | P0130 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumProdUpdateRegroupStatement` | volunteer-build-reviewed |
-| M097472 | P1700 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumPureMemAlgD` | volunteer-build-reviewed |
-| M097474 | P2101 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumQuotientIntegerMatricesInvariantIntegralGLMulStatement` | volunteer-build-reviewed |
-| M097475 | P2026 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumReImAddSmul` | volunteer-build-reviewed |
-| M097476 | P0795 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.SumRowDegreeEqOfHarmonicHighestCasimir` | build-observed |

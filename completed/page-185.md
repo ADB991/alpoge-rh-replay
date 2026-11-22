@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M122637 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvProdBlockUnit` | volunteer-build-reviewed |
+| M122639 | P1104 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalMod` | volunteer-build-reviewed |
+| M122640 | P0659 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalRestrictSection` | volunteer-build-reviewed |
+| M122643 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalZeroOfMemHomogeneousIdeal` | volunteer-build-reviewed |
+| M122645 | P1634 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvaluationMapsLinear` | volunteer-build-reviewed |
+| M122647 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyActMemLatVIff` | volunteer-build-reviewed |
+| M122648 | P0880 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyEqOfAgreeGLs` | build-observed |
 | M122652 | P1578 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyLineUnit` | volunteer-build-reviewed |
 | M122654 | P1778 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyMeasurableSetPrimV` | volunteer-build-reviewed |
 | M122656 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EventuallyOfSectionPlaces` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M123267 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthCoinvariantsExactStatement` | volunteer-build-reviewed |
 | M123272 | P0319 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirst` | volunteer-build-reviewed |
 | M123273 | P0368 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfLseqFirstStatement` | volunteer-build-reviewed |
-| M123274 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProducts` | volunteer-build-reviewed |
-| M123275 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProductsStatement` | volunteer-build-reviewed |
-| M123279 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLevelFactsStatement` | volunteer-build-reviewed |
-| M123284 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModuleAdicComplete` | volunteer-build-reviewed |
-| M123285 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModuleAdicCompleteStatement` | volunteer-build-reviewed |
-| M123286 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClass` | build-observed |
-| M123287 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClassStatement` | volunteer-build-reviewed |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M057673 | P0652 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMaximalIntegralHermitianLatticeOrthonormalStatement` | build-observed |
 | M057675 | P0024 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCosetSection` | volunteer-build-reviewed |
 | M057676 | P0116 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCosetSectionStatement` | volunteer-build-reviewed |
 | M057677 | P0814 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsMeasurableCutoffFibreIntegralOneSubgroup` | build-observed |
@@ -401,4 +402,3 @@
 | M058400 | P1033 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocal` | wave-reused |
 | M058401 | P1061 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetAmplitudeBoundLocalStatement` | wave-reused |
 | M058402 | P0303 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFrameClassProperties` | wave-reused |
-| M058403 | P0354 | `Development.AbelianVarietyTheory.Proofs.FlagMeasures.HermitianDoubleCosetFrameClassPropertiesStatement` | wave-reused |

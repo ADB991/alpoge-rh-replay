@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092080 | P2628 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselPeriodNonvanishingAscentOfDepthDataStatement` | volunteer-build-reviewed |
+| M092081 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselSecondBasePointCharacterTrivialDepthLattic` | volunteer-build-reviewed |
+| M092083 | P2042 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepBasePointScaledCoordinates` | volunteer-build-reviewed |
+| M092087 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuum` | volunteer-build-reviewed |
 | M092088 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepCorePieceFiniteNonzeroVacuumStatement` | volunteer-build-reviewed |
 | M092095 | P2274 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLattice` | volunteer-build-reviewed |
 | M092096 | P2286 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.BesselStepLineComponentMemHomLatticeStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M092830 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesModelParamShiftedWeightOfCoverDiscStatement` | volunteer-build-reviewed |
 | M092831 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesMultiplicity` | volunteer-build-reviewed |
 | M092833 | P1489 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProduct` | volunteer-build-reviewed |
-| M092834 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProductStatement` | volunteer-build-reviewed |
-| M092835 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSide` | volunteer-build-reviewed |
-| M092836 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSideStatement` | volunteer-build-reviewed |
-| M092837 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesTestDataLargeGapsIntegrable` | volunteer-build-reviewed |

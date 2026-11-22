@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M159194 | P1296 | `Formalism.SharpRestriction.GrowthBounds.BinomialPolynomialIdentities.TorusComponentMemDominatedWeightPolynomials` | build-observed |
+| M159195 | P1470 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio` | build-observed |
+| M159196 | P1242 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.AiAddMulLeA0` | build-observed |
+| M159197 | P1167 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockFG` | build-observed |
+| M159198 | P1442 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockInj` | build-observed |
+| M159199 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.BlockRank` | build-observed |
+| M159200 | P1269 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.Bracket` | build-observed |
+| M159201 | P1417 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CardEqChainSum` | build-observed |
 | M159202 | P1111 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.ChainDim` | build-observed |
 | M159203 | P1052 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeAlternative` | build-observed |
 | M159204 | P1190 | `Formalism.SharpRestriction.GrowthBounds.BinomialRatio.CoarseDegreeRatioConsecutive` | build-observed |
@@ -394,11 +402,3 @@
 | M159625 | P0078 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.GrowthOfBasic` | build-observed |
 | M159626 | P1664 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ImportsAlt` | build-observed |
 | M159627 | P1641 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.InitialMinorLiftFirstEntry` | build-observed |
-| M159628 | P1615 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamAddC` | build-observed |
-| M159629 | P1500 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LamPolySmulRight` | build-observed |
-| M159630 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.LastNeZero` | build-observed |
-| M159631 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.MemInvariantSectionsIffIntegral` | build-observed |
-| M159632 | P1529 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.MemInvariantSectionsTwoWeightIff` | build-observed |
-| M159633 | P1711 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.ModelIdentificationHolds` | build-observed |
-| M159634 | P1585 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfLoZero` | build-observed |
-| M159635 | P1557 | `Formalism.SharpRestriction.GrowthBounds.HermitianTensor.NuOfWtPQCast` | build-observed |

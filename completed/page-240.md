@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M157835 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LowerTriangularIntegral` | wave-reused |
+| M157836 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LpcDpartCommEps` | wave-reused |
+| M157837 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrbPiSingleCast` | wave-reused |
+| M157838 | P0832 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrcFockZeroRight` | wave-reused |
+| M157839 | P0777 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrfcApplyWordAppendSingle` | wave-reused |
+| M157840 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LriEVPowCoe` | wave-reused |
+| M157841 | P0940 | `Formalism.PieriBlockIdeals.PieriColumnMinors.LrjTransposeLift` | wave-reused |
+| M157842 | P0221 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MaxValEqZeroOfLt` | wave-reused |
 | M157843 | P0804 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MeasureSwapInvariant` | wave-reused |
 | M157844 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.MinorValuationBoundHolds` | wave-reused |
 | M157845 | P0156 | `Formalism.PieriBlockIdeals.PieriColumnMinors.PadicValIntProdElevenMultiples` | wave-reused |
@@ -394,11 +402,3 @@
 | M158242 | P1139 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemVR` | build-observed |
 | M158243 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLemma3` | build-observed |
 | M158244 | P0832 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGen` | build-observed |
-| M158245 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenA` | build-observed |
-| M158246 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenB` | build-observed |
-| M158247 | P0505 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelIdx` | build-observed |
-| M158248 | P1321 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLitG` | build-observed |
-| M158250 | P1080 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeMainT` | build-observed |
-| M158251 | P0077 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeNGLQ` | build-observed |
-| M158252 | P0887 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsGenus` | build-observed |
-| M158253 | P1190 | `Formalism.SharpRestriction.CuspSpanNormBounds.BridgeRowsLift` | build-observed |

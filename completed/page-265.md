@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M171421 | P0389 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegrableOnTargetOfTsupport` | wave-reused |
+| M171422 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IntegralIoiFsDensRadial` | wave-reused |
+| M171423 | P0645 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsCompatChartChart` | wave-reused |
+| M171424 | P0703 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsCompatChartRestrOpen` | wave-reused |
+| M171425 | P0167 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialOfFun` | pilot-reused |
+| M171426 | P0232 | `ReciprocityTheory.AnalyticForms.PotentialTheory.IsPotentialPullbackStatement` | wave-reused |
+| M171427 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LocDens` | wave-reused |
+| M171428 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.LogInt` | wave-reused |
+| M171429 | P0676 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MIntSumCont` | wave-reused |
 | M171430 | P0472 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasure` | wave-reused |
 | M171431 | P0342 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureA` | wave-reused |
 | M171432 | P0432 | `ReciprocityTheory.AnalyticForms.PotentialTheory.MaMeasureB` | wave-reused |
@@ -393,12 +402,3 @@
 | M171889 | P0290 | `ReciprocityTheory.GaloisValuations.ArithOfA` | build-observed |
 | M171890 | P0168 | `ReciprocityTheory.GaloisValuations.ContinuousConstSMulQuotient` | wave-reused |
 | M171891 | P0233 | `ReciprocityTheory.GaloisValuations.Global` | wave-reused |
-| M171892 | P0090 | `ReciprocityTheory.GaloisValuations.GlobalA` | wave-reused |
-| M171893 | P0168 | `ReciprocityTheory.GaloisValuations.GlobalB` | wave-reused |
-| M171895 | P0343 | `ReciprocityTheory.GaloisValuations.GlobalEA` | volunteer-build-reviewed |
-| M171896 | P0090 | `ReciprocityTheory.GaloisValuations.SeparatedDvrSecondCohomologyMem` | wave-reused |
-| M171898 | P0168 | `ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint` | wave-reused |
-| M171899 | P0290 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.ClosingHS` | pilot-reused |
-| M171900 | P0233 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.DefectSt` | pilot-reused |
-| M171901 | P0090 | `ReciprocityTheory.GeometryOfNumbers.AsymptoticSequences.SimplexSumSt` | volunteer-build-reviewed |
-| M171902 | P0290 | `ReciprocityTheory.GeometryOfNumbers.LatticeCovolumes.ArakelovDegreeEqDegreeOfFamily` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M032356 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormKernelHorizontalStatement` | build-observed |
 | M032357 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSection` | build-observed |
 | M032358 | P0298 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormMulPullZeroSectionStatement` | volunteer-build-reviewed |
 | M032359 | P0244 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatFormSmoothOnCover` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M032988 | P2579 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedTorsionPointTorusExtensionEqOfLiesOverStatement` | volunteer-build-reviewed |
 | M032990 | P2637 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramedTorsionTorusExtensionRespectCubicalStatement` | volunteer-build-reviewed |
 | M032997 | P2256 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FramesOnEqModel` | volunteer-build-reviewed |
-| M033002 | P0106 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.FreeAwayMulOfFiniteType` | volunteer-build-reviewed |

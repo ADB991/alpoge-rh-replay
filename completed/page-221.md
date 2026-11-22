@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147773 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroSecondCoordinate` | build-observed |
+| M147774 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.ContentLargeFromSupplies` | build-observed |
+| M147775 | P0421 | `Formalism.LocalToGlobal.CharacterGerms.ContentZeroAt` | wave-reused |
+| M147776 | P1293 | `Formalism.LocalToGlobal.CharacterGerms.CoordinateChangeComp1IntertwinesAction` | wave-reused |
+| M147777 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.CoordinatePointConstantCoeff` | build-observed |
+| M147778 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.DetNeZeroOfChars` | volunteer-build-reviewed |
+| M147779 | P0695 | `Formalism.LocalToGlobal.CharacterGerms.EndomorphismLimitIntegral` | wave-reused |
+| M147780 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.ExistsStrictMonoMinor` | wave-reused |
 | M147781 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.FinTwoNeOneSub` | build-observed |
 | M147782 | P1266 | `Formalism.LocalToGlobal.CharacterGerms.FirstPartialLawAtPoints` | wave-reused |
 | M147783 | P0858 | `Formalism.LocalToGlobal.CharacterGerms.FirstStepSecondHalfCondition` | build-observed |
@@ -394,11 +402,3 @@
 | M148214 | P1528 | `Formalism.LocalToGlobal.Columns.RecPerFF` | build-observed |
 | M148215 | P1163 | `Formalism.LocalToGlobal.Columns.Record` | build-observed |
 | M148216 | P1238 | `Formalism.LocalToGlobal.Columns.RecordFS` | build-observed |
-| M148218 | P1498 | `Formalism.LocalToGlobal.Columns.ReducedMatrixExtensionEntry` | build-observed |
-| M148219 | P1583 | `Formalism.LocalToGlobal.Columns.ReductionColumnStandardBasis` | build-observed |
-| M148220 | P1556 | `Formalism.LocalToGlobal.Columns.ReductionExistsInLatticeStabilizerHolds` | build-observed |
-| M148221 | P1614 | `Formalism.LocalToGlobal.Columns.RefKEquivOfCpTop` | build-observed |
-| M148222 | P1468 | `Formalism.LocalToGlobal.Columns.RefLevChFstSurjective` | build-observed |
-| M148223 | P1440 | `Formalism.LocalToGlobal.Columns.RefXi1Above` | build-observed |
-| M148224 | P1187 | `Formalism.LocalToGlobal.Columns.ReferenceActionRationalLevels` | build-observed |
-| M148225 | P1498 | `Formalism.LocalToGlobal.Columns.ReferenceKernelEquivOfLastComponent` | build-observed |

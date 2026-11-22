@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M092834 | P1518 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesPureInnerProductsTensorProductStatement` | volunteer-build-reviewed |
+| M092835 | P1722 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSide` | volunteer-build-reviewed |
+| M092836 | P1747 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesSpectralSideStatement` | volunteer-build-reviewed |
+| M092837 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DiscreteSeriesTestDataLargeGapsIntegrable` | volunteer-build-reviewed |
 | M092841 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlaces` | volunteer-build-reviewed |
 | M092842 | P1948 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DivisibilityTypeProductReadLevelPlacesStatement` | volunteer-build-reviewed |
 | M092845 | P1930 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.DomainFrameEqRealTranslateMulBorelStatement` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M093403 | P1600 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairing` | volunteer-build-reviewed |
 | M093404 | P1627 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralMatricesSeparatingRationalPairingStatement` | volunteer-build-reviewed |
 | M093405 | P2100 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempote` | volunteer-build-reviewed |
-| M093406 | P2115 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralSiegelParabolicOfConjugateIdempoteStatement` | volunteer-build-reviewed |
-| M093407 | P1385 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntegralUnitDeterminantAtIdempotentResidue` | volunteer-build-reviewed |
-| M093409 | P0040 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsInterpolation` | volunteer-build-reviewed |
-| M093411 | P1652 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsIntertwinerOfInvariantPairingAdmissible` | volunteer-build-reviewed |

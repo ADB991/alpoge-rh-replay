@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M126623 | P0771 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimePowAnnihilatorReductionStatement` | wave-reused |
+| M126624 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegrableComplex` | volunteer-build-reviewed |
+| M126625 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveIntegralBoundOfParts` | volunteer-build-reviewed |
+| M126626 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseBound` | volunteer-build-reviewed |
+| M126627 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitivePointwiseComplex` | volunteer-build-reviewed |
+| M126628 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditive` | volunteer-build-reviewed |
+| M126629 | P2415 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveTorsorClassAdditiveStatement` | volunteer-build-reviewed |
 | M126631 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorExtendsHyperbolicStatement` | volunteer-build-reviewed |
 | M126632 | P1805 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorsContentDecomposition` | volunteer-build-reviewed |
 | M126633 | P1828 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PrimitiveVectorsContentDecompositionStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M127222 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurInverseEqReversedNegStatement` | volunteer-build-reviewed |
 | M127223 | P0141 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurOpOfSchurL` | volunteer-build-reviewed |
 | M127224 | P1874 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2Sum` | volunteer-build-reviewed |
-| M127225 | P1896 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchurPolynomialGL2SumStatement` | volunteer-build-reviewed |
-| M127227 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzArchContinuousIntegrableStatement` | volunteer-build-reviewed |
-| M127228 | P1610 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfinite` | volunteer-build-reviewed |
-| M127229 | P1636 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBoundFiniteInfiniteStatement` | volunteer-build-reviewed |
-| M127230 | P1729 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFactorizableDecomposition` | volunteer-build-reviewed |
-| M127233 | P1781 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatFiniteSumOfProductsStatement` | volunteer-build-reviewed |
-| M127235 | P2076 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatIntegrableAdelicStatement` | volunteer-build-reviewed |

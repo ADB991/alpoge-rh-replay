@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M140418 | P0323 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FirstLatticeBaseChange` | volunteer-build-reviewed |
+| M140421 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FreeModuleNakayamaDescent` | volunteer-build-reviewed |
+| M140422 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FullTorsionPacking` | volunteer-build-reviewed |
+| M140423 | P2337 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionFamilyChartFacts` | volunteer-build-reviewed |
+| M140424 | P2416 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionFamilyIdempotent` | volunteer-build-reviewed |
+| M140425 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionOnConnectedFibreUnit` | volunteer-build-reviewed |
+| M140431 | P0536 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeComponentFlagDegree` | build-observed |
+| M140432 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeDualFrameExists` | volunteer-build-reviewed |
 | M140433 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeDualLatticeOverlap` | volunteer-build-reviewed |
 | M140439 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IntegralOverPlaceDensity` | volunteer-build-reviewed |
 | M140443 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.IsIntegrallyClosedOfDenom` | volunteer-build-reviewed |
@@ -394,11 +402,3 @@
 | M141390 | P2528 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.InertInSecAlt` | volunteer-build-reviewed |
 | M141391 | P2661 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.InstFintypeInertBlockIndex` | volunteer-build-reviewed |
 | M141392 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.AdmProd` | volunteer-build-reviewed |
-| M141394 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.CandParts` | volunteer-build-reviewed |
-| M141395 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.FinReps` | volunteer-build-reviewed |
-| M141396 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.FinStrictHolds` | volunteer-build-reviewed |
-| M141397 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.InfsEqOfStrict` | volunteer-build-reviewed |
-| M141398 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.IsoInv` | volunteer-build-reviewed |
-| M141399 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.LevOpen` | volunteer-build-reviewed |
-| M141400 | P2661 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.PreEquivSymm` | volunteer-build-reviewed |
-| M141401 | P2653 | `Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.ArchimedeanBaseChangeProof.SatakeExponents.UniformizerValuations.StrictJoinCandidates.IntertwiningCandidates.StrictEqv` | volunteer-build-reviewed |

@@ -2,6 +2,9 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M079476 | P1543 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharConjSelfDualInfinityInfinitesimalIffFieStatement` | volunteer-build-reviewed |
+| M079477 | P1041 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharExponentOfInfinityType` | volunteer-build-reviewed |
+| M079478 | P1069 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharExponentOfInfinityTypeStatement` | volunteer-build-reviewed |
 | M079485 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUnique` | volunteer-build-reviewed |
 | M079486 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterIdeleCharacterMatchUniqueStatement` | volunteer-build-reviewed |
 | M079487 | P1309 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.HeckeCharacterInfinityExponentGroupLaws` | volunteer-build-reviewed |
@@ -399,6 +402,3 @@
 | M080342 | P2410 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeStepFrameFiberStatement` | volunteer-build-reviewed |
 | M080345 | P0193 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptotics` | build-observed |
 | M080346 | P0256 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeThetaAsymptoticsStatement` | volunteer-build-reviewed |
-| M080347 | P1456 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLattice` | volunteer-build-reviewed |
-| M080348 | P1485 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatticeTjEqImageOfCoordinateLatticeStatement` | volunteer-build-reviewed |
-| M080350 | P0036 | `Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LaurentMonomialOfMultiplicative` | volunteer-build-reviewed |

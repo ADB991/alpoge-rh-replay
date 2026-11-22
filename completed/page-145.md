@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M101251 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductOfQuotientPushforwardSupport` | build-observed |
+| M101252 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.EulerProductSupportFinite` | build-observed |
+| M101256 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsHaarMeasureAdelicGL` | build-observed |
+| M101260 | P0042 | `Development.AutomorphicArithmetic.AdelicQuotients.ExistsNatCombinationIsUnitOfIsUnitCombination` | volunteer-build-reviewed |
+| M101262 | P0130 | `Development.AutomorphicArithmetic.AdelicQuotients.GeneralLinearPiCentralizerCommOfCharpolySeparabl` | volunteer-build-reviewed |
 | M101263 | P0312 | `Development.AutomorphicArithmetic.AdelicQuotients.GeometricSideAbsolutelyConvergentOfEulerFubini` | build-observed |
 | M101264 | P1363 | `Development.AutomorphicArithmetic.AdelicQuotients.GlobalOrbitalComparisonOfSplit` | build-observed |
 | M101265 | P0363 | `Development.AutomorphicArithmetic.AdelicQuotients.HaarConstOfHaarExists` | build-observed |
@@ -397,8 +402,3 @@
 | M101967 | P2568 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AlgOfCyc` | volunteer-build-reviewed |
 | M101969 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.AutNewform` | volunteer-build-reviewed |
 | M101973 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatAtLQ` | volunteer-build-reviewed |
-| M101975 | P2640 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CompatReal` | volunteer-build-reviewed |
-| M101976 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CongruenceNumberRankThree` | volunteer-build-reviewed |
-| M101977 | P2604 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountK` | volunteer-build-reviewed |
-| M101978 | P2658 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.CountQ` | volunteer-build-reviewed |
-| M101983 | P2666 | `Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.DownCsd` | volunteer-build-reviewed |

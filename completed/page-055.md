@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M036697 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaDegBotEqFinrankFiniteDomainStatement` | volunteer-build-reviewed |
 | M036698 | P1942 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizer` | wave-reused |
 | M036699 | P1961 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldMaximalIdealDvdUniformizerStatement` | wave-reused |
 | M036700 | P1980 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.InertiaFixedFieldValuationRingStrictlyHenselian` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M037495 | P0108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrrCharOneMulFinsumConjMul` | volunteer-build-reviewed |
 | M037496 | P0841 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrrParIffCuspidalProduct` | build-observed |
 | M037498 | P0441 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissible` | volunteer-build-reviewed |
-| M037499 | P1303 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.IrreducibleAdmissibleDecomposableCompEquiv` | volunteer-build-reviewed |

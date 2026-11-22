@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123274 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProducts` | volunteer-build-reviewed |
+| M123275 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLengthOfProductsStatement` | volunteer-build-reviewed |
+| M123279 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteLevelFactsStatement` | volunteer-build-reviewed |
+| M123284 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModuleAdicComplete` | volunteer-build-reviewed |
+| M123285 | P0265 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModuleAdicCompleteStatement` | volunteer-build-reviewed |
+| M123286 | P0563 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClass` | build-observed |
+| M123287 | P0595 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteModulesSerreClassStatement` | volunteer-build-reviewed |
 | M123288 | P1727 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteMulSupportBnd` | volunteer-build-reviewed |
 | M123289 | P1779 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlaces` | volunteer-build-reviewed |
 | M123290 | P1803 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteNonsplitSignPlacesStatement` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M123880 | P2152 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTorusTranslateStatement` | volunteer-build-reviewed |
 | M123881 | P0205 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivAtTwistHomotopyKernel` | volunteer-build-reviewed |
 | M123882 | P1827 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasDerivative` | volunteer-build-reviewed |
-| M123884 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasInfCharGLRankZero` | volunteer-build-reviewed |
-| M123885 | P2336 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreading` | volunteer-build-reviewed |
-| M123886 | P2357 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreadingStatement` | volunteer-build-reviewed |
-| M123887 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasPeriods` | volunteer-build-reviewed |
-| M123888 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasProdMoebiusConvOfNormLe` | volunteer-build-reviewed |
-| M123889 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSatakeOfIsSatVecGL` | volunteer-build-reviewed |
-| M123890 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumFloorHalf` | volunteer-build-reviewed |

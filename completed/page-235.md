@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M155625 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicImageOfResidueFrame` | build-observed |
+| M155626 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ParabolicReductionImage` | build-observed |
+| M155627 | P1109 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PhiBijective` | build-observed |
+| M155628 | P0277 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiKerIff` | build-observed |
+| M155629 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiVHA` | build-observed |
+| M155630 | P1584 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.PsiVIteOne` | build-observed |
+| M155631 | P0075 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.QuadRoot` | build-observed |
+| M155632 | P1641 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageEveryPlace` | build-observed |
 | M155633 | P1470 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdapted` | build-observed |
 | M155634 | P1499 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfAdaptedMod` | build-observed |
 | M155635 | P1529 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.ReductionImageOfBasis` | build-observed |
@@ -394,11 +402,3 @@
 | M156070 | P1241 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassHNonneg` | build-observed |
 | M156071 | P1139 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldGenHolds` | build-observed |
 | M156072 | P1110 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MassUnfoldHolds` | build-observed |
-| M156073 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.MeasurePrjFPreimage` | build-observed |
-| M156074 | P1166 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NLevelHolds` | build-observed |
-| M156075 | P1347 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NRatBridgeHolds` | build-observed |
-| M156076 | P1190 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NVolAllOf` | build-observed |
-| M156077 | P1320 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.NfinOfRatN` | build-observed |
-| M156078 | P1023 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.ProdFirstProjectionSmul` | build-observed |
-| M156079 | P1079 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SigROneTmul` | build-observed |
-| M156080 | P1051 | `Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MassComputations.SplitG` | build-observed |

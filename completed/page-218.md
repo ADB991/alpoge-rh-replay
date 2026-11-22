@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145714 | P1211 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSConst` | wave-reused |
+| M145715 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSCut` | wave-reused |
+| M145723 | P1186 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSTr` | wave-reused |
+| M145724 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferCut` | wave-reused |
+| M145725 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferFn` | wave-reused |
+| M145726 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferKAsm` | wave-reused |
+| M145728 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLAtMost` | build-observed |
+| M145730 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLExistsOf` | build-observed |
 | M145732 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLIsoAlg` | build-observed |
 | M145733 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLLieGrp` | build-observed |
 | M145734 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLLieGrpGeo` | build-observed |
@@ -394,11 +402,3 @@
 | M146726 | P0634 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralAeConvergenceContinuity` | wave-reused |
 | M146727 | P0212 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralConvergesAbs` | wave-reused |
 | M146728 | P0910 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralIdentities` | build-observed |
-| M146729 | P0461 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalIntegralReduction` | build-observed |
-| M146730 | P0885 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrbitalMeasurabilityWeakThreshold` | build-observed |
-| M146731 | P0273 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrderChainWeights` | build-observed |
-| M146732 | P0326 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OrderIndexAndStrata` | build-observed |
-| M146735 | P0375 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.OutsideSystemsBound` | build-observed |
-| M146736 | P0994 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBLiftV` | build-observed |
-| M146737 | P0801 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBBStmt` | build-observed |
-| M146738 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.PBCBlk` | build-observed |

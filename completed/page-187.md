@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M123884 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasInfCharGLRankZero` | volunteer-build-reviewed |
+| M123885 | P2336 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreading` | volunteer-build-reviewed |
+| M123886 | P2357 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasModelOfSpreadingStatement` | volunteer-build-reviewed |
+| M123887 | P0990 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasPeriods` | volunteer-build-reviewed |
+| M123888 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasProdMoebiusConvOfNormLe` | volunteer-build-reviewed |
+| M123889 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSatakeOfIsSatVecGL` | volunteer-build-reviewed |
+| M123890 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumFloorHalf` | volunteer-build-reviewed |
 | M123893 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeries` | volunteer-build-reviewed |
 | M123894 | P1752 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumSquareCoefficientLocalSeriesStatement` | volunteer-build-reviewed |
 | M123895 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasSumTaylorOfExpBounds` | volunteer-build-reviewed |
@@ -395,10 +402,3 @@
 | M124559 | P1804 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGenericOfInjective` | volunteer-build-reviewed |
 | M124560 | P1262 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsGradedMapGlueD` | build-observed |
 | M124562 | P1579 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsHermRingRat` | volunteer-build-reviewed |
-| M124564 | P1850 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntZero` | volunteer-build-reviewed |
-| M124565 | P0061 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalization` | volunteer-build-reviewed |
-| M124566 | P0139 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIntegrallyClosedOfReducedQuotientLocalizationStatement` | volunteer-build-reviewed |
-| M124567 | P1682 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsIsoFrameFirstCols` | volunteer-build-reviewed |
-| M124570 | P0494 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLCRes` | volunteer-build-reviewed |
-| M124572 | P1728 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLatIntVec` | volunteer-build-reviewed |
-| M124576 | P1045 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsLocallyConstantToZModPow` | build-observed |

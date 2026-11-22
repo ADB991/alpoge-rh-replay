@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M054076 | P2519 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformisationBundleEvenClosedFibreTorStatement` | volunteer-build-reviewed |
 | M054077 | P2462 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullback` | build-observed |
 | M054078 | P2491 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatedUniformizationPullbackStatement` | build-observed |
 | M054080 | P1944 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.TranslatesIntoHoldsStatement` | build-observed |
@@ -401,4 +402,3 @@
 | M054801 | P2671 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairs` | volunteer-build-reviewed |
 | M054802 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPullbacksMatchTorsionPairsStatement` | volunteer-build-reviewed |
 | M054803 | P2678 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisation` | volunteer-build-reviewed |
-| M054804 | P2684 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.UniformisationPulledBackFactorSamePolarisationStatement` | volunteer-build-reviewed |

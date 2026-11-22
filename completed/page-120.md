@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M084325 | P0361 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QminorPolyMap` | volunteer-build-reviewed |
+| M084327 | P0127 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuadraticFieldDiscPrimeThreeModFour` | volunteer-build-reviewed |
+| M084329 | P0958 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalue` | wave-reused |
+| M084330 | P0986 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumDeterminantEigenvalueStatement` | wave-reused |
 | M084331 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwine` | wave-reused |
 | M084332 | P0820 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorBlockLinearMapIntertwineStatement` | volunteer-build-reviewed |
 | M084333 | P0792 | `Development.AbelianVarietyTheory.Proofs.JetHarmonics.QuantumMinorColumnExpansionUnderLinearMap` | wave-reused |
@@ -398,7 +402,3 @@
 | M085048 | P0524 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDerivAt0NotIsDerivAlong` | volunteer-build-reviewed |
 | M085049 | P0766 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsDominantGeometricPointOfIsPreimmersion` | volunteer-build-reviewed |
 | M085050 | P0820 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsE8IsSharpBasis` | volunteer-build-reviewed |
-| M085051 | P0849 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGaloisCoverOfIsQProjOver` | volunteer-build-reviewed |
-| M085053 | P1406 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGenSecNear` | volunteer-build-reviewed |
-| M085054 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsGrpPullbackRetraction` | wave-reused |
-| M085055 | P1100 | `Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsIsHeckeIsog` | build-observed |

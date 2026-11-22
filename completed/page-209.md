@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M139467 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibHess` | build-observed |
+| M139468 | P0323 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibMdisc` | build-observed |
+| M139469 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XFibStereo` | build-observed |
+| M139471 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XGramGrad` | volunteer-build-reviewed |
+| M139472 | P0419 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XGramSize` | volunteer-build-reviewed |
+| M139474 | P0419 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPerCell` | volunteer-build-reviewed |
+| M139478 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyDelta` | volunteer-build-reviewed |
+| M139479 | P0145 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XPolyTowtBound` | volunteer-build-reviewed |
 | M139480 | P1135 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XReBridge` | build-observed |
 | M139482 | P0747 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XRePot` | build-observed |
 | M139484 | P0601 | `Development.WeilBound.CoreStatements.PluriharmonicCharts.XSqDens` | build-observed |
@@ -394,11 +402,3 @@
 | M140411 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsPrimeDimOneAvoiding` | volunteer-build-reviewed |
 | M140412 | P0373 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsRepresentativeAvoidingIdeal` | wave-reused |
 | M140414 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.ExistsTorsionGroupExtension` | volunteer-build-reviewed |
-| M140418 | P0323 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FirstLatticeBaseChange` | volunteer-build-reviewed |
-| M140421 | P0066 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FreeModuleNakayamaDescent` | volunteer-build-reviewed |
-| M140422 | P2318 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FullTorsionPacking` | volunteer-build-reviewed |
-| M140423 | P2337 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionFamilyChartFacts` | volunteer-build-reviewed |
-| M140424 | P2416 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionFamilyIdempotent` | volunteer-build-reviewed |
-| M140425 | P0419 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.FunctionOnConnectedFibreUnit` | volunteer-build-reviewed |
-| M140431 | P0536 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeComponentFlagDegree` | build-observed |
-| M140432 | P0269 | `Development.WeilBound.CoreStatements.TorusUniformisation.ChowMahlerFamilies.HodgeDualFrameExists` | volunteer-build-reviewed |

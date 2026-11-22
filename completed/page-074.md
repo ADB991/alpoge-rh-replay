@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M050393 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothContinuousLimsupExtEqStatement` | build-observed |
 | M050399 | P0442 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothDifferencePeriodDecompositionStatement` | volunteer-build-reviewed |
 | M050401 | P0922 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInCharts` | wave-reused |
 | M050402 | P0951 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.SmoothEtaleOfSmoothInChartsStatement` | wave-reused |
@@ -401,4 +402,3 @@
 | M051141 | P2750 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StalkValueClosedPointDefinedOverSubfieldStatement` | volunteer-build-reviewed |
 | M051142 | P1795 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerate` | volunteer-build-reviewed |
 | M051143 | P1819 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanEqExpNondegenerateStatement` | volunteer-build-reviewed |
-| M051145 | P1907 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.StandardAddCharArchimedeanExpRealLinearStatement` | volunteer-build-reviewed |

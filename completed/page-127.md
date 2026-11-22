@@ -2,6 +2,10 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M090660 | P1204 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPoint` | build-observed |
+| M090661 | P1231 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPeriodLevelOfSiegelPointStatement` | build-observed |
+| M090662 | P1433 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointOfPerLev` | build-observed |
+| M090663 | P1043 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnit` | wave-reused |
 | M090664 | P1071 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPointThetaPullbacksIsUnitStatement` | wave-reused |
 | M090666 | P0128 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPowSpanXLeOfDense` | wave-reused |
 | M090667 | P0039 | `Development.AbelianVarietyTheory.Proofs.ThetaLawProofs.ExistsPrimeDimensionLEOneAvoiding` | volunteer-build-reviewed |
@@ -398,7 +402,3 @@
 | M091347 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.ToUnitCompLeft` | build-observed |
 | M091349 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOfSameRatios` | build-observed |
 | M091350 | P0795 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorsionEqOneOfTranslationKeepsRatios` | wave-reused |
-| M091357 | P1131 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharacters` | build-observed |
-| M091358 | P1156 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusExtensionComplexPointsEqCharactersStatement` | build-observed |
-| M091359 | P0623 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TorusProjPeriodZeroEqReal` | build-observed |
-| M091360 | P0524 | `Development.AbelianVarietyTheory.Proofs.ThetaShiftProofs.TraceEqFinrankMulSum` | build-observed |

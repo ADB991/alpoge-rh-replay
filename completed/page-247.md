@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M161273 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.LocalizationStructureHolds` | build-observed |
+| M161274 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.OneLeThresholdMulPowers` | build-observed |
+| M161275 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PBrDiv` | build-observed |
+| M161276 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PChain` | build-observed |
+| M161277 | P0669 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PSmall` | build-observed |
+| M161278 | P0805 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.PrimeCongruenceConditions` | build-observed |
+| M161279 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.ProjectiveLines` | build-observed |
+| M161280 | P0464 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.RiemannHypothesisOfPowerBound` | build-observed |
 | M161281 | P0697 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SecondPriceSumWeightsUncovered` | build-observed |
 | M161282 | P0751 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.SlopeInequalityOfLattices` | build-observed |
 | M161283 | P0606 | `Formalism.SizeWindowBrackets.ChainSlopeWindows.StronglyIrreducible` | build-observed |
@@ -394,11 +402,3 @@
 | M161672 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MPlaces` | build-observed |
 | M161673 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.MinorProdBlockDegree` | build-observed |
 | M161674 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLeOfDvd` | build-observed |
-| M161675 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormLiftLeOne` | wave-reused |
-| M161676 | P0805 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NormNatCastLeOfDvd` | build-observed |
-| M161677 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.NotDvdChoosePowMul` | wave-reused |
-| M161678 | P0606 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.OmegaOfTraceDuality` | build-observed |
-| M161679 | P0540 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.PartialCoboundaryLinear` | wave-reused |
-| M161680 | P0424 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.ScalingSwapLemmas` | wave-reused |
-| M161681 | P0280 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremCIiiMulti` | build-observed |
-| M161682 | P0506 | `Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TheoremSFromKOneOf` | wave-reused |

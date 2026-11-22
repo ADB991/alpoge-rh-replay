@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M168307 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulMemSecsTwistIdealSys` | volunteer-build-reviewed |
+| M168308 | P0429 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.MulQuotEqSt` | wave-reused |
+| M168309 | P0339 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefExtendIsoSt` | volunteer-build-reviewed |
+| M168310 | P0578 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefFibresSegreSt` | pilot-reused |
+| M168311 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.NefGenericDVRSt` | pilot-reused |
+| M168314 | P0165 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.Objects` | pilot-reused |
+| M168315 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.ObjectsAlt` | wave-reused |
+| M168317 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfModelNumEq` | build-observed |
+| M168319 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OfPowRealises` | build-observed |
 | M168320 | P0611 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneBlockPnPt` | build-observed |
 | M168321 | P0754 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.OneMemSecOverZero` | build-observed |
 | M168323 | P0386 | `GroundTheory.HeightsAndTheta.Heights.KleimanAmpleness.PAmpleAffineGen` | wave-reused |
@@ -393,12 +402,3 @@
 | M168853 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotIndependent` | volunteer-build-reviewed |
 | M168854 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PShTotInvertiblePair` | volunteer-build-reviewed |
 | M168855 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermA` | volunteer-build-reviewed |
-| M168856 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermB` | volunteer-build-reviewed |
-| M168858 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTermD` | volunteer-build-reviewed |
-| M168860 | P0286 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.PTotOfPower` | volunteer-build-reviewed |
-| M168861 | P0578 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SampleConclusion` | worker-kernel-checked |
-| M168862 | P0165 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SecondVolumeConstantNonneg` | volunteer-build-reviewed |
-| M168863 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.SingleDecompIsHomDecomp` | volunteer-build-reviewed |
-| M168864 | P0230 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.Statements` | volunteer-build-reviewed |
-| M168865 | P0287 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsEnd` | volunteer-build-reviewed |
-| M168866 | P0340 | `GroundTheory.HeightsAndTheta.Heights.MultinomialWeights.StatementsHomDecomp` | volunteer-build-reviewed |

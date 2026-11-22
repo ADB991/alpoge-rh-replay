@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M107004 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TTwist` | volunteer-build-reviewed |
+| M107005 | P2680 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TTypeConj` | volunteer-build-reviewed |
+| M107007 | P2751 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TTypePST` | volunteer-build-reviewed |
+| M107008 | P2713 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TTypeV` | volunteer-build-reviewed |
+| M107009 | P2708 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TTypeVLoc` | volunteer-build-reviewed |
 | M107010 | P2739 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TUpQuad` | volunteer-build-reviewed |
 | M107011 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWDAbove` | volunteer-build-reviewed |
 | M107012 | P2698 | `Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.ThresholdArguments.DenseThresholdCases.TWDAway` | volunteer-build-reviewed |
@@ -397,8 +402,3 @@
 | M107482 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CharFil` | volunteer-build-reviewed |
 | M107483 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartChange` | volunteer-build-reviewed |
 | M107484 | P1892 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartCount` | volunteer-build-reviewed |
-| M107485 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartGraded` | volunteer-build-reviewed |
-| M107486 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.ChartSpan` | volunteer-build-reviewed |
-| M107487 | P1233 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CocycleTransportH1fSurjective` | volunteer-build-reviewed |
-| M107488 | P1870 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CommutingUpperTriangularDistinct` | volunteer-build-reviewed |
-| M107489 | P1261 | `Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CompKer` | volunteer-build-reviewed |

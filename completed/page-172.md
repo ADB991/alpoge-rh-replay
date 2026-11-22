@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M115827 | P0367 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Comparison` | wave-reused |
+| M115828 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.CrisTheta` | wave-reused |
+| M115829 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRham` | wave-reused |
+| M115830 | P0318 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamLog` | wave-reused |
+| M115831 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamMap` | wave-reused |
+| M115832 | P0263 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Embedding` | wave-reused |
+| M115833 | P0136 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Envelope` | wave-reused |
 | M115834 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.EqZeroOfPMulEqZero` | wave-reused |
 | M115835 | P0264 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.ExistsFactorialMulEqPow` | wave-reused |
 | M115836 | P0203 | `Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Kernel` | wave-reused |
@@ -395,10 +402,3 @@
 | M116415 | P2700 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsFlatUnitSection` | volunteer-build-reviewed |
 | M116417 | P2470 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsGoodCoverAtMinimalLevel` | volunteer-build-reviewed |
 | M116419 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsKodairaSpencerComparisonLogPole` | volunteer-build-reviewed |
-| M116420 | P2382 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsKodairaSpencerFlagTangent` | volunteer-build-reviewed |
-| M116421 | P2572 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsLiftAtDefiniteBadPlaces` | volunteer-build-reviewed |
-| M116422 | P2526 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsModelOfImage` | volunteer-build-reviewed |
-| M116423 | P2621 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsNefModelOfImage` | volunteer-build-reviewed |
-| M116424 | P2708 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsNonzeroSectionWeightBound` | volunteer-build-reviewed |
-| M116425 | P2708 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsPowMulMemCuspFormsOfWeightMatch` | volunteer-build-reviewed |
-| M116426 | P2499 | `Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.ExistsPowMulUnitMemCusp` | volunteer-build-reviewed |

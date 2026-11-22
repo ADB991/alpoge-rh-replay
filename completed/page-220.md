@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M147333 | P0502 | `Formalism.JacobiWeightFamilies.LFunctionOnePositive` | build-observed |
+| M147334 | P0421 | `Formalism.JacobiWeightFamilies.Statement` | build-observed |
+| M147335 | P0069 | `Formalism.JacquetSubsetSums.JacquetSubsetSum` | build-observed |
+| M147336 | P0461 | `Formalism.JacquetSubsetSums.SeparationTR` | build-observed |
+| M147337 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.CokerTors` | wave-reused |
+| M147338 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColThmC` | wave-reused |
+| M147339 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ColumnDegreeBound` | wave-reused |
+| M147340 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.DetLen` | wave-reused |
 | M147341 | P0327 | `Formalism.JumpKernelCokernel.JumpShiftProofs.ExpRowD` | wave-reused |
 | M147342 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.FiltrationExponentHolds` | wave-reused |
 | M147343 | P0273 | `Formalism.JumpKernelCokernel.JumpShiftProofs.HCoefLim` | wave-reused |
@@ -394,11 +402,3 @@
 | M147770 | P0938 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationEval` | build-observed |
 | M147771 | P1021 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroMultiplicationPair` | build-observed |
 | M147772 | P0994 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroRestrictPoints` | build-observed |
-| M147773 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.ConstantZeroSecondCoordinate` | build-observed |
-| M147774 | P0802 | `Formalism.LocalToGlobal.CharacterGerms.ContentLargeFromSupplies` | build-observed |
-| M147775 | P0421 | `Formalism.LocalToGlobal.CharacterGerms.ContentZeroAt` | wave-reused |
-| M147776 | P1293 | `Formalism.LocalToGlobal.CharacterGerms.CoordinateChangeComp1IntertwinesAction` | wave-reused |
-| M147777 | P0910 | `Formalism.LocalToGlobal.CharacterGerms.CoordinatePointConstantCoeff` | build-observed |
-| M147778 | P0149 | `Formalism.LocalToGlobal.CharacterGerms.DetNeZeroOfChars` | volunteer-build-reviewed |
-| M147779 | P0695 | `Formalism.LocalToGlobal.CharacterGerms.EndomorphismLimitIntegral` | wave-reused |
-| M147780 | P0070 | `Formalism.LocalToGlobal.CharacterGerms.ExistsStrictMonoMinor` | wave-reused |

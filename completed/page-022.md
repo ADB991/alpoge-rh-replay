@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M014111 | P1301 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TraitSectionBasisDescendsFiniteDvrExtensionStatement` | build-observed |
 | M014113 | P1534 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TripleStOfLaws` | build-observed |
 | M014116 | P0811 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTerms` | build-observed |
 | M014120 | P0866 | `Development.AbelianVarietyTheory.Proofs.DegenerationProofs.TwistTxEvEqMapArc` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M015001 | P0241 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceClosedUnderConjReflectionStatement` | volunteer-build-reviewed |
 | M015002 | P2094 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensors` | volunteer-build-reviewed |
 | M015003 | P2108 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceMemSpanPureTensorsStatement` | volunteer-build-reviewed |
-| M015005 | P2052 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdelicSchwartzSpaceTranslateMemOfMem` | volunteer-build-reviewed |

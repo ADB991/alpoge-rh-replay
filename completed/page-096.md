@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M065797 | P2158 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowShareRequirementClosedFormProof` | volunteer-build-reviewed |
+| M065798 | P2169 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WindowShareRequirementClosedFormProofStatement` | volunteer-build-reviewed |
 | M065802 | P2202 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozen` | volunteer-build-reviewed |
 | M065803 | P2214 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WorkingFamClassCopiesEqFrozenStatement` | volunteer-build-reviewed |
 | M065804 | P1037 | `Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.WtBoundsOfNonneg` | build-observed |
@@ -400,5 +402,3 @@
 | M066439 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsHomDivMulRefine` | volunteer-build-reviewed |
 | M066440 | P0190 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIntegralModelOfForms` | build-observed |
 | M066441 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsIsKroneckerCharOfDiscr` | wave-reused |
-| M066442 | P0029 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsLineOfAddAddEqZero` | build-observed |
-| M066444 | P0252 | `Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.ExistsNeZeroIsStandardSmoothOfRelativeDimension` | wave-reused |

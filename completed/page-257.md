@@ -2,6 +2,15 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M166137 | P0752 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedExcResidueExists` | build-observed |
+| M166140 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualStackedGraphHorizontal` | build-observed |
+| M166154 | P0544 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopLatticeChange` | build-observed |
+| M166156 | P0806 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PDualTopSimpleStacked` | build-observed |
+| M166161 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsConjInvariant` | volunteer-build-reviewed |
+| M166164 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PFsLineSmooth` | volunteer-build-reviewed |
+| M166165 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussConstant` | volunteer-build-reviewed |
+| M166166 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDetFactor` | volunteer-build-reviewed |
+| M166167 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussDualMin` | volunteer-build-reviewed |
 | M166168 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussFourierSelf` | volunteer-build-reviewed |
 | M166169 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCoords` | volunteer-build-reviewed |
 | M166170 | P0229 | `GroundTheory.HeightsAndTheta.Heights.HeightKernels.PGaussLatticeCovolume` | volunteer-build-reviewed |
@@ -393,12 +402,3 @@
 | M166980 | P0727 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartPrimePowerInverse` | build-observed |
 | M166981 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsChartSup` | volunteer-build-reviewed |
 | M166982 | P0385 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsClopenComponents` | volunteer-build-reviewed |
-| M166983 | P0338 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsClopenDegree` | volunteer-build-reviewed |
-| M166988 | P0230 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexFormsOnPoints` | volunteer-build-reviewed |
-| M166990 | P0084 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexMinimalPrimesContract` | volunteer-build-reviewed |
-| M166991 | P0165 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComplexTaylor` | volunteer-build-reviewed |
-| M166992 | P0429 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentDegree` | volunteer-build-reviewed |
-| M166993 | P0806 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResBadNull` | build-observed |
-| M166995 | P0834 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResFibreSum` | build-observed |
-| M166996 | P0779 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentResInt` | build-observed |
-| M166997 | P0429 | `GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsComponentsAdditive` | volunteer-build-reviewed |

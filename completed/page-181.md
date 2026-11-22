@@ -2,6 +2,13 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M120158 | P0825 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FieldExtensionIntersectionInvarianceStatement` | build-observed |
+| M120161 | P1234 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffine` | build-observed |
+| M120162 | P1262 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFlatLocallyFreeAffineStatement` | build-observed |
+| M120165 | P0059 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreeHom` | volunteer-build-reviewed |
+| M120166 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffine` | build-observed |
+| M120167 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteFreePullbackAffineStatement` | build-observed |
+| M120168 | P0137 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlat` | volunteer-build-reviewed |
 | M120169 | P0204 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FinitePresentationOfFaithfullyFlatStatement` | volunteer-build-reviewed |
 | M120170 | P0905 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffine` | build-observed |
 | M120171 | P0933 | `Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FiniteSetBasicOpenAffineStatement` | build-observed |
@@ -395,10 +402,3 @@
 | M120847 | P2385 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterion` | volunteer-build-reviewed |
 | M120848 | P2414 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineIdealLocusCriterionStatement` | volunteer-build-reviewed |
 | M120849 | P0562 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineOpenFiniteType` | volunteer-build-reviewed |
-| M120851 | P1159 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturality` | wave-reused |
-| M120852 | P1183 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineRestrictionFunctionsNaturalityStatement` | wave-reused |
-| M120853 | P1826 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineSmoothFormsBijective` | volunteer-build-reviewed |
-| M120854 | P1849 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AffineSmoothFormsBijectiveStatement` | volunteer-build-reviewed |
-| M120855 | P0137 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AicValOfIsColim` | volunteer-build-reviewed |
-| M120858 | P0493 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapConeRing` | build-observed |
-| M120859 | P1894 | `Development.AutomorphicSpectrum.Proofs.BlockDecomposition.AlgebraMapHalfTr` | volunteer-build-reviewed |

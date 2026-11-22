@@ -2,6 +2,8 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M062957 | P1035 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelNFunctionGaloisConjQExpansionStatement` | wave-reused |
+| M062958 | P0118 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBound` | volunteer-build-reviewed |
 | M062959 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LevelOneTwelveMulFinrankModularFormLowerBoundStatement` | volunteer-build-reviewed |
 | M062962 | P2566 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LimitOfApproximateCocyclesStatement` | volunteer-build-reviewed |
 | M062966 | P0188 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.LineFunctionalEqPeriodMul` | volunteer-build-reviewed |
@@ -400,5 +402,3 @@
 | M063530 | P0684 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionHeckeUEqSumSlashStatement` | wave-reused |
 | M063531 | P0587 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuous` | wave-reused |
 | M063532 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QExpansionPolyGrowthSummableContinuousStatement` | wave-reused |
-| M063535 | P0621 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOne` | wave-reused |
-| M063536 | P0710 | `Development.AbelianVarietyTheory.Proofs.FoundationProofs.QsBddAboveOneStatement` | wave-reused |

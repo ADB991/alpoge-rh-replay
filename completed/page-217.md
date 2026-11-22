@@ -2,6 +2,14 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M145155 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.KapBoundProof` | wave-reused |
+| M145156 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.LemmaCVal` | wave-reused |
+| M145157 | P0326 | `Formalism.GaussValuationBounds.GaussValueContraction.PhiIterXProof` | wave-reused |
+| M145158 | P0272 | `Formalism.GaussValuationBounds.GaussValueContraction.ScaledPowMemSpanCeil` | wave-reused |
+| M145159 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.SigBound` | wave-reused |
+| M145160 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.TruncationExponentBounds` | wave-reused |
+| M145161 | P0212 | `Formalism.GaussValuationBounds.GaussValueContraction.WStepContract` | wave-reused |
+| M145162 | P0212 | `Formalism.GaussValuationBounds.KapBound3` | wave-reused |
 | M145163 | P0374 | `Formalism.GaussValuationBounds.NokLemmaCVal` | wave-reused |
 | M145164 | P0147 | `Formalism.GaussValuationBounds.Statement` | wave-reused |
 | M145165 | P0069 | `Formalism.GelfandTransference.EnergyIdentity` | wave-reused |
@@ -394,11 +402,3 @@
 | M145691 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTConnGaugeB` | wave-reused |
 | M145695 | P0966 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTKLineCut` | build-observed |
 | M145710 | P1318 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTRTrans` | wave-reused |
-| M145714 | P1211 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSConst` | wave-reused |
-| M145715 | P0884 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSCut` | wave-reused |
-| M145723 | P1186 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTSSTr` | wave-reused |
-| M145724 | P0829 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferCut` | wave-reused |
-| M145725 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferFn` | wave-reused |
-| M145726 | P1162 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGenTransferKAsm` | wave-reused |
-| M145728 | P0993 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLAtMost` | build-observed |
-| M145730 | P1020 | `Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreKLExistsOf` | build-observed |

@@ -2,6 +2,11 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M098110 | P2116 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInBasisIntegralAtConjugatePlaceStatement` | volunteer-build-reviewed |
+| M098112 | P2102 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryInductionOnSplitPlaceSupportStatement` | volunteer-build-reviewed |
+| M098117 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjoint` | build-observed |
+| M098118 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCellsDisjointStatement` | build-observed |
+| M098119 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExists` | build-observed |
 | M098120 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryIwasawaCosetSurjOfLeviElementExistsStatement` | build-observed |
 | M098123 | P0712 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeries` | build-observed |
 | M098124 | P0740 | `Development.AbelianVarietyTheory.Proofs.TwistedOperators.UnitaryLeviSummationGeometricSeriesStatement` | build-observed |
@@ -397,8 +402,3 @@
 | M098705 | P1206 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsHomOfVeryAmpleBy` | build-observed |
 | M098706 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIndepCoords` | volunteer-build-reviewed |
 | M098707 | P1576 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSections` | build-observed |
-| M098708 | P1602 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsInducedTranslationFrobeniusOnSectionsStatement` | build-observed |
-| M098709 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroup` | volunteer-build-reviewed |
-| M098710 | P1044 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralAdditionFormulaGroupStatement` | wave-reused |
-| M098712 | P1016 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanGenerateValuationRingsStatement` | volunteer-build-reviewed |
-| M098713 | P0960 | `Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ExistsIntegralFamiliesSpanPullDegeneration` | wave-reused |

@@ -2,6 +2,7 @@
 
 | Part ID | Packet | Module | Evidence |
 |---|---|---|---|
+| M044187 | P2797 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequality` | volunteer-build-reviewed |
 | M044188 | P2798 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefHermitianSmallSectionsKeyInequalityStatement` | volunteer-build-reviewed |
 | M044189 | P2791 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedBundleRestrictionToCurves` | volunteer-build-reviewed |
 | M044192 | P2790 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.NefInducedModelDominantWeightStatement` | volunteer-build-reviewed |
@@ -401,4 +402,3 @@
 | M044889 | P0619 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneFormsTwoCocycleCoboundaryOfRestrictStatement` | wave-reused |
 | M044890 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeDimAt` | volunteer-build-reviewed |
 | M044892 | P2293 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeIntersectionNumberSubvarietyThroughPositive` | volunteer-build-reviewed |
-| M044894 | P0019 | `Development.AbelianVarietyTheory.Proofs.DivisorProofs.OneLeNormMulPowIdeal` | volunteer-build-reviewed |
