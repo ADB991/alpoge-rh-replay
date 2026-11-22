@@ -1,6 +1,6 @@
 --- a/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/NormIteratedFDerivPdLe.lean
 +++ b/src/Development/AbelianVarietyTheory/Proofs/DivisorProofs/NormIteratedFDerivPdLe.lean
-@@ -138,7 +138,7 @@ theorem seminorm_slice_taylor_le (V : Type) [NormedAddCommGroup V] [NormedSpace
+@@ -138,7 +138,7 @@
          gcongr
          refine (ContinuousMultilinearMap.norm_compContinuousLinearMap_le _ _).trans ?_
          refine mul_le_of_le_one_right (norm_nonneg _) ?_

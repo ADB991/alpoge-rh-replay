@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormRootLeCardMulBoundOfEsymmNormLeStatement",
+  "source_sha256": "203c2550bc13591ee886cb3ab3a29d7c223aae7f4bc7ddf38f38ec36a4656f50",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0184-lean436-20261122/P0184-receipt.json"
+}

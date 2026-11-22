@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.MvPolynomialEqZeroOfVanishSkewHermitianStatement",
+  "source_sha256": "92a9da6abc9068487c7d1ced5e4386f0ac1b5de0d13a1c0aa3f0a6761eb4a716",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0184-lean436-20261122/P0184-receipt.json"
+}

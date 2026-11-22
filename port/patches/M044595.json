@@ -1,0 +1,8 @@
+{
+  "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormSqMulExpNegTraceLeStatement",
+  "source_sha256": "25a47f774a2cf0a0658daaa2cad70ff974b06c29006d70c5781825115fb0264a",
+  "lean": "leanprover/lean4:v4.36.0",
+  "mathlib": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "notes": "unchanged",
+  "evidence": "https://github.com/jasonyandell/alpoge-rh-replay/releases/download/port-P0184-lean436-20261122/P0184-receipt.json"
+}
